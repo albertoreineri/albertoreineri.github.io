@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AlbyNotes - Your notes everywhere</title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+      integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css"
+    />
+    <link
+      href="https://cdn.quilljs.com/1.3.6/quill.snow.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="//cdn.quilljs.com/1.3.6/quill.bubble.css" />
+    <link rel="icon" href="assets/icon.png" type="image/png" />
+
+    <link rel="stylesheet" href="assets/style.css" />
+  </head>
+
+  <body>
+    <div class="tags-section">
+      <div class="tags-section-content">
+        <div class="close-tags-section">
+          <i class="fas fa-times"></i>
+        </div>
+        <div class="tags-menu">
+          <div class="tag-notes">
+            <i class="far fa-copy"></i>
+            All notes
+          </div>
+          <div class="tag-trash">
+            <i class="far fa-trash-alt"></i>
+            Trash
+          </div>
+        </div>
+        <!--
+            <div class="nav-tags">
+            <h4 class="mb-3">TAGS</h4>
+            <ul>
+                <li>
+                    <a href="#">
+                        All
+                    </a>
+                </li>
+                <li>
+                    Tag 1
+                </li>
+                <li>
+                    Tag 2
+                </li>
+            </ul>
+        </div>-->
+      </div>
+    </div>
+
+    <!-- Container -->
+    <div class="container-fluid h-100">
+      <div class="row header">
+        <!-- Right -->
+        <div class="col-md-4 col-lg-3 navbar-right d-none d-md-inline">
+          <div class="row p-3" style="border-right: 1px solid #e9e9e9">
+            <!-- Hamburger -->
+            <div class="col-2 my-auto text-center">
+              <a href="#">
+                <i class="fas fa-bars"></i>
+              </a>
+            </div>
+            <!-- Search -->
+            <div class="col-8 my-auto text-center">
+              <div class="active-cyan-4">
+                <input
+                  class="form-control"
+                  autocomplete="off"
+                  id="input-search"
+                  type="text"
+                  placeholder="Search"
+                  aria-label="Search"
+                />
+              </div>
+            </div>
+            <!-- Plus -->
+            <div class="col-2 my-auto text-center">
+              <i class="fas fa-plus" onclick="newNote()"></i>
+            </div>
+          </div>
+        </div>
+        <!-- /Right -->
+        <!-- Left -->
+        <div class="col-md-8 col-lg-9 navbar-left my-auto nav-note">
+          <!-- Focus mode -->
+          <div class="focus-mode">
+            <a href="#">
+              <i
+                class="focus-mode-icon fas fa-caret-square-left"
+                id="focus-mode-icon"
+              ></i>
+            </a>
+          </div>
+          <!-- Menu left -->
+          <div class="menu-left">
+            <div class="note-menu">
+              <a href="#">
+                <i id="dark-mode" class="far fa-moon"></i>
+              </a>
+              <a href="#">
+                <i class="fas fa-trash-alt" onclick="trashData()"></i>
+              </a>
+              <a href="#">
+                <i class="fas fa-info-circle"></i>
+              </a>
+            </div>
+
+            <div class="menu-delete">
+              <span class="delete-forever"> Delete Forever </span>
+              <span class="restore-note"> Restore Note </span>
+            </div>
+          </div>
+        </div>
+        <!-- /Left -->
+      </div>
+
+      <div class="info-box">
+        <p class="info-box-p">Open a note to see the info</p>
+      </div>
+
+      <div class="row content">
+        <!-- Sidebar -->
+        <div class="col-md-4 col-lg-3 right-column d-none d-md-inline">
+          <!-- List -->
+          <div class="row flex-fill p-0 m-0">
+            <div
+              class="col-12 note-list mh-100"
+              style="overflow-y: scroll"
+            ></div>
+          </div>
+          <!-- /List -->
+        </div>
+        <!-- /Sidebar -->
+        <!-- Note -->
+        <div class="col-md-8 col-lg-9 left-column h-100">
+          <!-- List -->
+          <div class="row flex-fill p-3 h-100">
+            <div
+              class="col-12 note-detail"
+              style="overflow-y: scroll; height: 100%"
+            >
+              <input type="hidden" id="current_note_id" value="" />
+              <input type="hidden" id="note_created_at" value="" />
+              <input type="hidden" id="note_updated_at" value="" />
+              <input
+                type="text"
+                class="form-control"
+                placeholder="Title..."
+                aria-label="title"
+                id="title"
+                autocomplete="off"
+              />
+              <div id="editor"></div>
+            </div>
+            <!--
+                    <div class="in-detail-tags">
+                    http://sliptree.github.io/bootstrap-tokenfield/
+                    <input type="text" class="form-control" id="tokenfield" value="red,green,blue" />
+
+                        <span class="single-tag">
+                            Generale
+                        </span>
+                        <span class="add-tag">
+                            Add tag...
+                        </span>
+                    </div>-->
+          </div>
+          <!-- /List -->
+        </div>
+
+        <!-- /Note -->
+      </div>
+    </div>
+    <!-- /Container -->
+
+    <!-- Scripts -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+      integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+      crossorigin="anonymous"
+    ></script>
+    <!--<script src="/node_modules/@ckeditor/ckeditor5-build-balloon/build/ckeditor.js"></script>-->
+    <script src="https://cdn.quilljs.com/1.3.6/quill.js"></script>
+    <script src="assets/main.js"></script>
+    <script src="app.js"></script>
+
+    <script>
+      $(document).ready(function() {
+          var user_id = <?php echo $_SESSION['id']; ?>;
+          localStorage.setItem('user_id', user_id);
+      });
+
+      var toolbarOptions = [
+          ['bold', 'italic', 'underline', 'strike'], // toggled buttons
+          ['blockquote', 'code-block'],
+
+          [{
+              'header': 1
+          }, {
+              'header': 2
+          }], // custom button values
+          [{
+              'list': 'ordered'
+          }, {
+              'list': 'bullet'
+          }],
+          /*[{
+              'script': 'sub'
+          }, {
+              'script': 'super'
+          }], // superscript/subscript*/
+          [{
+              'indent': '-1'
+          }, {
+              'indent': '+1'
+          }], // outdent/indent
+          /*[{
+              'direction': 'rtl'
+          }], // text direction*/
+
+          /*[{
+              'size': ['small', false, 'large', 'huge']
+          }], // custom dropdown
+          [{
+              'header': [1, 2, 3, 4, 5, 6, false]
+          }],*/
+
+          /*[{
+                  'color': []
+              }, {
+                  'background': []
+              }], // dropdown with defaults from theme
+              [{
+                  'font': []
+              }],*/
+          [{
+              'align': []
+          }],
+          ['link', ], // add's image support
+
+          /*
+                      ['clean'] // remove formatting button*/
+      ];
+      var quill = new Quill('#editor', {
+          theme: 'bubble', // Specify theme in configuration
+          bounds: '#editor',
+          modules: {
+              toolbar: toolbarOptions,
+              clipboard: {
+          matchVisual: false
+      }
+          }
+      });
+      quill.enable(false)
+    </script>
+  </body>
+</html>
