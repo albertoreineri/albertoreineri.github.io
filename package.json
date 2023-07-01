@@ -1,0 +1,35 @@
+{
+  "name": "albertoreineri.github.io",
+  "version": "1.0.0",
+  "description": "Alberto Reineri Developer Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertoreineri/albertoreineri.github.io.git"
+  },
+  "author": "Alberto Reineri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertoreineri/albertoreineri.github.io/issues"
+  },
+  "homepage": "https://github.com/albertoreineri/albertoreineri.github.io#readme",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "gulp": "^4.0.2",
+    "gulp-changed": "^4.0.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-file-include": "^2.3.0",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-imagemin": "^8.0.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-sequence": "^1.0.0"
+  },
+  "dependencies": {
+    "gulp-include": "^2.4.1",
+    "gulp-minify-css": "^1.2.4",
+    "run-sequence": "^2.2.1"
+  }
+}
