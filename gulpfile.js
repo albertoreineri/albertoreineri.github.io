@@ -57,7 +57,9 @@ async function includeHTML() {
   return gulp.src([
     './src/*.html',
     '!./src/header.html', // ignore
-    '!./src/footer.html' // ignore
+    '!./src/footer.html', // ignore
+    '!./src/firma.html', // ignore
+    '!./src/sidebar.html' // ignore
   ])
     .pipe(fileinclude({
       prefix: '@@',
