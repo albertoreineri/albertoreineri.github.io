@@ -8,7 +8,7 @@ const minifyCSS = require('gulp-minify-css');
 
 const paths = {
   scripts: {
-    src: './src/',
+    src: './src/assets/',
     dest: './build/'
   }
 };
@@ -18,24 +18,29 @@ async function reload() {
   server.reload();
 }
 
-// Copy assets after build
-async function copyAssets() {
-  gulp.src(['./src/images/*'])
-    .pipe(gulp.dest('./build/images'));
+// Copy images after build
+async function copyImages() {
+  gulp.src(['./src/assets/img/*'])
+    .pipe(gulp.dest('./build/assets/img'));
+}
+// Copy fonts after build
+async function copyFonts() {
+  gulp.src(['./src/assets/fonts/**/*'])
+    .pipe(gulp.dest('./build/assets/fonts'));
 }
 // Concat & Minify JavaScript
 async function jsTask() {
-  gulp.src('./src/js/*.js')
+  gulp.src('./src/assets/js/*.js')
     .pipe(concat('main.js'))
     .pipe(minify()) //if we want to minify the javascript files
-    .pipe(gulp.dest('./build/js'))
+    .pipe(gulp.dest('./build/assets/js'))
 }
 //CSS
 async function cssTask() {
-  gulp.src('./src/css/*.css')
+  gulp.src('./src/assets/css/*.css')
     .pipe(concat('styles.min.css'))
     .pipe(minifyCSS()) //if we want to minify the javascript files
-    .pipe(gulp.dest('./build/css'))
+    .pipe(gulp.dest('./build/assets/css'))
 }
 
 // Build files html and reload server
@@ -43,7 +48,8 @@ async function buildAndReload() {
   await includeHTML();
   await jsTask();
   await cssTask();
-  await copyAssets();
+  await copyImages();
+  await copyFonts();
   reload();
 }
 
@@ -71,7 +77,7 @@ exports.default = async function () {
   // Build and reload at the first time
   buildAndReload();
   // Watch task
-  watch(["./src/*.html", "assets/**/*"], series(buildAndReload));
+  watch(["./src/*.html", "./src/**/*"], series(buildAndReload));
 };
 
 
