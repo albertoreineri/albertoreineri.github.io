@@ -2,15 +2,6 @@
 <html lang="en">
 
 <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131500527-14"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-
-        gtag('config', 'UA-131500527-14');
-    </script>
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,7 +9,7 @@
     <title>It's Fart Time</title>
     <meta name="author" content="Alberto Reineri Web Designer & Developer">
     <link rel="icon" href="./assets/images/fartsmoke.png" type="image/png" />
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Pangolin">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Pangolin">
     <link rel="stylesheet"
         href="https://use.fontawesome.com/releases/v5.12.1/css/all.css?ver=01e35d78885ea60c37440866fef14c15">
     <!-- Bootstrap CSS -->
@@ -42,7 +33,7 @@
         function controlfartsound() {
             fartsound = localStorage.getItem("fartsound");
             if (fartsound == "TRUE") {
-                playAudio();
+                // playAudio();
             }
         }
     </script>
@@ -85,12 +76,6 @@
             integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous">
             </script>
         <script src="./assets/js/bootstrap.min.js"></script>
-        <script src="https://unpkg.com/swup@latest/dist/swup.min.js"></script>
-
-        <script>
-
-
-        </script>
 
         <script language="javascript" type="text/javascript">
             function setSound(sound) {
@@ -146,8 +131,6 @@
                     }
                 }, 1000);
             }
-
-            const swup = new Swup(); // only this line when included with script tag
 
         </script>
 
