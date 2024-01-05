@@ -1,0 +1,32 @@
+- id: home
+  translation: Home
+
+- id: read_more
+  translation: Leggi »
+
+- id: send
+  translation: Send
+
+- id: related_posts
+  translation: Articoli Correlati
+
+- id: categories
+  translation: Categorie
+
+- id: tags
+  translation: Tags
+
+- id: toc
+  translation: Table of Contents
+
+- id: share
+  translation: Condividi
+
+- id: search_input_placeholder
+  translation: Cerca Articolo ...
+
+- id: no_results_for
+  translation: Nessun risultato per ...
+
+- id: empty_search_results_placeholder
+  translation: Scrivi cosa vuoi cercare ...
