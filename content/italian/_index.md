@@ -3,7 +3,7 @@
 banner:
   title: "Ciao, benvenuto sul mio sito!"
   content: "Mi chiamo Alberto, lavoro come Sviluppatore Web e amo la natura e la montagna. <br>
-  Per lavoro gestisco un'attività che <a href='https://reineristudio.com' target='_blank' title='Reineri Studio'>aiuto piccole e medie imprese</a> a creare una solida presenza online e <a href='https://albertoreineri.github.io/freelance' title='Alberto Reineri Freelance' target='_blank'>collaboro con Web Agency e Software House come Freelance</a>.<br>
+  Per lavoro gestisco un'attività che <a href='https://reineristudio.com' target='_blank' title='Reineri Studio'>aiuta piccole e medie imprese</a> a creare una solida presenza online e <a href='https://albertoreineri.github.io/freelance' title='Alberto Reineri Freelance' target='_blank'>collaboro con Web Agency e Software House come Freelance</a>.<br>
   Nel tempo libero amo <a href='/racconti' title='Blog'>scrivere</a>, <a href='/musica' title='Musica'>suonare</a>, curare i miei boschi e <a href='/sculture' title='Sculture'>intagliare il legno</a>.
   <br>
   In questo spazio digitale convergono tutte le mie passioni, un raccolto virtuale delle sfumature che compongono la mia vita creativa e personale.
