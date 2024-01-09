@@ -12,7 +12,7 @@ banner:
   button:
     enable: true
     label: "Scopri di più"
-    link: "#scopri"
+    link: "#scopri" 
 
 # Features
 features:
