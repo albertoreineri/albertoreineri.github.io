@@ -28,3 +28,9 @@
 
 @import "module-overrides";
 @import "custom";
+
+.section-blog .img{
+  height: 250px;
+  width: 500px;
+  object-fit: cover;
+}

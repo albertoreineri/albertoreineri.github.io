@@ -58,11 +58,6 @@ url = "chi-sono/"
 weight = 1
 
 [[footer]]
-name = "Web Design"
-url = "https://reineristudio.com/"
-weight = 2
-
-[[footer]]
 name = "Sculture"
 url = "sculture/"
 weight = 3
@@ -78,7 +73,11 @@ url = "racconti/"
 weight = 5
 
 [[footer]]
-name = "Contatti"
-url = "contatti/"
+name = "Servizi Web"
+url = "https://reineristudio.com/"
 weight = 6
 
+[[footer]]
+name = "Contatti"
+url = "contatti/"
+weight = 7
