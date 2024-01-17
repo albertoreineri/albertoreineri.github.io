@@ -183,14 +183,20 @@ AOS.init({
 
 				var comma_separator_number_step = $.animateNumber.numberStepFactories.separator(',')
 				$('.number').each(function () {
+					// var $this = $(this),
+					// 	num = $this.data('number');
+					// console.log(num);
+					var currentYear = new Date().getFullYear()  // returns the current year
+					var number = currentYear - 2010;
+
+					// alert(number);
 					var $this = $(this),
-						num = $this.data('number');
-					console.log(num);
+						num = number;
 					$this.animateNumber(
 						{
 							number: num,
 							numberStep: comma_separator_number_step
-						}, 7000
+						}, 3000
 					);
 				});
 
