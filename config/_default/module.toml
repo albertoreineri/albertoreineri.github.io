@@ -1,0 +1,5 @@
+[[imports]]
+    path = "github.com/gethugothemes/hugo-modules/gallery-slider"
+
+[[imports]]
+    path = 'github.com/hugomods/search'

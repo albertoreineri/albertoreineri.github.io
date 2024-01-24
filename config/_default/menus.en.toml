@@ -1,0 +1,35 @@
+[[main]]
+name = "About"
+url = "en/about/"
+weight = 10
+
+[[main]]
+name = "Services"
+url = "en/services/"
+weight = 11
+
+[[main]]
+name = "Portfolio"
+url = "en/portfolio/"
+weight = 12
+
+[[main]]
+name = "Blog"
+url = "en/blog/"
+weight = 30
+
+[[main]]
+name = "Contact"
+url = "en/contact/"
+weight = 40
+
+
+[[footer]]
+name = "Privacy Policy"
+url = "en/privacy-policy/"
+weight = 10
+
+# [[footer]]
+# name = "Extra"
+# url = "en/extra/"
+# weight = 20
