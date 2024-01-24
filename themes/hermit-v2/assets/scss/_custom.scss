@@ -1163,10 +1163,14 @@ input::placeholder {
 }
 
 .search-modal-toggle {
-  margin-right: -15px !important;
-  margin-left: 15px !important;
+  margin-right: -17px !important;
+  margin-left: 10px !important;
   z-index: 9999999;
   position: relative;
+  @media (max-width: 576px) {
+    margin-right: -25px !important;
+    margin-left: 0 !important;
+  }
 }
 
 #home-social {
