@@ -9,7 +9,7 @@
 		</div>
 		<div class="hdr-right hdr-icons">
 			{{ range $.Translations }}
-			<a title="{{ .Language.LanguageName }}" href="{{ .Permalink }}">
+			<a title="{{ .Language.LanguageName }}" href="{{ .Permalink }}" style="margin-right:10px">
 				{{- partial "svg.html" (dict "context" . "name" .Site.Params.flagIcon) -}}
 			</a>
 			{{ end }}
