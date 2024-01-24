@@ -1,0 +1,61 @@
+{{ define "header" }}
+{{ partialCached "header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+<main class="site-main section-inner thin animated fadeIn faster">
+	<h1>Blog</h1>
+
+	<div class="content argomenti">
+		<h3>Categorie:</h3>
+		<ul class="text-center">
+			{{/* categories */}}
+			{{ range site.Taxonomies.categories.ByCount }}
+			<li class="m-3 inline-block">
+				<a href="{{ .Page.Permalink }}"
+					class="bg-theme-light text-dark dark:bg-darkmode-theme-light dark:text-darkmode-dark block rounded px-4 py-2 text-xl">
+					{{ .Page.Title }}
+					<span class="bg-body dark:bg-darkmode-body ml-2 rounded px-2">
+						({{ .Count }})
+					</span>
+				</a>
+			</li>
+			{{ end }}
+			{{/* tags */}}
+			{{ if eq .Permalink (`tags/` | absLangURL) }}
+			{{ range site.Taxonomies.tags.ByCount }}
+			<li class="m-3 inline-block">
+				<a href="{{ .Page.Permalink }}"
+					class="bg-theme-light text-dark dark:bg-darkmode-theme-light dark:text-darkmode-dark block rounded px-4 py-2 text-xl">
+					{{ .Page.Title }}
+					<span class="bg-body dark:bg-darkmode-body ml-2 rounded px-2">
+						{{ .Count }}
+					</span>
+				</a>
+			</li>
+			{{ end }}
+			{{ end }}
+		</ul>
+	</div>
+
+	{{- range .Data.Pages.GroupByDate "2006" }}
+	<div class="posts-group">
+		<div class="post-year" id="{{ .Key }}">{{ .Key }}</div>
+		<ul class="posts-list">
+			{{- range .Pages }}
+			<li class="post-item">
+				<a href="{{.Permalink}}">
+					<span class="post-title">{{.Title}}</span>
+					<span class="post-day">{{ .Date.Format .Site.Params.dateformShort }}</span>
+				</a>
+			</li>
+			{{- end }}
+		</ul>
+	</div>
+	{{- end }}
+</main>
+{{ end }}
+
+{{ define "footer" }}
+{{ partialCached "footer.html" . }}
+{{ end }}

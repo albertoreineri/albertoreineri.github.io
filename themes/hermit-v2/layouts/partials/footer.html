@@ -1,0 +1,22 @@
+<footer id="site-footer" class="section-inner thin animated fadeIn faster">
+	<p>
+		&copy; {{ now.Format "2006" }} <a href="{{ .Site.BaseURL }}">{{ .Site.Params.author.name }}</a>
+		{{/* &#183; {{ .Site.Params.footerCopyright | safeHTML }} */}}
+		{{/* &#183; Made with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> */}}
+		{{/* &#183; Theme <a href="https://github.com/1bl4z3r/hermit-V2" target="_blank" rel="noopener">Hermit-V2</a>
+		*/}}
+		{{/* &#183; <a href="/privacy-policy" target="_blank" rel="noopener">Privacy Policy</a> */}}
+		{{/*{{- with (not (in (.Site.Language.Get "disableKinds") "RSS")) }}*/}}
+		&#183; <a href="{{ "index.xml" | absLangURL }}" target="_blank" title="rss">{{ partial "svg.html" (dict
+			"context" . "name" "rss") }}</a>
+		&#183; {{ i18n "partita_iva" . }} 03888370040
+					{{/*{{ end }}*/}}
+		{{/*  &#183; <a href="/privacy-policy" target="_blank" title="Privacy">Privacy Policy</a>
+		&#183; <a href="/extra" target="_blank" title="Privacy"><i>Extra</i></a>  */}}
+		{{- range .Site.Menus.footer -}}
+		&#183; <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>&nbsp;
+		{{- end -}}
+	</p>
+
+
+</footer>

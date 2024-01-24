@@ -1,0 +1,48 @@
+<header id="site-header" class="animated slideInUp">
+	<div class="hdr-wrapper section-inner">
+		<div class="hdr-left">
+			<div class="site-branding">
+				<a href="{{ site.Home.Permalink }}">Home</a>
+			</div>
+
+			<nav class="site-nav hide-in-mobile">{{- partialCached "menu.html" . -}}</nav>
+		</div>
+		<div class="hdr-right hdr-icons">
+			{{ range $.Translations }}
+			<a title="{{ .Language.LanguageName }}" href="{{ .Permalink }}">
+				{{- partial "svg.html" (dict "context" . "name" .Site.Params.flagIcon) -}}
+			</a>
+			{{ end }}
+			<button class="search-modal-toggle">
+				<svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<circle cx="6.5" cy="6.5" r="5.5" stroke="white" stroke-width="2" />
+					<line x1="9.70711" y1="10.2929" x2="15.7071" y2="16.2929" stroke="white" stroke-width="2" />
+				</svg>
+			</button>
+			{{ if (or .Params.images .Params.featuredImg) -}}
+			<button id="img-btn" class="hdr-btn" title="{{i18n " featuredImage"}}">{{- partial "svg.html" (dict
+				"context" . "name" "featuredImg") -}}</button>
+			{{- end }}
+			{{- with .Params.toc -}}
+			<button id="toc-btn" class="hdr-btn desktop-only-ib" title="{{i18n " tableOfContents"}}">{{- partial
+				"svg.html" (dict "context" . "name" "toc") -}}</button>
+			{{- end -}}
+			{{/* {{- with .Site.Params.socialLinks -}}
+			<span class="hdr-social hide-in-mobile">{{- partialCached "social-icons.html" . -}}</span>
+			{{- end -}} */}}
+
+
+			{{- if and (not (eq .Site.Params.shareSocial nil)) (.Site.Params.shareSocial) -}}{{- partial
+			"social-share.html" . -}}{{- end -}}
+			<button id="menu-btn" class="hdr-btn" title="{{i18n " menu"}}">{{- partial "svg.html" (dict "context" .
+				"name" "menuBtn") -}}</button>
+		</div>
+	</div>
+</header>
+<div id="mobile-menu" class="animated fast">
+	<ul>
+		{{- range .Site.Menus.main }}
+		<li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+		{{- end }}
+	</ul>
+</div>

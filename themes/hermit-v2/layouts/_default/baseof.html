@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="{{.Site.LanguageCode}}">
+
+<head>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-9MQ20QPDEM"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'G-9MQ20QPDEM');
+	</script>
+	{{/* <!-- Inizio del frammento di codice HubSpot -->
+	<button type="button" id="hs_show_banner_button" style="background-color: #425b76; border: 1px solid #425b76;
+         border-radius: 3px; padding: 10px 16px; text-decoration: none; color: #fff;
+         font-family: inherit; font-size: inherit; font-weight: normal; line-height: inherit;
+         text-align: left; text-shadow: none;" onClick="(function(){
+    var _hsp = window._hsp = window._hsp || [];
+    _hsp.push(['showBanner']);
+  })()">
+		Impostazioni cookie
+	</button> */}}
+
+	<!-- Fine del frammento di codice HubSpot -->
+	{{/*
+	<link rel="icon" type="image/png" href="/images/logoad.png"> */}}
+	{{ $image := resources.Get "images/logoad.png" }}
+	{{/* <img src="{{ $image.RelPermalink }}" alt="Alberto Reineri" style="max-width: 100px; margin:0 auto" /> */}}
+	<link rel="icon" type="image/png" href="{{ $image.RelPermalink }}" />
+
+	{{ partial "search/assets/css" . }}
+	{{ partial "search/assets/js" . }}
+
+	{{- if .Site.Params.googleTagManager -}}{{- partial "googleTagManager_head.html" . -}}{{- end -}}
+	{{- partial "analytics.html" . -}}
+	{{- partial "site-meta.html" . -}}
+	{{ $author := (.Params.author | default .Site.Params.author.name) -}}
+	<meta name="author" content="{{ $author }}">
+	{{- with .Page.Params.description | default .Site.Params.description -}}
+	<meta name="description" content="{{.}}">{{- end -}}
+	{{- partial "structured-data.html" . -}}
+	<title>{{.Title}}</title>
+	{{ range .AlternativeOutputFormats -}}
+	{{ printf `
+	<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Title | safeHTML }}
+	{{ end -}}
+	{{ $style := resources.Get "scss/style.scss" | resources.ExecuteAsTemplate "css/style.css" . | toCSS | minify |
+	fingerprint -}}
+	<link rel="stylesheet dns-prefetch preconnect preload prefetch" as="style" href="{{ $style.Permalink }}" {{
+		printf "integrity=%q" $style.Data.Integrity | safeHTMLAttr }} crossorigin="anonymous">
+	{{- range .Params.custom_css -}}
+	{{ $c_css := resources.Get . | resources.ExecuteAsTemplate "css/style.css" . | toCSS | minify | fingerprint -}}
+	<link rel="stylesheet preload prefetch" as="style" href="{{ $c_css.Permalink }}" {{ printf "integrity=%q"
+		$c_css.Data.Integrity | safeHTMLAttr }} crossorigin="anonymous">
+	{{- end -}}
+	{{- block "head" . -}}{{- end -}}
+	{{- if templates.Exists "partials/extra-head.html" -}}{{- partial "extra-head.html" . -}}{{- end -}}
+
+
+	{{/*
+	<link rel="stylesheet"
+		href="https://raw.githubusercontent.com/gethugothemes/hugo-modules/master/gallery-slider/assets/plugins/glightbox/glightbox.css">
+	<script
+		src="https://raw.githubusercontent.com/gethugothemes/hugo-modules/master/gallery-slider/assets/plugins/glightbox/glightbox.js"></script>
+	<script
+		src="https://raw.githubusercontent.com/gethugothemes/hugo-modules/master/gallery-slider/assets/js/gallery-slider.js"></script>
+	*/}}
+</head>
+
+<body id="page">
+	{{- if .Site.Params.googleTagManager -}}{{- partial "googleTagManager_body.html" . -}}{{- end -}}
+	{{- block "header" . -}}{{ end -}}
+	{{- block "main" . -}}{{ end -}}
+	{{- block "footer" . -}}{{ end }}
+	{{- partial "scroll-to-top.html" . }}
+	{{- $main := resources.Get "js/main.js" -}}
+	{{- if .Site.Params.code_copy_button | default true -}}
+	{{ $codeCopy := resources.Get "js/code-copy.js" -}}
+	{{ $script := slice $main $codeCopy | resources.Concat "js/bundle.js" | minify | fingerprint -}}
+	<script async src="{{ $script.Permalink }}" {{ printf "integrity=%q" $script.Data.Integrity | safeHTMLAttr }}
+		crossorigin="anonymous"></script>
+	{{- else -}}
+	{{ $script := $main | minify | fingerprint -}}
+	<script async src="{{ $script.Permalink }}" {{ printf "integrity=%q" $script.Data.Integrity | safeHTMLAttr }}
+		crossorigin="anonymous"></script>
+	{{- end -}}
+	{{- if and (not (eq .Site.Params.shareSocial nil)) (.Site.Params.shareSocial) -}}
+	{{ $linkshare := resources.Get "js/link-share.js" | minify | fingerprint -}}
+	<script async src="{{ $linkshare.Permalink }}" {{ printf "integrity=%q" $linkshare.Data.Integrity | safeHTMLAttr }}
+		crossorigin="anonymous"></script>
+	{{- end -}}
+	{{- range .Params.custom_js -}}
+	{{ $c_js := resources.Get . | minify | fingerprint -}}
+	<script defer src="{{ $c_js.Permalink }}" {{ printf "integrity=%q" $c_js.Data.Integrity | safeHTMLAttr }}
+		crossorigin="anonymous"></script>
+	{{- end }}
+	{{- partial "mathjax.html" . -}}
+	{{- if templates.Exists "partials/extra-foot.html" -}}{{- partial "extra-foot.html" . -}}{{- end }}
+</body>
+
+</html>
