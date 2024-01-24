@@ -1,7 +1,7 @@
 ---
 title: "Extra"
 meta_title: "Extra"
-description: "Extra di Alberto Reineri"
+description: "Extra di Alberto Reineri."
 image: "/images/io.webp"
 draft: false
 ---
