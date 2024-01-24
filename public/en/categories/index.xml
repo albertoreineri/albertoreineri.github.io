@@ -1,0 +1,82 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Categories on Alberto Reineri</title>
+		<link>https://albertoreineri.it/en/categories/</link>
+		<description>Recent content in Categories on Alberto Reineri</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en</language>
+		<lastBuildDate>Sat, 20 Jan 2024 05:00:00 +0000</lastBuildDate>
+		<atom:link href="https://albertoreineri.it/en/categories/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Personal</title>
+			<link>https://albertoreineri.it/en/categories/personal/</link>
+			<pubDate>Sat, 20 Jan 2024 05:00:00 +0000</pubDate>
+			
+			<guid>https://albertoreineri.it/en/categories/personal/</guid>
+			<description></description>
+			<content type="html"><![CDATA[]]></content>
+		</item>
+		
+		<item>
+			<title>Web Dev</title>
+			<link>https://albertoreineri.it/en/categories/web-dev/</link>
+			<pubDate>Sat, 20 Jan 2024 05:00:00 +0000</pubDate>
+			
+			<guid>https://albertoreineri.it/en/categories/web-dev/</guid>
+			<description></description>
+			<content type="html"><![CDATA[]]></content>
+		</item>
+		
+		<item>
+			<title>Start Here</title>
+			<link>https://albertoreineri.it/en/categories/start-here/</link>
+			<pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+			
+			<guid>https://albertoreineri.it/en/categories/start-here/</guid>
+			<description></description>
+			<content type="html"><![CDATA[]]></content>
+		</item>
+		
+		<item>
+			<title>PHP</title>
+			<link>https://albertoreineri.it/en/categories/php/</link>
+			<pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+			
+			<guid>https://albertoreineri.it/en/categories/php/</guid>
+			<description></description>
+			<content type="html"><![CDATA[]]></content>
+		</item>
+		
+		<item>
+			<title>Tech</title>
+			<link>https://albertoreineri.it/en/categories/tech/</link>
+			<pubDate>Sun, 08 Dec 2019 21:40:00 +0000</pubDate>
+			
+			<guid>https://albertoreineri.it/en/categories/tech/</guid>
+			<description></description>
+			<content type="html"><![CDATA[]]></content>
+		</item>
+		
+		<item>
+			<title>Linux</title>
+			<link>https://albertoreineri.it/en/categories/linux/</link>
+			<pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+			
+			<guid>https://albertoreineri.it/en/categories/linux/</guid>
+			<description></description>
+			<content type="html"><![CDATA[]]></content>
+		</item>
+		
+		<item>
+			<title>WordPress DEV</title>
+			<link>https://albertoreineri.it/en/categories/wordpress-dev/</link>
+			<pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+			
+			<guid>https://albertoreineri.it/en/categories/wordpress-dev/</guid>
+			<description></description>
+			<content type="html"><![CDATA[]]></content>
+		</item>
+		
+	</channel>
+</rss>

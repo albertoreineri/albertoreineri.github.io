@@ -1,0 +1,49 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tech on Alberto Reineri</title>
+		<link>https://albertoreineri.it/en/categories/tech/</link>
+		<description>Recent content in Tech on Alberto Reineri</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en</language>
+		<lastBuildDate>Sun, 08 Dec 2019 21:40:00 +0000</lastBuildDate>
+		<atom:link href="https://albertoreineri.it/en/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Windows VS Mac for Web Development: My Experience</title>
+			<link>https://albertoreineri.it/en/blog/windows-vs-mac-for-web-development-my-experience/</link>
+			<pubDate>Sun, 08 Dec 2019 21:40:00 +0000</pubDate>
+			
+			<guid>https://albertoreineri.it/en/blog/windows-vs-mac-for-web-development-my-experience/</guid>
+			<description>Today, I want to share my experience using these two operating systems, the eternal battle between Windows and Mac. I&amp;rsquo;ll discuss it from both a developer&amp;rsquo;s and an average user&amp;rsquo;s perspective since I use the computer for work and leisure, for programming, answering emails, writing documents, scheduling appointments, and more.
+During my ten years of programming, I&amp;rsquo;ve had the opportunity to use both Windows and Mac, each for several years. I&amp;rsquo;ve reached my conclusion, which is somewhat contrary to the usual discussions on various forums and social media in the industry.</description>
+			<content type="html"><![CDATA[<p>Today, I want to share <strong>my experience</strong> using these two operating systems, the eternal battle between Windows and Mac. I&rsquo;ll discuss it from both a developer&rsquo;s and an average user&rsquo;s perspective since I use the computer for work and leisure, for programming, answering emails, writing documents, scheduling appointments, and more.</p>
+<p>During my ten years of programming, I&rsquo;ve had the opportunity to use <strong>both Windows and Mac</strong>, each for several years. I&rsquo;ve reached <strong>my conclusion</strong>, which is somewhat contrary to the usual discussions on various forums and social media in the industry.</p>
+<h2 id="my-early-years">MY EARLY YEARS</h2>
+<p>I <strong>started</strong> my career as a <strong>vb.net programmer</strong>, so I was using a <strong>Windows</strong> PC by necessity. It was a somewhat worn-out desktop running Windows <strong>XP</strong>. I must say, <strong>I didn&rsquo;t find it bad at all</strong>. Developing management software, the clients in 99.9% of cases had a Windows PC (there were very few Apple products around at that time, at least in my area), and thus the program had to run on that operating system. Those first four years of programming made me appreciate the operating system of good old Bill Gates. I got to <strong>know practically all keyboard shortcuts</strong> and customization options available. I could be very fast with my PC, and <strong>I knew my work environment perfectly</strong>.</p>
+<h2 id="macbook-white">MACBOOK WHITE</h2>
+<p>Then, more out of curiosity, I <strong>bought</strong> a Mac, specifically the <strong>Macbook White</strong>. Beautiful! <strong>Aesthetically, it had no comparison</strong> with the competition. A completely white PC, without designs, patterns, without anything superfluous.</p>
+<p><strong>That&rsquo;s when my journey into the Apple world began</strong>. And it went well.</p>
+<p>From a design perspective, Mac easily won, plus it had a program I loved and used a lot: Garageband! The simplicity of that software was terrific! I could record decently even without an audio interface, without any lag, and the default effects were fantastic! Unfortunately, I never found anything like it on Windows&hellip;</p>
+<p>But there was always <strong>something that didn&rsquo;t sit right with me&hellip;</strong></p>
+<p>It was beautiful, the battery seemed infinite, it was smooth and fast, but <strong>too closed!</strong> Perhaps it&rsquo;s predictable, but being a closed system didn&rsquo;t appeal to me at all!</p>
+<p><strong>I&rsquo;ve always been a tinkerer.</strong> As soon as I get my hands on any machine, I have to understand how it works, how to make it work better, and how to play around with it. And with the Mac, I couldn&rsquo;t do much&hellip;</p>
+<h2 id="issues">ISSUES</h2>
+<p>And here we come to the heart of the Windows VS Mac battle.</p>
+<p>The first problem was the <strong>Office suite</strong>. At that time, the only alternative was OpenOffice, but compatibility was not 100%. Sometimes, opening a Word file would result in completely messed-up formatting&hellip; and that bothered me a lot. Of course, I could have bought Office for Mac, but I didn&rsquo;t want to&hellip; (OK? :))</p>
+<p>Then, on the <strong>programming</strong> side, I felt a bit stuck. While Visual Basic is a very basic language, it was the one I knew at the time, and I couldn&rsquo;t do anything with my Mac. I had installed Windows on a virtual machine, but it was very slow, and I couldn&rsquo;t work properly&hellip;</p>
+<p>Even web development wasn&rsquo;t that straightforward for me! I used <strong>XAMPP</strong>, and at that time, I remember there was no XAMPP for Mac. So, I had downloaded MAMP, but I didn&rsquo;t like it much&hellip;</p>
+<p>Finally, <strong>I couldn&rsquo;t play games</strong>&hellip; and even though I was never a hardcore gamer, occasionally launching a simple game to relax wasn&rsquo;t bad.</p>
+<p>Let&rsquo;s say I felt restricted. If with Windows, I could do whatever I wanted, install anything, modify, experiment until I had to format the computer because of all the mess I had created, with the Mac, I could do almost nothing&hellip; Sure, I avoided creating messes, but I liked it!</p>
+<h2 id="back-to-windows">BACK TO WINDOWS</h2>
+<p>After 6 years, I had to change the PC; <strong>the little Macbook White couldn&rsquo;t take it anymore</strong>, and I returned to Windows.</p>
+<p>That time in the Windows Vs Mac battle, Windows won.</p>
+<p>Today, <strong>Mac prices are truly prohibitive</strong>&hellip; My Macbook White started at a price of €1000, and I remember getting it on sale at Euronics for €800. Those were still acceptable figures for a PC with 500GB HDD and 4GB RAM at that time.</p>
+<p>Now, if you want a base model, you have to spend <strong>almost twice as much</strong>, for just 128GB of storage, a truly ridiculous amount, and without having USB, SD, and HDMI ports, which I still find fundamentally important.</p>
+<p><strong>So, I went back to Windows, and I must say I&rsquo;m thrilled!</strong></p>
+<p><strong>I can truly do everything!</strong> I immediately started tinkering again, and after two weeks, I had to format the PC because I had installed a bunch of nonsense, but I was happy! That&rsquo;s how I like to live with my PC; I want to be the one deciding how to make it work!</p>
+<p>Now I can <strong>program</strong>, <strong>record</strong> music, <strong>play games</strong>, <strong>write</strong>, <strong>edit</strong> videos, use <strong>virtual machines</strong>, etc., without any slowdowns. Spending less than on a Macbook, I got a Core i7 with 16GB of RAM, 128GB SSD, 1TB HDD, and a 4GB graphics card! Basically, a powerhouse, for less than €100</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+	
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-9MQ20QPDEM"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'G-9MQ20QPDEM');
+	</script>
+	
+
+	
+	
+	
+	
+	<link rel="icon" type="image/png" href="/images/logoad.png" />
+
+	<link rel="stylesheet" href="/css/search.408287f2f5b206fbfa16d1bbf466f782c4d647c3af5802618697eed6992133c8.css" />
+
+	
+<script src="/js/search.4228305d4fa56c6dbc763c181c22dec21f998d9fbe8b5ac088d91f56fb72a6f8.js" defer></script>
+
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="robots" content="index, follow">
+<meta name="revisit-after" content="15 days">
+<link rel="author" href="/humans.txt">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="shortcut icon" href="/images/logoad.png">
+<meta name="theme-color" content="#494f5c">
+<meta name="msapplication-TileColor" content="#494f5c">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#494f5c"><meta name="author" content="Alberto Reineri"><meta name="description" content="Scopri le fondamenta di PHP nel mio blog: dalle variabili alle funzioni, un viaggio essenziale nel linguaggio di programmazione web. Entra nel mondo del coding!">
+<meta itemprop="name" content="6. Le basi di PHP">
+<meta itemprop="description" content="Scopri le fondamenta di PHP nel mio blog: dalle variabili alle funzioni, un viaggio essenziale nel linguaggio di programmazione web. Entra nel mondo del coding!"><meta itemprop="datePublished" content="2020-03-17T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2020-03-17T00:00:00+00:00" />
+<meta itemprop="wordCount" content="1605">
+<meta itemprop="keywords" content="" /><meta property="og:title" content="6. Le basi di PHP" />
+<meta property="og:description" content="Scopri le fondamenta di PHP nel mio blog: dalle variabili alle funzioni, un viaggio essenziale nel linguaggio di programmazione web. Entra nel mondo del coding!" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://albertoreineri.it/blog/6.-le-basi-di-php/" /><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2020-03-17T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-03-17T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="6. Le basi di PHP"/>
+<meta name="twitter:description" content="Scopri le fondamenta di PHP nel mio blog: dalle variabili alle funzioni, un viaggio essenziale nel linguaggio di programmazione web. Entra nel mondo del coding!"/>
+<title>6. Le basi di PHP</title>
+	<link rel="stylesheet dns-prefetch preconnect preload prefetch" as="style" href="https://albertoreineri.it/css/style.min.d871a04e73385e7a456031c2693ae321ec60871d356da39efe4040eb8f6fe747.css" integrity="sha256-2HGgTnM4XnpFYDHCaTrjIexghx01baOe/kBA649v50c=" crossorigin="anonymous">
+	
+</head>
+
+<body id="page">
+<header id="site-header" class="animated slideInUp">
+	<div class="hdr-wrapper section-inner">
+		<div class="hdr-left">
+			<div class="site-branding">
+				<a href="https://albertoreineri.it/">Home</a>
+			</div>
+
+			<nav class="site-nav hide-in-mobile"><a href="https://albertoreineri.it/about/">About</a><a href="https://albertoreineri.it/servizi/">Servizi</a><a href="https://albertoreineri.it/portfolio/">Portfolio</a><a href="https://albertoreineri.it/blog/">Blog</a><a href="https://albertoreineri.it/contatti/">Contatti</a></nav>
+		</div>
+		<div class="hdr-right hdr-icons">
+			
+			<button class="search-modal-toggle">
+				<svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<circle cx="6.5" cy="6.5" r="5.5" stroke="white" stroke-width="2" />
+					<line x1="9.70711" y1="10.2929" x2="15.7071" y2="16.2929" stroke="white" stroke-width="2" />
+				</svg>
+			</button>
+			<span class="hdr-social"><a class="social-icon-header" href="https://www.youtube.com/@albydev2149" target="_blank" rel="noopener me" title="Youtube">
+    <svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z"></path><polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"></polygon></svg>
+</a><a class="social-icon-header" href="https://open.spotify.com/show/546eUw3PsRI1HUGbBUeghC" target="_blank" rel="noopener me" title="Spotify">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="spotify-icon">
+    <g clip-path="url(#clip0_2941_56)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M19.098 10.638C15.23 8.341 8.85 8.13 5.157 9.251C4.564 9.431 3.937 9.096 3.758 8.503C3.578 7.91 3.912 7.283 4.506 7.103C8.745 5.816 15.791 6.065 20.244 8.708C20.777 9.025 20.952 9.713 20.636 10.246C20.32 10.779 19.631 10.955 19.098 10.638ZM18.972 14.041C18.7 14.481 18.125 14.619 17.685 14.349C14.46 12.367 9.543 11.792 5.727 12.95C5.233 13.1 4.71 12.821 4.56 12.327C4.411 11.832 4.69 11.311 5.184 11.16C9.542 9.838 14.96 10.478 18.664 12.755C19.104 13.025 19.242 13.602 18.972 14.041ZM17.503 17.308C17.288 17.662 16.827 17.773 16.475 17.557C13.657 15.835 10.11 15.446 5.933 16.4C5.531 16.492 5.13 16.24 5.038 15.838C4.946 15.435 5.197 15.034 5.6 14.942C10.171 13.897 14.092 14.347 17.255 16.28C17.608 16.495 17.719 16.956 17.503 17.308ZM12 0C5.373 0 0 5.373 0 12C0 18.628 5.373 24 12 24C18.628 24 24 18.628 24 12C24 5.373 18.628 0 12 0Z" fill="white"/>
+    </g>
+    <defs>
+    <clipPath id="clip0_2941_56">
+    <rect width="24" height="24" fill="white"/>
+    </clipPath>
+    </defs>
+    </svg>
+</a><a class="social-icon-header" href="https://github.com/albertoreineri" target="_blank" rel="noopener me" title="Github">
+    <svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
+</a></span><button id="share-btn" class="hdr-btn" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-share-2"><circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line></svg></button>
+
+<div id="share-links" class="animated fast">
+    
+    
+    
+    
+    <ul>
+        <li>
+            <a href="https://twitter.com/intent/tweet?hashtags=hermit2&amp;url=https%3a%2f%2falbertoreineri.it%2fblog%2f6.-le-basi-di-php%2f&amp;text=6.%20Le%20basi%20di%20PHP"
+                target="_blank" rel="noopener" aria-label="Share on X"><svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path class="st0" d="m21.3 21.1 -11.4 -18.2h-7.2l11.4 18.2zm-18.6 0 7.2 -6.6m4.2 -5 7.2 -6.6"/></svg></a>
+        </li>
+        <li>
+            <a href="https://facebook.com/sharer/sharer.php?u=https%3a%2f%2falbertoreineri.it%2fblog%2f6.-le-basi-di-php%2f" target="_blank" rel="noopener"
+                aria-label="Share on Facebook"><svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg></a>
+        </li>
+        <li>
+            <a href="mailto:?subject=6.%20Le%20basi%20di%20PHP&amp;body=https%3a%2f%2falbertoreineri.it%2fblog%2f6.-le-basi-di-php%2f" target="_self" rel="noopener"
+                aria-label="Share on Email"><svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg></a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2falbertoreineri.it%2fblog%2f6.-le-basi-di-php%2f&amp;source=https%3a%2f%2falbertoreineri.it&amp;title=6.%20Le%20basi%20di%20PHP&amp;summary=6.%20Le%20basi%20di%20PHP%2c%20by%20Alberto%20Reineri%0a%0aScopri%20le%20fondamenta%20di%20PHP%20nel%20mio%20blog%3a%20dalle%20variabili%20alle%20funzioni%2c%20un%20viaggio%20essenziale%20nel%20linguaggio%20di%20programmazione%20web.%20Entra%20nel%20mondo%20del%20coding%21%0a"
+                target="_blank" rel="noopener" aria-label="Share on LinkedIn"><svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg></a>
+        </li>
+        <li>
+            <a href="#" onclick="linkShare(&#34;6. Le basi di PHP&#34;,&#34;https://albertoreineri.it/blog/6.-le-basi-di-php/&#34;,&#34;6. Le basi di PHP, by Alberto Reineri\n\nScopri le fondamenta di PHP nel mio blog: dalle variabili alle funzioni, un viaggio essenziale nel linguaggio di programmazione web. Entra nel mondo del coding!\n&#34;); return false;" target="_self"
+                rel="noopener" aria-label="Copy Link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-copy"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></a>
+        </li>
+    </ul>
+</div><button id="menu-btn" class="hdr-btn" title=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg></button>
+		</div>
+	</div>
+</header>
+<div id="mobile-menu" class="animated fast">
+	<ul>
+		<li><a href="https://albertoreineri.it/about/">About</a></li>
+		<li><a href="https://albertoreineri.it/servizi/">Servizi</a></li>
+		<li><a href="https://albertoreineri.it/portfolio/">Portfolio</a></li>
+		<li><a href="https://albertoreineri.it/blog/">Blog</a></li>
+		<li><a href="https://albertoreineri.it/contatti/">Contatti</a></li>
+	</ul>
+</div>
+
+	<main class="site-main section-inner animated fadeIn faster"><article class="thin">
+			<header class="post-header">
+				<div class="post-meta"><span>Mar 17, 2020</span></div>
+				<h1>6. Le basi di PHP</h1>
+			</header>
+			<div class="post-info"><p>Scopri le fondamenta di PHP nel mio blog: dalle variabili alle funzioni, un viaggio essenziale nel linguaggio di programmazione web. Entra nel mondo del coding!</p><p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-feather"><path d="M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z"></path><line x1="16" y1="8" x2="2" y2="22"></line><line x1="17.5" y1="15" x2="9" y2="15"></line></svg><a href="" target="_blank">Alberto Reineri</a></p>
+<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-folder"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg><a href="https://albertoreineri.it/categories/inizia-qui">Inizia Qui</a>&nbsp;
+</p>
+<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>1605 Parole
+    |
+    
+    
+    
+    7 Minutes, 17 Seconds</p>
+</div>
+			<hr class="post-end">
+		</header>
+			<div class="content">
+				<p><strong>PHP</strong> è uno dei linguaggi di programmazione <strong>più utilizzati al mondo</strong> in ambito web.</p>
+<p>Moltissime <strong>grandi aziende</strong> lo utilizzano per i loro progetti, tra cui</p>
+<ul>
+<li>Facebook</li>
+<li>Wikipedia</li>
+<li>Yahoo</li>
+<li>Mailchimp</li>
+<li>Slack</li>
+<li>Dailymotion</li>
+<li>Etsy</li>
+</ul>
+<p>Fra queste c’è anche Automattic, l’azienda che ha realizzato e gestisce <strong>WordPress</strong>.</p>
+<p>Il nostro <strong>CMS</strong> è infatti realizzato utilizzando il <strong>PHP</strong>.</p>
+<p>Come per ogni Framework è sempre bene conoscere, almeno in linea generale, il linugaggio su cui è costruito. In questo caso a noi interessa <strong>WordPress</strong>, perciò <strong>è bene sapere un po’ di PHP</strong> per riuscire a comprenderlo a fondo.</p>
+<p>Vediamo quindi <strong>come funziona il PHP</strong></p>
+<h2 id="il-php">Il PHP<a href="#il-php" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+<p>Il php è un linguaggio <strong>lato server,</strong> cioè non può funzionare semplicemente sul browser, come avviene per HTML, CSS e Javascript, ma <strong>ha bisogno di un server</strong> per poter funzionare.</p>
+<p>La particolarità del PHP è che <strong>può essere eseguito all’interno delle pagine HTML,</strong> può essere inserito direttamente in mezzo ai vari tag html.</p>
+<p><strong>Esempio:</strong></p>
+<pre tabindex="0"><code>&lt;html&gt;
+   &lt;head&gt;&lt;/head&gt;
+   &lt;body&gt;
+      &lt;?php echo &#34;CIAO&#34;; ?&gt;
+   &lt;/body&gt;
+&lt;/html&gt;
+</code></pre><p>In questo caso puoi notare come <strong>il PHP sia inserito direttamente nel body della pagina HTML.</strong></p>
+<p>Questo rende il suo utilizzo molto <strong>semplice</strong> ed immediato.</p>
+<h3 id="server-locale">Server locale<a href="#server-locale" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+<p>Per poter iniziare a utilizzare PHP sul nostro computer dobbiamo <strong>utilizzare un server locale.</strong></p>
+<p>Come già detto prima, se HTML, CSS e Javascript possono girare nel browser, il PHP ha bisogno di un server.</p>
+<p>Esistono molti server locali. In questa guida utilizzeremo <a href="/blog/come-funziona-xampp/">XAMPP</a>, perché è semplice e disponibile per tutti i sistemi operativi.</p>
+<p>Se vuoi sapere come installare XAMPP guarda <a href="/blog/come-funziona-xampp/">qui</a>.</p>
+<h3 id="sintassi-di-base">Sintassi di base<a href="#sintassi-di-base" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+<p>Come già detto il PHP viene eseguito nelle pagine HTML, ma occorre <strong>separare ciò che è PHP da ciò che non lo è.</strong></p>
+<p>Il codice PHP va inserito all’interno di questi tag: <code>&lt;?php</code> e <code>?&gt;</code></p>
+<pre tabindex="0"><code>&lt;?php
+    //Codice php
+?&gt;
+</code></pre><p>Tutto ciò inserito fra questi tag sarà php, il resto sarà HTML.</p>
+<h3 id="fine-riga">Fine riga<a href="#fine-riga" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+<p>Come per il Javascript, anche il PHP necessita del <strong>punto e virgola</strong> alla fine di ogni riga, per poter capire dove termina una regola e ne inizia un’altra. Ricordati perciò semprio di inserire il punto e virgola dopo ogni riga</p>
+<pre tabindex="0"><code>echo &#34;CIAO&#34;;
+</code></pre><h3 id="commenti">Commenti<a href="#commenti" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+<p>I commenti possono essere di <strong>due tipi:</strong></p>
+<p><strong>Una riga:</strong> Se si vuole commentare l’intera riga basta inserire un <strong>doppio slash</strong> all’inizio della riga</p>
+<pre tabindex="0"><code>// Commento di una riga
+</code></pre><p><strong>Più righe:</strong> Per commentare più righe occorre utilizzare <strong><em>/* commento */.</em></strong></p>
+<pre tabindex="0"><code>/* Commento su
+più righe
+Commento
+Commento*/
+</code></pre><h3 id="variabili">Variabili<a href="#variabili" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+<p>Le variabili in PHP sono precedute da <strong>$</strong>, in questo modo:</p>
+<pre tabindex="0"><code>$saluto = &#34;CIAO&#34;;
+echo $saluto;
+</code></pre><p><strong>Iniziamo!</strong></p>
+<p>Per prima cosa andando nella cartella <strong>htdocs</strong> di XAMPP e creando una nuova cartella “<strong>php_test</strong>“.</p>
+<h2 id="stampare-testo-in-html">Stampare testo in HTML<a href="#stampare-testo-in-html" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+<p>Iniziamo con un semplice esercizio: stampiamo il classico “<strong>Ciao mondo!</strong>” su una pagina HTML.</p>
+<p>Creiamo un file <strong>“index.php</strong>” e apriamolo con <strong>VS Code.</strong></p>
+<p>Ora possiamo premere <strong>Punto esclamativo</strong> seguito da <strong>tab</strong>, in questo modo <strong>VS Code</strong> ci fornirà lo <strong>scheletro</strong> html di base.</p>
+<p>Ora procediamo a <strong>stampare la nostra scritta.</strong></p>
+<p>La funzione PHP per stampare del testo è <strong>echo();</strong></p>
+<p>Scriviamo quindi questo nel body:</p>
+<pre tabindex="0"><code>&lt;?php
+   echo(&#34;Ciao mondo!&#34;);
+?&gt;
+</code></pre><p>Ora <strong>salviamo</strong>, apriamo il browser e <strong>andiamo a questo link:</strong></p>
+<p><a href="http://localhost/php_test">http://localhost/php_test</a></p>
+<p>Se tutto è andato liscio dovremmo vedere scritto “<strong>Ciao mondo!</strong>“.</p>
+<p><strong>Perfetto</strong>! Hai iniziato ad usare il PHP. Ma ora andiamo un po’ più a fondo.</p>
+<h2 id="variabili-1">Variabili<a href="#variabili-1" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+<p>In php possiamo <strong>definire una variabile</strong> con questa sintassi:</p>
+<pre tabindex="0"><code>$x = 1;
+$y = &#34;ciao&#34;;
+$z = True;
+</code></pre><p>Abbiamo appena definito una variabile denominata <em>x</em> con il numero 1, una variabile denominata <em>y</em> con la stringa “ciao” e un nome variabile <em>z</em> con il valore booleano True. Una volta definiti, possiamo usarli nel codice.</p>
+<p>PHP ha molti tipi di variabili, ma i tipi di variabili più basilari sono numeri interi (numeri interi), float (numeri decimali), stringhe e valori booleani.</p>
+<p>PHP può utilizzare anche <strong>array</strong> e oggetti che spiegheremo più avanti.</p>
+<p>Le variabili possono anche essere impostate su <strong>NULL</strong>, il che significa che le variabili esistono, ma non contengono alcun valore.</p>
+<h2 id="operatori-aritmetici">Operatori aritmetici<a href="#operatori-aritmetici" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+<p>Possiamo usare semplici operatori aritmetici per <strong>aggiungere</strong>, <strong>sottrarre</strong> o <strong>concatenare</strong> le variabili.</p>
+<p>Possiamo anche <strong>stampare</strong> le variabili PHP usando il comando <em>echo</em> (come abbiamo visto poco fa).</p>
+<p>Proviamo per esempio a sommare due numeri, inserire il risultato in una nuova variabile e stamparla.</p>
+<pre tabindex="0"><code>$x = 1;
+$y = 2;
+$somma = $x + $y;
+echo $somma;       // Stampa 3
+</code></pre><h2 id="concatenare-stringhe">Concatenare stringhe<a href="#concatenare-stringhe" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+<p>In PHP è possibile concatenare variabili e stringhe utilizzando il pungo (<em>.</em>), in questo modo:</p>
+<pre tabindex="0"><code>$anni = 30;
+$nome = &#34;Marco&#34;;
+echo $nome . &#34; ha &#34; . $anni . &#34; anni!&#34;;
+</code></pre><h2 id="stringhe">Stringhe<a href="#stringhe" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+<p>Le stringhe sono <strong>variabili che contengono testo</strong>. Ad esempio, una stringa che contiene un nome è definita come segue:</p>
+<pre tabindex="0"><code>$nome = &#34;Marco&#34;;
+echo $nome;
+</code></pre><p>Possiamo <strong>formattare facilmente le stringhe usando le variabili</strong>. Per esempio:</p>
+<pre tabindex="0"><code>$nome = &#34;Marco&#34;;
+$frase = &#34;Ciao $nome&#34;;
+echo $frase;
+</code></pre><p>Possiamo anche <strong>concatenare</strong> le stringhe usando l’ <em>.</em> operatore punto . Per esempio:</p>
+<pre tabindex="0"><code>$nome = &#34;Marco&#34;;
+$cognome = &#34;Rossi&#34;;
+$nome_completo = $nome . &#34; &#34; . $cognome;
+echo $nome_completo;
+</code></pre><p>Per misurare la <strong>lunghezza</strong> di una stringa, utilizziamo la funzione <em>strlen</em>:</p>
+<pre tabindex="0"><code>$string = &#34;Misuriamo quanti caratteri ha questa stringa&#34;;
+echo strlen($string);
+</code></pre><p>Per tagliare una parte di una stringa e restituirla come nuova stringa, possiamo usare la funzione <em>substr</em>:</p>
+<pre tabindex="0"><code>$filename = &#34;image.png&#34;;
+$extension = substr($filename, strlen($filename) - 3);
+echo &#34;L&#39;estensione di questo file è $extension&#34;;
+</code></pre><h2 id="matrici-semplici">Matrici semplici<a href="#matrici-semplici" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+<p>Le matrici sono un tipo speciale di v<strong>ariabile che può contenere molte variabili</strong> e tenerle in un elenco.</p>
+<p>Ad esempio, supponiamo di voler creare un elenco di tutti i numeri dispari tra 1 e 10. Una volta creato l’elenco, possiamo assegnare nuove variabili che faranno riferimento a una variabile nell’array, utilizzando l’indice della variabile.</p>
+<p>Per utilizzare la prima variabile nell’elenco (in questo caso il numero 1), dovremo fornire <strong>il primo indice</strong>, che è <strong>0</strong>, poiché PHP utilizza indici basati su zero, come quasi tutti i linguaggi di programmazione oggi.</p>
+<pre tabindex="0"><code>$numeri_dispari = [1,3,5,7,9];
+$primo_numero_dispari = $numeri_dispari[0];
+$secondo_numero_dispari = $numeri_dispari[1];
+
+echo &#34;Il primo numero dispari è $primo_numero_dispari\n&#34;;
+echo &#34;Il secondo numero dispari è $secondo_numero_dispari\n&#34;;
+</code></pre><p>Ora possiamo aggiungere nuove variabili usando un indice. Per aggiungere un elemento alla fine dell’elenco, possiamo assegnare l’array con l’indice 5 (la sesta variabile):</p>
+<pre tabindex="0"><code>$numeri_dispari = [1,3,5,7,9];
+$numeri_dispari[5] = 11;
+print_r($numeri_dispari);
+</code></pre><h2 id="loop">Loop<a href="#loop" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+<p>I loop ci aiutano a scorrere su una variabile utilizzando un indice. Esistono <strong>due tipi di loop</strong>: <strong>semplice</strong> (stile C) e un loop <strong>foreach</strong>.</p>
+<h3 id="loop-semplice">Loop semplice<a href="#loop-semplice" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+<p>I loop sono molto utili quando dobbiamo <strong>scorrere su un array e fare riferimento al membro dell’array usando un indice che cambia</strong>. Ad esempio, supponiamo di avere un elenco di numeri dispari. Per stamparli, dobbiamo fare riferimento a ciascun articolo singolarmente. Il codice che scriviamo nel ciclo for può usare l’indice <em>i</em>, che cambia in ogni iterazione del ciclo for.</p>
+<pre tabindex="0"><code>$numeri = [1,3,5,7,9];
+for ($i = 0; $i &lt; count($numeri); $i=$i+1) {
+    $numero = $numeri[$i];
+    echo $numero . &#34;\n&#34;;
+}
+</code></pre><p><strong>La prima riga del ciclo for definisce 3 parti:</strong></p>
+<ul>
+<li>La dichiarazione di inizializzazione – nel nostro caso, inizializziamo la variabile <em>$i</em> su 0.</li>
+<li>L’istruzione condizionale – questa istruzione viene valutata in ogni ciclo. Il loop si interrompe quando questa condizione non è soddisfatta. Questo accadrà quando la variabile <em>$i</em> sarà più grande della lunghezza dell’array.</li>
+<li>L’istruzione incrementale: questa istruzione viene eseguita ogni volta per aumentare la variabile indice della quantità necessaria. Di solito aumenteremo <em>$i</em> di 1. Esistono anche due modi più brevi per aumentare una variabile di 1. </li>
+</ul>
+<h3 id="ciclo-foreach">Ciclo foreach<a href="#ciclo-foreach" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+<p>Il ciclo <strong>foreach</strong> esegue il loop su un elemento come una matrice o un oggetto, fornendo i membri in una specifica variabile uno alla volta.</p>
+<p>Ad esempio, supponiamo di voler creare un elenco di tutti i numeri dispari tra 1 e 10 e stamparli uno per uno, come nell’esempio precedente. Questa volta, useremo il <em>foreach</em>   invece di un <em>for</em>  regolare con una variabile. Invece di utilizzare la variabile come indice dell’array, otteniamo l’elemento dall’array direttamente nella variabile <em>$numeri_dispari</em> .</p>
+<pre tabindex="0"><code>$numeri_dispari = [1,3,5,7,9];
+foreach ($numeri_dispari as $numero) {
+  echo $numero . &#34;\n&#34;;
+}
+</code></pre><h2 id="ciclo-di-while">Ciclo di While<a href="#ciclo-di-while" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+<p>I cicli <strong>While</strong> sono semplici blocchi che vengono eseguiti ripetutamente fino a quando non viene soddisfatta la condizione del ciclo while.</p>
+<p>Ecco un esempio di un ciclo che viene eseguito per un totale di 10 volte:</p>
+<pre tabindex="0"><code>$counter = 0;
+
+while ($counter &lt; 10) {
+    $counter += 1;
+    echo &#34;Funzione eseguita $counter\n volte.&lt;br&gt;&#34;;
+}
+</code></pre><h2 id="funzioni">funzioni<a href="#funzioni" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+<p>Le funzioni sono semplici <strong>blocchi di codice che possiamo chiamare da qualsiasi luogo</strong>. Ad esempio, possiamo creare una funzione che somma un elenco di numeri e restituisce il risultato. Chiamiamo questa funzione <em>somma</em>.</p>
+<p>Una funzione riceve un elenco di argomenti separati da virgole. Ogni argomento esiste solo nel contesto della funzione, nel senso che diventano variabili all’interno del blocco funzione, ma non sono definiti al di fuori di quel blocco funzione.</p>
+<pre tabindex="0"><code>// Definiamo una funzione chiamata &#34;somma&#34; che farà la somma di una lista di numeri
+function somma($numeri) {
+    // inizializziamo la variabile somma
+    $somma = 0;
+
+    // Sommiamo i numero
+    foreach ($numeri as $numero) {
+        $somma += $numero;
+    }
+
+    // restituiamo la somma
+    return $somma;
+}
+
+// Esempio di utilizzo della funzione
+echo somma([1,2,3,4,5,6,7,8,9,10]);
+</code></pre><p>In questo caso abbiamo la funzione “<em><strong>somma</strong></em>” che sommerà tutti i numeri che passeremo al loro interno.</p>
+<p><strong>Richiamiamo</strong> quindi la funzione in un <em>echo</em>, in questo modo stamperemo la somma dei numeri inseriti nel’array dentro la funzione.</p>
+<p>Come per ogni cosa il metodo migliore è sempre quello di <strong>provare, provare e riprovare!</strong></p>
+<p><strong>Prenditi quindi il tuo tempo</strong> e prova a smanettare un po’ con le funzioni che hai imparato qui sopra!</p>
+<p>Il PHP consente di fare ben altre cose, ma <strong>per iniziare con WordPress questo può bastare!</strong></p>
+<p><strong>Quando ti senti pronto prova</strong> adare un’occhiata alle nostre guide per <strong><a href="/blog/creare-un-tema-wordpress-da-zero-parte-1/">creare un tema WordPress da zero</a></strong>, così potra imettere in pratica quello che hai imparato</p>
+<p><em><a href="/blog/le-basi-di-jquery/">&laquo; Le basi di jQuery</a></em></p>
+
+			</div>
+
+		</article>
+		
+		<aside id="toc" class="show-toc">
+			<div class="toc-title">Sommario</div>
+			<nav id="TableOfContents">
+  <ul>
+    <li><a href="#il-php">Il PHP</a>
+      <ul>
+        <li><a href="#server-locale">Server locale</a></li>
+        <li><a href="#sintassi-di-base">Sintassi di base</a></li>
+        <li><a href="#fine-riga">Fine riga</a></li>
+        <li><a href="#commenti">Commenti</a></li>
+        <li><a href="#variabili">Variabili</a></li>
+      </ul>
+    </li>
+    <li><a href="#stampare-testo-in-html">Stampare testo in HTML</a></li>
+    <li><a href="#variabili-1">Variabili</a></li>
+    <li><a href="#operatori-aritmetici">Operatori aritmetici</a></li>
+    <li><a href="#concatenare-stringhe">Concatenare stringhe</a></li>
+    <li><a href="#stringhe">Stringhe</a></li>
+    <li><a href="#matrici-semplici">Matrici semplici</a></li>
+    <li><a href="#loop">Loop</a>
+      <ul>
+        <li><a href="#loop-semplice">Loop semplice</a></li>
+        <li><a href="#ciclo-foreach">Ciclo foreach</a></li>
+      </ul>
+    </li>
+    <li><a href="#ciclo-di-while">Ciclo di While</a></li>
+    <li><a href="#funzioni">funzioni</a></li>
+  </ul>
+</nav>
+		</aside>
+		
+		<div class="post-nav thin">
+			<a class="next-post" href="https://albertoreineri.it/blog/5.-le-basi-di-jquery/">
+				<span class="post-nav-label"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-left"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>&nbsp;Prossimo</span><br><span>5. Le basi di jQuery</span>
+			</a>
+			<a class="prev-post" href="https://albertoreineri.it/blog/organizzare-il-lavoro-con-python/">
+				<span class="post-nav-label">Precedente&nbsp;<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></span><br><span>Organizzare il lavoro con Python</span>
+			</a>
+		</div>
+		<div id="comments" class="thin">
+</div>
+	</main>
+
+<footer id="site-footer" class="section-inner thin animated fadeIn faster">
+	<p>
+		&copy; 2024 <a href="https://albertoreineri.it">Alberto Reineri</a>
+		
+		
+		
+		
+		
+		&#183; <a href="https://albertoreineri.it/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a>
+		&#183; P. IVA: 03888370040
+					
+		&#183; <a href="https://albertoreineri.it/privacy-policy/">Privacy Policy</a>&nbsp;</p>
+
+
+</footer>
+
+<a href="#" class="scroll-up"><svg xmlns="http://www.w3.org/2000/svg" fill="#3B3E48" width="64px" height="64px" viewBox="-2.4 -2.4 28.80 28.80" id="up-circle" data-name="Flat Color" xmlns="http://www.w3.org/2000/svg" class="icon flat-color" stroke="#3B3E48" stroke-width="0.00024000000000000003"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.9600000000000002"><circle id="primary" cx="12" cy="12" r="10" style="fill: #3B3E48;"></circle><path id="secondary" d="M15,14a1,1,0,0,1-.71-.29L12,11.41l-2.29,2.3a1,1,0,0,1-1.42-1.42l3-3a1,1,0,0,1,1.42,0l3,3a1,1,0,0,1,0,1.42A1,1,0,0,1,15,14Z" style="fill: #018574;"></path></g><g id="SVGRepo_iconCarrier"><circle id="primary" cx="12" cy="12" r="10" style="fill: #3B3E48;"></circle><path id="secondary" d="M15,14a1,1,0,0,1-.71-.29L12,11.41l-2.29,2.3a1,1,0,0,1-1.42-1.42l3-3a1,1,0,0,1,1.42,0l3,3a1,1,0,0,1,0,1.42A1,1,0,0,1,15,14Z" style="fill: #018574;"></path></g></svg></a>
+<noscript>
+    <a href="#" class="scroll-up show"><svg xmlns="http://www.w3.org/2000/svg" fill="#3B3E48" width="64px" height="64px" viewBox="-2.4 -2.4 28.80 28.80" id="up-circle" data-name="Flat Color" xmlns="http://www.w3.org/2000/svg" class="icon flat-color" stroke="#3B3E48" stroke-width="0.00024000000000000003"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.9600000000000002"><circle id="primary" cx="12" cy="12" r="10" style="fill: #3B3E48;"></circle><path id="secondary" d="M15,14a1,1,0,0,1-.71-.29L12,11.41l-2.29,2.3a1,1,0,0,1-1.42-1.42l3-3a1,1,0,0,1,1.42,0l3,3a1,1,0,0,1,0,1.42A1,1,0,0,1,15,14Z" style="fill: #018574;"></path></g><g id="SVGRepo_iconCarrier"><circle id="primary" cx="12" cy="12" r="10" style="fill: #3B3E48;"></circle><path id="secondary" d="M15,14a1,1,0,0,1-.71-.29L12,11.41l-2.29,2.3a1,1,0,0,1-1.42-1.42l3-3a1,1,0,0,1,1.42,0l3,3a1,1,0,0,1,0,1.42A1,1,0,0,1,15,14Z" style="fill: #018574;"></path></g></svg></a>
+</noscript>
+<script async src="https://albertoreineri.it/js/scrollwatcher.min.4c95114e023fd1582c967c8bfea1dcd11e4a8bdce5d60c4cd67e91382dd840d3.js" integrity="sha256-TJURTgI/0VgslnyL/qHc0R5Ki9zl1gxM1n6ROC3YQNM=" crossorigin="anonymous"></script>
+<script async src="https://albertoreineri.it/js/bundle.min.533a6d856e20238b976ba5d6614f06e3b45296a55b98eca25489087f5a7f2ca3.js" integrity="sha256-UzpthW4gI4uXa6XWYU8G47RSlqVbmOyiVIkIf1p/LKM="
+		crossorigin="anonymous"></script><script async src="https://albertoreineri.it/js/link-share.min.24409a4f6e5537d70ffc55ec8f9192208d718678cb8638585342423020b37f39.js" integrity="sha256-JECaT25VN9cP/FXsj5GSII1xhnjLhjhYU0JCMCCzfzk="
+		crossorigin="anonymous"></script>
+</body>
+
+</html>

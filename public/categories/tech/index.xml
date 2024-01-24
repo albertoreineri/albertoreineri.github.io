@@ -1,0 +1,528 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tech on Alberto Reineri</title>
+		<link>https://albertoreineri.it/categories/tech/</link>
+		<description>Recent content in Tech on Alberto Reineri</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>it</language>
+		<lastBuildDate>Mon, 06 Jun 2022 09:34:22 +0000</lastBuildDate>
+		<atom:link href="https://albertoreineri.it/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Usare il browser senza mouse – Hacker Style</title>
+			<link>https://albertoreineri.it/blog/usare-il-browser-senza-mouse-hacker-style/</link>
+			<pubDate>Mon, 06 Jun 2022 09:34:22 +0000</pubDate>
+			
+			<guid>https://albertoreineri.it/blog/usare-il-browser-senza-mouse-hacker-style/</guid>
+			<description>Passiamo molto, moltissimo tempo sul browser ormai, e usare il mouse per la navigazione può essere frustranete per noi sviluppatori… Ma è possibile farne a meno e muoversi solamente utilizzando la tastiera, come un vero hacker! Vediamo come si fa.
+Vimium Extension Per prima cosa devi scaricare l&amp;rsquo;estensione Vimium. Io uso Google Chrome, ma è presente anche per Firefox e Safari (se usi Brave o Edge non preoccuparti, puoi installare l&amp;rsquo;estensione per Google Chrome, funzionerà perfettamente perché questi browser condividono la stessa base).</description>
+			<content type="html"><![CDATA[<p>Passiamo molto, moltissimo tempo sul browser ormai, e usare il mouse per la navigazione può essere frustranete per noi sviluppatori… Ma è possibile farne a meno e muoversi solamente utilizzando la tastiera, come un vero hacker! Vediamo come si fa.</p>
+<h2 id="vimium-extension">Vimium Extension</h2>
+<p>Per prima cosa devi scaricare l&rsquo;estensione <a href="https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb" target="_blank" rel="noreferrer noopener">Vimium</a>. Io uso Google Chrome, ma è presente anche per <a href="https://addons.mozilla.org/it/firefox/addon/vimium-ff/" target="_blank" rel="noreferrer noopener">Firefox</a> e <a href="https://apps.apple.com/us/app/vimari/id1480933944?mt=12" target="_blank" rel="noreferrer noopener">Safari</a> (se usi Brave o Edge non preoccuparti, puoi installare l&rsquo;estensione per Google Chrome, funzionerà perfettamente perché questi browser condividono la stessa base).</p>
+<p>Dopo averla installata potrete iniziare ad utilizzare il vostro browser direttamente dalla tasitera.</p>
+<p>La base dei comandi è quella del software Vim, quindi se siete su Linux probabilmente vi troverete già a vostro agio, altrimenti non preoccupatevi, basterà qualche minuti di pratica per abbandonare il mouse per sempre!</p>
+<p>Ecco i comandi principali per utilizzarlo:</p>
+<h2 id="navigare-nella-pagina-corrente">Navigare nella pagina corrente:</h2>
+<pre class="wp-block-code"><code>?       mostra l'elenco dei comandi disponibili (molto utile all'inizio)
+h       scroll verso sinistra
+j       scroll verso il basso
+k       scroll verso l'alto
+l       scroll verso destra
+gg      scroll in cima alla pagina
+G       scroll in fondo alla pagina
+d       scroll in basso di metà pagina
+u       scroll in alto di metà pagina
+f       apri un link nella tab corrente
+F       apri link in nuova tab
+r       ricarica
+gs      visualizza codice sorgente</code></pre>
+<h2 id="navigare-in-altre-pagina">Navigare in altre pagina:</h2>
+<pre class="wp-block-code"><code>o       Apri URL
+O       Apri URL in nuova tab
+b       Apri preferiti
+B       Apri preferiti in nuova tab</code></pre>
+<h2 id="cronologia">Cronologia:</h2>
+<pre class="wp-block-code"><code>H       Vai a pagina precedente
+L       Vai a pagina successiva</code></pre>
+<h2 id="manipolazione-tabs">Manipolazione tabs:</h2>
+<pre class="wp-block-code"><code>J, gT      Vai un tab verso sinistra
+K, gt      Vai un tab verso destra
+g0         Vai alla prima tab
+g$         Vai all'ultima tab
+t          Crea tab
+x          Chiudi tab corrente
+X          Riapri tab chiusa
+T          Cerca fra le tab</code></pre>
+<p>Ecco qua, questi sono solamente i comandi principali, ne esistono altri che puoi leggere qua: <a href="https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb" target="_blank" rel="noreferrer noopener"><a href="https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb">https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb</a></a></p>
+<p>E questo è tutto! Non ti resta che provare ad utilizzarli e vedrai che in breve tempo potrai usare il browser totalmente in hacker style ?‍?</p>
+<p>Come sempre <em>buon codice!</em></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Amo Linux, ma sono ancora su Mac…</title>
+			<link>https://albertoreineri.it/blog/amo-linux-ma-sono-ancora-su-mac/</link>
+			<pubDate>Mon, 21 Mar 2022 22:19:04 +0000</pubDate>
+			
+			<guid>https://albertoreineri.it/blog/amo-linux-ma-sono-ancora-su-mac/</guid>
+			<description>Se mi segui da un po&amp;rsquo; di tempo saprai sicuramente quanto ami il mondo Linux! È un ambiente che talvolta mi fa venire il mal di testa, mi fa arrabbiare, mi costringe a bloccarmi sulle cose per capire come funzionano, ma ha anche la bellezza di sentirsi maggiormente padroni dei nostri pc, capire come funzionano sotto la scocca e poterli gestire meglio a nostro piacimento!
+Ah, prima che qualcuno inizi ad insultarmi, in questo articolo parlo di Linux Desktop!</description>
+			<content type="html"><![CDATA[<p>Se mi segui da un po&rsquo; di tempo saprai sicuramente quanto ami il mondo <a href="/blog/perche-dovremmo-tutti-passare-a-linux-e-perche-non-lo-facciamo/">Linux</a>! È un ambiente che talvolta mi fa venire il mal di testa, mi fa arrabbiare, mi costringe a bloccarmi sulle cose per capire come funzionano, ma ha anche la bellezza di sentirsi maggiormente padroni dei nostri pc, capire come funzionano sotto la scocca e poterli gestire meglio a nostro piacimento!</p>
+<p>Ah, prima che qualcuno inizi ad insultarmi, in questo articolo parlo di Linux Desktop! Sui miei server utilizzo solamente linux da anni e gira tutto a meraviglia! (Anche sul server però non è tutto così automatico, bisogna studiare a capirne le basi, però poi una volta montato il tutto funziona alla grande!)</p>
+<p>Bene, fatte le dovute spiegazioni entriamo in argomento!</p>
+<h2 id="sono-ancora-su-mac-os8230">Sono ancora su Mac Os…</h2>
+<p>Se avete guardato i miei ultimi video avrete notato sicuramente che ho filmato tutto quanto su <a href="/blog/nuovo-macbook-pro-2020-per-sviluppo-web/">Mac OS</a>. Ebbene si, dopo aver ripetutamente affermato di amare Linux sono ancora qua che utilizzo il mio MacBook Pro… Che razza di incoerente che sono…..</p>
+<p>Non ho paura di ammetterlo, spesso me lo dico da solo, sono un incoerente e la cosa non mi piace affatto… Ma non è così semplice purtroppo.</p>
+<p>Ho provato più volte a spostarmi definitivamente su Linux ma ho sempre dovuto fare marcia indietro, e ora credo di aver trovato la causa definitiva, ma da buon narratore te la rivelerò solamente alla fine di questo articolo. (certo se proprio sei impaziente puoi scorrere al volo alla conclusione…)</p>
+<h2 id="perché-amo-linux">Perché amo Linux</h2>
+<p>Ci sono molti motivi per cui amo il mondo di Linux, ma la cosa che preferisco è che si sgancia da ogni meccanismo di marketing che oggi ci affligge costantemente. Non abbiamo il tempo di acquistare qualcosa che questa è già stata rimpiazzata da un modello più performante. E infine i prodotti hanno una durata prefissata, l&rsquo;obsolescenza programmata ormai è un dato di fatto!</p>
+<p>Questo non mi piace per niente…. Non ho voglia di perdere tempo guardando fantastiche presentazioni di prodotti che mi fanno venire voglia di sprecare i miei soldi per acquistare attrezzature spesso superflue…</p>
+<p>Inoltre Linux è meritocratico! Più ne sai meno fatichi, tutto qua. Se sei alle prime armi lo odi con tutto il cuore, poi quando inizi a smanettarci a dovere allora non puoi più farne a meno! Sei padrone della tua macchina e puoi usarla esattamente come vuoi tu!</p>
+<p>Infine in un mondo in cui la nostra privacy non ha più gran valore, i nostri meta dati sono sotto gli occhi di tutti e la sicurezza informatica sta diventando sempre più importante, l&rsquo;open source può garantire un buon livello di protezione! Non sono un fanatico della privacy, ho anche io un account gmail, però credo che bisogna avere la giusta consapevolezza, cercare di stare in una giusta via di mezzo fra l&rsquo;accedere a qualsivoglia contenuto con i nostri dati personali e il criptare ogni singolo file sul PC… Niente paranoie ma nemmeno troppo lassismo.</p>
+<h2 id="perché-non-sono-ancora-passato-definitivamente-a-linux">Perché non sono ancora passato definitivamente a Linux</h2>
+<p>Come dicevo all&rsquo;inizio però sono ancora sul Mac, anche se non sono pienamente soddisfatto… E tutto questo a causa dell&rsquo;hardware che ho a disposizione, almeno è quello che sto dicendo a me stesso in questo momento.</p>
+<p>Tempo fa ho visto un video molto interessante di uno dei miei creator preferiti: Riccardo Palombo. In un video su YouTube diceva che “Non ci serve nuovo hardware, ma nuovo software”, o qualcosa di molto simile. Che titolo meraviglioso! Però nel mio caso non funziona purtroppo….</p>
+<p>Fermi un attimo, Riccardo ha ragione e sono daccordo con lui sulla questione software, però ho notato che, almeno per me, l&rsquo;hardware è anche molto molto importante!</p>
+<p>Se sto scrivendo dal mio MacBook Pro non è di certo per Mac Os, né per i software al suo interno. Non mi importa nemmeno più di Photoshop ultimamente, ma è per l&rsquo;hardware!</p>
+<p>Tastiera, touchpad, schermo, batteria, microfono, ventole e tempi di ricarica sono buoni sul mio Mac, e sto parlando ancora della versione con Intel. Non c&rsquo;è niente di eccezzionale, ma tutto funziona alla grande, non ho mai avuto crash ed è un computer ben bilanciato e tutto sommato silenzioso (a parte quando lavoro con Docker…)</p>
+<p>Oltre al Mac ho un notebook ASUS su cui utilizzo Linux, e sono arrivato alla conclusione che il punto più debole del pc è proprio l&rsquo;hardware… In particolare ho uno schermo penoso, delle ventole rumorosissime e una batteria ridicola…</p>
+<p>Certo non è il notebook giusto da utilizzare con Linux, ma quando l&rsquo;ho comprato non pensavo che sarei diventato pinguino dipendente ? ?.</p>
+<p>Col Mac invece posso lavorare serenamente senza paura di finire la batteria senza accorgermene, potendo registrare il mio podcast direttamente dal microfono del laptop senza attaccare niente di esterno (anche perché non ha grandi porte ?) e posso arrivare a sera con gli occhi ancora sani e non lacrimanti come quando uso l&rsquo;ASUS….</p>
+<p>L&rsquo;unico modo con cui lavoro bene con l&rsquo;ASUS è usandolo come se fosse un pc fisso. Ci attacco tastiera, mouse e schermo esterni, lo chiudo e mi scordo di avere un notebook, allora devo dire che gira molto bene.</p>
+<p>Purtroppo però per il mio stile di vita è fondamentale avere un laptop su cui potermi fidare. Spesso mi sposto per qualche giorno in montagna dove non ho grosso spazio disponibile, e per il momento il Mac è veramente comodo!</p>
+<p>Vantaggi: con un solo caricatore posso caricare Mac, Smartphone e iPad (con connettore usbc-lightning), posso usare l&rsquo;iPad come secondo schermo senza collegare nessun cavo e posso fare a meno del mouse perché il touchpad è una vera bomba!</p>
+<h2 id="conclusione">Conclusione</h2>
+<p>E voilà, tutto qua! Perciò ora sono ancora imprigionato nel mondo Apple. Per carità, se mettessi da parte i concetti ideologici allora potrei rimanere così a vita, ma il marketing pompante, l&rsquo;overpricing e il fattore “moda” non mi fanno sentire del tutto a mio agio…</p>
+<p>Come posso risolvere? Dovrei provare a mettere le mani su un bel ThinkPad oppure un XPS e vedere come mi trovo, ma al momento non ho il budget disponibile per fare questo test…</p>
+<p>C&rsquo;è anche da dire che scegliere un laptop per Linux non è così facile…. Stanno nascendo aziende specializzate in notebook Linux, come la spagnola Slimbook, ma devo studiare meglio i loro prodotti prima di lanciarmi nell&rsquo;acquisto.</p>
+<p>Alla fine mi basterebbe un notebook con 4 pezzi di qualità: tastiera, touchpad, batteria e schermo. Purtroppo però capita spesso che i laptop windows pompino molto su processore e ram e meno sull&rsquo;esperienza d&rsquo;uso dell&rsquo;utente, che per noi programmatori è importantissima, almeno per me.</p>
+<p>Se devo passare dieci ore al giorno al PC, deve almeno essere carino e piacevole da usare!</p>
+<p>Questo è quanto per ora, appena metterò le mani su un ThinkPad vi farò sapere di più!</p>
+<p>Keep Coding ?</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Perché dovremmo tutti passare a Linux, e perché non lo facciamo</title>
+			<link>https://albertoreineri.it/blog/perch%C3%A9-dovremmo-tutti-passare-a-linux-e-perch%C3%A9-non-lo-facciamo/</link>
+			<pubDate>Wed, 28 Jul 2021 20:30:00 +0000</pubDate>
+			
+			<guid>https://albertoreineri.it/blog/perch%C3%A9-dovremmo-tutti-passare-a-linux-e-perch%C3%A9-non-lo-facciamo/</guid>
+			<description>Linux non è solamente uno strumento, un qualcosa che ci permette di fare qualcosa. Dietro al mondo del pinguino c’è tutta una filosofia, una storia di libertà e democrazia assoluta, la voglia di comunione e condivisione, di essere indipendenti e capire cosa c’è dietro ciò che facciamo.
+Il mondo dei computer è relativamente giovane. Negli ultimi decenni si è sviluppato in maniera esponenziale, diventando un fenomeno di massa senza avere il tempo di essere regolato correttamente dalla società.</description>
+			<content type="html"><![CDATA[<p>Linux non è solamente uno <strong>strumento</strong>, un qualcosa che ci permette di fare qualcosa. Dietro al mondo del pinguino c’è tutta una <strong>filosofia</strong>, una storia di libertà e democrazia assoluta, la voglia di comunione e condivisione, di essere indipendenti e capire cosa c’è dietro ciò che facciamo.</p>
+<p>Il mondo dei computer è relativamente giovane. Negli ultimi decenni si è sviluppato in maniera esponenziale, diventando un fenomeno di massa senza avere il tempo di essere regolato correttamente dalla società. Vedere aziende che incassano più di interi stati è una cosa pazzesca. <strong>Oggi le aziende tech detengono un potere enorme</strong>, quasi spaventoso.</p>
+<p>Tutte le aziende tech guadagnano <strong>due</strong> volte: la prima quandono vendono il loro prodotto, la seconda quando rimangono in contatto con i prodotti venduti, o meglio con i loro clienti e <strong>seguirne le mosse</strong>, il modo di comportarsi, la vita. Oggi la maggior parte dei software hanno sistemi di tracciamento, spesso mascherati da sistemi di sicurezza. Già perché se bisogna proteggere l’utente, impedirgli di fare cose pericolose, bisogna sapere cosa sta facendo. Recentemente Chrome propone un sistema di sicurezza avanzata che tiene d’occhio ogni azione che l’utente sta facendo per proteggerlo. Controlla i file scaricati, i siti visualizzati e tutta l’attività online. Il fine è certamente nobile, però a che prezzo?</p>
+<p>Tutto questo per <strong>l’utente medio</strong> può sembrare un gran vantaggio. Non deve preoccuparsi di niente, può cliccare su tutte le pubblicità per aumentare il suo conto corrente oppure le dimensioni del suo pene senza paura di beccarsi virus (in realtà se li becca lo stesso…). E tutto GRATIS!</p>
+<p>Bè, in realtà tutto questo ha un prezzo <strong>elevatissimo</strong>. Provate a pensare a quando eravate bambini, quando ancora non sapevate cosa era sicuro e cosa no. Come avete imparato a crescere? Avete i genitori e i nonni che ancora oggi vi seguono, restano alle vostre spalle ad ogni vostra mossa dicendovi cosa è giusto e sbagliato oppure avete imparato a capire come comportarvi nel mondo e ora siete indipendenti? Spero che la risposta corretta sia la seconda.</p>
+<p>Nel mondo reale avere qualcuno che ci spia continuamente è fastidioso, addirittura <strong>spaventoso</strong>, è una grandissima violazione dei diritti umani. Invece <strong>nel mondo online no</strong>, non ci facciamo caso, quasi non ce ne accorgiamo. Forse è perché non vediamo fisicamente qualcuno che ci controlla, anche se non è così difficile farlo, smanettando un po’ con le impostazioni e i termini di servizio si scoprono cose non proprio piacevoli.</p>
+<p>Basterebbe quindi imparare ad <strong>utilizzare internet nel modo corretto</strong>, e una volta imparato abbandonare la <em>babysitter</em> di turno e procedere da soli.</p>
+<h2 id="ma-perché-quasi-nessuno-lo-fa">Ma perché quasi nessuno lo fa?</h2>
+<p>Perché <strong>siamo</strong> **rimasti bambini **nel mondo online, ci facciamo portare per mano ad ogni passo.</p>
+<p>Partiamo dal fatto che è un mondo <strong>complicato</strong>. Forse a noi del settore può sembrare banale muoverci nel nostro mondo, ma per la maggior parte delle persone che utilizzano Chrome e MS Word fare qualcosa fuori dai loro schemi di base richiede uno sforzo enorme. Quindi ben vengano gli antivirus che mi bloccano se faccio stupidaggini, che mi riempiono la memoria di file inutili e mi distraggono con continui popup di offerte.</p>
+<p>Se nel mondo reale è brutto farsi accompagnare mano nella mano ogni volta che si attraversa la strada, nel mondo online questo è <strong>comodo</strong>. A tutti piace essere <strong>coccolati</strong>, lasciare il lavoro pesante agli altri e crogiolarci nella tranquillità. Ma il prezzo da pagare per essere bambini potrà diventare altissimo, soprattutto nel lungo periodo.</p>
+<p>Lasciare in mano ad aziende private il potere di decidere della nostra vita è spaventoso. Si è già visto come i social influenzino le elezioni, ma questo accadeva già con i giornali o con le prediche dei sacerdoti, è sempre capitato. Lasciare però un potere del genere nelle mani di pochi imprenditori liberi di muoversi a prescindere dal volere comune non è il massimo.</p>
+<h2 id="veniamo-al-tecnico">Veniamo al tecnico</h2>
+<p>Con Linux intendo tutta la community dell’open source, il mondo del FOSS (Free and Open Source Software). Certo ci sono software linux closed source, a pagamento, e bisogna ricordare che Free significa “libero”, non necessariamente Gratis. Inoltre Linux è solo il kernel, bisogna parlare di gnu-linux etc etc etc… Ok abbiamo capito però cosa voglio dire.</p>
+<p>Linux è un altro mondo. Certo è ostico, chiuso, pieno di persone saccenti e talvolta scortesi, pronte ad insultarti se fai la domanda sbagliata, ma è <strong>libero</strong>.</p>
+<p>Torniamo all’esempio del bambino. Per imparare bene è meglio un insegnante accondiscendente, che piuttosto che arrabbiarsi con te fa le cose al posto tuo oppure uno militaresco, deciso, pronto a urlarti in faccia pur di farti imparare? Non dico che sia sempre così, quando ero insegnante non sono mai stato di questo tipo, però possiamo pensare all’utente linux che ti risponde malamente come al professore bastardo che ti insulta, ma non per divertimento bensì per farti capire e migliorare.</p>
+<p>In nostro mondo gira attorno ai computer, orami è così. È spaventoso per che una minuscola percentuale conosce veramente <strong>come questi computer funzionino</strong>. Le scuole pensano che sia sufficiente insegnare ad utilizzare Ms Word e voilà, in realtà sarebbe essenziale avere una nozione di base disponibile per tutti, almeno sul funzionamento di internet.</p>
+<p>Se pensiamo ai motori delle auto non tutti sappiamo come funzionano nel dettaglio, ma sappiamo tutti che ruolo ha la benzina, come ricaricare una batteria, cambiare l’acqua e le candele. In realtà anche queste cose ormai non sono più di comune conoscenza, ma sembra che il mondo vada verso questa via, quella di chiamare qualcuno per ogni piccolo problemino, spesso utilizzando proprio la rete tramite un’app. Ma stiamo già sforando dall’argomento…</p>
+<h2 id="perché-dovremmo-tutti-usare-linux">Perché dovremmo tutti usare linux</h2>
+<p>Questo “<em>tutti</em>” non è inteso in senso globale, logicamente non si può pretendere che mia nonna utilizzi linux, anche se sarebbe figo, ma tutti noi leggermente più tecnici dovremmo iniziare ad utilizzarlo, vediamo perché:</p>
+<h3 id="è-libero">È libero</h3>
+<p>Ogni distro è nata con lo scopo di dare qualcosa agli utenti, non ai programmatori. Lo scopo di lucro quasi mai è al centro del mondo linux. Fare le cose per soldi o per passione è molto diverso.</p>
+<h3 id="è-aperto">È aperto</h3>
+<p>Linux è sinonimo di open source. Avere il codice aperto è garanzia di sicurezza e serietà, il fatto che chiunque possa dare un’occhiata “<em>sotto al cofano</em>” e controllare che tutto sia fatto come si deve è un grande vantaggio, sia in termini di sicurezza che di trasparenza. Se utilizzo un servizio con codice open source so esattamente cosa viene fatto dei miei dati, come vengono gestiti, come si comporta l’app a tutti i livelli. Inoltre se qualcuno nota una falla nel codice può segnalarlo agli sviluppatori in modo che questi possano intervenire. Non a caso Microsoft ultimamente si sta pian piano aprendo all’open source. Certo lo fa con uno scopo diverso rispetto al mondo linux, però questo approccio ha moltissimi vantaggi.</p>
+<h3 id="è-democratico">È democratico</h3>
+<p>Linux è per tutti. Esistono centinaia di distro, ognuna studiata per una tipologia specifica di utente, esistono migliaia di app disponibili per milioni di operazioni, c’è un mondo intero di sviluppatori che lavora con forte passione per rendere il mondo linux sempre migliore. Certo alcuni software proprietari molto utilizzati non sono disponibili per Linux, e questo impedisce a molti di entrare a farne parte. In primis MS Office e la suite di Adobe. Esisono però soluzioni alternative, il grosso problema è che le persone imparano ad utilizzare prima i software di MS e Adobe e poi si aspettano che le alternative Linux funzionino allo stesso identico modo. Non è così, sono mondi e visioni diverse. Se Gimp sembra complicato è perché si è imparato su Photoshop. Di recente ho parlato con un grafico che ha imparato tutto su Gimp e trova Photoshop incomprensibile…</p>
+<h3 id="è-gratis">È Gratis</h3>
+<p>Spesso la gente arriva a linux proprio per questo motivo, ma io ho voluto lasciarlo in fondo. Questo perché è un grande motivo, ma ce ne sono di ben più importanti. Non sempre poi deve essere gratis. Io sono molto affezionato ad Elementary OS, che ha adottato il “<em>Pay what you want</em>” come filosofia di fondo. In questo modo offre i suoi prodotti a chiunque al prezzo che decide l’utente.</p>
+<p>È possibile scaricare la distro gratis, provarla e se si ritiene che funzioni bene si può effettuare un pagamento. Così è anche per le app, si possono scaricare e pagare quanto si vuole. È un sistema che personalmente mi piace moltissimo e credo sia pienamente in linea con la filosofia dell’open source. Se è un momentaccio posso comunque utiizzare tutto gratuitamente, però se me la sto passando bene posso essere riconoscente al team di EOS e decidere di pagare quanto posso permettermi. Il risultato è lo stesso, sta all’utente decidere come essere riconoscente per il lavoro del team.</p>
+<h2 id="perché-non-passiamo-tutti-a-linux">Perché non passiamo tutti a Linux</h2>
+<p>Lentamente, con calma e senza far troppo rumore il mondo Linux si sta diffondendo. Grazie ai social, a Youtube e ai vari forum sempre più persone si stanno avvicinando al sistema del pinguino, e la cosa mi fa molto piacere.</p>
+<p>Rimangono però dei problemi di fondo ancora grandi da superare.</p>
+<h3 id="personalizzazioni">Personalizzazioni</h3>
+<p>Se il bello di linux è che posso personalizzarmelo come mi pare e piace, per alcuni questo può essere uno svantaggio. Gli utenti abituati ad accendere il computer e lavorare senza starci troppo dietro si trovano spiazzati dal dover fare qualcosa in più per mantenere la loro macchina.</p>
+<h3 id="batteria">Batteria</h3>
+<p>Linux è ancora esoso di risorse rispetto ai suoi competitor… Se un notebook con windows può arrivare a 12 ore di batteria, linux farà sempre peggio, almeno per il momento. Si sta lavorando anche su questo punto, però al momento è ancora in perdita. Per chi come me fa della durata della batteria un parametro fondamentale nella scelta di un laptop allora questo è un tasto dolente.</p>
+<h3 id="hardware-decente">Hardware decente</h3>
+<p>Trovare un laptop in grado di utilizzare al meglio linux non è facile. I problemi di driver non sono più altissimi, ma ci sono ancora. Bisogna controllare che tutti i componenti siano compatibili con linux. Esistono già alcune case che offrono laptop con ubuntu preinstallato, in questo caso sia la batteria che i componenti interni andranno sicuramente bene, ma sono ancora molto poche. Ne approfitto però per segnalare Slimbook, un’interessante azienda spagnola che sembra stia facendo un gran bel lavoro.</p>
+<h3 id="stabiità">Stabiità</h3>
+<p>Qua tutto dipende dalle conoscenze che uno ha. Se l’utente sa cosa sta facendo allora ci sono distro che in quanto a stabilità battono alla grande Windows e Mac OS. Purtroppo però se l’utente fa qualche cavolata, allora può incriccare tutto il sistema. Essendo un software libero il sistema raramente blocca l’utente quando sta facendo qualcosa di stupido, lo lascia agire serenamente. Capita quindi facilemnte di copiare comandi di terminale presi da forum online senza sapere bene cosa si sta facendo e finire con il bestemmiare come matti e dover ripartire da zero. Il consiglio è questo: se si è alle prime armi è meglio utilizzare una macchina virtuale per provare comandi da terminale. Sul sistema primario meglio fare solo cose sicure.</p>
+<h3 id="apple">Apple</h3>
+<p>Infine secondo me il problema più grosso l’ha creato Apple quando ha lanciano i processori M1. Potersi portare a casa un Macbook Air con poco più di mille euro è una tentazione troppo forte. Con una cifra a parer mio corretta si può avere un gran computer con batteria esagerata, prestazioni fantastiche, fanless (a chi piace), schermo e toucpad meravigliosi e un software elegante e funzionale. È difficile resistere a tutto questo. Considerando anche l’effetto “Figo” che fa avere hardware Apple, è difficile pensare a linux come competitor, solo uno sviluppatore o uno smanettone può prenderlo in considerazione.</p>
+<h2 id="cosa-si-può-fare">Cosa si può fare</h2>
+<p>Tanto, ma tanto è già stato fatto. Apprezzo moltissimo gli influencer che sponsorizzano Linux, come il nostro Riccardo Palombo, oppure Nick di The Linux Experiment, questo porta a conoscenza di grandi quantità di persone il sistema del pinguino e pian piano può aumentare il numero utenti.</p>
+<p>Pensare che negli ultimi 10 anni gli utenti di linux sono triplicati è una gran bella cosa, anche se siamo ancora sotto al 3%… (Alla buona abbiamo 80% Windows e 15% Mac OS…), ma bisogna che crescano ancora per poter avere sempre più interesse da parte degli sviluppatori.</p>
+<p>I grandi sviluppatori guardano al mercato, e oggi sviluppare un’app per linux è poco conveniente… Inoltre tutta questa libertà del mondo FOSS ha fatto sì che ci sia una gran dispersione, non solo di distro, ma anche di ambienti di sviluppo, con integralisti da ogni parte…</p>
+<h3 id="pensiamo-anche-a-questo">Pensiamo anche a questo:</h3>
+<p><strong>Apple</strong>: comprando hardware Apple si può usufruire di un prodotto premium sotto ogni punto di vista, curato, bello e funzionante. Però ci si imprigiona nel loro mondo. Se ho un Mac prima o poi dovrò prendere un iPhone per potermi integrare al meglio nell’ecosistema, poi un iPad, un Apple Watch, le AirPods e così via. Entro in un mondo dal quale è difficile uscire. Certo è tutto bello, però se arriva un periodo come gli anni fra il 2016 e il 2018, dove i macbook erano carissimi e con hardware di basso livello, non posso fare altro che mettermi il cuore in pace, dare il mio denaro alla apple e pagare molto un qualcosa che non va poi così bene… Ora con l’Apple Silicon si sono ripresi (alla grande), ma se entro nel club faticherò ad uscirne, ne sarò quasi imprigionato.</p>
+<p><strong>Microsoft</strong>: I prodotti Microsoft sono più democratici, più alla base di tutti, però hanno standard di sicurezza molto bassi. Già il sistema contiene pubblicità spammose appena installato, non è possibile che la prima cosa da fare appena acquisto un pc sia iniziare a pulirlo… Microsoft è stata furbissima ad accaparrarsi il mondo business con i software Office, così è entrata nel privato e nel pubblico e ora è difficile uscirne. Lo standard dei software di ufficio è suo e nessuno glielo può togliere ormai (anche se Google ci sta pian piano riuscendo). Ma è un sistema disordinato e <em>brutto</em>, pieno di falle. La cosa migliore però è che permette di giocare praticamente a tutto.</p>
+<p><strong>Google</strong>: a livello di privacy google può essere considerata scherzosamente “<em>Il male assoluto</em>“. Google è come la vicina impicciona che passa tutto il giorno alla finestra per controllare cosa stai facendo. Anche qua vale lo stesso discorso di Apple, se si entra nel loro sistema si finisce in trappola, costretti ad utilizzarlo senza poterne fare a meno. Per esempio google offriva la possibilità di caricare foto su Google Photos gratuitamente, ma da qualche mese questa funzionalità è diventata a pagamento. Per carità, ci sta, è un gran bel servizio, però ha spiazzato molti utenti. Non succederà mai, ma pensate se un giorno gmail diventasse a pagamento! Metà mondo andrebbe nel panico…</p>
+<h2 id="conclusione">Conclusione</h2>
+<p>Utilizzando software di queste aziende non siamo proprietari di ciò che facciamo. Pensate anche ai Kindle, se compro un libro non ne divento proprietario come accade con un libro cartaceo, ma ho il diritto di leggerlo sul dispositivo Kindle. Se amazon chiudesse (improbabile), perderei l’accesso e non potrei farci nulla. A livello legale si acqusita qualcosa che però poi non diventa nostro</p>
+<p>Con Linux invece si è proprietari di ciò che si fa al 100%. Perciò molti servizi cloud sono self hosted, così ognuno ha il controllo totale dei propri dati e delle proprie azioni.</p>
+<p>Il mio consiglio è quello di non diventarci pazzi, non occorre per forza farsi un server NextCloud privato e abbandonare i servizi dei big, ma almeno cominciare a pensarci un po’ e provare ad essere leggermente più indipendenti.</p>
+<p>Se più persone iniziassero ad usare Linux allora le aziende sarebbero più interessate a portare i loro software su questa piattaforma, permettendo agli utenti un’alternativa fra la costosa Apple e la pessima Microsoft.</p>
+<p>Io lavoro con Linux da un anno ormai e sono veramente poche le volte che ho rimpianto questa scelta.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Software per Sviluppo Web</title>
+			<link>https://albertoreineri.it/blog/software-per-sviluppo-web/</link>
+			<pubDate>Tue, 23 Feb 2021 20:28:00 +0000</pubDate>
+			
+			<guid>https://albertoreineri.it/blog/software-per-sviluppo-web/</guid>
+			<description>Amo programmare e amo i computer, quindi mi trovo spesso a dover configurare un pc per lo sviluppo web, installando tutti i software necessari.
+Che sia su un pc nuovo, su una nuova distro o semplicemente dopo una formattazione, ci sono sempre una serie di programmi che devo installare ogni volta. Col tempo ho quindi creato una** lista di app** da installare al primo avvio, per avere il pc subito pronto a lavorare.</description>
+			<content type="html"><![CDATA[<p>Amo programmare e amo i computer, quindi mi trovo spesso a dover configurare un pc per lo sviluppo web, installando <strong>tutti i software necessari.</strong></p>
+<p>Che sia su un pc nuovo, su una nuova distro o semplicemente dopo una formattazione, ci sono sempre una serie di programmi che devo installare ogni volta. Col tempo ho quindi creato una** lista di app** da installare al primo avvio, per avere il pc subito pronto a lavorare.</p>
+<p>Ho suddiviso la lista per <strong>categorie</strong> di software: quelli per programmare, per la grafica, i software generali e quelli destinati solamente ad un sistema operativo specifico.</p>
+<p>Su Linux per esempio installo sempre anche le gestures (uso praticamente solo più laptop…).</p>
+<p>Ecco la mia lista di software per sviluppo web:</p>
+<h3 id="softwares">Softwares</h3>
+<ul>
+<li><a href="https://brew.sh/index_it" target="_blank" rel="noreferrer noopener">Homebrew</a></li>
+<li><a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git" target="_blank" rel="noreferrer noopener">Git</a></li>
+<li><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer noopener">VS Code</a></li>
+<li><a href="https://filezilla-project.org/" target="_blank" rel="noreferrer noopener">Filezilla</a></li>
+<li><a href="https://localwp.com/" target="_blank" rel="noreferrer noopener">Local by Flywheel</a></li>
+<li><a href="https://nodejs.org/it/" target="_blank" rel="noreferrer noopener">Node JS</a></li>
+<li><a href="https://www.python.org/" target="_blank" rel="noreferrer noopener">Python</a></li>
+<li><a href="https://www.google.com/intl/it_it/chrome/" target="_blank" rel="noreferrer noopener">Chrome</a></li>
+<li><a href="https://www.mozilla.org/it/firefox/new/" target="_blank" rel="noreferrer noopener">Firefox</a></li>
+</ul>
+<hr class="wp-block-separator" />
+<h3 id="grafica">Grafica:</h3>
+<ul>
+<li><a href="https://www.figma.com/" target="_blank" rel="noreferrer noopener">Figma</a></li>
+<li><a href="https://www.adobe.com/it/products/photoshop.html" target="_blank" rel="noreferrer noopener">Photoshop</a></li>
+</ul>
+<hr class="wp-block-separator" />
+<h3 id="generali">Generali:</h3>
+<ul>
+<li><a href="https://www.whatsapp.com/?lang=it" target="_blank" rel="noreferrer noopener">WhatsApp</a></li>
+<li><a href="https://simplenote.com/" target="_blank" rel="noreferrer noopener">Simplenote</a></li>
+<li><a href="https://www.notion.so/" target="_blank" rel="noreferrer noopener">Notion</a></li>
+<li><a href="https://www.google.com/drive/download/" target="_blank" rel="noreferrer noopener">Google Drive Sync</a></li>
+<li><a href="https://www.amazon.it/gp/help/customer/display.html?nodeId=GZSM7D8A85WKPYYD" target="_blank" rel="noreferrer noopener">Kindle</a></li>
+<li><a href="https://justgetflux.com/" target="_blank" rel="noreferrer noopener">F.lux</a></li>
+<li><a href="https://www.spotify.com/it/download/" target="_blank" rel="noreferrer noopener">Spotify</a></li>
+</ul>
+<hr class="wp-block-separator" />
+<h3 id="mac">MAC:</h3>
+<ul>
+<li><a href="https://sparkmailapp.com/it" target="_blank" rel="noreferrer noopener">Spark Mail</a></li>
+<li><a href="https://www.mowglii.com/itsycal/" target="_blank" rel="noreferrer noopener">Itsycal</a></li>
+<li><a href="https://rectangleapp.com/" target="_blank" rel="noreferrer noopener">Rectangle</a></li>
+<li><a href="https://transmissionbt.com/" target="_blank" rel="noreferrer noopener">Transmission</a></li>
+<li><a href="https://theunarchiver.com/" target="_blank" rel="noreferrer noopener">Unarchive</a></li>
+</ul>
+<hr class="wp-block-separator" />
+<h3 id="windows">WINDOWS:</h3>
+<ul>
+<li><a href="https://www.avast.com/it-it/free-antivirus-download" target="_blank" rel="noreferrer noopener">Avast Antivirus</a></li>
+<li><a href="https://www.utorrent.com/intl/it/desktop" target="_blank" rel="noreferrer noopener">uTorrent</a></li>
+<li><a href="https://www.microsoft.com/it-it/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab" target="_blank" rel="noreferrer noopener">Windows terminal</a></li>
+<li><a href="https://docs.microsoft.com/it-it/windows/wsl/install-win10" target="_blank" rel="noreferrer noopener">WSL</a></li>
+<li><a href="https://www.winrar.it/" target="_blank" rel="noreferrer noopener">WinRAR</a></li>
+<li><a href="https://getmailspring.com/" target="_blank" rel="noreferrer noopener">MailSpring</a></li>
+<li><a href="https://www.apachefriends.org/it/index.html" target="_blank" rel="noreferrer noopener">XAMPP</a></li>
+</ul>
+<hr class="wp-block-separator" />
+<h3 id="linux">LINUX:</h3>
+<ul>
+<li><a href="https://s0rata.medium.com/gesture-setup-on-elementary-os-fce53997a50" target="_blank" rel="noreferrer noopener">Gestures</a></li>
+<li><a href="https://it.libreoffice.org/">Libre Office</a></li>
+<li><a href="https://getmailspring.com/" target="_blank" rel="noreferrer noopener">MailSpring</a></li>
+</ul>
+<p>Sia per Linux che per Mac ho intenzione di creare uno script oppure anche solamente salvarmi i codici di installazione di questi software in modo da lanciare il comando una volta sola e aspettare che il pc installi tutto da solo.</p>
+<p>Per ora non ho ancora avuto l’occasione per farlo, in ogni caso è molto semplice ed è uno dei motivi per cui amo i sistemi Unix.</p>
+<p>Spero che questa semplice lista possa essere utile a chi come me smanetta spesso con distro e pc e ogni volta si trova a dover installare software e app.</p>
+<p>Manca ancora NextCloud in questa lista, ma lo sto testando e devo ancora provarlo un po’ prima di renderlo parte definitiva del mio stack. Mi piace perché posso mantenere gli hard disk liberi e mettere tutto nel cloud, ma sono ancora in fase di test…</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Nuovi Macbook con M1 per programmare</title>
+			<link>https://albertoreineri.it/blog/nuovi-macbook-con-m1-per-programmare/</link>
+			<pubDate>Sun, 22 Nov 2020 20:22:00 +0000</pubDate>
+			
+			<guid>https://albertoreineri.it/blog/nuovi-macbook-con-m1-per-programmare/</guid>
+			<description>Di recente Apple ha scosso il mondo intero con l’annuncio dei suoi nuovi Macbook con processore proprietario, l’ormai famoso Apple Silicon M1, ma andranno bene per programmare?
+La risposta semplice è “dipende“… Ma mi rendo conto che non è abbastanza quindi andiamo un po’ più a fondo.
+Sviluppatori iOS e Mac Per tutti quelli sviluppatori che lavorano esclusivamente in ambiente Apple, cioè che sviluppano solamente app per iOS o software per Mac OS allora la risposta è semplice: SI, i Macbook con M1 possono andare bene per programmare in questo modo.</description>
+			<content type="html"><![CDATA[<p>Di recente <strong><a href="https://www.apple.com/it/" target="_blank" rel="noreferrer noopener">Apple</a> ha scosso il mondo intero <strong>con l’annuncio dei suoi nuovi Macbook con processore proprietario, l’ormai famoso</strong> Apple Silicon M1</strong>, ma andranno bene per programmare?</p>
+<p>La risposta semplice è “<strong><em>dipende</em></strong>“… Ma mi rendo conto che non è abbastanza quindi andiamo un po’ più a fondo.</p>
+<h2 id="sviluppatori-ios-e-mac">Sviluppatori iOS e Mac</h2>
+<p>Per tutti quelli sviluppatori che lavorano esclusivamente in ambiente Apple, cioè che sviluppano solamente app per iOS o software per Mac OS allora la risposta è semplice: <strong>SI</strong>, i Macbook con M1 possono andare bene per programmare in questo modo.</p>
+<p>Apple è sempre <strong>molto attenta al proprio ecosistema</strong>, il che è un gran surplus per i prodotti di questa casa. Utilizzare soltanto hardware e software Apple permette di vivere in un <strong>limbo magico</strong>, in cui tutto funziona a meraviglia senza problemi e senza bug (o comunque molto molto pochi).</p>
+<p>Se siete in questa piccola nicchia innanzitutto <strong>beati voi!</strong> Rimaneteci finché potete perché il mondo al di fuori è un accumularsi di bug, errori, diver, librerie e molto altro in grado di far venire un gran mal di testa…</p>
+<p>Sinceramente al di fuori di YouTube non ho ancora mai conosciuto uno sviluppatore che si occupi SOLAMENTE di sviluppo iOS e quindi possa fare a meno di tutta quella serie di componenti di cui noi Web Developer dobbiamo fare uso per forza…</p>
+<h2 id="sviluppatori-android">Sviluppatori Android</h2>
+<p>E per Android? Si può programmare con l’M1?</p>
+<p>Da quel che ho capito <strong>al momento no</strong>, perché non è possibile virtualizzare l’emulatore di Android, ma presto dovrebbe essere possibile farlo. Non resta che <strong>aspettare</strong>…</p>
+<h2 id="sviluppatori-web">Sviluppatori Web</h2>
+<p>Se sei uno sviluppatore web e ti stai chiedendo se il <a href="/blog/nuovo-macbook-pro-2020-per-sviluppo-web/">Macbook</a> con processore M1 possa essere il prodotto giusto cercherò di risponderti al meglio.</p>
+<p>Essendo il mondo dello sviluppo web molto molto vasto <strong>tutto dipende da cosa fai.</strong></p>
+<p>Se ti occupi di sviluppo di <strong>piccoli siti web</strong>, utilizzi soltanto il browser e un editor di testo, allora non c’è nessun problema! <em>Potresti utilizzare anche la Fire Stick TV da 20 euro e non avresti grossi problemi ??.</em></p>
+<p>Purtroppo però molte volte questo non basta e ci troviamo ad utilizzare software abbastanza pesanti…</p>
+<p>Per il momento molti software sono disponibili su Apple Silicon solamente attraverso <strong>Rosetta</strong>, l’emulatore di Apple che permette di eseguire software sviluppati per Intel . Questo comporta maggiore lentezza, anche se si parla molto molto bene di questo emulatore.</p>
+<p><strong>Chrome</strong> per il momento funziona solamente in questo modo, con Rosetta, e questo è un problema per la stragrande maggioranza degli sviluppatori web… Se non usi Chrome per sviluppare lo devi per forza utilizzare per i test dato che è il browser più utilizzato in assoluto, e non poterlo eseguire nativamente è un grande peccato. Fortunatamente Google rilascerà a breve una versione ARM quindi non c’è nulla da temere. Big G ha già fatto un bel teatrino rilasciando la versione per M1 e bloccandola poco dopo… A breve dovrebbero rilasciarla nuovamente, questa volta per davvero!</p>
+<p><em>È bello come le aziende di software più grandi al mondo possono permettersi di fare grossi errori senza grandi ripercussioni, mentre noi piccoli sviluppatori siamo torchiati ad ogni minimo minuscolo buggettino??…</em></p>
+<p>Oltre a Chrome ci sono altri software utilizzati molto di frequente da programmatori web che non funzionano ancora a dovere, come <strong>Docker</strong>, tutte le <strong>virtual machine</strong> (VMWare, Virtualbox, Parallels Desktop…) e <strong>Homebrew</strong> (funziona ma non ancora al 100%).</p>
+<p>Personalmente senza questi programmi per me questo Macbook sarebbe praticamente inutilizzabile! Ok, è una punzecchiatura perché sicuramente risolveranno questi problemi, ma <strong>per il momento sono appunto ancora un problema.</strong></p>
+<h2 id="conclusione">Conclusione</h2>
+<p>Da quanto dichiara Apple e dalle prime prove sul web si può notare che questi <strong>Macbook sono macchine davvero fantastiche.</strong></p>
+<p><strong>Veloci, performanti e con una batteria infinita! Meravigliosi.</strong></p>
+<p>Per un utente medio sono sicuramente grandiosi, assolvono alla quasi totalità dei compiti in maniera egregia, ma per noi sviluppatori penso che sia ancora un po’ presto…</p>
+<p>Scrivo questo articolo a fine <strong>novembre 2020</strong>, e al momento la vedo dura utilizzare questi Macbook per programmare senza beccarsi dei grandi mal di testa…</p>
+<p>Il mio consiglio è di <strong>aspettare ancora almeno un anno</strong>, finché il periodo di transizione all’era Silicon non sarà rodato a dovere, allora potremmo sicuramente usufruire degli enormi vantaggi di questi Macbook con M1 per programmare, senza rinunciare ai nostri software preferiti!</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Miglior PC per sviluppatori, la mia esperienza</title>
+			<link>https://albertoreineri.it/blog/miglior-pc-per-sviluppatori-la-mia-esperienza/</link>
+			<pubDate>Sun, 13 Sep 2020 20:19:00 +0000</pubDate>
+			
+			<guid>https://albertoreineri.it/blog/miglior-pc-per-sviluppatori-la-mia-esperienza/</guid>
+			<description>Qual è il miglior pc per sviluppatori? Bella domanda!
+È da un po’ di tempo che non scrivo un post sul mio blog. Fra le ferie e la ripresa del lavoro sono stato molto preso e non ho più avuto molto tempo per scrivere qualcosa di interessante.
+Questo però mi dispiace, perché mi piace scrivere, raccontare e consigliare qualcosa sul mondo dello sviluppo web, che oltre ad essere il mio lavoro rimane una delle mie più grandi passioni.</description>
+			<content type="html"><![CDATA[<p>Qual è il miglior pc per sviluppatori? Bella domanda!</p>
+<p>È da un po’ di tempo che non scrivo un post sul mio blog. Fra le ferie e la ripresa del lavoro sono stato molto preso e non ho più avuto molto tempo per scrivere qualcosa di interessante.</p>
+<p>Questo però mi dispiace, perché <strong>mi piace scrivere, raccontare e consigliare qualcosa sul mondo dello sviluppo web,</strong> che oltre ad essere il mio lavoro rimane una delle mie più grandi passioni.</p>
+<p>In questi mesi di pausa dal blog ho ricevuto molti messaggi in cui <strong>i lettori mi chiedevano consigli sull’acquisto del PC migliore per sviluppare</strong>.</p>
+<p>Oggi abbiamo a disposizione una <strong>marea di prodotti</strong> e migliaia di recensioni, che anziché semplificare l’acquisto spesso non fanno altro che insinuarci dubbi in testa e crearci più ansia del dovuto.</p>
+<p><strong><em>Il pc per noi è importante!</em></strong></p>
+<p>Per molte persone il pc è solamente uno strumento, un oggetto che permette di accedere a internet, leggere mail e creare documenti, da usare marginalmente durante la giornata.</p>
+<p>Per noi sviluppatori invece non è così. <strong>Il pc è il nostro migliore amico</strong> (o peggior nemico…), è sì uno strumento, ma è anche <strong>LO</strong> strumento, la macchina grazie alla quale facciamo tutto.</p>
+<p>Passiamo intere giornate a digitare sulla tasitera, ma non solo. Anche i classici lavori di segreteria costringono all’utilizzo del PC per la maggior parte della giornata, ma noi siamo “<em>più dentro</em>” i nostri computer.</p>
+<p>Utilizziamo strumenti avanzati e comunichiamo quasi direttamente con le nostre macchine, e queste devono rispondere sempre e essere disponibili, non deluderci o mollarci di colpo.</p>
+<p><strong>Qualche mese fa ho cambiato computer</strong>, dopo aver pensato molto a lungo alla macchina da acquistare, ho analizzato vari punti di vista e alla fine ho fatto la mia scelta, ma ve la dirò alla fine. Prima voglio raccontarvi percorso che mi ha portato all’acquisto.</p>
+<h2 id="sistema-operativo-pc-per-sviluppatori">Sistema Operativo PC per sviluppatori</h2>
+<p>Non sono mai stato un <em>Fanboy</em> di qualche azienda o progetto. Nella mia vita ho utilizzato sia <strong>Windows</strong> che <strong>Mac Os</strong> che <strong>Linux</strong> senza grossi problemi da parte di nessuno. <strong>Ognuno ha i suoi punti forti e deboli</strong>, non penso che esista un vincitore assoluto, semplicemente hanno ambiti di utilizzo diversi.</p>
+<p>Il primo computer che ho acquistato da solo, “con il sudore della fronte” dopo i primi stipendi è stato un Macbook, il fantastico <strong>Macbook White</strong> del 2010. All’epoca lavoravo come sviluppatore e volevo iniziare a registrare qualche demo musicale, quindi il Mac era la scelta migliore.</p>
+<p>Nel 2016 sono passato a <strong>Windows</strong>. Il Mac cominciava a rallentare e io all’epoca lavoravo come insegnante. Usavo molto poco il computer, più che altro usavo la suite di office per creare schede da dare agli studenti e gmail per leggere le email, niente altro.</p>
+<p>Ho quindi preso un <strong>Asus Vivobook</strong> con il quale ho iniziato anche a dedicarmi saltuariamente a un pochino di <strong>Gaming</strong>. Niente di esasperato, ma ogni tanto la sera mi piaceva rilassarmi e giochicchiare un pochino.</p>
+<p>Dal 2018 ho intrapreso la carriera di Sviluppatore Web Freelance e ho sempre utilizzato l’ASUS, andando a <strong>aumentare RAM e sostituendo l’SSD</strong> con uno migliore (ho sempre amato montare e smontare i computer, super divertente! ? ? ).</p>
+<p>Quest’anno però ho sentito <strong>la necessità di cambiare</strong>. Ho iniziato a lavorare su progetti grandi e mi è capitato di dover fare non solo più lo sviluppatore ma anche il <strong>Sys Admin</strong> di un server. Questa esperienza mi ha aperto al favoloso mondo di <strong>Linux</strong>!</p>
+<h2 id="linux-che-meraviglia-per-programmare">Linux, che meraviglia per programmare!</h2>
+<p>Da ragazzino avevo installato una <strong>Ubuntu</strong> sul mio vecchio PC Fisso, una di quelle macchine grige/giallognole con un tubo catodico grande quanto una cassa di Moretti e ci avevo pasticciato un pochino, ma avevo abbandonato il progetto e non avevo più installato linux da nessuna parte.</p>
+<p>Ho però sempre amato <strong>la filosofia dell’Open Source</strong>. Ho alternato la mia vita <strong>fra studi tecnici e filosifici</strong>, e in qualche modo l’open source metteva insieme entrambe queste parti.</p>
+<p>L’idea di non dover essere schiavi di un software mi piaceva! Esistono milioni di modi per effettuare una cosa, e dover per forza utilizzarne uno obbligatoriamente scelto dallo sviluppatore in qualche modo è una limitazione della libertà. Ma qua andiamo sul palloso quindi mi fermo…</p>
+<p>Il fatto è che <strong>Linux mi è piaciuto un sacco!</strong> Poter fare praticamente tutto utilizzando solo <strong>tastiera e terminale</strong>, abbandonare il fastidioso mouse e dire addio all’indolenzimento del polso, e sentirsi degli hacker solamente navigando fra le cartelle! Fantastico!!!</p>
+<p><strong><em>Ho iniziato a utilizzare Ubuntu sul lavoro.</em></strong></p>
+<p>Ho scelto questa distro per la sua <strong>stabilità</strong>, ne ho provate tante ma avevo bisogno di installare una serie di strumenti senza timore di piantare tutto, e Ubuntu se non altro è stabile da questo punto di vista.</p>
+<p>Mi sono trovato molto bene, ma <strong><em>non al massimo.</em></strong></p>
+<p>Se <strong>per sviluppare era l’ideale</strong>, non lo era per tutto il corollario di attività che svolgo da freelance, come gestione di task, gestione degli indirizzi email (leggo la posta di 12 indirizzi…), grafica etc.</p>
+<p>Questo per me era un <em><strong>problema</strong></em>…</p>
+<p>Come fare per unire le bellezze di Linux a una gestione ottimale della produttivita?</p>
+<h2 id="mac-os-è-il-migliore">Mac OS, è il migliore???</h2>
+<p>E qua spunta il buon vecchio <strong>Mac OS</strong>, un grande sistema operativo per pc per sviluppatori.</p>
+<p>Se nelle conferenze google si vede la schera di sviluppatori con la mela illuminata sulle ginocchia un motivo ci sarà!</p>
+<p><strong>Mac Os è veramente buono per programmare.</strong></p>
+<p>Unisce un sistema <strong>Unix</strong> alla stabilità e ai software di design e produttività fondamentali per me e per molti freelance.</p>
+<p>Con Mac Os posso agire da terminale con la stessa facilità di Linux (o quasi) e allo stesso tempo posso utilizzare Photoshop e <strong>Figma</strong> per il design e <strong>Spark</strong> per la gestione delle email (adoro questo programma! Se non lo conosci dacci un’occhiata.)</p>
+<p>Inoltre <strong>i prodotti della Apple sono belli!</strong> E non lo dico in maniera superficiale, ma sono davvero curati e trasmettono una piacevole sensazione ogni volta che vengono utilizzati.</p>
+<p><strong><em>Steve Jobs non si sbagliava sul design!</em></strong></p>
+<p>Passare l’intera giornata su una macchina e dentro un sistema bello, piacevole al tocco, silenzioso e curato è tutta un’altra esperienza!</p>
+<p>Questo ha solamente <strong>2 svantaggi</strong>: prezzo e giochi.</p>
+<p>Il prezzo è più alto! E qui c’è poco da fare se non aspettare offerte o guardare l’usato. Ma se guardiamo ai notebook top di gamma di altre aziende alla fine la differenza di prezzo non è così elevata.</p>
+<p>Per il gaming invece la Apple qualcosa sta facendo, ma lo standard rimane ancora Windws lato PC.</p>
+<h2 id="quindi">Quindi?</h2>
+<p>Alla fine ho preso il <strong>Macbook Pro</strong>, e mi trovo alla grande! Penso sia un gran pc per sviluppatori.</p>
+<p>Per la mia attività è la macchina ideale, veloce, portatile, bella e funzionale.</p>
+<p>Certo <strong>mi rimane il vecchio Asus con cui giocare.</strong></p>
+<p>Inoltre ho <strong>una bella partizione con <a href="https://elementary.io/it/" target="_blank" rel="noreferrer noopener">Elementary OS </a>per quando voglio fare un po’ il Nerd</strong> e pacioccare senza timore di rompere tutto!</p>
+<p>In questo momento <strong>per le mie necessità sicuramente il Mac è la macchina migliore</strong> sotto molti punti di vista. Certo <strong>non è perfetta ma ci va molto vicino.</strong></p>
+<h2 id="outro">Outro</h2>
+<p>Mi piace molto l’evoluzione che stanno avendo le varie <strong>distro Linux</strong> durante gli ultimi anni. Grazie anche ai social e specialmente <strong>YouTube</strong> molte persone stanno entrando nell’open-source e questo è un bene, sia per la diversificazione che per la crescita delle singole distro.</p>
+<p>Se nel giro di qualche anno si potranno trovare <strong>macchine curate</strong> come il MacBook Pro (sembra che Huawei ci stia provando con i <strong>Matebook 13</strong>) e se finalmente arriveranno su Linux alcuni programmi per gestire design e produttività allora per le mie esigenze saremo vicini alla perfezione, al pc per sviluppatori dei miei sogni.</p>
+<p>Spero vivamente che possa succedere!</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Nuovo Macbook Pro 2020 per sviluppo web</title>
+			<link>https://albertoreineri.it/blog/nuovo-macbook-pro-2020-per-sviluppo-web/</link>
+			<pubDate>Tue, 30 Jun 2020 21:52:00 +0000</pubDate>
+			
+			<guid>https://albertoreineri.it/blog/nuovo-macbook-pro-2020-per-sviluppo-web/</guid>
+			<description>Ebbene sì, sono passato ad Apple! Ho acquistato il nuovo Macbook Pro 2020.
+È stata una decisione pensata a lungo, ho valutato tutto nei minimi dettagli e alla fine mi sono deciso a fare l’acquisto. Ne è valsa la pena?
+Ve lo racconto in questo articolo. Essendo uno sviluppatore mi concentrerò soprattutto sul software, ma parlerò anche un pochino di hardware.
+Quale Macbook? Per prima cosa devo specificare il modello che ho acquistato.</description>
+			<content type="html"><![CDATA[<p>Ebbene sì, sono passato ad <strong>Apple</strong>! Ho acquistato il nuovo Macbook Pro 2020.</p>
+<p>È stata una decisione <strong><a href="/blog/nuovi-macbook-con-m1-per-programmare/">pensata a lungo</a></strong>, ho valutato tutto nei minimi dettagli e alla fine mi sono deciso a fare l’acquisto. <strong>Ne è valsa la pena?</strong></p>
+<p>Ve lo racconto in questo articolo. Essendo uno <strong>sviluppatore</strong> mi concentrerò soprattutto sul software, ma parlerò anche un pochino di hardware.</p>
+<h2 id="quale-macbook">Quale Macbook?</h2>
+<p>Per prima cosa devo specificare il modello che ho acquistato. L’offerta della Apple, sebbene sia sempre limitata, contiene macchine molto diverse fra loro per prestazioni e potenza.</p>
+<p>Io mi sono portato a casa il <strong><a href="https://www.apple.com/it/macbook-pro/" target="_blank" rel="noreferrer noopener">Macbook Pro 2020 Modello Base</a></strong> (core i5 di ottava generazione, 8Gb di RAM e 250Gb di SSD).</p>
+<p>Secondo me al momento è il miglior compromesso fra prezzo e prestazioni. Certo è sempre molto più caro di un suo equivalente Windows, ma analizzandolo a fondo alla fine si scopre che non è proprio così.</p>
+<p>Certo si può acquistare un Notebook Windows con stesse componenti interne a metà prezzo, però questo prodotto avrà sicuramente un pessimo display, ventole molto rumorose, touchpad piccolo e poco sfruttabile, effetto plastica, tastiera di bassa qualità etc.</p>
+<p>Guardanto solo le componenti principali può sembrare caro, ma andando su un suo concorrente Windows con la stessa qualità costruttiva come il Dell XPS 13, alla fine il prezzo non è molto superiore, e se devo spendere 1500 euro per un 13 pollici prendo un Apple.</p>
+<p>Non perché odio Windows, anzi, però Mac Os è molto più gradevole e ordinato.</p>
+<h2 id="perché-sono-passato-a-apple">Perché sono passato a Apple?</h2>
+<p><strong>Unix</strong> è la risposta base. Lavorando sempre più spesso con il terminale sentivo molto la mancanza di questo tool in Windows. Mi sono arrangiato per molto con WSL, ma non è la stessa cosa.</p>
+<p>Sono un tipo un po’ <strong>precisino</strong>, e avere un PC con due terminali suoi (cmd e Powershell) più altri sottosistemi (io avevo Ubuntu e Kali Linux) crea un gran disordine d’insieme. Ci sono alcune cose che funzionano solo su linux e quindi necessitano della WSL, altre che invece devono girare per forza con Powershell, e alla fine tutto questo disordine è disorientativo e porta via molto tempo in configurazioni.</p>
+<p>Su MacOS il terminale funziona alla grande, e può contare su un ambiente bello e elegante, cosa che purtroppo non ho mai trovato il Linux. Certo Ubuntu è molto figo anche come design, ma non mi ci sono mai trovato veramente a mio agio, soprattutto quando si trattava di usare strumenti di design.</p>
+<h2 id="ho-fatto-bene">Ho fatto bene?</h2>
+<p>Si, non mi sono ancora pentito della scelta. Conoscevo già molto bene MacOS in quanto l’ho utilizzato per quasi dieci anni in passato. Ero passato a Windows perché non ho mai amato la batterfly keyboard né i prezzi esorbitanti degli ultimi anni.</p>
+<p>Quando ho visto la tastiera nuova, l’SSD raddoppiato e il prezzo sceso (sebbene di soli 20€) ho deciso che era giunto il momento di tornare a MacOs.</p>
+<p>Da sviluppatore sono veramente molto più tranquillo. Tutto ciò che mi serve funziona benissimo. Node Js, Git, Lamp stack, React, tutto ciò che ho installato gira molto bene.</p>
+<p>Inoltre posso utilizzare un gran numero di gesture e scorciatoie veramente utili e che mi fanno risparmiare molto tempo.</p>
+<p>Esistono migliaia di articoli sul web che parlano dei vantaggi del trackpad, delle gestures e di queste cose, ma ho scoperto una cosetta che non ho trovato scritta da nessuna parte. Forse sono solo io nella mia pignoleria ad averla colta, ma l’ho trovata una cosa fantastica. Ecco cos’è:</p>
+<h3 id="pollice-vs-mignolo">Pollice VS Mignolo</h3>
+<p>Eh già, parliamo di dita. Ma mi spiego meglio. Su Windows il tasto forte della tastiera è il Ctrl, su Mac il Cmd. Su Windows quindi si utilizza molto il mignolo (Ctrl+C), su Mac il pollice (Cmd+C).</p>
+<p>Ebbene ho apprezzato tantissimo questa cosa su Mac. Il pollice è molto vicino al trackpad e alla barra spaziatrice, inoltre è molto più facile muovere il pollice rispetto all’indice, anatomicamente.</p>
+<p>Questo ha velocizzato un sacco di operazioni. Fare copia/incolla, refreshare pagine web, spostarsi fra i software, tutto è più fluido.</p>
+<h2 id="cosa-amo-di-macos">Cosa amo di MacOS</h2>
+<ul>
+<li>Trackpad favoloso</li>
+<li>Pollice meglio di mignolo</li>
+<li>Terminale</li>
+<li>Qualità generale</li>
+<li>Batteria</li>
+<li>Software</li>
+</ul>
+<h2 id="cosa-mi-manca">Cosa mi manca</h2>
+<ul>
+<li>Giochi</li>
+</ul>
+<h2 id="conclusione">Conclusione</h2>
+<p>Alla fine penso che il prezzo non sia così esagerato. Per chi come me poi utilizza il computer per lavoro è fondamentale avere una macchina affidabile su cui poter contare, ed è di aiuto averla anche bella e piacevole da vedere e utilizzare.</p>
+<p>Alla fine l’unica cosa che un pochino mi manca sono i giochi. Non sono un gamer incallito, ma ogni tanto mi piace trascorrere una mezz’oretta a giocare un po’ la sera, e per fare questo devo ancora utilizzare il mio vecchio pc, ma va bene così, almeno il Mac resta pulito anche a livello software.</p>
+<p>Questa è la mia esperienza con il nuovo Macbook Pro fino ad adesso, spero continui ad andare avanti bene.</p>
+<p><em>Buon codice!</em></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Ha senso il nuovo Macbook Air 2020 per lo Sviluppo Web</title>
+			<link>https://albertoreineri.it/blog/ha-senso-il-nuovo-macbook-air-2020-per-lo-sviluppo-web/</link>
+			<pubDate>Sat, 21 Mar 2020 21:49:00 +0000</pubDate>
+			
+			<guid>https://albertoreineri.it/blog/ha-senso-il-nuovo-macbook-air-2020-per-lo-sviluppo-web/</guid>
+			<description>Mi sto chiedendo se il Macbook Air 2020 possa essere un buon pc per sviluppo web.
+In questo articolo voglio uscire un attimo dal codice puro per parlare di qualcosa che è altrettanto importante per uno sviluppatore: il computer!
+La macchina tramite la quale scriviamo i nostri codici è molto importante.
+Per molti è un semplice strumento, ma in realtà è un oggetto su cui passiamo ore e ore, sudiamo, ci arrabbiamo, ci disperiamo e tramite il quale creiamo i nostri fantastici progetti!</description>
+			<content type="html"><![CDATA[<p>Mi sto chiedendo se il Macbook Air 2020 possa essere un buon pc per sviluppo web.</p>
+<p>In questo articolo voglio uscire un attimo dal codice puro per parlare di qualcosa che è altrettanto importante per uno sviluppatore: il <strong>computer</strong>!</p>
+<p>La macchina tramite la quale scriviamo i nostri <strong>codici</strong> è molto importante.</p>
+<p>Per molti è un semplice <strong>strumento</strong>, ma in realtà è un oggetto su cui passiamo ore e ore, sudiamo, ci arrabbiamo, ci disperiamo e tramite il quale creiamo i nostri fantastici progetti!</p>
+<p>Non è quindi sufficiente avere un <strong>insieme di pezzi di ferro e plastica</strong>!</p>
+<p><em>In realtà sì però…</em></p>
+<p>Per sviluppare siti web, anche molto pesanti, non servono super computer. Un <strong>core i5</strong> con 8gb di RAM e un buon SSD possono già fare molto, non è il caso di puntare a chissà quale hardware.</p>
+<p>Anche <strong>virtualizzando</strong> i nostri server l’impiego di risorse non è altissimo, a patto di non lavorare con 30 macchine virtuali aperte contemporaneamente… Ma nella maggior parte dei casi si lavora su un progetto per volta, magari due. Personalmente non credo di aver mai avuto bisogno di aprire più di 3 istanze vagrant contemporaneamente… Poi dipende anche dal tipo di ambiente di sviluppo che utilizzate.</p>
+<p>Ma <strong>gli strumenti non sono tutti uguali</strong>. Ogni pittore ha il suo pennello preferito, ogni scultore il suo martello a cui tiene particolarmente!</p>
+<p>E questo <strong>non ha a che fare con le scelte razionali</strong>. Non è detto che il massimo della tecnica sia automaticamente lo strumento migliore per noi! Ci sono molte cose che influenzano i nostri pensieri, e in un lavoro nel quale il <strong>pensare è la parte fondamentale</strong>, avere gli strumenti che fanno pensare bene può fare la differenza.</p>
+<h2 id="il-mio-laptop">Il mio laptop</h2>
+<p>La macchina che utilizzo adesso è frutto di un pensiero puramente <strong>razionale</strong>.</p>
+<p><strong>Due anni fa avevo bisogno di un pc nuovo</strong> e sapevo di volere un laptop, per praticità.</p>
+<p>Ho quindi acquistato quello con il miglior hardware al prezzo più contenuto: un <strong>ASUS Vivobook Pro</strong>, core i7, 16bg RAM, 128 SSD, 1Tb HHD e 4Gb di scheda video, il tutto a 999€.</p>
+<p>E’ un gran bel computer, <strong>fa tutto quello che deve</strong> e non mi ha mai abbandonato né fatto rimpiangere l’acquisto.</p>
+<p>Ho effettuato lavori pensati, anche sviluppo 3D e non ha mai tentennato.</p>
+<p><em>Ha però dei punti negativi…</em></p>
+<p>In primo luogo il <strong>display</strong>. In poche parole _fa un po’ schifo… _La luminosità è molto bassa e i colori non sono il massimo. C’è da dire che io lo collego sempre ad un monitor esterno e utilizzo il display del laptop come <strong>secondario</strong>, quindi non è un gran problema, tranne quando voglio portarmelo all’aperto e fare qualche lavoretto <strong>sotto il sole</strong>. In questo caso risulta <strong>impossibile</strong> lavorare. Supera di poco i 200 nits e se c’è anche solo un po’ di sole non si vede praticamente nulla…</p>
+<p>Poi c’è la <strong>batteria</strong>, un gran tasto dolente… Non è mai durata più di 4 ore. Certo la componentistica è pesante, e per far girare un processore potente con una scheda video ne serve di energia. Ma io vorrei poter portarmelo fuori senza avere il timore di rimanere bloccato a metà di un lavoro.</p>
+<p>Inoltre 4 ore sono in utilizzo tranquillo, ma <strong>sul lavoro non riesco a farlo durare più di 2…</strong> E la cosa peggiora quando lancio la mia amata <strong>Elementary Os</strong>… Purtroppo su questo fronte linux deve ancora migliorare un po’…</p>
+<p>Le <strong>ventole</strong> poi mi fanno impazzire! Subito non ci facevo caso, ma con il tempo ho iniziato a non sopportare più il continuo ronzare, perpetuo, infinito e <strong>snervante</strong>… Ho scoperto che la rumorosità è una caratteristica comune dei Vivobook, quindi c’è poco da fare.</p>
+<p>Infine ci sono le <strong>sensazioni emotive</strong>, tutti quei sentimenti che ci legano agli oggetti senza nessun particolare motivo.</p>
+<p>Tutti abbiamo degli oggetti materiali a cui teniamo particolarmente, verso cui proviamo qualcosa.</p>
+<h2 id="un-po-di-storia">Un po’ di storia</h2>
+<p>Ricordo quando ho acquistato il mio primo <strong>Macbook nel 2011</strong>. Arrivato a casa ero estasiato dalla bellezza di quella macchina, che mi ha servito dignitosamente per 7 anni.</p>
+<p><strong>Con l’ASUS non c’è mai stato il colpo di fulmine</strong>. E’ carino, funziona bene, ha una bellissima tastiera, è veramente potente, posso lanciare Windows, aprire Ubuntu in VmWare e nel frattempo farmi una partita a Far Cry senza dover chiudere nulla. Tutto funziona a meraviglia, ma <strong>manca il sentimento…</strong></p>
+<p>Quando scrivo sul Vivobook non è come quando digitavo i tasti sul vecchio Macbook. <strong>E’ una sensazione!</strong> E’ vero che è semplicemente una macchina, uno strumento, ma è attraverso questo strumento che sviluppo i miei lavori, ed è molto importante <strong>utilizzarlo con il sorriso sulle labbra!</strong></p>
+<h2 id="perché">Perché?</h2>
+<p>Ho una teoria a riguardo. <strong>Windows 10 è un sistema operativo fantastico.</strong> Dico sul serio, ho iniziato a sviluppare creando software per Widnows in Visual Basic e negli anni ho avuto modo di conoscere a fondo questo sistema operativo, che con il passaggio dall’8.1 al 10 è diventato veramente figo! E’ versatile, leggero e semplice, l’ideale per la maggioranza delle persone.</p>
+<h3 id="_ma_"><em>Ma…</em></h3>
+<p>C’è sempre un ma… E nel mio caso sono <strong>2</strong>:</p>
+<p>Da un lato non è <em><strong>unix like</strong></em>. Man mano che miglioro come sviluppatore mi rendo conto di quando sia importante avere un buon terminale con il quale lavorare, e sebbene <strong>WSL</strong> non sia male, non è paragonabile ai terminali Linux e Mac.</p>
+<p>Dall’altro il design è troppo “<em><strong>da ufficio</strong></em>“. Windows si è distinto fin dall’inizio per essere il sistema operativo della <strong>gente che lavora</strong>, dei produttivi, delle scuole, degli uffici… <strong>La grafica è molto <em>quadrata</em></strong>, nel senso allegorico della cosa (<em>dalle mie parti una persona quadrata è una molto seria e attenta alle regole</em>). Per lavori creativi questo sistema quadrato risulta una <strong>gabbia</strong>, una prigione che ci costringe al suo interno invece che ispirarci!</p>
+<p>Per questo penso proprio che <strong>la mia futura macchina avrà la mela morsicata</strong> sopra.</p>
+<h2 id="e-linux">E linux?</h2>
+<p>Bella domanda! <strong>La soluzione migliore sarebbe certo linux!</strong> I server web girano tutti con debian e centOs, quindi quale ambiente migliore per sviluppare?</p>
+<p>Inoltre è <strong>free</strong>, quindi non bisogna sottostare ai <strong>prezzi folli di Apple.</strong></p>
+<p>Ma anche qui bisogna fare dei compromessi…</p>
+<p>Ho utilizzato molto <strong>Ubuntu</strong>e <strong>Elementary Os</strong>, con una propensione per la seconda (solamente per gusti estetici).</p>
+<p>Ci sono delle cose che per un ambiente desktop sono ancora un po’ troppo complicate.</p>
+<p>E’ vero che posso crearmi una lamp stack in 3 minuti digitando solamente una serie di comandi, posso utilizzare docker e vagrant senza problemi, è un sistema leggero e veloce e non installa le porcherie che si portano dietro gli altri 2 big, però non funziona ancora bene <strong>out of the box</strong>…</p>
+<p>Per questo intendo per esempio che occorre installare e configurare un software per le gestures, uno per la gestione della batteria, uno per sincronizzare Google Drive etc. <em>Il bello dell’open source è che ogni cosa può essere configurata a piacere, il brutto è che ogni cosa può essere configurata a piacere…</em></p>
+<p>Inoltre ci sono alcuni programmi per me fondamentali come Photoshop che non sono disponibili per linux… Si, esiste Wine, ma di nuovo serve un software per far andare un altro software…..</p>
+<p>Oltre che programmare, <strong>il computer mi serve per gestire i lavori</strong>, creare fatture, scrivere e rispondere ai clienti e fare tutto ciò che sta attorno allo sviluppo (<em>la parte peggiore della giornata</em>… <em>Perché non posso starmete tutto il giorno a pensare e scrivere codice???</em>) e da questo punto di vista ho preferito <strong>Mac</strong> e <strong>Windows</strong>.</p>
+<h2 id="quindi">Quindi?</h2>
+<p>A sedici anni ho comprato una <strong>Vespa PX 125 del 1980</strong>. Va piano, non frena nulla, sta in equilibrio per miracolo, consuma e ogni volta che devo fare il pieno devo farmi la miscela da solo.</p>
+<p>A ventiquattro anni ho comprato una <strong>Yamaha FZ6</strong>, una moto affidabile, stabile e sicura che mi ha portato a superare i 200km/h senza problemi e permesso di viaggiare molto più lontano della Vespa.</p>
+<p>Indovinate <strong>quale delle 2</strong> è ancora oggi nel mio garage?</p>
+<p><strong>La vecchia vespa!</strong></p>
+<p>Ogni tanto la ragione ci spinge a fare qualcosa ma <strong>è il cuore quello da seguire.</strong> Non dobbiamo sempre fare scelte intelligenti per forza, anzi, a volte le scelte più stupide ci fanno sentire meglio! In fondo siamo uomini, non dei.</p>
+<h2 id="conclusione">Conclusione</h2>
+<p>Questo è il pensiero che riempie le mie giornate durante gli ultimi giorni. Devo comprare il nuovo <strong>macbook air</strong> 2020 per sviluppo web? Può avere senso per lo sviluppo web?</p>
+<p>Comprerei una macchina più cara di quella che utilizzo attualmente, più piccola e con meno potenza, ma più bella.</p>
+<p><strong>Bella</strong> non solo sul lato estetico, ma più silenziosa, più portatile, con una migliore batteria e un sistema unix-like.</p>
+<p>Quindi ho davvero bisogno dei 16Gb di RAM? Posso sempre usare l’ASUS come pc <em>bestia</em>, per i carichi pesanti, e potrei usare il Macbook Air 2020 per sviluppo web e tutto il resto.</p>
+<p><strong>Ne vale la pena?</strong> Sono soldi buttati? Sono tutte scuse per avere un notebook figo e alla moda?</p>
+<p>Non faccio mai niente solo per moda, per questo mi faccio tutte queste domande, ma da <strong>sviluppatore</strong> che passa ore e ore al pc secondo me avere una macchina come il nuovo <strong>macbook air 2020 per sviluppo web</strong> non è uno spreco di denaro.</p>
+<p>Che ne dite? Fatemi sapere la vostra opinione, magari mi aiuterà a scegliere!</p>
+<p><strong>Grazie per aver letto questo articolo!</strong></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Windows VS Mac per Sviluppo Web: la mia esperienza</title>
+			<link>https://albertoreineri.it/blog/windows-vs-mac-per-sviluppo-web-la-mia-esperienza/</link>
+			<pubDate>Sun, 08 Dec 2019 21:40:00 +0000</pubDate>
+			
+			<guid>https://albertoreineri.it/blog/windows-vs-mac-per-sviluppo-web-la-mia-esperienza/</guid>
+			<description>Oggi voglio raccontarvi la mia esperienza nell’utilizzo di questi due sistemi operativi, dell’eterna lotta Windows vs Mac.
+Lo farò dal punto di vista di uno sviluppatore ma anche di un utente normale, perché utilizzo il pc sia al lavoro che a casa, sia per programmare che per rispondere a email, scrivere documenti, segnare appuntamenti etc…
+Durante i miei dieci anni di programmazione ho avuto modo di utilizzare sia Windows che Mac, ognuno per più anni, e sono giunto ad una mia conclusione, che è un po’ controcorrente rispetto a quello che si legge di solito sui vari forum e social del settore.</description>
+			<content type="html"><![CDATA[<p>Oggi voglio raccontarvi <strong>la mia esperienza</strong> nell’utilizzo di questi due sistemi operativi, dell’eterna lotta Windows vs Mac.</p>
+<p>Lo farò dal punto di vista di uno sviluppatore ma anche di un utente normale, perché utilizzo il pc sia al lavoro che a casa, sia per programmare che per rispondere a email, scrivere documenti, segnare appuntamenti etc…</p>
+<p>Durante i miei dieci anni di programmazione ho avuto modo di utilizzare <strong>sia Windows che Mac</strong>, ognuno per più anni, e sono giunto ad una <strong>mia conclusione</strong>, che è <strong><em>un po’ controcorrente</em></strong> rispetto a quello che si legge di solito sui vari forum e social del settore.</p>
+<h2 id="i-miei-primi-anni">I MIEI PRIMI ANNI</h2>
+<p>Ho <strong>iniziato</strong> la mia carriera come <strong>programmatore vb.net</strong>, quindi utilizzavo per forza di cose un pc <strong>windows</strong>. Era un fisso mezzo scassato con Windows <strong>xp</strong>. Devo dire che <strong>non mi trovavo affatto male</strong>. Sviluppando software gestionali i clienti nel 99,9% dei casi avevano un pc windows (all’epoca c’erano veramente pochi prodotto apple in giro…almeno dalle mie parti) e quindi il programma doveva girare su quel sistema operativo. Quei primi quattro anni di programmazione mi hanno fatto apprezzare il sistema operativo del buon Bill Gates, arrivando a <strong>conoscere <strong>praticamente</strong> tutte le scorciatoie da tastiera</strong> e tutte le personalizzazioni disponibili, riuscivo ad essere veramente <strong>molto veloce</strong> con il mio PC e <strong>conoscevo alla perfezione il mio ambiente di lavoro</strong>.</p>
+<h2 id="macbook-white">MACBOOK WHITE</h2>
+<p>Poi, più che altro per curiosità, mi <strong>comprai</strong> un mac, in particolare il <strong>macbook white</strong>. Bellissimo!</p>
+<p><strong>Esteticamente non aveva paragoni</strong> con la concorrenza. Un pc completamente bianco, senza disegni, stampini, senza nulla di superfluo.</p>
+<p><strong>Così iniziò il mio viaggio nel mondo apple</strong>. Ed andò bene.</p>
+<p>Dal punto di vista del design Mac vinceva a mani basse, inoltre aveva un programma che ho amato ed utilizzato moltissimo: Garageband!</p>
+<p>La semplicità di quel software era grandiosa! Potevo registrare in maniera decente anche senza scheda audio, senza lag di alcun tipo, e gli effetti già presenti di default erano fantastici! Non ho mai trovato niente del genere in Windows purtroppo…</p>
+<p>Ma c’era sempre <strong>qualcosa che non mi andava giù….</strong></p>
+<p>Era <strong>bello</strong>, la <strong>batteria</strong> era <strong>infinita</strong>, era <strong>fluido</strong> e <strong>veloce</strong>, ma <strong>troppo chiuso</strong>!</p>
+<p>Sarà anche scontato, ma proprio il fatto di essere un sistema chiuso non mi piaceva per niente!</p>
+<p><strong>Sono sempre stato uno smanettone</strong>. Appena prendo fra le mani una macchina di qualunque tipo devo capire come funziona, come farla funzionare meglio e come “<em>pacioccarci</em>” un po’, e con il mac non potevo fare granché…</p>
+<h2 id="problemi">PROBLEMI</h2>
+<p>E qua veniamo al vivo della battaglia Windows VS Mac.</p>
+<p>Il primo problema era la <strong>suite office</strong>. All’epoca l’unica alternativa era open office, ma la compatibilità non era al 100%, capitava talvolta di aprire un file di word e vedere la formattazione completamente sballata… E questo mi infastidiva parecchio. Certo avrei potuto comprare Office per Mac, ma non mi andava…_(ok?:))</p>
+<p>Poi lato <strong>programmazione</strong> mi sentivo un po’ bloccato. E’ vero che Visual Basic è un linguaggio appunto molto <em>basic</em>, ma all’epoca quello conoscevo e non potevo fare nulla con il mio pc. Avevo installato windows su macchina virtuale ma era molto molto lento e non riuscivo a lavorare come si deve…</p>
+<p>Anche lo sviluppo web non era così semplice per me! Io utilizzavo <strong>XAMPP</strong> e all’epoca ricordo che non c’era per Mac, così avevo scaricato MAMP ma non mi piaceva molto…</p>
+<p>Infine <strong>non potevo giocarci</strong>… e sebbene non sia mai stato un gamer incallito, ogni tanto poter lanciare qualche semplice giochino per rilassarsi un attimo non era male.</p>
+<p>Diciamo che mi sentivo bloccato. Se con Windows potevo fare tutto ciò che mi pareva, installare di tutto, modificare, provare fino a dover formattare il computer a causa di tutti i pasticci che avevo creato, con il mac non potevo fare quasi nulla… Certo evitavo di creare pasticci, ma a me piaceva!!!</p>
+<h2 id="ritorno-a-windows">RITORNO A WINDOWS</h2>
+<p>Dopo 6 anni ho dovuto cambiare il pc, <strong>il piccolo macbook white non ne poteva veramente più</strong>, e sono tornato a Windows.</p>
+<p>Quella volta nella lotta Windows Vs Mac ha vinto Windows.</p>
+<p>Oggi <strong>i prezzi dei mac sono veramente inavviciabili</strong>… Il mio macbook white partiva da un prezzo di 1000 € e ricordo di averlo preso in offerta all’euronics a 800€, erano ancora cifre accettabili per un pc con 500Gb di HDD e 4 Gb di RAM all’epoca.</p>
+<p>Ora se si vuole un modello base bisogna tirare fuori <strong>quasi in doppio</strong>, per avere 128Gb di memoria, veramente un taglio ridicolo, e senza avere a disposizione porte USB, SD e HDMI, che trovo ancora di fondamentale importanza.</p>
+<p><strong>Così ho ripreso Windows e devo dire che mi trovo benissimo!</strong></p>
+<p><strong>Posso fare veramente di tutto!</strong> Ho subito ripreso a pasticciare e dopo due settimane ho già dovuto formattare il pc perché avevo installato un sacco di cavolate, però ero contento! E’ così che mi piace vivere il pc, voglio essere io a decidere come farlo funzionare!</p>
+<p>Ora posso <strong>programmare</strong>, <strong>registrare</strong> musica,  <strong>giocare</strong>,  <strong>scrivere</strong>,  <strong>montare</strong> video, utilizzare <strong>macchine virtuali</strong> etc. senza rallentamenti. Spendendo meno di un Macbook ho preso un Core i7 con 16Gb di RAM, 128Gb di SSD e 1Tb di HDD e 4Gb di scheda video! Praticamente una bomba, spendendo meno di 1000€!!!</p>
+<p>Ci sono solamente due cose che non posso utilizzare con Windows: il già citato Garageband e XCode. Certo questo mi preclude la possibilità di sviluppare app ios, ma al momento non lavoro in quell’ambito quindi non mi interessa particolarmente!</p>
+<p>Per tutto il resto sono veramente <strong>contento</strong>! Posso passare la giornata a programmare, utilizzare editor di testo, chrome con il solito migliaio di schede aperte, photoshop, figma, XAMPP e tutti i programmi che mi servono e tutto gira alla perfezione! Inoltre se voglio fare una breve pausa e farmi una partita a qualche gioco me li carica senza alcun problema, senza nemmeno dover preoccuparmi di chiudere photoshop!</p>
+<h2 id="conclusione">CONCLUSIONE</h2>
+<p>Questa è stata la mia storia con questi sistemi operativi! Certo <strong>la perfezione non esiste</strong> e si può sempre trovare di meglio, ma per il momento sono felice del mio notebook Windows.</p>
+<p>Se non dovessi fare attenzione ai soldi allora sicuramente propenderei per un macbook pro con 512 di SSD per programmare, e poi un bel pc fisso per tutto il resto, in modo da avere una macchina pulita e dedicata allo sviluppo e l’altra per fare i miei esperimenti, ma non avendo la possibilità di spendere 5000€ in computer ho scelto una macchina versatile, che mi consente di fare un po’ tutto ciò che voglio!</p>
+<h2 id="tra-i-due-litiganti-il-terzo-gode-linux">TRA I DUE LITIGANTI IL TERZO GODE: LINUX!!!</h2>
+<p>Voglio terminare questo articolo citando <strong>la soluzione perfetta</strong> per gli smanettoni come me: <strong>Linux</strong>! Ho sempre amato <strong>Ubuntu</strong> e lo utilizzo tutt’ora in macchina virtuale, insieme a <strong>Manjaro</strong> (non ho ancora capito quale preferisco…), ma non ho ancora avuto il coraggio di installarlo al posto di windows. Il problema più grande è la <strong>suite di adobe</strong>, che utilizzo tutti i giorni e della quale non posso ancora fare a meno. Se non fosse per questo penso che sarei già passato al Pinguino da tempo!</p>
+<p>Se un giorno saltasse fuori un’alternativa seria a photoshop installabile su Linux allora sicuramente sarei pronto ad abbandonare il buon vecchio Windows per <strong>il fantastico mondo dell’open source!!!</strong></p>
+<p>Windows Vs Mac? Perché non <a href="/blog/perche-dovremmo-tutti-passare-a-linux-e-perche-non-lo-facciamo/">Linux</a>???</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
