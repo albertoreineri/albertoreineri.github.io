@@ -2,6 +2,7 @@
 title: "1. Creare un tema WordPress da zero – Parte 1"
 desription: "Tutorial su come sviluppare un tema custom per WordPress da zero. Vediamo come creare il tuo primo tema WP"
 date: "2020-04-30"
+url: "/blog/creare-un-tema-wordpress-da-zero-parte-1"
 categories:
   - WordPress DEV
 ---
