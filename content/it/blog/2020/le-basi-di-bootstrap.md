@@ -2,6 +2,7 @@
 title: "4. Le basi di Bootstrap"
 description: "Breve guida per imparare le basi di Bootstrap. Impara ciò che serve per iniziare a muoverti nel mondo dello sviluppo web."
 date: "2020-03-17"
+url: "/blog/le-basi-di-bootstrap"
 categories:
   - Inizia Qui
 ---

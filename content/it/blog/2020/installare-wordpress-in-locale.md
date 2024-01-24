@@ -2,6 +2,7 @@
 title: "4. Installare WordPress in locale￼"
 description: "Tutorial su come installare WordPress in locale sul tuo computer e iniziare a creare il tuo nuovo sito web."
 date: "2020-03-20"
+url: "/blog/installare-wordpress-in-locale"
 categories:
   - WordPress Base
 ---

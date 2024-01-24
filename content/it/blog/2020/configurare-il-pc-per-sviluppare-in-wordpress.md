@@ -2,6 +2,7 @@
 title: "1. Configurare il PC per Sviluppare in WordPress"
 description: "Tutorial sui software necessari per poter installare e gestire un sito in WordPress in locale sul computer"
 date: "2020-03-20"
+url: "/blog/configurare-il-pc-per-sviluppare-in-wordpress"
 categories:
   - WordPress Base
 ---

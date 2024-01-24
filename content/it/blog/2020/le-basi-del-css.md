@@ -2,6 +2,7 @@
 title: "2. Le basi del CSS"
 description: "Breve guida per imparare le basi del CSS. Impara ciò che serve per iniziare a muoverti nel mondo dello sviluppo web."
 date: "2020-03-17"
+url: "/blog/le-basi-del-css"
 categories:
   - Inizia Qui
 ---

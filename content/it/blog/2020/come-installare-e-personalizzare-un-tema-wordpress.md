@@ -2,6 +2,7 @@
 title: "6. Come installare e personalizzare un tema WordPress"
 description: "Breve guida su come installare un Tema WordPress e personalizzarlo secondo il proprio gusto"
 date: "2020-03-20"
+url: "/blog/come-installare-e-personalizzare-un-tema-wordpress"
 categories:
   - WordPress Base
 ---

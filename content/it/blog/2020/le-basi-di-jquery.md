@@ -2,6 +2,7 @@
 title: "5. Le basi di jQuery"
 description: "Breve guida per imparare le basi del jQuery. Impara ciò che serve per iniziare a muoverti nel mondo dello sviluppo web."
 date: "2020-03-17"
+url: "/blog/le-basi-di-jquery"
 categories:
   - Inizia Qui
 ---

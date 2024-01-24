@@ -2,6 +2,7 @@
 title: "Cos’è un plugin WordPress? E come si usa?"
 description: "Breve guida sui plugin WordPress. Vediamo cosa sono, a cosa servono e come si utilizzano."
 date: "2020-03-20"
+url: "/blog/cos-e-un-plugin-wordpress-e-come-si-usa/"
 categories:
 - WordPress Base
 ---

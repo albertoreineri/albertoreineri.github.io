@@ -2,6 +2,7 @@
 title: "3. Come funziona XAMPP"
 description: "Breve guida su come funziona XAMPP, il più semplice software per la creazione di un server locale per sviluppo web"
 date: "2020-03-20"
+url: "/blog/come-funziona-xampp"
 categories:
   - WordPress Base
 ---

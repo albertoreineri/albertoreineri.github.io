@@ -1,6 +1,7 @@
 ---
 title: "9. Esportare online un sito WordPress"
 description: "Tutorial su come esportare online un Sito WordPress realizzato in locale. Vediamo come caricare WordPress sul tuo hosting"
+url: "/blog/esportare-online-un-sito-wordpress"
 date: "2020-03-20"
 categories:
   - WordPress Base

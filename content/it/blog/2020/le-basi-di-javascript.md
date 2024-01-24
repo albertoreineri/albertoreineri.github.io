@@ -2,6 +2,7 @@
 title: "3. Le basi di Javascript"
 description: "Breve guida per imparare le basi del Javascript. Impara ciò che serve per iniziare a muoverti nel mondo dello sviluppo web."
 date: "2020-03-17"
+url: "/blog/le-basi-di-javascript"
 categories:
   - Inizia Qui
 ---

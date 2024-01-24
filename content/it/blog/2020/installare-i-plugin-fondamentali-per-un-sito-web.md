@@ -2,6 +2,7 @@
 title: "8. Installare i plugin fondamentali per un sito web!"
 description: "In questo tutorial vediamo quali sono i plugin che non possono mancare sul tuo Sito WordPress"
 date: "2020-03-20"
+url: "/blog/installare-i-plugin-fondamentali-per-un-sito-web"
 categories:
   - WordPress Base
 ---

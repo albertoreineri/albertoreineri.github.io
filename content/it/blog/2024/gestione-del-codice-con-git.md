@@ -3,6 +3,7 @@ title: "Le basi Di GIT: Impara il versioning!"
 description: "Le basi Di GIT: Impara il software di controllo di versione più diffuso"
 date: "2024-01-18"
 author: "Alberto Reineri"
+url: "/blog/le-basi-di-git"
 categories:
   - Inizia Qui
 ---

@@ -2,6 +2,7 @@
 title: "5. Come funziona WordPress"
 description: "Breve guida sul funzionamento della piattaforma WordPress, il CMS più usato al mondo."
 date: "2020-03-20"
+url: "/blog/come-funziona-wordpress"
 categories:
   - WordPress Base
 ---

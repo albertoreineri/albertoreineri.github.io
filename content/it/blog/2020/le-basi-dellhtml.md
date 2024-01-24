@@ -2,6 +2,7 @@
 title: "1. Le basi dell'HTML"
 description: "Breve guida per imparare le basi dell'HTML. Impara ciò che serve per iniziare a muoverti nel mondo dello sviluppo web."
 date: "2020-03-17"
+url: "/blog/le-basi-dell-html"
 categories:
   - Inizia Qui
 ---

@@ -2,6 +2,7 @@
 title: "2. Perché installare WordPress in locale?"
 description: "Installare WordPress in locale ha senso? Certo che si, è sempre la via migliore! Vediamo perchè"
 date: "2020-03-20"
+url: "/blog/perche-installare-wordpress-in-locale"
 categories:
   - WordPress Base
 ---

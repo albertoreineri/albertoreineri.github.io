@@ -2,6 +2,7 @@
 title: "6. Le basi di PHP"
 description: "Scopri le fondamenta di PHP nel mio blog: dalle variabili alle funzioni, un viaggio essenziale nel linguaggio di programmazione web. Entra nel mondo del coding!"
 date: "2020-03-17"
+url: "/blog/le-basi-di-php"
 categories:
   - Inizia Qui
 ---

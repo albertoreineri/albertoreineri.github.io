@@ -2,6 +2,7 @@
 title: "7. Creiamo le pagine del nostro primo sito web!"
 description: "Tutorial sull'utilizzo di WordPress. Cosa sono le Pagine, a cosa servono e come funzionano."
 date: "2020-03-20"
+url: "/blog/creiamo-le-pagine-del-nostro-primo-sito-web"
 categories:
   - WordPress Base
 ---
