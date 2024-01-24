@@ -8,7 +8,6 @@
 @import "_admonition.scss";
 @import "_mathjax.scss";
 @import "_socialshare.scss";
-@import "_custom.scss";
 
 
 
@@ -947,3 +946,6 @@ a.footnote-ref {
     50% { border-color: $typewriter}
   }
 {{ end }}
+
+
+@import "_custom.scss";
