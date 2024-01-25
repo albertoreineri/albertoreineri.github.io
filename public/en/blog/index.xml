@@ -362,48 +362,48 @@ Professionalmente non ho più bisogno di pubblicizzarmi granché. Lavoro come fr
 		</item>
 		
 		<item>
-			<title>8 consigli sulla produttività per sviluppatori e programmatori</title>
-			<link>https://albertoreineri.it/en/blog/8-consigli-sulla-produttivit%C3%A0-per-sviluppatori-e-programmatori/</link>
+			<title>8 Productivity Tips for Developers and Programmers</title>
+			<link>https://albertoreineri.it/en/blog/8-productivity-tips-for-developers-and-programmers/</link>
 			<pubDate>Fri, 22 Jul 2022 07:42:48 +0000</pubDate>
 			
-			<guid>https://albertoreineri.it/en/blog/8-consigli-sulla-produttivit%C3%A0-per-sviluppatori-e-programmatori/</guid>
-			<description>Non è facile mantenere la produttività da sviluppatori. È un lavoro mentalmente stressante che può esaurire rapidamente la mente e richiede molta attenzione. Capire come puoi concentrarti sul tuo lavoro, prendere scorciatoie usando l&amp;rsquo;automazione e gestire le distrazioni può aiutarti molto a ottenere il massimo dal tuo orario di lavoro. In questa raccolta, puoi trovare i migliori suggerimenti sulla produttività per sviluppatori e programmatori, dalla ricerca dei migliori strumenti per sviluppatori alle pause regolari fino all&amp;rsquo;eliminazione delle distrazioni durante il lavoro.</description>
-			<content type="html"><![CDATA[<p>Non è facile mantenere la produttività da sviluppatori. È un lavoro mentalmente stressante che può esaurire rapidamente la mente e richiede molta attenzione. Capire come puoi concentrarti sul tuo lavoro, prendere scorciatoie usando l&rsquo;automazione e gestire le distrazioni può aiutarti molto a ottenere il massimo dal tuo orario di lavoro. In questa raccolta, puoi trovare i migliori suggerimenti sulla produttività per sviluppatori e programmatori, dalla ricerca dei migliori strumenti per sviluppatori alle pause regolari fino all&rsquo;eliminazione delle distrazioni durante il lavoro.</p>
-<h3 id="1-trova-il-miglior-editor-di-codice">1. TROVA IL MIGLIOR EDITOR DI CODICE</h3>
-<p>La produttività degli sviluppatori inizia con un buon editor di codice. Sebbene ci siano molte ottime opzioni sul mercato, è difficile dire quale sia la migliore: tutto dipende dai tuoi obiettivi e dalle tue esigenze. Vale la pena provare <a href="/blog/5-migliori-editor-di-testo-per-sviluppatori">diversi editor di testo</a> per vedere quale si adatta meglio al tuo flusso di lavoro. Ecco alcune cose importanti da tenere in considerazione:</p>
+			<guid>https://albertoreineri.it/en/blog/8-productivity-tips-for-developers-and-programmers/</guid>
+			<description>It&amp;rsquo;s not easy to sustain productivity as developers. It&amp;rsquo;s a mentally demanding job that can quickly drain your mind and requires a lot of focus. Understanding how to focus on your work, take shortcuts using automation, and manage distractions can greatly help you make the most of your working hours. In this collection, you&amp;rsquo;ll find the best productivity tips for developers, from finding the best development tools to taking regular breaks and eliminating distractions during work.</description>
+			<content type="html"><![CDATA[<p>It&rsquo;s not easy to sustain productivity as developers. It&rsquo;s a mentally demanding job that can quickly drain your mind and requires a lot of focus. Understanding how to focus on your work, take shortcuts using automation, and manage distractions can greatly help you make the most of your working hours. In this collection, you&rsquo;ll find the best productivity tips for developers, from finding the best development tools to taking regular breaks and eliminating distractions during work.</p>
+<h2 id="1-find-the-best-code-editor">1. Find the Best Code Editor</h2>
+<p>Developer productivity starts with a good code editor. Although there are many excellent options on the market, it&rsquo;s hard to say which one is the best—it depends on your goals and needs. It&rsquo;s worth trying <a href="/blog/5-best-text-editors-for-developers">different text editors</a> to see which fits your workflow best. Here are some key considerations:</p>
 <ul>
-<li>Quale/i linguaggio/i di programmazione stai utilizzando. Hai bisogno di un editor di codice che offra l&rsquo;evidenziazione della sintassi per i linguaggi di cui hai bisogno (almeno come plug-in). Alcuni editor di codice sono inoltre dotati di evidenziatori di sintassi per tecnologie popolari come React, non solo per linguaggi di programmazione.</li>
-<li>Se l&rsquo;editor di codice scelto ha un tema adeguato e un ecosistema di plug-in che fornisce le funzionalità di cui hai bisogno (ad esempio, un tema ad alto contrasto se hai problemi di vista).</li>
-<li>Se affidi il tuo lavoro a una piattaforma di condivisione del codice, come GitHub o Bitbucket, potresti trovare utile la funzionalità <a href="/blog/come-usare-git/">Git integrata</a>. Ad esempio, Visual Studio Code ti consente di eseguire il commit direttamente del tuo lavoro su GitHub senza uscire dall&rsquo;editor.</li>
-<li>Se desideri utilizzare i tuoi frammenti di codice e/o le scorciatoie da tastiera, è anche una buona idea scegliere un editor di codice che ti consenta di aggiungerli o importarli.</li>
+<li>What programming language(s) are you using? You need a code editor that provides syntax highlighting for the languages you need (at least through plugins). Some code editors also come with syntax highlighters for popular technologies like React, not just programming languages.</li>
+<li>If the chosen code editor has a suitable theme and a plugin ecosystem that provides the features you need (e.g., a high-contrast theme if you have vision issues).</li>
+<li>If you entrust your work to a code-sharing platform like GitHub or Bitbucket, you might find the <a href="/blog/how-to-use-git/">integrated Git feature</a> useful. For example, Visual Studio Code allows you to commit your work directly to GitHub without leaving the editor.</li>
+<li>If you want to use your code snippets and/or keyboard shortcuts, it&rsquo;s also a good idea to choose a code editor that allows you to add or import them.</li>
 </ul>
-<h3 id="2-inizia-ogni-giorno-con-il-compito-più-difficile">2. INIZIA OGNI GIORNO CON IL COMPITO PIÙ DIFFICILE</h3>
-<p>È facile perdersi nelle attività quotidiane e anche la procrastinazione è un&rsquo;abitudine comune degli sviluppatori, soprattutto se <a href="/10-consigli-per-freelance-e-liberi-professionisti/">lavori come libero professionista</a>e devi gestire le tue scadenze. Pertanto, capita spesso di lavorare tutto il giorno e alla fine della giornata ti rendi conto di aver fatto a malapena qualcosa. Puoi evitarlo se, invece del multitasking, crei una gerarchia di attività quotidiane e inizi con l&rsquo;attività più difficile ogni giorno.</p>
-<p>Sebbene il multitasking sia stato visto come una cosa positiva per molti anni, si è scoperto che non è adatto alla maggior parte delle persone. <a href="https://www.forbes.com/sites/lisaquast/2017/02/06/want-to-be-more-productive-stop-multi-tasking">La ricerca ha dimostrato</a> che solo il 2% della popolazione è bravo nel multitasking, mentre il resto può subire una perdita di produttività fino al 40%. Quindi, se sei nel 2% continua con il multitasking, altrimenti dai la priorità alle tue attività e concentrati solo su una cosa alla volta.</p>
-<h3 id="3-fai-delle-pause-regolarmente">3. FAI DELLE PAUSE REGOLARMENTE</h3>
-<p>Gli esseri umani non possono concentrarsi sulla stessa cosa per un tempo illimitato e questo è particolarmente vero per il duro lavoro mentale della programmazione. Puoi trovare diversi studi sul limite di tempo in cui le persone possono concentrarsi su un&rsquo;attività senza che la loro mente si allontani da qualcos&rsquo;altro. Ad esempio, <a href="http://naturalhealthcare.ca/glossaries.phtml?term=sustained+attention#.XgqCCPx7nIU">questo studio</a> afferma che l&rsquo;attenzione prolungata è possibile per circa 45 minuti, mentre <a href="https://www.theatlantic.com/business/archive/2014/09/science-tells-you-how-many-minutes-should-you-take-a-break-for-work-17/380369/">un altro</a> menziona 52 minuti consecutivi seguiti da una pausa di 17 minuti.</p>
-<p>Poi, abbiamo la famosa <a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">Tecnica del Pomodoro</a> che utilizza un timer da cucina a forma di pomodoro per misurare il tempo. Funziona con intervalli di tempo di 25 minuti con pause brevi di 5 minuti e pause lunghe di 10 minuti. La tecnica Pomodoro è diventata così popolare tra la comunità degli sviluppatori che ci sono persino <a href="https://tomato-timer.com/">app Pomodoro</a> che puoi usare mentre lavori.</p>
-<p>Tutto sommato, non esiste una regola d&rsquo;oro qui e ognuno ha un limite di tempo diverso, quindi dovrai sperimentare un po&rsquo; per scoprire cosa funziona meglio per te. Inoltre, non vale la pena seguire una regola molto rigida: se sei già nel flusso, non interrompere il tuo lavoro solo perché è arrivato il momento della pausa.</p>
-<p>Tuttavia, c&rsquo;è una cosa importante da ricordare. La pausa deve essere una vera pausa quando ti alzi dalla scrivania. Controllare e-mail, notifiche Slack, social media, blog o semplicemente fissare qualsiasi tipo di schermo non conta come una pausa per il tuo cervello: ogni singola ricerca sull&rsquo;argomento lo afferma come un dato di fatto.</p>
-<h3 id="4-pianifica-le-tue-attività-in-anticipo">4. PIANIFICA LE TUE ATTIVITÀ IN ANTICIPO</h3>
-<p>La pianificazione delle attività in anticipo può anche aumentare notevolmente la produttività. Puoi creare elenchi di attività e controllare le attività completate utilizzando <a href="https://www.developerdrive.com/creating-a-simple-to-do-application-part-1/">To Do app</a> come <a href="https://www.wunderlist.com/">Wunderlist</a> e <a href="https://todoist.com/">Todoist</a> o impostare flussi di lavoro con un&rsquo;app come <a href="https://trello.com/">Trello</a> . Al giorno d&rsquo;oggi, ci sono anche molte fantastiche opzioni che ti consentono di integrare diversi strumenti di produttività, come <a href="https://zapier.com/">Zapier</a> e <a href="https://ifttt.com/">IFTTT</a> (If This Then That).</p>
-<p>Con la pianificazione delle attività, dovrai anche condurre alcuni esperimenti e pensare al tipo di strumenti di cui avrai veramente bisogno. Puoi sicuramente utilizzare più di un&rsquo;app per gestire le attività, tuttavia può diventare dispersivo utilizzare troppi strumenti contemporaneamente. In alcuni casi, un&rsquo;eccessiva complessità può persino portare a una perdita di produttività.</p>
-<h3 id="5-tieni-traccia-delle-tue-ore-di-lavoro">5. TIENI TRACCIA DELLE TUE ORE DI LAVORO</h3>
-<p>Sebbene non a tutti piaccia tenere traccia delle proprie ore di lavoro, utilizzare un&rsquo;app di monitoraggio del tempo può aiutare molto in caso di problemi con la gestione del tempo. Il monitoraggio del tempo può aumentare la tua produttività principalmente perché puoi vedere come hai trascorso le ore durante il giorno in modo da poter escludere possibili distrazioni. I cronometri possono anche essere una manna dal cielo se sei un libero professionista, poiché ti aiutano a fatturare i tuoi clienti su base oraria.</p>
-<h3 id="6-automatizza-le-attività-ripetitive">6. AUTOMATIZZA LE ATTIVITÀ RIPETITIVE</h3>
-<p>L&rsquo;automazione delle attività ripetitive è un must in questi giorni come sviluppatore. Non è una coincidenza che DevOps (l&rsquo;intersezione di sviluppo e operazioni) sia di gran moda di recente. Non avrai bisogno di molta automazione nella fase di sviluppo, tuttavia, rendere il tuo codice di sviluppo pronto per la produzione comporta molte attività ripetitive.</p>
-<p>Ad esempio, come sviluppatore frontend, puoi utilizzare un task runner per eseguire automaticamente attività di routine sul tuo codice, come minimizzazione, ottimizzazione delle immagini e altro. Abbiamo un articolo recente sui <a href="/blog/6-migliori-tool-per-sviluppo-frontend">migliori strumenti di compilazione per sviluppatori frontend</a> , ma ci sono anche molte ottime opzioni per la programmazione backend che vale la pena dare un&rsquo;occhiata.</p>
-<h3 id="7-utilizzare-la-riga-di-comando">7. UTILIZZARE LA RIGA DI COMANDO</h3>
-<p>Oltre ad automatizzare le attività, è anche una buona idea prendere l&rsquo;abitudine di utilizzare la riga di comando nel flusso di lavoro quotidiano. Innanzitutto, puoi velocizzare notevolmente il tuo flusso di lavoro se utilizzi una CLI (Command Line Interface) invece di una GUI (Graphical User Interface). Ad esempio, ecco un tutorial su come <a href="/blog/usare-la-riga-di-comando-con-wordpress-grazie-a-wp-cli">configurare la CLI di WordPress</a> per accelerare lo sviluppo e la manutenzione di WordPress. In secondo luogo, l&rsquo;uso sicuro dei comandi CLI è un&rsquo;abilità di programmazione importante che puoi utilizzare in molte altre aree del tuo lavoro.</p>
-<h3 id="8-elimina-le-distrazioni">8. ELIMINA LE DISTRAZIONI</h3>
-<p>Le distrazioni sono il più grande nemico della produttività, quindi è necessario trovare un modo per eliminarle il più possibile. Sfortunatamente, hanno una natura subdola, quindi non è affatto facile catturarli. Ciò è dovuto principalmente al fatto che molte volte non sembrano prima una distrazione.</p>
-<p>Ad esempio, controllare la posta elettronica ogni ora, guardare un nuovo tutorial video su YouTube o chattare con i colleghi su Slack possono essere visti come attività legate al lavoro, ma se ci dedichi troppo tempo, potresti scoprire che non hai ottenuto così tanto entro la fine della giornata.</p>
-<p>Quindi, devi stare molto attento alle distrazioni e prendere precauzioni ovunque puoi. Ad esempio, puoi decidere di controllare le tue e-mail solo due volte al giorno, disattivare le notifiche Slack mentre lavori o bloccare i siti Web che distraggono frequentemente durante il lavoro.</p>
-<h3 id="conclusione">CONCLUSIONE</h3>
-<p>Se segui questsi suggerimenti sulla produttività o almeno alcuni di essi, puoi utilizzare il tuo orario di lavoro in modo più efficiente e allo stesso tempo migliorare il tuo flusso di lavoro e di sviluppo. Sebbene prendere una nuova abitudine all&rsquo;inizio possa essere difficile, diventa rapidamente una seconda natura.</p>
-<p>Ricorda che la sperimentazione è l&rsquo;elemento chiave della produttività. Se provi una tecnica o uno strumento che non funziona per te, abbandonalo e passa a quello successivo, finché non trovi quello che si adatta meglio al tuo flusso di lavoro e alla tua personalità.</p>
-<p>E, se hai bisogno di altri suggerimenti unici per sviluppatori e programmatori, non perdere il nostro articolo su <a href="/blog/come-scegliere-quale-linguaggio-di-programmazione-imparare">come scegliere quale linguaggio di programmazione imparare</a> .</p>
-<p>{{- /* This comment removes trailing newlines. */ -}}</p>
+<h2 id="2-start-each-day-with-the-hardest-task">2. Start Each Day with the Hardest Task</h2>
+<p>It&rsquo;s easy to get lost in daily tasks, and procrastination is a common habit among developers, especially if you <a href="/10-tips-for-freelancers-and-freelance-professionals/">work as a freelancer</a> and have to manage your deadlines. Therefore, it often happens that you work all day and at the end of the day realize you&rsquo;ve barely accomplished anything. You can avoid this by creating a hierarchy of daily tasks and starting each day with the most difficult task.</p>
+<p>While multitasking has been seen as positive for many years, it has been found that it is not suitable for most people. <a href="https://www.forbes.com/sites/lisaquast/2017/02/06/want-to-be-more-productive-stop-multi-tasking">Research has shown</a> that only 2% of the population is good at multitasking, while the rest can experience a productivity loss of up to 40%. So, if you&rsquo;re in the 2%, go ahead with multitasking; otherwise, prioritize your tasks and focus on one thing at a time.</p>
+<h2 id="3-take-regular-breaks">3. Take Regular Breaks</h2>
+<p>Humans cannot focus on the same thing for an unlimited time, and this is especially true for the mental work of programming. There are various studies on the time limit during which people can focus on an activity without their minds drifting elsewhere. For example, <a href="http://naturalhealthcare.ca/glossaries.phtml?term=sustained+attention#.XgqCCPx7nIU">this study</a> states that sustained attention is possible for about 45 minutes, while <a href="https://www.theatlantic.com/business/archive/2014/09/science-tells-you-how-many-minutes-should-you-take-a-break-for-work-17/380369/">another study</a> mentions 52 consecutive minutes followed by a 17-minute break.</p>
+<p>Then we have the famous <a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">Pomodoro Technique</a>, which uses a kitchen timer shaped like a tomato to measure time. It works with 25-minute time intervals with short 5-minute breaks and long 10-minute breaks. The Pomodoro technique has become so popular among the developer community that there are even <a href="https://tomato-timer.com/">Pomodoro apps</a> you can use while working.</p>
+<p>All in all, there&rsquo;s no golden rule here, and everyone has a different time limit, so you&rsquo;ll need to experiment a bit to find out what works best for you. Also, it&rsquo;s not worth sticking to a very rigid rule: if you&rsquo;re already in the flow, don&rsquo;t interrupt your work just because it&rsquo;s break time.</p>
+<p>However, there&rsquo;s one important thing to remember. The break must be a real break when you get up from your desk. Checking emails, Slack notifications, social media, blogs, or just staring at any kind of screen does not count as a break for your brain; every single research on the subject states it as a fact.</p>
+<h2 id="4-plan-your-activities-in-advance">4. Plan Your Activities in Advance</h2>
+<p>Planning activities in advance can also significantly increase productivity. You can create task lists and track completed tasks using <a href="https://www.developerdrive.com/creating-a-simple-to-do-application-part-1/">To-Do apps</a> like <a href="https://www.wunderlist.com/">Wunderlist</a> and <a href="https://todoist.com/">Todoist</a> or set up workflows with an app like <a href="https://trello.com/">Trello</a>. Nowadays, there are also many great options that allow you to integrate different productivity tools, such as <a href="https://zapier.com/">Zapier</a> and <a href="https://ifttt.com/">IFTTT</a> (If This Then That).</p>
+<p>With activity planning, you&rsquo;ll also need to conduct some experiments and think about the type of tools you&rsquo;ll really need. You can certainly use more than one app to manage tasks; however, using too many tools simultaneously can be distracting. In some cases, excessive complexity can even lead to a loss of productivity.</p>
+<h2 id="5-track-your-working-hours">5. Track Your Working Hours</h2>
+<p>While not everyone likes to track their working hours, using a <a href="/blog/6-best-tools-for-frontend-development">time tracking app</a> can be very helpful in case of time management issues. Time tracking can increase your productivity mainly because you can see how you spent your hours throughout the day so you can eliminate possible distractions. Timers can also be a lifesaver if you&rsquo;re a freelancer since they help you bill your clients on an hourly basis.</p>
+<h2 id="6-automate-repetitive-tasks">6. Automate Repetitive Tasks</h2>
+<p>Automating repetitive tasks is a must these days as a developer. It&rsquo;s no coincidence that DevOps (the intersection of development and operations) has been all the rage recently. You won&rsquo;t need much automation in the development phase; however, making your development code production-ready involves many repetitive tasks.</p>
+<p>For example, as a frontend developer, you can use a task runner to automatically perform routine tasks on your code, such as minification, image optimization, and more. We have a recent article on the <a href="/blog/6-best-tools-for-frontend-development">best build tools for frontend developers</a>, but there are also many excellent options for backend programming that are worth checking out.</p>
+<h2 id="7-use-the-command-line">7. Use the Command Line</h2>
+<p>In addition to automating tasks, it&rsquo;s also a good idea to get into the habit of using the command line in your daily workflow. First of all, you can significantly speed up your workflow if you use a CLI (Command Line Interface) instead of a GUI (Graphical User Interface). For example, here&rsquo;s a tutorial on <a href="/blog/using-command-line-with-wordpress-thanks-to-wp-cli">setting up the WordPress CLI</a> to speed up WordPress development and maintenance. Secondly, the secure use of CLI commands is an important programming skill that you can use in many other areas of your work.</p>
+<h2 id="8-eliminate-distractions">8. Eliminate Distractions</h2>
+<p>Distractions are the biggest enemy of productivity, so you need to find a way to eliminate them as much as possible. Unfortunately, they have a sneaky nature, so capturing them is not easy at all. This is mainly because many times they don&rsquo;t seem like distractions before they are.</p>
+<p>For example, checking email every hour, watching a new tutorial video on YouTube, or chatting with colleagues on Slack can be seen as work-related activities, but if you spend too much time on them, you may find that you haven&rsquo;t accomplished much by the end of the day.</p>
+<p>So, you need to be very careful with distractions and take precautions wherever you can. For example, you can decide to check your emails only twice a day, turn off Slack notifications</p>
+<p>while working, or block frequently distracting websites during work.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>If you follow these productivity tips or at least some of them, you can use your working hours more efficiently while improving your workflow and development. Although adopting a new habit may be difficult at first, it quickly becomes second nature.</p>
+<p>Remember that experimentation is the key element of productivity. If you try a technique or tool that doesn&rsquo;t work for you, abandon it and move on to the next one until you find what fits your workflow and personality best.</p>
+<p>And, if you need more unique tips for developers and programmers, don&rsquo;t miss our article on <a href="/blog/how-to-choose-which-programming-language-to-learn">how to choose which programming language to learn</a>.</p>
 ]]></content>
 		</item>
 		
@@ -663,99 +663,102 @@ Nel 2019 Visual Studio Code (VSCode) è stato l&amp;rsquo;editor di testo più 
 		</item>
 		
 		<item>
-			<title>The 6 Best Tools for Frontend Development</title>
-			<link>https://albertoreineri.it/en/blog/the-6-best-tools-for-frontend-development/</link>
+			<title>Frontend Development Tools: 6 Must-Have Options</title>
+			<link>https://albertoreineri.it/en/blog/frontend-development-tools-6-must-have-options/</link>
 			<pubDate>Tue, 28 Jun 2022 12:03:00 +0000</pubDate>
 			
-			<guid>https://albertoreineri.it/en/blog/the-6-best-tools-for-frontend-development/</guid>
-			<description>Il codice utilizzato nella produzione è diverso dal codice di sviluppo. In produzione, è necessario creare pacchetti che funzionino velocemente, gestire le dipendenze, automatizzare le attività, caricare moduli esterni e altro ancora. Gli strumenti che consentono di trasformare il codice di sviluppo in codice di produzione sono chiamati tool di compilazione. Gli sviluppatori frontend lavorano principalmente con i seguenti tipi di strumenti di compilazione:
-package managers, task runners, module loaders, module bundlers, etc… In questo articolo potrai trovare raccolto i migliori strumenti di build che puoi utilizzare nello sviluppo frontend.</description>
-			<content type="html"><![CDATA[<p>Il codice utilizzato nella produzione è diverso dal codice di sviluppo. In produzione, è necessario creare pacchetti che funzionino velocemente, gestire le dipendenze, automatizzare le attività, caricare moduli esterni e altro ancora. Gli strumenti che consentono di trasformare il codice di sviluppo in codice di produzione sono chiamati tool di compilazione. Gli sviluppatori frontend lavorano principalmente con i seguenti tipi di strumenti di compilazione:</p>
+			<guid>https://albertoreineri.it/en/blog/frontend-development-tools-6-must-have-options/</guid>
+			<description>The code used in production differs from development code. In production, it&amp;rsquo;s essential to create packages that work efficiently, manage dependencies, automate tasks, load external modules, and more. The tools that enable the transformation of development code into production code are called build tools. Frontend developers primarily work with the following types of build tools:
+Package managers, Task runners, Module loaders, Module bundlers, And more&amp;hellip; In this article, we&amp;rsquo;ll explore the top frontend build tools you can use in your development.</description>
+			<content type="html"><![CDATA[<p>The code used in production differs from development code. In production, it&rsquo;s essential to create packages that work efficiently, manage dependencies, automate tasks, load external modules, and more. The tools that enable the transformation of development code into production code are called build tools. Frontend developers primarily work with the following types of build tools:</p>
 <ul>
-<li>package managers,</li>
-<li>task runners,</li>
-<li>module loaders,</li>
-<li>module bundlers,</li>
-<li>etc…</li>
+<li>Package managers,</li>
+<li>Task runners,</li>
+<li>Module loaders,</li>
+<li>Module bundlers,</li>
+<li>And more&hellip;</li>
 </ul>
-<p>In questo articolo potrai trovare raccolto i migliori strumenti di build che puoi utilizzare nello sviluppo frontend. Nota che tutti questi strumenti vengono eseguiti da riga di comando, quindi non sono dotati di un&rsquo;interfaccia utente grafica.</p>
-<h2 id="1-npm-package-manager">1. NPM (PACKAGE MANAGER)</h2>
-<p>L&rsquo;acronimo <a href="https://github.com/npm/cli">npm</a> sta per Node Package Maid che è il gestore di pacchetti predefinito di Node.js. Quando <a href="https://nodejs.org/en/download/">installi Node.js</a> sul tuo sistema, anche npm viene installato automaticamente e puoi accedervi dall&rsquo;interfaccia da riga di comando. Con npm puoi installare qualsiasi pacchetto Node.js con un solo comando.</p>
-<p>Puoi trovare tutti i pacchetti Node.js esistenti nel registro npm a cui puoi accedere tramite la barra di ricerca nella parte superiore della home page di npm. Devi solo digitare il nome del pacchetto che stai cercando (ad esempio <em>‘postcss&rsquo;</em> ) nella barra di ricerca e verrai indirizzato alla pagina del pacchetto che include tutto ciò che devi sapere sul pacchetto, il suo processo di installazione e tutto delle sue dipendenze.</p>
-<p><strong>Caratteristiche principali:</strong></p>
+<p>In this article, we&rsquo;ll explore the top frontend build tools you can use in your development. Note that all these tools are command-line based and do not come with a graphical user interface.</p>
+<h2 id="1-npm-package-manager">1. NPM (Package Manager)</h2>
+<p>The acronym <a href="https://github.com/npm/cli">npm</a> stands for Node Package Manager, the default package manager for Node.js. When you <a href="https://nodejs.org/en/download/">install Node.js</a> on your system, npm is automatically installed, accessible through the command line interface. With npm, you can install any Node.js package with a single command.</p>
+<p>You can find all existing Node.js packages in the npm registry, accessible through the search bar on the npm home page. Simply type the package name you&rsquo;re looking for (e.g., &lsquo;postcss&rsquo;) in the search bar to be directed to the package page, which includes all information about the package, its installation process, and its dependencies.</p>
+<p><strong>Key Features:</strong></p>
 <ul>
-<li>Facile processo di installazione.</li>
-<li>Software multipiattaforma (Windows, Linux, macOS, SmarOS e altro).</li>
-<li>Centinaia di migliaia di pacchetti.</li>
-<li>Gestione efficiente delle dipendenze tramite il file <em>package.json</em>.</li>
-<li>Molteplici opzioni di configurazione (tramite riga di comando).</li>
-<li>Ampia documentazione e utile community.</li>
+<li>Easy installation process.</li>
+<li>Cross-platform (Windows, Linux, macOS, SmarOS, etc.).</li>
+<li>Hundreds of thousands of packages.</li>
+<li>Efficient dependency management through the <em>package.json</em> file.</li>
+<li>Multiple configuration options (via the command line).</li>
+<li>Extensive documentation and a helpful community.</li>
 </ul>
-<h2 id="2-yarn-package-manager">2. YARN (PACKAGE MANAGER)</h2>
-<p><a href="https://yarnpkg.com/lang/en/">Yarn</a> è un gestore di pacchetti frontend che può essere utilizzato come alternativa a npm. Poiché Yarn stesso è un pacchetto Node.js, devi installare Node.js prima di poter utilizzare Yarn sul tuo sistema. Quindi, devi solo seguire la <a href="https://yarnpkg.com/en/docs/install">guida all&rsquo;installazione</a> per utilizzarla per gestire le dipendenze del frontend.</p>
-<p>Sebbene npm sia un ottimo strumento, scoprirai che la creazione di pacchetti con esso a volte richiede molto tempo. Questo non è necessariamente un problema se non hai molte dipendenze da installare o non usi regolarmente un gestore di pacchetti. Tuttavia, se lavori su un progetto pesante, può essere una buona idea utilizzare Yarn permette tempi di costruzione ultraveloci.</p>
-<p>Yarn velocizza il processo di compilazione memorizzando nella cache ogni pacchetto in modo da non dover scaricare le dipendenze più volte. Esegue anche operazioni parallele per ridurre ulteriormente i tempi di costruzione.</p>
-<p><strong>Caratteristiche principali:</strong></p>
+<h2 id="2-yarn-package-manager">2. Yarn (Package Manager)</h2>
+<p><a href="https://yarnpkg.com/lang/en/">Yarn</a> is a frontend package manager that can be used as an alternative to npm. Since Yarn itself is a Node.js package, you need to install Node.js before using Yarn on your system. Follow the <a href="https://yarnpkg.com/en/docs/install">installation guide</a> to manage frontend dependencies.</p>
+<p>While npm is an excellent tool, packaging with it can sometimes take a long time. This isn&rsquo;t a problem if you don&rsquo;t have many dependencies to install or don&rsquo;t regularly use a package manager. However, for heavy projects, Yarn can be a good choice, offering ultra-fast build times.</p>
+<p>Yarn speeds up the build process by caching each package, preventing redundant downloads of dependencies. It also performs parallel operations to further reduce build times.</p>
+<p><strong>Key Features:</strong></p>
 <ul>
-<li>Strumento multipiattaforma (Windows, Linux, macOS) con guide di installazione separate per ciascuna piattaforma.</li>
-<li>Compatibile con tutti i pacchetti Node.js.</li>
-<li>Tempi di <em>build</em> rapidi.</li>
-<li>Modalità offline.</li>
+<li>Cross-platform tool (Windows, Linux, macOS) with separate installation guides for each platform.</li>
+<li>Compatible with all Node.js packages.</li>
+<li>Fast build times.</li>
+<li>Offline mode.</li>
 </ul>
-<h2 id="3-grunt-task-runner">3. GRUNT (TASK RUNNER)</h2>
-<p><a href="https://gruntjs.com/">Grunt</a> è un task runner frontend che ti consente di automatizzare attività ripetitive come minimizzazione, linting, test e altro. I task runner sono diversi dai gestori di pacchetti, poiché non puoi usarli per gestire le dipendenze. Ne hai bisogno solo se desideri eseguire le stesse attività durante ogni processo di compilazione.</p>
-<p>Poiché Grunt è un pacchetto Node.js, puoi installarlo con npm, Yarn o un altro gestore di pacchetti Node.js. Grunt mantiene le dipendenze personalizzate necessarie per eseguire le attività predefinite nel file <em>package.json</em> . Puoi definire le tue attività nel Gruntfile (<a href="https://gruntjs.com/sample-gruntfile">vedi un esempio</a>) che viene eseguito durante ogni processo di compilazione ed esegue automaticamente ogni attività che include.</p>
-<p><strong>Caratteristiche principali:</strong></p>
+<h2 id="3-grunt-task-runner">3. Grunt (Task Runner)</h2>
+<p><a href="https://gruntjs.com/">Grunt</a> is a frontend task runner that automates repetitive tasks such as minification, linting, testing, and more. Task runners differ from package managers, as you can&rsquo;t use them to manage dependencies. You only need them if you want to perform the same tasks during each build process.</p>
+<p>As Grunt is a Node.js package, you can install it using npm, Yarn, or another Node.js package manager. Grunt maintains custom dependencies needed to run default tasks in the <em>package.json</em> file. You can define your tasks in the Gruntfile (<a href="https://gruntjs.com/sample-gruntfile">see an example</a>) executed during each build process, automatically running each included task.</p>
+<p><strong>Key Features:</strong></p>
 <ul>
-<li>Strumento da riga di comando multipiattaforma che funziona su qualsiasi sistema operativo.</li>
-<li>Processo di configurazione semplice.</li>
-<li>Enorme ecosistema con centinaia di plugin per aggiungere strumenti frontend (come Sass, Jade, JSHint, Handlebars, RequireJS e altri) che completano le attività preconfigurate.</li>
-<li>Attività asincrone se necessario.</li>
-<li>Ampia documentazione.</li>
-<li>Ampiamente adottato.</li>
+<li>Cross-platform command-line tool working on any operating system.</li>
+<li>Simple configuration process.</li>
+<li>Vast ecosystem with hundreds of plugins to add frontend tools (such as Sass, Jade, JSHint, Handlebars, RequireJS, etc.) complementing pre-configured tasks.</li>
+<li>Asynchronous tasks if needed.</li>
+<li>Extensive documentation.</li>
+<li>Widely adopted.</li>
 </ul>
-<h3 id="4-gulp-task-runner">4. GULP (TASK RUNNER)</h3>
-<p><a href="https://gulpjs.com/">Gulp</a> è un altro task runner automatizzato e anche il più forte concorrente di Grunt. Simile a Grunt, puoi utilizzare Gulp per automatizzare attività front-end ricorrenti come la preelaborazione CSS, l&rsquo;ottimizzazione delle immagini e molti altri. È anche un pacchetto Node.js che puoi installare con i gestori di pacchetti npm e Yarn. Puoi definire le tue attività in <a href="https://gulpjs.com/docs/en/getting-started/javascript-and-gulpfiles">Gulpfile</a> e configurare le tue dipendenze relative alle tue attività nel file <em>package.json</em> .</p>
-<p>La più grande differenza rispetto a Grunt è che Gulp utilizza una tecnica di automazione più efficiente che consente tempi di costruzione più rapidi. Mentre Grunt utilizza i file temporanei per elaborare le attività, Gulp esegue operazioni in memoria senza scrivere in file temporanei. Queste operazioni in memoria sono chiamate <a href="https://nodejs.org/api/stream.html#stream_stream">node streams</a> e possono farti risparmiare molto tempo, soprattutto se desideri elaborare più attività in ogni build.</p>
-<p><strong>Caratteristiche principali:</strong></p>
+<h2 id="4-gulp-task-runner">4. Gulp (Task Runner)</h2>
+<p><a href="https://gulpjs.com/">Gulp</a> is another automated task runner and the strongest competitor to Grunt. Similar to Grunt, you can use Gulp to automate recurring frontend tasks like CSS preprocessing, image optimization, and many more. It&rsquo;s also a Node.js package that you can install using npm or Yarn package managers. You can define your tasks in the <a href="https://gulpjs.com/docs/en/getting-started/javascript-and-gulpfiles">Gulpfile</a> and configure your dependencies related to your tasks in the <em>package.json</em> file.</p>
+<p>The most significant difference from Grunt is that Gulp employs a more efficient automation technique, allowing faster build times. While Grunt uses temporary files to process tasks, Gulp performs in-memory operations without writing to temporary files. These in-memory operations are called <a href="https://nodejs.org/api/stream.html#stream_stream">node streams</a> and can save you a lot of time, especially if you want to process multiple tasks in each build.</p>
+<p><strong>Key Features:</strong></p>
 <ul>
-<li>Task runner multipiattaforma che può essere installato come un normale pacchetto Node.js.</li>
-<li>Utilizza i flussi Node per velocizzare le operazioni.</li>
-<li>Enorme ecosistema con migliaia di plugin.</li>
-<li>Base di codice di qualità utilizzando le best practice di Node.js.</li>
-<li>Documentazione facile da seguire.</li>
-<li>Superficie API minima per una semplice adozione.</li>
+<li>Cross-platform task runner installable as a regular Node.js package.</li>
+<li>Utilizes Node streams to speed up operations.</li>
+<li>Vast ecosystem with thousands of plugins.</li>
+<li>Quality codebase using Node.js best practices.</li>
+<li>Easy-to-follow documentation.</li>
+<li>Minimal API surface for straightforward adoption.</li>
 </ul>
-<h2 id="5-browserify-module-loaderbundler">5. BROWSERIFY (MODULE LOADER/BUNDLER)</h2>
-<p><a href="http://browserify.org/">Browserify</a> è un caricatore di moduli Node.js che ti consente di raggruppare le tue dipendenze front-end e caricarle come un unico file JavaScript nel browser dell&rsquo;utente. I gestori di pacchetti come npm e Yarn caricano i moduli sul lato server utilizzando la funzione <em><a href="https://nodejs.org/api/modules.html#modules_require_id">require()</a></em> di Node.js progettata per caricare i moduli. Browserify porta il metodo <em>require()</em> sul lato client, il che può comportare un enorme aumento delle prestazioni.</p>
-<p>Con Browserify, il browser del tuo utente deve caricare un solo file JavaScript statico che contiene tutte le dipendenze su cui si basa il tuo progetto. Puoi aggiungere il tuo JavaScript in bundle come tag script alla tua pagina e sei a posto. Tuttavia, tieni presente che poiché Browserify è un modulo Node.js e un&rsquo;implementazione dell&rsquo;API CommonJS (simile a npm), puoi utilizzarlo solo per caricare moduli Node.js ma non altri tipi di file JavaScript (o altri).</p>
-<p><strong>Caratteristiche principali:</strong></p>
+<h2 id="5-browserify-module-loaderbundler">5. Browserify (Module Loader/Bundler)</h2>
+<p><a href="http://browserify.org/">Browserify</a> is a Node.js module loader that allows you to bundle your frontend dependencies and load them as a single JavaScript file in the user&rsquo;s browser. Package managers like npm and Yarn load modules on the server side using Node.js&rsquo;s <em><a href="https://nodejs.org/api/modules.html#modules_require_id">require()</a></em> function designed to load modules. Browserify brings the <em>require()</em> method to the client side, potentially resulting in a significant performance boost.</p>
+<p>With Browserify, your user&rsquo;s browser only needs to load a single static JavaScript file containing all the dependencies your project relies on. You can bundle your JavaScript like a script tag to your HTML page, and you&rsquo;re good to go. However, note that since Browserify is a Node.js module and an implementation of the CommonJS API (similar to npm), you can use it only to load Node.js modules but not other types of JavaScript files (or others).</p>
+<p><strong>Key Features:</strong></p>
 <ul>
-<li>Raggruppa tutte le dipendenze di Node.js in un unico file.</li>
-<li>Velocizza le applicazioni modulari che si basano su più moduli Node.js.</li>
-<li>Consente requisiti esterni (è possibile richiedere moduli da altri tag script ).</li>
-<li>Consente di dividere i pacchetti, se necessario.</li>
-<li>Esclude, ignora e trasforma le funzionalità.</li>
-<li>Documentazione dettagliata e utile <a href="https://github.com/browserify/browserify-handbook">manuale di Browserify</a> .</li>
+<li>Bundles all Node.js dependencies into a single file.</li>
+<li>Speeds up modular applications relying on multiple Node.js modules.</li>
+<li>Allows external requirements (can require modules from other script tags).</li>
+<li>Enables splitting packages if needed.</li>
+<li>Excludes, ignores, and transforms features.</li>
+<li>Detailed documentation and a helpful <a href="https://github.com/browserify/browserify-handbook">Browserify handbook</a>.</li>
 </ul>
-<h2 id="6-webpack-module-loaderbundler">6. WEBPACK (MODULE LOADER/BUNDLER)</h2>
-<p><a href="https://webpack.js.org/">Webpack</a> è un bundler di moduli avanzato che ti consente di raggruppare tutte le tue dipendenze e caricarle come risorse statiche nel browser dell&rsquo;utente. Mentre Browserify raggruppa solo i moduli Node.js, Webpack può gestire qualsiasi tipo di file front-end come file <em>.html</em> , <em>.css, .js, .scss</em> , immagini e altre risorse.</p>
-<p>Oltre ai moduli CommonJS utilizzati nell&rsquo;ecosistema Node.js, Webpack può anche raggruppare moduli <a href="https://www.ecma-international.org/publications/standards/Ecma-262.htm">ECMAScript</a> e <a href="https://github.com/amdjs/amdjs-api/wiki/AMD">AMD</a> nativi (altre specifiche del modulo JavaScript). Webpack analizza il tuo progetto e crea un grafico delle dipendenze. Quindi, in base al grafico delle dipendenze, raggruppa i tuoi file e moduli in uno o più file statici che puoi aggiungere alla tua pagina HTML.</p>
-<p>Poiché Webpack stesso è anche un modulo Node.js, puoi installarlo con npm o con il gestore di pacchetti Yarn.</p>
-<p>Per impostazione predefinita, la configurazione dei progetti Webpack richiede molto tempo a causa delle molteplici opzioni che consentono di perfezionare il progetto. Tuttavia, dal Webpack 4, include un&rsquo;opzione di configurazione zero che automatizza il processo di compilazione e richiede solo la definizione del file di immissione.</p>
-<p><strong>Caratteristiche principali:</strong></p>
+<h2 id="6-webpack-module-loaderbundler">6. Webpack (Module Loader/Bundler)</h2>
+<p><a href="https://webpack.js.org/">Webpack</a> is an advanced module bundler that allows you to bundle all your dependencies and load them as static resources in the user&rsquo;s browser. While Browserify only bundles Node.js modules, Webpack can handle any type of frontend file such as <em>.html</em>, <em>.css, .js, .scss</em>, images, and other resources.</p>
+<p>In addition to CommonJS modules used in the Node.js ecosystem, Webpack can also bundle native <a href="https://www.ecma-international.org/publications/standards/Ecma-262.htm">ECMAScript</a> and <a href="https://github.com/amdjs/amdjs-api/wiki/AMD">AMD</a> (other JavaScript module specifications) modules. Webpack analyzes your project and creates a dependency graph. Then, based on the dependency graph, it bundles your files and modules into one or more static files that you can add to your HTML page.</p>
+<p>Since Webpack itself is also a Node.js module, you can install it with npm or the Yarn package manager.</p>
+<p>By default, configuring Webpack projects takes time due to the multiple options available to fine-tune the project. However, starting from Webpack 4, it includes a zero-configuration option that automates the build process, requiring only the definition of the entry file.</p>
+<p><strong>Key Features:</strong></p>
 <ul>
-<li>Molteplici opzioni di configurazione.</li>
-<li>Codice suddiviso in blocchi più piccoli che possono essere caricati in modo asincrono.</li>
-<li>Supporto per mappe di origine.</li>
-<li>Opzione di configurazione zero (dal Webpack 4).</li>
-<li>Enorme ecosistema con una ricca interfaccia di plugin.</li>
+<li>Multiple configuration options.</li>
+<li>Code split into smaller chunks that can be loaded asynchronously.</li>
+<li></li>
 </ul>
-<h2 id="conclusione">CONCLUSIONE</h2>
-<p>Gli strumenti di compilazione frontend ti aiutano a trasformare il codice di sviluppo in codice pronto per la produzione che può essere eseguito su qualsiasi dispositivo o piattaforma senza problemi. In questa raccolta, abbiamo esaminato gli strumenti di compilazione più adottati che puoi utilizzare nel tuo progetto Web, inclusi gestori di pacchetti, task runner e caricatori/bundler di moduli.</p>
-<p>Oltre alle soluzioni ampiamente adottate, ci sono anche (relativamente) nuovi strumenti sul mercato che stanno guadagnando costantemente terreno, come il gestore di pacchetti <a href="https://pnpm.js.org/">pnpm</a> (un&rsquo;alternativa a npm e Yarn), il bundle di moduli <a href="https://parceljs.org/">Parcel</a> (un&rsquo;alternativa a Webpack) e il bundler di moduli <a href="https://rollupjs.org/blog/en/">Rollup</a> ES (simile a Browserify ma raggruppa i moduli ECMAScript invece di quelli CommonJS). Se sei alla ricerca di nuove soluzioni, vale la pena dare un&rsquo;occhiata anche a questi nuovi strumenti.</p>
-<p>L&rsquo;aggiunta di nuovi strumenti al tuo flusso di lavoro può portare il tuo processo di sviluppo a un livello superiore. </p>
-<p>Come sempre, <em>Buon Codice!</em></p>
+<p>Support for source maps.</p>
+<ul>
+<li>Zero-configuration option (from Webpack 4).</li>
+<li>Vast ecosystem with a rich plugin interface.</li>
+</ul>
+<h2 id="conclusion">Conclusion</h2>
+<p>Frontend build tools help transform development code into production-ready code that can run seamlessly on any device or platform. In this roundup, we&rsquo;ve explored the most widely adopted build tools you can use in your web project, including package managers, task runners, and module loaders/bundlers.</p>
+<p>Besides the widely adopted solutions, there are also (relatively) new tools in the market steadily gaining ground, such as the package manager <a href="https://pnpm.js.org/">pnpm</a> (an alternative to npm and Yarn), module bundler <a href="https://parceljs.org/">Parcel</a> (an alternative to Webpack), and module bundler <a href="https://rollupjs.org/blog/en/">Rollup</a> ES (similar to Browserify but bundles ECMAScript modules instead of CommonJS). If you&rsquo;re looking for new solutions, it&rsquo;s worth checking out these emerging tools.</p>
+<p>Adding new tools to your workflow can elevate your development process to the next level.</p>
+<p>As always, Happy Coding!</p>
 ]]></content>
 		</item>
 		
@@ -995,205 +998,216 @@ done
 		</item>
 		
 		<item>
-			<title>Come installare una LAMP stack (Linux, Apache, MySQL, PHP) su Ubuntu</title>
-			<link>https://albertoreineri.it/en/blog/come-installare-una-lamp-stack-linux-apache-mysql-php-su-ubuntu/</link>
+			<title>How to Install a LAMP Stack (Linux, Apache, MySQL, PHP) on Ubuntu</title>
+			<link>https://albertoreineri.it/en/blog/how-to-install-a-lamp-stack-linux-apache-mysql-php-on-ubuntu/</link>
 			<pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
 			
-			<guid>https://albertoreineri.it/en/blog/come-installare-una-lamp-stack-linux-apache-mysql-php-su-ubuntu/</guid>
-			<description>Introduzione Uno stack &amp;ldquo;LAMP&amp;rdquo; è un gruppo di software open source che viene generalmente installato insieme per consentire a un server di ospitare siti Web dinamici e app Web. Questo termine è in realtà un acronimo che rappresenta il sistema operativo Linux, con il web server Apache**.** I dati del sito vengono archiviati in un database MySQL e il contenuto dinamico viene elaborato da PHP.
-In questa guida, installeremo uno stack LAMP su un server Ubuntu.</description>
-			<content type="html"><![CDATA[<h2 id="introduzione">Introduzione</h2>
-<p>Uno stack &ldquo;LAMP&rdquo; è un gruppo di software open source che viene generalmente installato insieme per consentire a un server di ospitare siti Web dinamici e app Web. Questo termine è in realtà un acronimo che rappresenta il sistema operativo <strong>L</strong>inux, con il web server <strong>A</strong>pache**.** I dati del sito vengono archiviati in un database <strong>M</strong>ySQL e il contenuto dinamico viene elaborato da <strong>P</strong>HP.</p>
-<p>In questa guida, installeremo uno stack LAMP su un server Ubuntu.</p>
-<h2 id="prerequisiti">Prerequisiti</h2>
-<p>Questo tutorial è creato su Ubuntu, ma funziona su tutte le distro basate su Debian, come Pop!_OS, Elementary OS, Linux Mint etc.</p>
-<h2 id="passaggio-1-installazione-di-apache">Passaggio 1: installazione di Apache</h2>
-<p>Il server Web Apache è un popolare server Web open source che può essere utilizzato insieme a <a href="/blog/le-basi-di-php/">PHP</a> per ospitare siti Web dinamici. È ben documentato ed è stato ampiamente utilizzato per gran parte della storia del web.</p>
-<p>Innanzitutto, assicurati che la tua <code>apt</code> cache sia aggiornata con:</p>
-<pre tabindex="0"><code>sudo apt update
-</code></pre><p>Se è la prima volta che lo utilizzi <code>sudo</code> in questa sessione, ti verrà chiesto di fornire la password dell&rsquo;utente per convalidare le tue autorizzazioni.</p>
-<p>Una volta aggiornata la cache, puoi installare Apache lanciando:</p>
-<pre tabindex="0"><code>sudo apt install apache2
-</code></pre><p>Dopo aver inserito questo comando, <code>apt</code> ti dirà quali pacchetti intende installare e quanto spazio su disco occuperà. Premi S (o Y se hai configurati il sistema in lingua inglese) e poi premi <code>ENTER</code> per confermare e l&rsquo;installazione procederà.</p>
-<hr>
-<p>N.B.: in questa guida utilizzerò &lsquo;<em>Y</em>&rsquo; per procedere con l&rsquo;installazione, perché ho l&rsquo;abitudine di installare sempre Linux in inglese&hellip; Se usi l&rsquo;italiano ricordati di premere &lsquo;<em>S</em>&rsquo;</p>
-<hr>
-<p>E voilà! Apache è bello che installato!</p>
-<p>Puoi fare subito un controllo a campione per verificare che tutto sia andato come previsto visitando l&rsquo;indirizzo IP pubblico del tuo server nel tuo browser web. Se sei il locale ti basterà aprire il browser e scrivere nella barra degli indirizzi:</p>
-<pre tabindex="0"><code>http://localhost
-</code></pre><p>Se invece stai configurando un web server remoto, allora dovrai inserire il tuo indirizzo IP</p>
-<pre tabindex="0"><code>http://your_server_ip
-</code></pre><p>Dovresti ora vedere nel browser la pagina Web predefinita di Apache, che è disponibile a scopo informativo e di test. Dovrebbe assomigliare a qualcosa di simile a questo:</p>
-<p><img src="images/small_apache_default_1804-728x1024.png" alt=""></p>
-<p>Se vedi questa pagina, allora il tuo server web è ora installato correttamente e accessibile attraverso il tuo firewall.</p>
-<h3 id="come-trovare-lindirizzo-ip-pubblico-del-tuo-server">Come trovare l&rsquo;indirizzo IP pubblico del tuo server</h3>
-<p>Se stai configurando un web server remoto e non sai qual è l&rsquo;indirizzo IP pubblico del tuo server, ci sono diversi modi per trovarlo. Di solito è l&rsquo;indirizzo che usi per connetterti al tuo server tramite SSH.</p>
-<p>Esistono diversi modi per farlo dalla riga di comando. Innanzitutto, puoi utilizzare gli strumenti <em>iproute2</em> per ottenere il tuo indirizzo IP digitando questo:</p>
-<pre tabindex="0"><code>ip addr show eth0 | grep inet | awk &#39;{ print $2; }&#39; | sed &#39;s/\/.*$//&#39;
-</code></pre><p>Questo ti restituirà due o tre righe. Sono tutti indirizzi corretti, ma il tuo computer potrebbe essere in grado di utilizzarne solo uno, quindi sentiti libero di provarli.</p>
-<p>Un metodo alternativo consiste nell&rsquo;utilizzare l&rsquo;utility <code>curl</code> per contattare una parte esterna per dirti come <em>vede</em> il tuo server. Questo viene fatto chiedendo a un server specifico qual è il tuo indirizzo IP:</p>
-<pre tabindex="0"><code>sudo apt install curl
-curl http://icanhazip.com
-</code></pre><p>Indipendentemente dal metodo utilizzato per ottenere il tuo indirizzo IP, digitalo nella barra degli indirizzi del tuo browser web per visualizzare la pagina Apache predefinita.</p>
-<h2 id="passaggio-2-installazione-di-mysql">Passaggio 2: installazione di MySQL</h2>
-<p>Ora che hai il tuo server web attivo e funzionante, è il momento di installare MySQL. MySQL è un sistema di gestione di database. Fondamentalmente, organizzerà e fornirà l&rsquo;accesso ai database in cui il tuo sito può archiviare informazioni.</p>
-<p>Ancora una volta, utilizziamo <code>apt</code> per acquisire e installare questo software:</p>
-<pre tabindex="0"><code>sudo apt install mysql-server
-</code></pre><p><strong>Nota</strong> : in questo caso, non è necessario eseguire <code>sudo apt update</code> prima del comando. Questo perché di recente l&rsquo;hai eseguito nei comandi sopra per installare Apache. L&rsquo;indice del pacchetto sul tuo computer dovrebbe essere già aggiornato.</p>
-<p>Anche questo comando ti mostrerà un elenco dei pacchetti che verranno installati, insieme alla quantità di spazio su disco che occuperanno. Entra <code>Y</code> (o <em>S</em>) per continuare.</p>
-<p>Al termine dell&rsquo;installazione, esegui un semplice script di sicurezza preinstallato con MySQL che rimuoverà alcune pericolose impostazioni predefinite e bloccherà l&rsquo;accesso al tuo sistema di database (Se sei in locale non è necessario). Avvia lo script interattivo eseguendo:</p>
-<pre tabindex="0"><code>sudo mysql_secure_installation
-</code></pre><p>Questo ti chiederà se vuoi configurare il <code>VALIDATE PASSWORD PLUGIN</code>.</p>
-<p><strong>Nota:</strong> l&rsquo;abilitazione di questa funzione è una sorta di chiamata di giudizio. Se abilitato, le password che non corrispondono ai criteri specificati verranno rifiutate da MySQL con un errore. Ciò causerà problemi se si utilizza una password debole insieme al software che configura automaticamente le credenziali utente di MySQL, come i pacchetti Ubuntu per phpMyAdmin. È sicuro lasciare la convalida disabilitata, ma dovresti sempre usare password complesse e univoche per le credenziali del database.</p>
-<p>Rispondi <code>Y</code> per sì o per qualsiasi altra cosa per continuare senza abilitare.</p>
-<pre tabindex="0"><code>VALIDATE PASSWORD PLUGIN can be used to test passwords
-and improve security. It checks the strength of password
-and allows the users to set only those passwords which are
-secure enough. Would you like to setup VALIDATE PASSWORD plugin?
-
-Press y|Y for Yes, any other key for No:
-</code></pre><p>Se rispondi &ldquo;sì&rdquo;, ti verrà chiesto di selezionare un livello di convalida della password. Tieni presente che se inserisci <code>2</code>, il livello più forte, riceverai errori quando tenti di impostare una password che non contenga numeri, lettere maiuscole e minuscole e caratteri speciali o che sia basata su parole comuni del dizionario.</p>
-<pre tabindex="0"><code>There are three levels of password validation policy:
-
-LOW    Length &gt;= 8
-MEDIUM Length &gt;= 8, numeric, mixed case, and special characters
-STRONG Length &gt;= 8, numeric, mixed case, special characters and dictionary                  file
-
-Please enter 0 = LOW, 1 = MEDIUM and 2 = STRONG: 1
-</code></pre><p>Indipendentemente dal fatto che tu abbia scelto di impostare <code>VALIDATE PASSWORD PLUGIN</code>, il tuo server ti chiederà successivamente di selezionare e confermare una password per l&rsquo; utente <strong>root</strong> MySQL. Questo non deve essere confuso con il <strong>root di sistema</strong>. L&rsquo; utente <strong>root del database</strong> è un utente amministrativo con privilegi completi sul sistema del database. Anche se il metodo di autenticazione predefinito per l&rsquo;utente root MySQL dispensa l&rsquo;uso di una password, <strong>anche quando ne è impostata una</strong> , dovresti definire qui una password complessa come misura di sicurezza aggiuntiva. Ne parleremo tra un momento.</p>
-<p>Se hai abilitato la convalida della password, ti verrà mostrata la sicurezza della password per la password di root che hai appena inserito e il tuo server ti chiederà se vuoi cambiare quella password. Se sei soddisfatto della tua password attuale, digita <code>N</code>:</p>
-<pre tabindex="0"><code>Using existing password for root.
-
-Estimated strength of the password: 100
-Change the password for root ? ((Press y|Y for Yes, any other key for No) : n
-</code></pre><p>Per il resto delle domande, premere <code>Y</code> e premere <code>ENTER</code> ad ogni prompt. Ciò rimuoverà alcuni utenti anonimi e il database di test, disabiliterà gli accessi root remoti e caricherà queste nuove regole in modo che MySQL rispetti immediatamente le modifiche apportate.</p>
-<p>Al termine, verifica se riesci ad accedere alla console MySQL digitando:</p>
-<pre tabindex="0"><code>sudo mysql
-</code></pre><p>Questo si collegherà al server MySQL come utente <strong>root</strong> del database amministrativo, che viene dedotto dall&rsquo;uso di <code>sudo</code> quando si esegue questo comando. Dovresti vedere un output come questo:</p>
-<pre tabindex="0"><code>OutputWelcome to the MySQL monitor.  Commands end with ; or \g.
-Your MySQL connection id is 5
-Server version: 5.7.34-0ubuntu0.18.04.1 (Ubuntu)
-
-Copyright (c) 2000, 2021, Oracle and/or its affiliates.
-
-Oracle is a registered trademark of Oracle Corporation and/or its
-affiliates. Other names may be trademarks of their respective
-owners.
-
-Type &#39;help;&#39; or &#39;\h&#39; for help. Type &#39;\c&#39; to clear the current input statement.
-
-mysql&gt;
-</code></pre><p>Per uscire dalla console MySQL, digita:</p>
-<pre tabindex="0"><code>exit
-</code></pre><p>Tieni presente che non è necessario fornire una password per connettersi come utente <strong>root</strong> , anche se ne è stata definita una durante l&rsquo;esecuzione dello  <code>mysql_secure_installation</code>. Questo perché il metodo di autenticazione predefinito per l&rsquo;utente MySQL amministrativo è <code>unix_socket</code> invece di <code>password</code>. Anche se all&rsquo;inizio potrebbe sembrare un problema di sicurezza, rende il server del database più sicuro perché gli unici utenti autorizzati ad accedere come utente <strong>root</strong> MySQL sono gli utenti del sistema con privilegi sudo che si connettono dalla console o tramite un&rsquo;applicazione in esecuzione con gli stessi privilegi. In termini pratici, ciò significa che non sarai in grado di utilizzare l&rsquo;utente <strong>root</strong> del database amministrativo per connetterti dalla tua applicazione PHP. L&rsquo;account MySQL funge da salvaguardia, nel caso in cui il metodo di autenticazione predefinito venga modificato da <code>unix_socket</code> a <code>password</code>.</p>
-<p>Per una maggiore sicurezza, è meglio disporre di account utente dedicati con privilegi meno estesi impostati per ogni database, soprattutto se prevedi di avere più database ospitati sul tuo server, ma su questo creerò altre guide più dettagliate in futuro.</p>
-<p>Il tuo server MySQL è ora installato e protetto. Vediamo ora come installare PHP, il componente finale nello stack LAMP.</p>
-<h2 id="passaggio-3-installazione-di-php">Passaggio 3: installazione di PHP</h2>
-<p>PHP è il componente della configurazione che elaborerà il codice per visualizzare il contenuto dinamico. Può eseguire script, connettersi ai tuoi database MySQL per ottenere informazioni e consegnare il contenuto elaborato al tuo server web in modo che possa mostrare i risultati ai tuoi visitatori.</p>
-<p>Ancora una volta, sfrutta il sistema apt per installare PHP. Oltre al pacchetto php, dovrai anche integrare libapache2-mod-php in Apache e il pacchetto php-mysql per consentire a PHP di connettersi ai database MySQL. Esegui il comando seguente per installare tutti e tre i pacchetti e le relative dipendenze:</p>
-<pre tabindex="0"><code>sudo apt install php libapache2-mod-php php-mysql
-</code></pre><p>Questo dovrebbe installare PHP senza problemi. Lo testeremo tra un momento.</p>
-<h3 id="modifica-dellindice-della-directory-di-apache-opzionale">Modifica dell&rsquo;indice della directory di Apache (opzionale)</h3>
-<p>In alcuni casi, vorrai modificare il modo in cui Apache serve i file quando viene richiesta una directory. Di default, se un utente richiede una directory dal server, Apache cercherà prima un file chiamato <code>index.html</code>. Ma noi vogliamo dire al server web di preferire i file PHP rispetto ad altri, per fare in modo che Apache cerchi <code>index.php</code> come primoo file. In caso contrario, un <code>index.html</code> inserito nella radice del documento dell&rsquo;applicazione avrà sempre la precedenza su un <code>index.php</code>.</p>
-<p>Per apportare questa modifica, apri il file di configurazione <code>dir.conf</code> in un editor di testo a tua scelta. Qui useremo <code>nano</code>:</p>
-<pre tabindex="0"><code>sudo nano /etc/apache2/mods-enabled/dir.conf
-</code></pre><p>Dovresti vedere una cosa del genere:</p>
-<pre tabindex="0"><code>&lt;IfModule mod_dir.c&gt;
-    DirectoryIndex index.html index.cgi index.pl index.php index.xhtml index.htm
-&lt;/IfModule&gt;
-</code></pre><p>Sposta il file di indice PHP (evidenziato sopra) nella prima posizione dopo la <code>DirectoryIndex</code>, in questo modo:</p>
-<pre tabindex="0"><code>&lt;IfModule mod_dir.c&gt;
-    DirectoryIndex index.php index.html index.cgi index.pl index.xhtml index.htm
-&lt;/IfModule&gt;
-</code></pre><p>Al termine, salva e chiudi il file premendo <code>CTRL+X</code>. Conferma il salvataggio digitando <code>Y</code> e quindi premi <code>ENTER</code> per verificare la posizione di salvataggio del file.</p>
-<p>Successivamente, riavvia il server Web Apache in modo che le modifiche vengano riconosciute. Puoi farlo con il seguente comando:</p>
-<pre tabindex="0"><code>sudo systemctl restart apache2
-</code></pre><p>Puoi anche controllare lo stato del <code>apache2</code>servizio utilizzando <code>systemctl</code>:</p>
-<pre tabindex="0"><code>sudo systemctl status apache2
-</code></pre><pre tabindex="0"><code>Sample Output● apache2.service - The Apache HTTP Server
-   Loaded: loaded (/lib/systemd/system/apache2.service; enabled; vendor preset: enabled)
-  Drop-In: /lib/systemd/system/apache2.service.d
-           └─apache2-systemd.conf
-   Active: active (running) since Thu 2021-07-15 09:22:59 UTC; 1h 3min ago
- Main PID: 3719 (apache2)
-    Tasks: 55 (limit: 2361)
-   CGroup: /system.slice/apache2.service
-           ├─3719 /usr/sbin/apache2 -k start
-           ├─3721 /usr/sbin/apache2 -k start
-           └─3722 /usr/sbin/apache2 -k start
-
-Jul 15 09:22:59 ubuntu1804 systemd[1]: Starting The Apache HTTP Server...
-Jul 15 09:22:59 ubuntu1804 apachectl[3694]: AH00558: apache2: Could not reliably determine the server&#39;s fully qualified domain name, using 127.0.1.1. Set the &#39;ServerName&#39; di
-Jul 15 09:22:59 ubuntu1804 systemd[1]: Started The Apache HTTP Server.
-</code></pre><p>Premi <code>Q</code> per uscire da questo stato.</p>
-<h2 id="passaggio-4-configurazione-di-un-host-virtuale-consigliato">Passaggio 4: configurazione di un host virtuale (consigliato)</h2>
-<p>Quando si utilizza il server Web Apache, è possibile utilizzare <em>host virtuali</em> per incapsulare i dettagli di configurazione e ospitare più di un dominio da un singolo server. Imposteremo ora un dominio di esempio chiamato <strong><strong>il_mio_dominio</strong></strong>, potrai sostituirlo con il nome del dominio che desideri utilizzare.</p>
-<p>Apache su ha un blocco server abilitato per impostazione predefinita che è configurato per servire i documenti dalla cartella <code>/var/www/html</code>. Sebbene funzioni bene per un singolo sito, può diventare ingombrante se ospiti più siti. Invece di modificare <code>/var/www/html</code>, creiamo una struttura di directory all&rsquo;interno <code>/var/www</code> per <strong>il sito il_mio_dominio</strong>, lasciando <code>/var/www/html</code> come directory predefinita da servire se una richiesta del client non corrisponde a nessun altro sito.</p>
-<p>Crea la directory per <strong><strong>il_mio_dominio</strong></strong> come segue:</p>
-<pre tabindex="0"><code>sudo mkdir /var/www/il_mio_dominio
-</code></pre><p>Quindi, assegna la proprietà della directory con la variabile di ambiente <code>$USER</code>, che fa riferimento all&rsquo;utente registrato corrente:</p>
-<pre tabindex="0"><code>sudo chown -R $USER:$USER /var/www/il_mio_dominio
-</code></pre><p>I permessi della tua directory principale web dovrebbero essere corretti se non hai modificato il suo valore umask, ma puoi comunque digitare:</p>
-<pre tabindex="0"><code>sudo chmod -R 755 /var/www/il_mio_dominio
-</code></pre><p>Ora crea una pagina di esempio <code>index.html</code> utilizzando <code>nano</code> o il tuo editor preferito:</p>
-<pre tabindex="0"><code>nano /var/www/il_mio_dominio/index.html
-</code></pre><p>All&rsquo;interno, aggiungi il seguente codice HTML di esempio:</p>
-<pre tabindex="0"><code>&lt;html&gt;
-    &lt;head&gt;
-        &lt;title&gt;Il Mio Dominio&lt;/title&gt;
-    &lt;/head&gt;
-    &lt;body&gt;
-        &lt;h1&gt;Il mio dominio FUNZIONA!!!&lt;/h1&gt;
-    &lt;/body&gt;
-&lt;/html&gt;
-</code></pre><p>Salva e chiudi il file quando hai finito.</p>
-<p>Affinché Apache possa servire questo contenuto, è necessario creare un file host virtuale con le direttive corrette. Invece di modificare il file di configurazione predefinito che si trova <code>/etc/apache2/sites-available/000-default.conf</code> direttamente in, creiamone uno nuovo in :<code>/etc/apache2/sites-available/il_mio_dominio.conf</code></p>
-<pre tabindex="0"><code>sudo nano /etc/apache2/sites-available/il_mio_dominio.conf
-</code></pre><p>Incolla il seguente blocco di configurazione, che è simile a quello predefinito, ma aggiornato per la nostra nuova directory e nome di dominio:/etc/apache2/sites-available/il_mio_dominio.conf</p>
-<pre tabindex="0"><code>&lt;VirtualHost *:80&gt;
-    ServerAdmin webmaster@localhost
-    ServerName il_mio_dominio
-    ServerAlias www.il_mio_dominio
-    DocumentRoot /var/www/il_mio_dominio
-    ErrorLog ${APACHE_LOG_DIR}/error.log
-    CustomLog ${APACHE_LOG_DIR}/access.log combined
-&lt;/VirtualHost&gt;
-</code></pre><p>Nota che abbiamo aggiornato il <code>DocumentRoot</code> alla nostra nuova directory e <code>ServerAdmin</code> a un&rsquo;e-mail a cui l&rsquo; amministratore del sito <strong><strong>il_mio_dominio</strong></strong> può accedere. Abbiamo anche aggiunto due direttive: <code>ServerName</code>, che stabilisce il dominio di base che dovrebbe corrispondere a questa definizione di host virtuale e <code>ServerAlias</code>, che definisce altri nomi che dovrebbero corrispondere come se fossero il nome di base.</p>
-<p>Salva e chiudi il file quando hai finito.</p>
-<p>Abilitiamo ora il file con lo strumento <code>a2ensite</code>:</p>
-<pre tabindex="0"><code>sudo a2ensite il_mio_dominio.conf
-</code></pre><p>Disabilita infine il sito predefinito definito in <code>000-default.conf</code>:</p>
-<pre tabindex="0"><code>sudo a2dissite 000-default.conf
-</code></pre><p>Quindi, testiamo gli errori di configurazione:</p>
-<pre tabindex="0"><code>sudo apache2ctl configtest
-</code></pre><p>Dovresti vedere il seguente output:</p>
-<pre tabindex="0"><code>OutputSyntax OK
-</code></pre><p>Riavvia Apache per implementare le modifiche:</p>
-<pre tabindex="0"><code>sudo systemctl restart apache2
-</code></pre><p>Apache dovrebbe ora servire il tuo nome di dominio. Puoi testarlo navigando su <code>http://il_mio_dominio</code>, dovresti vedere la pagina HTML creata poco fa funzionare correttamente.</p>
-<p>Con ciò, il tuo host virtuale è completamente configurato. Prima di apportare ulteriori modifiche o distribuire un&rsquo;applicazione, tuttavia, sarebbe utile testare in modo proattivo la configurazione PHP nel caso in cui ci siano problemi che dovrebbero essere risolti.</p>
-<h2 id="passaggio-5-testare-lelaborazione-php-sul-server-web">Passaggio 5: testare l&rsquo;elaborazione PHP sul server Web</h2>
-<p>Per verificare che il tuo sistema sia configurato correttamente per PHP, crea uno script PHP chiamato <code>info.php</code>. Affinché Apache possa trovare questo file e servirlo correttamente, deve essere salvato nella directory principale del Web.</p>
-<p>Crea il file nella radice web che hai creato nel passaggio precedente eseguendo:</p>
-<pre tabindex="0"><code>sudo nano /var/www/il_mio_dominio/info.php
-</code></pre><p>Questo aprirà un file vuoto. Aggiungi il seguente testo, che è un codice PHP valido, all&rsquo;interno del file:</p>
-<pre tabindex="0"><code>&lt;?php
-phpinfo();
-</code></pre><p>Al termine, salva e chiudi il file.</p>
-<p>Ora puoi verificare se il tuo server web è in grado di visualizzare correttamente il contenuto generato da questo script PHP. Per provarlo, visita questa pagina nel tuo browser web. Avrai bisogno di nuovo dell&rsquo;indirizzo IP pubblico o del nome di dominio del tuo server.</p>
-<p>L&rsquo;indirizzo che vorrai visitare è:</p>
-<pre tabindex="0"><code>http://il_mio_dominio/info.php
-</code></pre><p>La pagina a cui vieni dovrebbe assomigliare a questa:</p>
-<p><img src="images/small_php_info_1804-796x1024.png" alt=""></p>
-<p>Questa pagina fornisce alcune informazioni di base sul tuo server dal punto di vista di PHP. È utile per il debug e per garantire che le impostazioni vengano applicate correttamente.</p>
-<p>Se riesci a vedere questa pagina nel tuo browser, il tuo PHP funziona come previsto.</p>
-<p>Probabilmente vorrai rimuovere questo file dopo questo test perché potrebbe effettivamente fornire informazioni sul tuo server a utenti non autorizzati. Per fare ciò, esegui il seguente comando:</p>
-<pre tabindex="0"><code>sudo rm /var/www/il_mio_dominio/info.php
-</code></pre><p>Puoi sempre ricreare questa pagina se hai bisogno di accedere nuovamente alle informazioni in un secondo momento.</p>
-<h2 id="conclusione">Conclusione</h2>
-<p>Ora che hai installato uno stack LAMP, hai molte scelte su cosa fare dopo. Hai installato una piattaforma che ti consentirà di installare la maggior parte dei tipi di siti Web e software Web sul tuo server.</p>
-<p>Non ti resta che iniziare a installare o sviluppare i tuoi siti in PHP sul tuo nuovo LAMP stack!</p>
-<p>Buon codice!</p>
+			<guid>https://albertoreineri.it/en/blog/how-to-install-a-lamp-stack-linux-apache-mysql-php-on-ubuntu/</guid>
+			<description>Introduction A &amp;ldquo;LAMP&amp;rdquo; stack is a group of open-source software typically installed together to enable a server to host dynamic websites and web applications. This term is actually an acronym representing the Linux operating system, with the Apache web server. The website data is stored in a MySQL database, and dynamic content is processed by PHP.
+In this guide, we will install a LAMP stack on an Ubuntu server.
+Prerequisites This tutorial is created on Ubuntu but works on all Debian-based distros, such as Pop!</description>
+			<content type="html"><![CDATA[<h1 id="introduction">Introduction</h1>
+<p>A &ldquo;LAMP&rdquo; stack is a group of open-source software typically installed together to enable a server to host dynamic websites and web applications. This term is actually an acronym representing the Linux operating system, with the Apache web server. The website data is stored in a MySQL database, and dynamic content is processed by PHP.</p>
+<p>In this guide, we will install a LAMP stack on an Ubuntu server.</p>
+<h2 id="prerequisites">Prerequisites</h2>
+<p>This tutorial is created on Ubuntu but works on all Debian-based distros, such as Pop!_OS, Elementary OS, Linux Mint, etc.</p>
+<h2 id="step-1-installing-apache">Step 1: Installing Apache</h2>
+<p>The Apache web server is a popular open-source web server that can be used in conjunction with <a href="/blog/le-basi-di-php/">PHP</a> to host dynamic websites. Ensure your <code>apt</code> cache is up-to-date with:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo apt update
+</span></span></code></pre></div><p>If this is your first time using <code>sudo</code> in this session, you&rsquo;ll be prompted to enter your user password to validate your permissions.</p>
+<p>Once the cache is updated, you can install Apache by running:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo apt install apache2
+</span></span></code></pre></div><p>After entering this command, <code>apt</code> will inform you which packages it intends to install and how much disk space they will occupy. Press <code>S</code> (or <code>Y</code> if your system is set to English) and then press <code>ENTER</code> to confirm, and the installation will proceed.</p>
+<p><em>Note: In this guide, I will use &lsquo;<em>Y</em>&rsquo; to proceed with the installation because I habitually install Linux in English&hellip; If you use Italian, remember to press &lsquo;<em>S</em>&rsquo;.</em></p>
+<p>And voilà! Apache is now installed!</p>
+<p>You can perform a quick check to verify that everything went as expected by visiting your server&rsquo;s public IP address in your web browser. If you&rsquo;re local, simply open the browser and enter:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>http://localhost
+</span></span></code></pre></div><p>If you&rsquo;re configuring a remote web server, then you&rsquo;ll need to enter your IP address:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>http://your_server_ip
+</span></span></code></pre></div><p>You should now see Apache&rsquo;s default web page in your browser, which is available for informational and testing purposes. It should look something like this:</p>
+<p><img src="images/small_apache_default_1804-728x1024.png" alt="Apache Default Page"></p>
+<p>If you see this page, your web server is now correctly installed and accessible through your firewall.</p>
+<h3 id="how-to-find-your-servers-public-ip-address">How to find your server&rsquo;s public IP address</h3>
+<p>If you&rsquo;re configuring a remote web server and don&rsquo;t know what your server&rsquo;s public IP address is, there are several ways to find it. Usually, it&rsquo;s the address you use to connect to your server via SSH.</p>
+<p>There are different ways to do this from the command line. First, you can use the <code>iproute2</code> tools to get your IP address by typing:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>ip addr show eth0 | grep inet | awk <span style="color:#e6db74">&#39;{ print $2; }&#39;</span> | sed <span style="color:#e6db74">&#39;s/\/.*$//&#39;</span>
+</span></span></code></pre></div><p>This will return two or three lines. They are all correct addresses, but your computer may only be able to use one, so feel free to try them.</p>
+<p>An alternative method is to use the <code>curl</code> utility to contact an external party to tell you how your server &lsquo;sees&rsquo; itself. This is done by asking a specific server what your IP address is:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo apt install curl
+</span></span><span style="display:flex;"><span>curl http://icanhazip.com
+</span></span></code></pre></div><p>Regardless of the method used to obtain your IP address, type it into your web browser&rsquo;s address bar to view the default Apache page.</p>
+<h2 id="step-2-installing-mysql">Step 2: Installing MySQL</h2>
+<p>Now that you have your web server up and running, it&rsquo;s time to install MySQL. MySQL is a database management system that organizes and provides access to databases where your site can store information.</p>
+<p>Again, we use <code>apt</code> to acquire and install this software:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo apt install mysql-server
+</span></span></code></pre></div><p><strong>Note:</strong> In this case, there&rsquo;s no need to run <code>sudo apt update</code> before the command. This is because you recently did it in the commands above to install Apache. Your computer&rsquo;s package index should already be up-to-date.</p>
+<p>This command will also show you a list of packages to be installed, along with the amount of disk space they will occupy. Enter <code>Y</code> (or <code>S</code>) to continue.</p>
+<p>After the installation, run a simple pre-installed security script with MySQL that will remove some dangerous default settings and lock down access to your database system (If you&rsquo;re local, this step is not necessary). Start the interactive script by running:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo mysql_secure_installation
+</span></span></code></pre></div><p>This will ask you if you want to set up the <code>VALIDATE PASSWORD PLUGIN</code>.</p>
+<p><strong>Note:</strong> Enabling this feature is a judgment call. If enabled, passwords that do not meet the specified criteria will be rejected by MySQL with</p>
+<h2 id="step-2-mysql-installation">Step 2: MySQL Installation</h2>
+<p>Now that your web server is up and running, it&rsquo;s time to install MySQL. MySQL is a database management system that will organize and provide access to the databases where your site can store information.</p>
+<p>Once again, we use <code>apt</code> to acquire and install this software:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo apt install mysql-server
+</span></span></code></pre></div><p><strong>Note:</strong> In this case, there is no need to run <code>sudo apt update</code> before the command. This is because you recently executed it in the commands above to install Apache. The package index on your computer should already be updated.</p>
+<p>This command will also show you a list of the packages that will be installed, along with the amount of disk space they will occupy. Enter <code>Y</code> (or <code>S</code>) to proceed.</p>
+<p>After the installation is complete, run a simple security script preinstalled with MySQL. This script will remove some dangerous default settings and block access to your database system (if you&rsquo;re local, this step is not necessary). Initiate the interactive script by running:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo mysql_secure_installation
+</span></span></code></pre></div><p>This will ask you if you want to configure the <code>VALIDATE PASSWORD PLUGIN</code>.</p>
+<p><strong>Note:</strong> Enabling this feature is a judgment call. If enabled, passwords that do not meet the specified criteria will be rejected by MySQL with an error. This can cause issues if you use a weak password along with software that automatically configures MySQL user credentials, like the Ubuntu packages for phpMyAdmin. It is safe to leave validation disabled, but you should always use complex and unique passwords for database credentials.</p>
+<p>Reply with <code>Y</code> for yes or anything else to continue without enabling.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>VALIDATE PASSWORD PLUGIN can be used to test passwords
+</span></span><span style="display:flex;"><span>and improve security. It checks the strength of password
+</span></span><span style="display:flex;"><span>and allows the users to set only those passwords which are
+</span></span><span style="display:flex;"><span>secure enough. Would you like to setup VALIDATE PASSWORD plugin?
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>Press y|Y <span style="color:#66d9ef">for</span> Yes, any other key <span style="color:#66d9ef">for</span> No:
+</span></span></code></pre></div><p>If you answer &ldquo;yes,&rdquo; you will be asked to select a password validation level. Keep in mind that if you enter <code>2</code>, the strongest level, you will receive errors when trying to set a password that does not include numbers, uppercase and lowercase letters, special characters, or is based on common dictionary words.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>There are three levels of password validation policy:
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>LOW    Length &gt;<span style="color:#f92672">=</span> <span style="color:#ae81ff">8</span>
+</span></span><span style="display:flex;"><span>MEDIUM Length &gt;<span style="color:#f92672">=</span> 8, numeric, mixed <span style="color:#66d9ef">case</span>, and special characters
+</span></span><span style="display:flex;"><span>STRONG Length &gt;<span style="color:#f92672">=</span> 8, numeric, mixed <span style="color:#66d9ef">case</span>, special characters and dictionary                  file
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>Please enter 0 <span style="color:#f92672">=</span> LOW, 1 <span style="color:#f92672">=</span> MEDIUM and 2 <span style="color:#f92672">=</span> STRONG: <span style="color:#ae81ff">1</span>
+</span></span></code></pre></div><p>Regardless of whether you chose to set up the <code>VALIDATE PASSWORD PLUGIN</code>, your server will then ask you to select and confirm a password for the MySQL <strong>root</strong> user. This should not be confused with the <strong>system root</strong>. The <strong>database root</strong> user is an administrative user with full privileges on the database system. Even though the default authentication method for the MySQL root user does not require a password, <strong>even if one is set</strong>, you should define a strong password here as an additional security measure. We&rsquo;ll discuss this further in a moment.</p>
+<p>If you enabled password validation, you will be shown the password strength for the root password you just entered, and your server will ask if you want to change that password. If you are satisfied with your current password, type <code>N</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>Using existing password <span style="color:#66d9ef">for</span> root.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>Estimated strength of the password: <span style="color:#ae81ff">100</span>
+</span></span><span style="display:flex;"><span>Change the password <span style="color:#66d9ef">for</span> root ? <span style="color:#f92672">((</span>Press y|Y <span style="color:#66d9ef">for</span> Yes, any other key <span style="color:#66d9ef">for</span> No<span style="color:#f92672">)</span> : n
+</span></span></code></pre></div><p>For the rest of the questions, press <code>Y</code> and press <code>ENTER</code> at each prompt. This will remove some anonymous users and the test database, disable remote root logins, and load these new rules so that MySQL immediately respects the changes made.</p>
+<p>Finally, check if you can access the MySQL console by typing:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo mysql
+</span></span></code></pre></div><p>This will connect to the MySQL server as the administrative database <strong>root</strong> user, inferred from the use of <code>sudo</code> when running this command. You should see an output like this:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>OutputWelcome to the MySQL monitor.  Commands end with ; or <span style="color:#ae81ff">\g</span>.
+</span></span><span style="display:flex;"><span>Your MySQL connection id is <span style="color:#ae81ff">5</span>
+</span></span><span style="display:flex;"><span>Server version: 5.7.34-0ubuntu0.18.04.1 <span style="color:#f92672">(</span>Ubuntu<span style="color:#f92672">)</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>Copyright <span style="color:#f92672">(</span>c<span style="color:#f92672">)</span> 2000, 2021, Oracle and/or its affiliates.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>Oracle is a registered trademark of Oracle Corporation and/or its
+</span></span><span style="display:flex;"><span>affiliates. Other names may be trademarks of their respective
+</span></span><span style="display:flex;"><span>owners.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>Type <span style="color:#e6db74">&#39;help;&#39;</span> or <span style="color:#e6db74">&#39;\h&#39;</span> <span style="color:#66d9ef">for</span> help. Type <span style="color:#e6db74">&#39;\c&#39;</span> to clear the current input statement.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>mysql&gt;
+</span></span></code></pre></div><p>To exit the MySQL console, type:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>exit
+</span></span></code></pre></div><p>Note that you do not need to provide a password to connect as the <strong>root</strong> user, even if one was set during the <code>mysql_secure_installation</code> execution. This is because the default authentication method for the MySQL administrative user is <code>unix_socket</code> instead of <code>password</code>. While it may initially seem like a security issue, it makes the database server more</p>
+<p>secure because only users with sudo privileges connecting from the console or via an application running with the same privileges are allowed to access as the MySQL <strong>root</strong> user. In practical terms, this means you won&rsquo;t be able to use the administrative database <strong>root</strong> user to connect from your PHP application. The MySQL account acts as a safeguard in case the default authentication method is changed from <code>unix_socket</code> to <code>password</code>.</p>
+<p>For enhanced security, it&rsquo;s advisable to have dedicated user accounts with less extensive privileges set up for each database, especially if you plan to have multiple databases hosted on your server. However, I will create more detailed guides on this in the future.</p>
+<p>Your MySQL server is now installed and secured. Let&rsquo;s now proceed to install PHP, the final component in the LAMP stack.</p>
+<h2 id="step-3-php-installation">Step 3: PHP Installation</h2>
+<p>PHP is the component of the setup that will process code to display dynamic content. It can run scripts, connect to your MySQL databases to fetch information, and deliver the processed content to your web server so that it can display the results to your visitors.</p>
+<p>Once again, leverage the <code>apt</code> system to install PHP. In addition to the <code>php</code> package, you will also need to include <code>libapache2-mod-php</code> in Apache and the <code>php-mysql</code> package to allow PHP to connect to MySQL databases. Execute the following command to install all three packages and their dependencies:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo apt install php libapache2-mod-php php-mysql
+</span></span></code></pre></div><p>This should install PHP without any issues. We will test it shortly.</p>
+<h3 id="modify-apache-directory-index-optional">Modify Apache Directory Index (Optional)</h3>
+<p>In some cases, you may want to change how Apache serves files when a directory is requested. By default, if a user requests a directory from the server, Apache will first look for a file named <code>index.html</code>. However, we want to instruct the web server to prefer PHP files over others, so that Apache looks for <code>index.php</code> as the first file. Otherwise, an <code>index.html</code> placed in the root of the application&rsquo;s document will always take precedence over an <code>index.php</code>.</p>
+<p>To make this change, open the <code>dir.conf</code> configuration file in a text editor of your choice. Here, we will use <code>nano</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo nano /etc/apache2/mods-enabled/dir.conf
+</span></span></code></pre></div><p>You should see something like this:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-apache" data-lang="apache"><span style="display:flex;"><span><span style="color:#f92672">&lt;IfModule</span> <span style="color:#e6db74">mod_dir.c</span><span style="color:#f92672">&gt;</span>
+</span></span><span style="display:flex;"><span>    DirectoryIndex index.html index.cgi index.pl index.php index.xhtml index.htm
+</span></span><span style="display:flex;"><span><span style="color:#f92672">&lt;/IfModule&gt;</span>
+</span></span></code></pre></div><p>Move the PHP index file (highlighted above) to the first position after <code>DirectoryIndex</code>, like this:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-apache" data-lang="apache"><span style="display:flex;"><span><span style="color:#f92672">&lt;IfModule</span> <span style="color:#e6db74">mod_dir.c</span><span style="color:#f92672">&gt;</span>
+</span></span><span style="display:flex;"><span>    DirectoryIndex index.php index.html index.cgi index.pl index.xhtml index.htm
+</span></span><span style="display:flex;"><span><span style="color:#f92672">&lt;/IfModule&gt;</span>
+</span></span></code></pre></div><p>Once done, save and close the file by pressing <code>CTRL+X</code>. Confirm saving by typing <code>Y</code>, and then press <code>ENTER</code> to verify the file&rsquo;s save location.</p>
+<p>Next, restart the Apache Web server so that the changes are recognized. You can do this with the following command:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo systemctl restart apache2
+</span></span></code></pre></div><p>You can also check the status of the <code>apache2</code> service using <code>systemctl</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo systemctl status apache2
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>Sample Output
+</span></span><span style="display:flex;"><span>● apache2.service - The Apache HTTP Server
+</span></span><span style="display:flex;"><span>   Loaded: loaded <span style="color:#f92672">(</span>/lib/systemd/system/apache2.service; enabled; vendor preset: enabled<span style="color:#f92672">)</span>
+</span></span><span style="display:flex;"><span>  Drop-In: /lib/systemd/system/apache2.service.d
+</span></span><span style="display:flex;"><span>           └─apache2-systemd.conf
+</span></span><span style="display:flex;"><span>   Active: active <span style="color:#f92672">(</span>running<span style="color:#f92672">)</span> since Thu 2021-07-15 09:22:59 UTC; 1h 3min ago
+</span></span><span style="display:flex;"><span> Main PID: <span style="color:#ae81ff">3719</span> <span style="color:#f92672">(</span>apache2<span style="color:#f92672">)</span>
+</span></span><span style="display:flex;"><span>    Tasks: <span style="color:#ae81ff">55</span> <span style="color:#f92672">(</span>limit: 2361<span style="color:#f92672">)</span>
+</span></span><span style="display:flex;"><span>   CGroup: /system.slice/apache2.service
+</span></span><span style="display:flex;"><span>           ├─3719 /usr/sbin/apache2 -k start
+</span></span><span style="display:flex;"><span>           ├─3721 /usr/sbin/apache2 -k start
+</span></span><span style="display:flex;"><span>           └─3722 /usr/sbin/apache2 -k start
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>Jul <span style="color:#ae81ff">15</span> 09:22:59 ubuntu1804 systemd<span style="color:#f92672">[</span>1<span style="color:#f92672">]</span>: Starting The Apache HTTP Server...
+</span></span><span style="display:flex;"><span>Jul <span style="color:#ae81ff">15</span> 09:22:59 ubuntu1804 apachectl<span style="color:#f92672">[</span>3694<span style="color:#f92672">]</span>: AH00558: apache2: Could not reliably determine the server<span style="color:#e6db74">&#39;s fully qualified domain name, using 127.0.1.1. Set the &#39;</span>ServerName<span style="color:#960050;background-color:#1e0010">&#39;</span> di
+</span></span><span style="display:flex;"><span>Jul <span style="color:#ae81ff">15</span> 09:22:59 ubuntu1804 systemd<span style="color:#f92672">[</span>1<span style="color:#f92672">]</span>: Started The Apache HTTP Server.
+</span></span></code></pre></div><p>Press <code>Q</code> to exit this status view.</p>
+<h2 id="step-4-configure-a-virtual-host-recommended">Step 4: Configure a Virtual Host (Recommended)</h2>
+<p>When using the Apache web server, you can use <em>virtual hosts</em> to encapsulate configuration details and host more than one domain from a single server. We will now set up a sample domain called <strong>my_domain</strong>, and you can replace it with the domain name you intend to use.</p>
+<p>Apache comes with a server block enabled by default that is configured to serve documents from the <code>/var/www/html</code> folder. While it works well for a single site, it can become cumbersome when hosting multiple sites. Instead of modifying <code>/var/www/html</code>, let&rsquo;s create a directory structure within <code>/var/www</code> for the <strong>my_domain</strong> site, leaving <code>/var/www/html</code> as the default directory to serve if a client request doesn&rsquo;t match any other site.</p>
+<p>Create the directory for <strong>my_domain</strong> as follows:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo mkdir /var/www/my_domain
+</span></span></code></pre></div><p>Then, assign ownership of the directory using the <code>$USER</code> environment variable, which refers to the current logged-in user:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo chown -R $USER:$USER /var/www/my_domain
+</span></span></code></pre></div><p>The permissions for your main web directory should be correct if you haven&rsquo;t changed its umask value, but you can still type:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo chmod -R <span style="color:#ae81ff">755</span> /var/www/my_domain
+</span></span></code></pre></div><p>Now, create a sample <code>index.html</code> page using <code>nano</code> or your preferred editor:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>nano /var/www/my_domain/index.html
+</span></span></code></pre></div><p>Inside, add the following sample HTML code:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">html</span>&gt;
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">head</span>&gt;
+</span></span><span style="display:flex;"><span>        &lt;<span style="color:#f92672">title</span>&gt;My Domain&lt;/<span style="color:#f92672">title</span>&gt;
+</span></span><span style="display:flex;"><span>    &lt;/<span style="color:#f92672">head</span>&gt;
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">body</span>&gt;
+</span></span><span style="display:flex;"><span>        &lt;<span style="color:#f92672">h1</span>&gt;My domain is WORKING!!!&lt;/<span style="color:#f92672">h1</span>&gt;
+</span></span><span style="display:flex;"><span>    &lt;/<span style="color:#f92672">body</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">html</span>&gt;
+</span></span></code></pre></div><p>Save and close the file when you&rsquo;re done.</p>
+<p>For Apache to serve this content, you need to create a virtual host file with the correct directives. Instead of modifying the default configuration file located at <code>/etc/apache2/sites-available/000-default.conf</code> directly, let&rsquo;s create a new one at <code>/etc/apache2/sites-available/my_domain.conf</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo nano /etc/apache2/sites-available/my_domain.conf
+</span></span></code></pre></div><p>Paste the following configuration block, which is similar to the default but updated for our new directory and domain name, into <code>/etc/apache2/sites-available/my_domain.conf</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-apache" data-lang="apache"><span style="display:flex;"><span><span style="color:#f92672">&lt;VirtualHost</span> <span style="color:#e6db74">*:80</span><span style="color:#f92672">&gt;</span>
+</span></span><span style="display:flex;"><span>    ServerAdmin webmaster@localhost
+</span></span><span style="display:flex;"><span>    ServerName my_domain
+</span></span><span style="display:flex;"><span>    ServerAlias www.my_domain
+</span></span><span style="display:flex;"><span>    DocumentRoot <span style="color:#e6db74">/var/www/my_domain</span>
+</span></span><span style="display:flex;"><span>    ErrorLog ${APACHE_LOG_DIR}/error.log
+</span></span><span style="display:flex;"><span>    CustomLog ${APACHE_LOG_DIR}/access.log combined
+</span></span><span style="display:flex;"><span><span style="color:#f92672">&lt;/VirtualHost&gt;</span>
+</span></span></code></pre></div><p>Note that we&rsquo;ve updated the <code>DocumentRoot</code> to our new directory and set <code>ServerAdmin</code> to an email that the administrator of the <strong>my_domain</strong> site can access. We&rsquo;ve also added two directives: <code>ServerName</code>, which sets the base domain that should match this virtual host definition, and <code>ServerAlias</code>, which defines other names that should match as if they were the base name.</p>
+<p>Save and close the file when you&rsquo;re done.</p>
+<p>Now, enable the file with the <code>a2ensite</code> tool:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo a2ensite my_domain.conf
+</span></span></code></pre></div><p>Finally, disable the default site defined in <code>000-default.conf</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo a2dissite 000-default.conf
+</span></span></code></pre></div><p>Then, test for configuration errors:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo apache2ctl configtest
+</span></span></code></pre></div><p>You should see the following output:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>Output
+</span></span><span style="display:flex;"><span>Syntax OK
+</span></span></code></pre></div><p>Restart Apache to implement the changes:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo systemctl restart apache2
+</span></span></code></pre></div><p>Apache should now serve your domain name. You can test it by navigating to <code>http://my_domain</code>; you should see the HTML page created earlier working correctly.</p>
+<p>With this, your virtual host is fully configured. Before making further changes or deploying an application, it would be prudent to proactively test the PHP configuration in case there are issues that need to be addressed.</p>
+<h2 id="step-5-test-php-processing-on-the-web-server">Step 5: Test PHP Processing on the Web Server</h2>
+<p>To verify that your system is correctly configured for PHP, create a PHP script named <code>info.php</code>. For Apache to find and serve this file correctly, it must be saved in the root directory of the web.</p>
+<p>Create the file in the web root you created in the previous step by executing:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo nano /var/www/my_domain/info.php
+</span></span></code></pre></div><p>This will open an empty file. Add the following text, which is valid PHP code, inside the file:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-php" data-lang="php"><span style="display:flex;"><span><span style="color:#f92672">&lt;?</span><span style="color:#a6e22e">php</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">phpinfo</span>();
+</span></span></code></pre></div><p>Once done, save and close the file.</p>
+<p>Now you can check whether your web server can correctly display the content generated by this PHP script. To test it, visit this page in your web browser. You will need the public IP address or the domain name of your server again.</p>
+<p>The address you&rsquo;ll want to visit is:</p>
+<pre tabindex="0"><code>http://my_domain/info.php
+</code></pre><p>The page you should see should resemble this:</p>
+<p><img src="images/small_php_info_1804-796x1024.png" alt="PHP Info Page"></p>
+<p>This page provides some basic information about your server from a PHP perspective. It&rsquo;s useful for debugging and ensuring that settings are applied correctly.</p>
+<p>If you can see this page in your browser, your PHP is working as expected.</p>
+<p>You probably want to remove this file after this test because it could potentially provide information about your server to unauthorized users. To do so, run the following command:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo rm /var/www/my_domain/info.php
+</span></span></code></pre></div><p>You can always recreate this page if you need to access the information again later.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Now that you have installed a LAMP stack, you have many choices for what to do next. You&rsquo;ve set up a platform that will allow you to install most types of websites and web software on your server.</p>
+<p>All that&rsquo;s left is to start installing or developing your PHP-based sites on your new LAMP stack!</p>
+<p>Happy coding!</p>
 ]]></content>
 		</item>
 		
@@ -1249,94 +1263,92 @@ T          Cerca fra le tab</code></pre>
 		</item>
 		
 		<item>
-			<title>Amo Linux, ma sono ancora su Mac…</title>
-			<link>https://albertoreineri.it/en/blog/amo-linux-ma-sono-ancora-su-mac/</link>
+			<title>I love Linux, but I&#39;m still on Mac...</title>
+			<link>https://albertoreineri.it/en/blog/i-love-linux-but-im-still-on-mac.../</link>
 			<pubDate>Mon, 21 Mar 2022 22:19:04 +0000</pubDate>
 			
-			<guid>https://albertoreineri.it/en/blog/amo-linux-ma-sono-ancora-su-mac/</guid>
-			<description>Se mi segui da un po&amp;rsquo; di tempo saprai sicuramente quanto ami il mondo Linux! È un ambiente che talvolta mi fa venire il mal di testa, mi fa arrabbiare, mi costringe a bloccarmi sulle cose per capire come funzionano, ma ha anche la bellezza di sentirsi maggiormente padroni dei nostri pc, capire come funzionano sotto la scocca e poterli gestire meglio a nostro piacimento!
-Ah, prima che qualcuno inizi ad insultarmi, in questo articolo parlo di Linux Desktop!</description>
-			<content type="html"><![CDATA[<p>Se mi segui da un po&rsquo; di tempo saprai sicuramente quanto ami il mondo <a href="/blog/perche-dovremmo-tutti-passare-a-linux-e-perche-non-lo-facciamo/">Linux</a>! È un ambiente che talvolta mi fa venire il mal di testa, mi fa arrabbiare, mi costringe a bloccarmi sulle cose per capire come funzionano, ma ha anche la bellezza di sentirsi maggiormente padroni dei nostri pc, capire come funzionano sotto la scocca e poterli gestire meglio a nostro piacimento!</p>
-<p>Ah, prima che qualcuno inizi ad insultarmi, in questo articolo parlo di Linux Desktop! Sui miei server utilizzo solamente linux da anni e gira tutto a meraviglia! (Anche sul server però non è tutto così automatico, bisogna studiare a capirne le basi, però poi una volta montato il tutto funziona alla grande!)</p>
-<p>Bene, fatte le dovute spiegazioni entriamo in argomento!</p>
-<h2 id="sono-ancora-su-mac-os8230">Sono ancora su Mac Os…</h2>
-<p>Se avete guardato i miei ultimi video avrete notato sicuramente che ho filmato tutto quanto su <a href="/blog/nuovo-macbook-pro-2020-per-sviluppo-web/">Mac OS</a>. Ebbene si, dopo aver ripetutamente affermato di amare Linux sono ancora qua che utilizzo il mio MacBook Pro… Che razza di incoerente che sono…..</p>
-<p>Non ho paura di ammetterlo, spesso me lo dico da solo, sono un incoerente e la cosa non mi piace affatto… Ma non è così semplice purtroppo.</p>
-<p>Ho provato più volte a spostarmi definitivamente su Linux ma ho sempre dovuto fare marcia indietro, e ora credo di aver trovato la causa definitiva, ma da buon narratore te la rivelerò solamente alla fine di questo articolo. (certo se proprio sei impaziente puoi scorrere al volo alla conclusione…)</p>
-<h2 id="perché-amo-linux">Perché amo Linux</h2>
-<p>Ci sono molti motivi per cui amo il mondo di Linux, ma la cosa che preferisco è che si sgancia da ogni meccanismo di marketing che oggi ci affligge costantemente. Non abbiamo il tempo di acquistare qualcosa che questa è già stata rimpiazzata da un modello più performante. E infine i prodotti hanno una durata prefissata, l&rsquo;obsolescenza programmata ormai è un dato di fatto!</p>
-<p>Questo non mi piace per niente…. Non ho voglia di perdere tempo guardando fantastiche presentazioni di prodotti che mi fanno venire voglia di sprecare i miei soldi per acquistare attrezzature spesso superflue…</p>
-<p>Inoltre Linux è meritocratico! Più ne sai meno fatichi, tutto qua. Se sei alle prime armi lo odi con tutto il cuore, poi quando inizi a smanettarci a dovere allora non puoi più farne a meno! Sei padrone della tua macchina e puoi usarla esattamente come vuoi tu!</p>
-<p>Infine in un mondo in cui la nostra privacy non ha più gran valore, i nostri meta dati sono sotto gli occhi di tutti e la sicurezza informatica sta diventando sempre più importante, l&rsquo;open source può garantire un buon livello di protezione! Non sono un fanatico della privacy, ho anche io un account gmail, però credo che bisogna avere la giusta consapevolezza, cercare di stare in una giusta via di mezzo fra l&rsquo;accedere a qualsivoglia contenuto con i nostri dati personali e il criptare ogni singolo file sul PC… Niente paranoie ma nemmeno troppo lassismo.</p>
-<h2 id="perché-non-sono-ancora-passato-definitivamente-a-linux">Perché non sono ancora passato definitivamente a Linux</h2>
-<p>Come dicevo all&rsquo;inizio però sono ancora sul Mac, anche se non sono pienamente soddisfatto… E tutto questo a causa dell&rsquo;hardware che ho a disposizione, almeno è quello che sto dicendo a me stesso in questo momento.</p>
-<p>Tempo fa ho visto un video molto interessante di uno dei miei creator preferiti: Riccardo Palombo. In un video su YouTube diceva che “Non ci serve nuovo hardware, ma nuovo software”, o qualcosa di molto simile. Che titolo meraviglioso! Però nel mio caso non funziona purtroppo….</p>
-<p>Fermi un attimo, Riccardo ha ragione e sono daccordo con lui sulla questione software, però ho notato che, almeno per me, l&rsquo;hardware è anche molto molto importante!</p>
-<p>Se sto scrivendo dal mio MacBook Pro non è di certo per Mac Os, né per i software al suo interno. Non mi importa nemmeno più di Photoshop ultimamente, ma è per l&rsquo;hardware!</p>
-<p>Tastiera, touchpad, schermo, batteria, microfono, ventole e tempi di ricarica sono buoni sul mio Mac, e sto parlando ancora della versione con Intel. Non c&rsquo;è niente di eccezzionale, ma tutto funziona alla grande, non ho mai avuto crash ed è un computer ben bilanciato e tutto sommato silenzioso (a parte quando lavoro con Docker…)</p>
-<p>Oltre al Mac ho un notebook ASUS su cui utilizzo Linux, e sono arrivato alla conclusione che il punto più debole del pc è proprio l&rsquo;hardware… In particolare ho uno schermo penoso, delle ventole rumorosissime e una batteria ridicola…</p>
-<p>Certo non è il notebook giusto da utilizzare con Linux, ma quando l&rsquo;ho comprato non pensavo che sarei diventato pinguino dipendente ? ?.</p>
-<p>Col Mac invece posso lavorare serenamente senza paura di finire la batteria senza accorgermene, potendo registrare il mio podcast direttamente dal microfono del laptop senza attaccare niente di esterno (anche perché non ha grandi porte ?) e posso arrivare a sera con gli occhi ancora sani e non lacrimanti come quando uso l&rsquo;ASUS….</p>
-<p>L&rsquo;unico modo con cui lavoro bene con l&rsquo;ASUS è usandolo come se fosse un pc fisso. Ci attacco tastiera, mouse e schermo esterni, lo chiudo e mi scordo di avere un notebook, allora devo dire che gira molto bene.</p>
-<p>Purtroppo però per il mio stile di vita è fondamentale avere un laptop su cui potermi fidare. Spesso mi sposto per qualche giorno in montagna dove non ho grosso spazio disponibile, e per il momento il Mac è veramente comodo!</p>
-<p>Vantaggi: con un solo caricatore posso caricare Mac, Smartphone e iPad (con connettore usbc-lightning), posso usare l&rsquo;iPad come secondo schermo senza collegare nessun cavo e posso fare a meno del mouse perché il touchpad è una vera bomba!</p>
-<h2 id="conclusione">Conclusione</h2>
-<p>E voilà, tutto qua! Perciò ora sono ancora imprigionato nel mondo Apple. Per carità, se mettessi da parte i concetti ideologici allora potrei rimanere così a vita, ma il marketing pompante, l&rsquo;overpricing e il fattore “moda” non mi fanno sentire del tutto a mio agio…</p>
-<p>Come posso risolvere? Dovrei provare a mettere le mani su un bel ThinkPad oppure un XPS e vedere come mi trovo, ma al momento non ho il budget disponibile per fare questo test…</p>
-<p>C&rsquo;è anche da dire che scegliere un laptop per Linux non è così facile…. Stanno nascendo aziende specializzate in notebook Linux, come la spagnola Slimbook, ma devo studiare meglio i loro prodotti prima di lanciarmi nell&rsquo;acquisto.</p>
-<p>Alla fine mi basterebbe un notebook con 4 pezzi di qualità: tastiera, touchpad, batteria e schermo. Purtroppo però capita spesso che i laptop windows pompino molto su processore e ram e meno sull&rsquo;esperienza d&rsquo;uso dell&rsquo;utente, che per noi programmatori è importantissima, almeno per me.</p>
-<p>Se devo passare dieci ore al giorno al PC, deve almeno essere carino e piacevole da usare!</p>
-<p>Questo è quanto per ora, appena metterò le mani su un ThinkPad vi farò sapere di più!</p>
+			<guid>https://albertoreineri.it/en/blog/i-love-linux-but-im-still-on-mac.../</guid>
+			<description>If you&amp;rsquo;ve been following me for a while, you probably know how much I love the Linux world! It&amp;rsquo;s an environment that sometimes gives me a headache, makes me angry, forces me to dig into things to understand how they work, but it also has the beauty of making us feel more in control of our PCs, understand how they work under the hood, and manage them better to our liking!</description>
+			<content type="html"><![CDATA[<p>If you&rsquo;ve been following me for a while, you probably know how much I love the <a href="/blog/perche-dovremmo-tutti-passare-a-linux-e-perche-non-lo-facciamo/">Linux</a> world! It&rsquo;s an environment that sometimes gives me a headache, makes me angry, forces me to dig into things to understand how they work, but it also has the beauty of making us feel more in control of our PCs, understand how they work under the hood, and manage them better to our liking!</p>
+<p>Oh, before someone starts insulting me, in this article, I&rsquo;m talking about Linux Desktop! I&rsquo;ve been using Linux exclusively on my servers for years, and everything runs smoothly there! (Even on the server, though, it&rsquo;s not all that automatic; you need to study to understand the basics, but once everything is set up, it works great!)</p>
+<p>Well, with the necessary explanations made, let&rsquo;s get to the point!</p>
+<h2 id="im-still-on-mac-os8230">I&rsquo;m still on Mac OS…</h2>
+<p>If you&rsquo;ve watched my recent videos, you&rsquo;ve surely noticed that I&rsquo;ve filmed everything on <a href="/blog/nuovo-macbook-pro-2020-per-sviluppo-web/">Mac OS</a>. Well, yes, after repeatedly stating my love for Linux, here I am still using my MacBook Pro… What kind of inconsistent person am I…..</p>
+<p>I&rsquo;m not afraid to admit it; I often tell myself, I&rsquo;m inconsistent, and I don&rsquo;t like it at all… But unfortunately, it&rsquo;s not that simple.</p>
+<p>I&rsquo;ve tried several times to switch permanently to Linux, but I&rsquo;ve always had to backtrack, and now I think I&rsquo;ve found the definitive reason, but as a good storyteller, I&rsquo;ll only reveal it at the end of this article. (Of course, if you&rsquo;re really impatient, you can quickly scroll to the conclusion…)</p>
+<h2 id="why-i-love-linux">Why I love Linux</h2>
+<p>There are many reasons why I love the Linux world, but the thing I prefer is that it disconnects from every marketing mechanism that constantly afflicts us today. We don&rsquo;t have time to buy something before it&rsquo;s already replaced by a more performant model. And finally, products have a predetermined lifespan; planned obsolescence is now a given!</p>
+<p>I don&rsquo;t like this at all…. I don&rsquo;t want to waste time watching fantastic product presentations that make me want to waste my money on often unnecessary equipment…</p>
+<p>Moreover, Linux is meritocratic! The more you know, the less you struggle, that&rsquo;s it. If you&rsquo;re a beginner, you hate it with all your heart, then when you start tinkering with it properly, you can&rsquo;t do without it! You&rsquo;re the master of your machine, and you can use it exactly as you want!</p>
+<p>Finally, in a world where our privacy no longer has much value, our metadata are in plain sight, and cybersecurity is becoming increasingly important, open source can guarantee a good level of protection! I&rsquo;m not a privacy fanatic; I also have a Gmail account, but I believe you need to have the right awareness, try to strike a balance between accessing any content with our personal data and encrypting every single file on the PC… No paranoia, but not too much laxity either.</p>
+<h2 id="why-i-havent-fully-switched-to-linux-yet">Why I haven&rsquo;t fully switched to Linux yet</h2>
+<p>As I mentioned at the beginning, I&rsquo;m still on Mac, even if I&rsquo;m not fully satisfied… And all this is because of the hardware I have available, at least that&rsquo;s what I&rsquo;m telling myself right now.</p>
+<p>Some time ago, I saw a very interesting video from one of my favorite creators: Riccardo Palombo. In a YouTube video, he said, &ldquo;We don&rsquo;t need new hardware, but new software,&rdquo; or something very similar. What a wonderful title! But unfortunately, it doesn&rsquo;t work for me….</p>
+<p>Hold on a moment, Riccardo is right, and I agree with him on the software issue, but I&rsquo;ve noticed that, at least for me, hardware is also very, very important!</p>
+<p>If I&rsquo;m writing from my MacBook Pro, it&rsquo;s certainly not for Mac OS, nor for the software inside. I don&rsquo;t even care much about Photoshop lately, but it&rsquo;s for the hardware!</p>
+<p>The keyboard, touchpad, screen, battery, microphone, fans, and charging times are good on my Mac, and I&rsquo;m still talking about the Intel version. There&rsquo;s nothing exceptional, but everything works great; I&rsquo;ve never had crashes, and it&rsquo;s a well-balanced computer and, all in all, quiet (except when I work with Docker…)</p>
+<p>Besides the Mac, I have an ASUS notebook where I use Linux, and I&rsquo;ve come to the conclusion that the weakest point of the PC is precisely the hardware… In particular, I have a dreadful screen, very noisy fans, and a ridiculous battery…</p>
+<p>Certainly, it&rsquo;s not the right notebook to use with Linux, but when I bought it, I didn&rsquo;t think I would become penguin-dependent ? ?.</p>
+<p>With the Mac, on the other hand, I can work peacefully without fear of running out of battery without realizing it, being able to record my podcast directly from the laptop&rsquo;s microphone without attaching anything external (also because it doesn&rsquo;t have many ports ?), and I can go through the day with my eyes still healthy and not tearing up like when I use the ASUS….</p>
+<p>The only way I work well with the ASUS is by using it as if it were a desktop PC. I attach an external keyboard, mouse, and screen, close it, and forget I have a notebook, then I have to say it works very well.</p>
+<p>Unfortunately, though, for my lifestyle, it&rsquo;s essential to have a laptop I can trust. I often move for a few days to the mountains where I don&rsquo;t have much space, and for the moment, the Mac is really convenient!</p>
+<p>Advantages: with a single charger, I can charge the Mac, Smartphone, and iPad (with a USB-C to Lightning connector), I can use the iPad as a second screen without connecting any cables, and I can do without the mouse because the touchpad is fantastic!</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>And voilà, that&rsquo;s it! So now I&rsquo;m still trapped in the Apple world. For heaven&rsquo;s sake, if I put aside ideological concepts, I could stay like this for life, but the pumping marketing, overpricing, and the &ldquo;fashion&rdquo; factor don&rsquo;t make me feel entirely comfortable…</p>
+<p>How can I solve it? I should try to get my hands on a nice ThinkPad or XPS and see how I feel, but at the moment, I don&rsquo;t have the budget available to do this test…</p>
+<p>It should also be said that choosing a laptop for Linux is not that easy…. Companies specializing in Linux notebooks are emerging, such as the Spanish Slimbook, but I need to study their products better before making a purchase.</p>
+<p>In the end, all I need is a notebook with 4 quality components: keyboard, touchpad, battery, and screen. Unfortunately, it often happens that Windows laptops focus a lot on the processor and RAM and less on the user experience, which, for us programmers, is very important, at least for me.</p>
+<p>If I have to spend ten hours a day on the PC, it must at least be nice and pleasant to use!</p>
+<p>That&rsquo;s all for now; as soon as I get my hands on a ThinkPad, I&rsquo;ll let you know more!</p>
 <p>Keep Coding ?</p>
 ]]></content>
 		</item>
 		
 		<item>
-			<title>Come creare un effetto Overlay in CSS</title>
-			<link>https://albertoreineri.it/en/blog/come-creare-un-effetto-overlay-in-css/</link>
+			<title>How to Create an Overlay Effect in CSS</title>
+			<link>https://albertoreineri.it/en/blog/how-to-create-an-overlay-effect-in-css/</link>
 			<pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
 			
-			<guid>https://albertoreineri.it/en/blog/come-creare-un-effetto-overlay-in-css/</guid>
-			<description>Personalmente utilizzo moltissimo gli overlay per migliorare la leggibilità del testo sopra un&amp;rsquo;immagine, ma che cos&amp;rsquo;è questo overlay?
-In poche parole non è nient&amp;rsquo;altro che un livello intermedio fra l&amp;rsquo;immagine e il testo, un livello che va &amp;lsquo;opacizzare&amp;rsquo; l&amp;rsquo;immagine per rendere più leggibile il testo.
-Logicamente con l&amp;rsquo;overlay il testo risulta molto più leggibile, e secondo me l&amp;rsquo;immagnie è anche meno impattante, meno fastidiosa.
-Farlo non è affatto difficile.
-Come si fa Basterà recarci all&amp;rsquo;interno del contenitore dell&amp;rsquo;immagine, in questo caso nel div con classe sidebar e aggiungere un elemento chiamato &amp;ldquo;overlay&amp;rdquo;</description>
-			<content type="html"><![CDATA[<p>Personalmente utilizzo moltissimo gli overlay per migliorare la leggibilità del testo sopra un&rsquo;immagine, <strong>ma che cos&rsquo;è questo overlay?</strong></p>
-<p>In poche parole non è nient&rsquo;altro che un <strong>livello intermedio fra l&rsquo;immagine e il testo</strong>, un livello che va &lsquo;opacizzare&rsquo; l&rsquo;immagine per rendere più leggibile il testo.</p>
-<p>Logicamente <strong>con l&rsquo;overlay il testo risulta molto più leggibile</strong>, e secondo me l&rsquo;immagnie è anche meno impattante, meno fastidiosa.</p>
-<p>Farlo non è affatto difficile.</p>
+			<guid>https://albertoreineri.it/en/blog/how-to-create-an-overlay-effect-in-css/</guid>
+			<description>Personally, I use overlays extensively to enhance text readability over an image, but what is this overlay?
+In simple terms, it is nothing more than a layer between the image and the text, a layer that &amp;lsquo;dims&amp;rsquo; the image to make the text more legible.
+Naturally, with the overlay, the text becomes much more readable, and in my opinion, the image is also less impactful, less intrusive.
+Doing it is not difficult at all.</description>
+			<content type="html"><![CDATA[<p>Personally, I use overlays extensively to enhance text readability over an image, <strong>but what is this overlay?</strong></p>
+<p>In simple terms, it is nothing more than a <strong>layer between the image and the text</strong>, a layer that &lsquo;dims&rsquo; the image to make the text more legible.</p>
+<p>Naturally, <strong>with the overlay, the text becomes much more readable</strong>, and in my opinion, the image is also less impactful, less intrusive.</p>
+<p>Doing it is not difficult at all.</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/KiZMQCs0SSg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-<h2 id="come-si-fa">Come si fa</h2>
-<p>Basterà recarci all&rsquo;interno del contenitore dell&rsquo;immagine, in questo caso nel <em>div</em> con classe <em>sidebar</em> e aggiungere un elemento chiamato &ldquo;<em>overlay</em>&rdquo;</p>
-<pre tabindex="0"><code> &lt;div class=&#34;sidebar&#34; style=&#34;background:url(&#39;https://images.unsplash.com/photo-1534067783941-51c9c23ecefd?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=774&amp;q=80&#39;)&#34;&gt;
-        &lt;div class=&#34;overlay&#34;&gt;&lt;/div&gt;
-        &lt;div class=&#34;sidebar-inner&#34;&gt;
-            &lt;div class=&#34;site-header&#34;&gt;
-                &lt;h2&gt;Nome Sito Web&lt;/h2&gt;
-                &lt;i&gt;Lorem ipsum dolor sit amet&lt;/i&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-</code></pre><p>Con l&rsquo;html siamo a posto, ora spostiamoci nel nostro file <strong>CSS</strong> e dobbiamo solamente creare questa classe:</p>
-<pre tabindex="0"><code>.overlay{
-    position: absolute;
-    top:0;
-    left: 0;
-    right: 0;
-    bottom:0;
-    background-color: rgba(0, 0, 0, 0.4);
-    z-index: 2;
-    width: 100%;
-    height: 100%;
-}
-</code></pre><p><em><strong>E Voilà! Tutto finito!</strong></em></p>
-<p>Ora non resta che personalizzarla a piacere, cambiando il colore e il livello di opacità.</p>
-<p><em>Buon codice!</em></p>
+<h2 id="how-to-do-it">How to Do It</h2>
+<p>Simply go inside the image container, in this case, the <em>div</em> with the class <em>sidebar</em>, and add an element called &ldquo;<em>overlay</em>&rdquo;</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span> &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;sidebar&#34;</span> <span style="color:#a6e22e">style</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;background:url(&#39;https://images.unsplash.com/photo-1534067783941-51c9c23ecefd?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=774&amp;q=80&#39;)&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>        &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;overlay&#34;</span>&gt;&lt;/<span style="color:#f92672">div</span>&gt;
+</span></span><span style="display:flex;"><span>        &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;sidebar-inner&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>            &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;site-header&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>                &lt;<span style="color:#f92672">h2</span>&gt;Website Name&lt;/<span style="color:#f92672">h2</span>&gt;
+</span></span><span style="display:flex;"><span>                &lt;<span style="color:#f92672">i</span>&gt;Lorem ipsum dolor sit amet&lt;/<span style="color:#f92672">i</span>&gt;
+</span></span><span style="display:flex;"><span>            &lt;/<span style="color:#f92672">div</span>&gt;
+</span></span><span style="display:flex;"><span>        &lt;/<span style="color:#f92672">div</span>&gt;
+</span></span><span style="display:flex;"><span>    &lt;/<span style="color:#f92672">div</span>&gt;
+</span></span></code></pre></div><p>With the HTML, we&rsquo;re all set; now, let&rsquo;s move to our <strong>CSS</strong> file, and we only need to create this class:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>.<span style="color:#a6e22e">overlay</span>{
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">position</span>: <span style="color:#66d9ef">absolute</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">top</span>: <span style="color:#ae81ff">0</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">left</span>: <span style="color:#ae81ff">0</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">right</span>: <span style="color:#ae81ff">0</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">bottom</span>: <span style="color:#ae81ff">0</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">background-color</span>: rgba(<span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">0.4</span>);
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">z-index</span>: <span style="color:#ae81ff">2</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">width</span>: <span style="color:#ae81ff">100</span><span style="color:#66d9ef">%</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">height</span>: <span style="color:#ae81ff">100</span><span style="color:#66d9ef">%</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p><em><strong>And Voilà! All done!</strong></em></p>
+<p>Now, all that&rsquo;s left is to customize it as you like, changing the color and opacity level.</p>
+<p><em>Happy coding!</em></p>
 ]]></content>
 		</item>
 		

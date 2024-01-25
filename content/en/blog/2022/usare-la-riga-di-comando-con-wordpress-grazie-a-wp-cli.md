@@ -1,50 +1,47 @@
 ---
-title: "Usare la riga di comando con WordPress grazie a WP-CLI"
-description: "Tutorial su WP CLI, il tool da riga di comando per la gestione di WordPress. Migliora le tue skills su WP!"
+title: "Using the command line with WordPress with to WP-CLI"
+description: "Tutorial on WP-CLI, the command-line tool for managing WordPress. Enhance your skills on WP!"
 date: "2022-06-27"
 categories:
   - WordPress DEV
 ---
 
-Se sei uno sviluppatore WordPress, probabilmente hai installato il CMS, l'hai aggiornato e hai attivato temi e plugin centinaia di volte. E sebbene queste attività di routine di sviluppo e manutenzione siano abbastanza facili da eseguire con l'interfaccia utente grafica di WordPress, eseguirle più e più volte non è molto efficiente.
+If you're a WordPress developer, you've probably installed the CMS, updated it, and activated themes and plugins hundreds of times. While these routine development and maintenance tasks are quite easy to perform with the graphical user interface of WordPress, doing them over and over isn't very efficient.
 
-La buona notizia è che puoi velocizzare facilmente ed efficacemente lo sviluppo e la manutenzione di [WordPress con l'interfaccia a riga di comando di WordPress (WP-CLI)](http://wp-cli.org/) . In questo post esploreremo i diversi modi in cui puoi utilizzare WP-CLI e vedremo alcuni utili comandi WP-CLI per aiutarti a iniziare con un passo nella giusta direzione.
+The good news is that you can easily and effectively speed up the development and maintenance of WordPress with the WordPress Command-Line Interface (WP-CLI). In this post, we'll explore the various ways you can use WP-CLI and look at some useful WP-CLI commands to help you get started in the right direction.
 
-## UN'INTRODUZIONE A WP-CLI
+## AN INTRODUCTION TO WP-CLI
 
-Se sei nello sviluppo web da un po' di tempo, probabilmente hai familiarità con l'interfaccia da riga di comando. WP-CLI è l'interfaccia della riga di comando di WordPress. E per quelli di voi che non si sono dilettati molto nella programmazione, WP-CLI è uno strumento che consente di gestire le installazioni di WordPress senza utilizzare un browser web.
+If you've been in web development for a while, you're probably familiar with the command-line interface. WP-CLI is the command-line interface for WordPress. For those of you who haven't delved much into programming, WP-CLI is a tool that allows you to manage WordPress installations without using a web browser.
 
-WP-CLI ti consente di fare qualsiasi cosa, dall'installazione del CMS WordPress su un sito Web nuovo di zecca all'esecuzione di operazioni a livello di sito su un sito Web WordPress esistente. E la parte migliore è che l'insieme di passaggi che devi seguire per completare tali attività sarà, nella maggior parte dei casi, ridotto a una singola riga di codice .
+WP-CLI lets you do anything from installing the WordPress CMS on a brand new site to performing site-level operations on an existing WordPress website. The best part is that the set of steps you need to follow to complete such tasks will, in most cases, be reduced to a single line of code.
 
-Ora che abbiamo visto a grandi linee cos'è WP-CLI e come può aiutarti ad accelerare lo sviluppo del tuo prossimo progetto, diamo un'occhiata a come puoi iniziare con questo potente strumento.
+Now that we've seen what WP-CLI is and how it can help speed up the development of your next project, let's look at how you can get started with this powerful tool.
 
-## INSTALLAZIONE DI WP-CLI SUL TUO AMBIENTE DI HOSTING
+## INSTALLING WP-CLI ON YOUR HOSTING ENVIRONMENT
 
-La prima cosa che devi fare per iniziare con WP-CLI è assicurarti che il tuo ambiente di hosting soddisfi i requisiti minimi:
+The first thing you need to do to start with WP-CLI is to ensure that your hosting environment meets the minimum requirements:
 
-- Ambiente UNIX.
+- UNIX environment.
+- PHP 5.3.29 (or later).
+- WordPress 3.7 (or later).
+- Secure Shell (SSH) enabled on your web server.
 
-- PHP 5.3.29 (o successivo).
+After confirming those essential elements, go ahead and download the _wp-cli.phar_ file using the following command:
 
-- WordPress 3.7 (o successivo).
-
-- Secure Shell (SSH) abilitato sul tuo server web.
-
-Dopo aver verificato quegli elementi essenziali, vai avanti e scarica il file _wp-cli.phar_ usando il seguente comando:
-
-```
+```bash
 $ curl -O https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli.phar
 ```
 
-E voilà! WP-CLI dovrebbe ora essere installato nel tuo ambiente di hosting. Se desideri assicurarti che funzioni correttamente, esegui semplicemente il seguente comando:
+And voilà! WP-CLI should now be installed on your hosting environment. If you want to make sure it works correctly, simply run the following command:
 
-```
-$ php wp-cli.phar -info
+```bash
+$ php wp-cli.phar --info
 ```
 
-Se tutto va bene, dovresti vedere qualcosa di simile sulla riga di comando che specifica quale versione di WP-CLI è in esecuzione nel tuo ambiente di hosting:
+If everything goes well, you should see something similar on the command line specifying which version of WP-CLI is running in your hosting environment:
 
-```
+```bash
 PHP binary: /usr/bin/php5
 PHP version: 5.5.9-1ubuntu4.14
 php.ini used: /etc/php5/cli/php.ini
@@ -55,130 +52,123 @@ WP-CLI project config:
 WP-CLI version: 1.3.0
 ```
 
-Tuttavia, se scopri che WP-CLI non è stato installato correttamente sul tuo sistema, ti consiglio di controllare alcuni metodi di [installazione alternativi](https://make.wordpress.org/cli/handbook/installing/#alternative-installation-methods) per ulteriori informazioni su come configurarlo.
+However, if you find that WP-CLI has not been installed correctly on your system, I recommend checking some [alternative installation methods](https://make.wordpress.org/cli/handbook/installing/#alternative-installation-methods) for more information on how to set it up.
 
-Infine, creeremo un file eseguibile per WP-CLI e lo sposteremo nella sua directory in modo da poterlo eseguire da qualsiasi luogo:
+Finally, we'll create an executable file for WP-CLI and move it to its directory so that you can run it from anywhere:
 
-```
+```bash
 $ chmod +x wp-cli.phar
 $ sudo mv wp-cli.phar /usr/local/bin/wp
 ```
 
-Per semplicità, abbiamo chiamato la directory _wp_ . Ora, ogni volta che devi usare WP-CLI, tutto ciò che devi fare è eseguire il comando _wp_ dalla riga di comando.
+For simplicity, we've named the directory _wp_. Now, whenever you need to use WP-CLI, all you have to do is run the _wp_ command from the command line.
 
-## SVILUPPO WORDPRESS E MANUTENZIONE DEL SITO CON WP-CLI
+## WORDPRESS DEVELOPMENT AND SITE MAINTENANCE WITH WP-CLI
 
-Ora che WP-CLI è installato e pronto per l'uso, esaminiamo alcune delle cose più utili che puoi fare per accelerare le attività di routine di sviluppo e manutenzione di WordPress.
+Now that WP-CLI is installed and ready for use, let's look at some of the most useful things you can do to speed up routine development and maintenance tasks in WordPress.
 
-### INSTALLAZIONE DI WORDPRESS
+### INSTALLING WORDPRESS
 
-Entra nella directory in cui desideri installare il CMS WordPress ed esegui la seguente riga di codice:
+Navigate to the directory where you want to install the WordPress CMS and run the following line of code:
 
-```
+```bash
 $ wp core download
 ```
 
-Dovrai creare un file _wp-config.php_ per proseguire con la tua installazione. Ecco come puoi farlo:
+You'll need to create a _wp-config.php_ file to proceed with your installation. Here's how you can do it:
 
-```
+```bash
 $ wp core config --dbname=databasename --dbuser=databaseuser --dbpass=databasepassword --dbhost=localhost --dbprefix=prfx_
 ```
 
-_(Ho utilizzato del testo di esempio per il nome del database e le credenziali dell'utente del database. Assicurati di sostituirli con le informazioni del tuo database prima di eseguire il codice.)_
+_(I used sample text for the database name and user credentials. Be sure to replace them with your database information before running the code.)_
 
-Infine, puoi iniziare l'installazione vera e propria eseguendo il comando di _installazione principale_ indicato di seguito. Ricorda di sostituire i parametri di esempio con le informazioni del tuo sito prima di eseguire il codice.
+Finally, you can start the actual installation by running the main installation command below. Remember to replace the sample parameters with your site information before running the code.
 
+```bash
+$ wp core install --url=yoursite.com --title="Your WordPress Site's Title" --admin_user=admin_username --admin_password=admin_password --admin_email=admin@yoursite.com
 ```
-$ wp core install –-url=yoursite.com -–title="Your WordPress Site's Title" –-admin_user=admin_username –-admin_password=admin_password –-admin_email=admin@yoursite.com
-```
 
-### AGGIORNAMENTO DI WORDPRESS
+### UPDATING WORDPRESS
 
-Prima o poi verrà lanciata una nuova versione di WordPress e dovrai aggiornare la tua installazione all'ultima versione. Se non sei sicuro di quale versione di WordPress è attualmente in esecuzione sul tuo sito, esegui semplicemente il seguente comando:
+Sooner or later, a new version of WordPress will be released, and you'll need to update your installation to the latest version. If you're not sure which version of WordPress is currently running on your site, simply run the following command:
 
-```
+```bash
 $ wp core version
 ```
 
-Se ritieni che il tuo sito abbia effettivamente bisogno di essere aggiornato, è meglio eseguire un backup completo del suo database prima di procedere. Ecco come puoi farlo con WP-CLI:
+If you believe your site does need to be updated, it's best to perform a full backup of its database before proceeding. Here's how you can do it with WP-CLI:
 
-```
+```bash
 $ wp db export my-db-backup.sql
 ```
 
-L'esecuzione di questo comando creerà un backup completo del database del tuo sito e lo salverà nella directory principale in un file chiamato _my-db-backup.sql_ .
+Running this command will create a complete backup of your site's database and save it in the main directory in a file named _my-db-backup.sql_.
 
-Infine, puoi aggiornare i file core del tuo sito e il relativo database eseguendo le seguenti righe di codice:
+Finally, you can update your site's core files and its database by running the following lines of code:
 
-```
+```bash
 $ wp core update
-$ wp core update –db
+$ wp core update --db
 ```
 
-Per quelli di voi che gestiscono più siti o reti multisito, eseguire il seguente script per aggiornare tutti i siti in una volta sola:
+For those of you managing multiple sites or multisite networks, run the following script to update all sites at once:
 
-```
+```bash
 $ declare -a sites_to_update=('/var/www/wordpress_site_1' '/var/www/wordpress_site_2' '/var/www/wordpress_site_n')
-for site in "${sites_to_update[@]}";
-do
-wp --path=$site core update
-done
+for site in "${sites_to_update[@]}"; do wp --path=$site core update done
 ```
 
-_(Ricordati di sostituire il testo di esempio con i nomi delle directory principali dei tuoi siti Web WordPress.)_
+_(Remember to replace the sample text with the main directory names of your WordPress websites.)_
 
-### GESTIONE DI TEMI E PLUGIN
+### THEME AND PLUGIN MANAGEMENT
 
-Una delle cose migliori di WP-CLI è che collega il tuo server web alle directory ufficiali di WordPress [Theme](https://wordpress.org/themes/) e [Plugin](https://wordpress.org/plugins/). Ciò significa che puoi gestire le installazioni di temi e plug-in utilizzando solo la riga di comando.
+One of the best things about WP-CLI is that it connects your web server to the official WordPress [Theme](https://wordpress.org/themes/) and [Plugin](https://wordpress.org/plugins/) directories. This means you can manage theme and plugin installations using only the command line.
 
-**Comandi del tema WordPress:**
+**WordPress Theme Commands:**
 
-- **Per installare un tema:** __wp theme install theme\_name__
+- **To install a theme:** _wp theme install theme_name_
+- **To activate an installed theme:** _wp theme activate theme_name_
+- **To update an installed theme:** _wp theme update theme_name_
+- **To update all installed themes:** _wp theme update --all_
 
-- **Per attivare un tema installato:** __wp theme activate theme\_name__
+**WordPress Plugin Commands:**
 
-- **Per aggiornare un tema installato:** __wp theme update theme\_name__
+- **To install a plugin:** _wp plugin install plugin_name_
+- **To activate an installed plugin:** _wp plugin activate plugin_name_
+- **To update an installed plugin:** _wp plugin update plugin_name_
+- **To update all installed plugins:** _wp plugin update --all_
 
-- **Per aggiornare tutti i temi installati:** __wp theme update –all__
+_(Remember to replace the sample text with the name of the theme or plugin you want to interact with.)_
 
-**Comandi del plugin di WordPress:**
+### CREATING CUSTOM POST TYPES
 
-- **Per installare un plugin:** __wp plugin install plugin\_name__
+WP-CLI takes the heavy lifting out of creating custom post types in WordPress and reduces it to a simple line of code.
 
-- **Per attivare un plugin installato:** __wp plugin activate plugin\_name__
+ Instead of downloading a plugin to help you get the job done, why not try the following line of code:
 
-- **Per aggiornare un plugin installato:** __wp plugin update plugin\_name__
-
-- **Per aggiornare tutti i plugin installati:** __wp plugin update –all__
-
-_(Ricordati di sostituire il testo di esempio con il nome del tema o del plugin con cui desideri interagire.)_
-
-### CREAZIONE DI CUSTOM POST PERSONALIZZATI
-
-WP-CLI elimina il lavoro pesante dalla creazione di custom post type in WordPress e lo riduce a una semplice riga di codice. Invece di scaricare un plug-in per aiutarti a portare a termine il lavoro, perché non provare la seguente riga di codice:
-
-```
+```bash
 $ wp scaffold post-type cpt_slug --label=CPT_Label --theme=theme_name
 ```
 
-Tutto quello che devi fare è sostituire il testo di esempio con lo slug, l'etichetta e il nome del tema del tuo custom post type e voilà!
+All you have to do is replace the sample text with the slug, label, and theme name of your custom post type, and voilà!
 
-### CREAZIONE DI TEMI CHILD
+### CREATING CHILD THEMES
 
-Se ti è già capitato di creare un tema child, avrai dovuto accedere al pannello di controllo e creareti cartella e file relativi dentro al sito. WP-CLI ti consente di creare un tema child con una singola riga di codice:
+If you've ever created a child theme, you've had to access the control panel and create folder and file structures within the site. WP-CLI allows you to create a child theme with a single line of code:
 
-```
+```bash
 $ wp scaffold child-theme name-of-child-theme --parent_theme=name_of_parent_theme --theme_name='My Child Theme' --author='Your Name' --author_uri=http://www.yoursite.com --theme_uri=http://www.themesite.com --activate
 ```
 
-_(Come sempre, ricorda di sostituire il testo di esempio con il tema child e le informazioni sul tema genitore.)_
+_(As always, remember to replace the sample text with the child theme and parent theme information.)_
 
-## CONCLUSIONE
+## CONCLUSION
 
-Con WP-CLI puoi ottenere di più facendo di meno. Se desideri aumentare la tua produttività accelerando le operazioni di routine di sviluppo e manutenzione di WordPress, allora vale sicuramente la pena provare WP-CLI.
+With WP-CLI, you can get more done by doing less. If you want to increase your productivity by speeding up routine development and maintenance tasks in WordPress, then WP-CLI is definitely worth trying.
 
-Ti ho mostrato come installare lo strumento nel tuo ambiente di hosting e abbiamo visto alcuni scenari in cui WP-CLI batte la GUI di WordPress in termini di efficienza. Ora non ti resta che provarlo!
+I've shown you how to install the tool in your hosting environment, and we've looked at some scenarios where WP-CLI beats the WordPress GUI in terms of efficiency. Now all that's left is for you to try it out!
 
-Ah, sembra scontato, ma NON FARE MAI TEST IN AMBIENTE DI PRODUZIONE, usa lo STAGING o falli in LOCALE.
+Oh, it might sound obvious, but NEVER TEST IN A PRODUCTION ENVIRONMENT, use STAGING or do it LOCALLY.
 
-Buon codice!
+Happy coding!

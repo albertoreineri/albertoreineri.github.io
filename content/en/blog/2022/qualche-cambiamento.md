@@ -1,6 +1,6 @@
 ---
-title: Qualche cambiamento
-description: "Post personale sui cambiamenti che sto facendo a questo sito web"
+title: "Some changes"
+description: "Personal post about the changes I am making to this website."
 author: Alberto Reineri
 
 date: 2022-09-11T19:43:13+00:00
@@ -9,38 +9,39 @@ categories:
   - Personal
 
 ---
-Questo sito ne ha passate di tutti i colori! È sempre stato il mio banco di prova per testare nuove funzionalità, imparare a gestire un server web da riga di comando e infine pubblicizzare i mie servizi.
 
-Ora è il momento di cambiare ancora!
+This site has been through a lot! It has always been my testing ground for trying out new features, learning to manage a web server from the command line, and ultimately advertising my services.
 
-Professionalmente non ho più bisogno di pubblicizzarmi granché. Lavoro come freelance e ho stabilito una serie di collaborazioni sufficienti per riempirmi le giornate (talvolta anche troppo 😅😅).
+Now it's time for another change!
 
-Quindi è giunta l'ora di associare il mio nome non solamente alla mia attività di Web Developer.
+Professionally, I don't need much self-promotion anymore. I work as a freelancer and have established enough collaborations to fill my days (sometimes even too much 😅😅).
 
-Nel mondo di oggi viviamo di etichette, specialmente online! Le persone vengono identificate in base a ciò che fanno! C'è quello che viaggia, quello che parla di tecnologia, quello che vive in camper etc&#8230;
+So, it's time to associate my name not only with my Web Developer activity.
 
-Personalmente lo trovo molto riduttivo! La vita non si può rinchiudere dentro una singola etichetta, almeno non la mia!
+In today's world, we live by labels, especially online! People are identified based on what they do! There's the traveler, the tech enthusiast, the one living in a camper, and so on...
 
-Se mi guardo indietro sono stato meccanico di bici, agente immobiliare, programmatore, insegnante e libero professionista. Questo per quanto riguarda il lavoro. Poi ho suonato in diverse band, amo andare in bici, ho due moto e un camper e così via&#8230;. La mia vita non può essere rinchiusa in un singolo argomento, e non voglio farlo.
+Personally, I find it very limiting! Life cannot be confined to a single label, at least not mine!
 
-Per un momento ho pensato di chiudere questo sito, chiudere tutto, dedicarmi al mio lavoro e alle mie passioni nella mia vita privata, senza pubblicare nulla.
+Looking back, I have been a bike mechanic, a real estate agent, a programmer, a teacher, and a freelancer. That's regarding work. Then, I've played in different bands, love cycling, own two motorcycles and a camper, and so on... My life cannot be encapsulated into a single topic, and I don't want it to be.
 
-Però mi piace scrivere! E non ho molte occasioni per farlo, a parte la scrittura del codice&#8230;
+For a moment, I thought about shutting down this site, closing everything, focusing on my work and passions in my private life, without publishing anything.
 
-Quindi ho deciso di trasformare questo sito web da sito vetrina a sito personale, un blog vecchia maniera, forse obsoleto nell'era social, ma più intimo e personale.
+But I like to write! And I don't have many opportunities to do so, aside from coding...
 
-Nel tempo ho realizzato una serie di guide sullo sviluppo web per aiutare giovani aspiranti Web Developer, e alcune sono state lette da migliaia di persone portandomi in prima pagina su google. Tutto questo rimarrà e continuerà, però non sarà l'unico tipo di contenuto presente su questo sito.
+So, I've decided to transform this website from a showcase site to a personal site, an old-fashioned blog, perhaps outdated in the social media era, but more intimate and personal.
 
-Ci sarà tutto ciò che voglio che ci sia! Si, può sembrare egoistico, però sito mio argomenti miei!
+Over time, I've created a series of guides on web development to help young aspiring web developers, and some have been read by thousands of people, bringing me to the front page on Google. All of this will remain and continue, but it won't be the only type of content on this site.
 
-Diventerà quindi il mio giardino digitale, dove potrò fermarmi talvolta e scrivere con calma di ciò che mi va, di ciò che mi piace, senza per forza dover parlare di programmazione.
+There will be everything I want to be there! Yes, it may seem selfish, but my site, my topics!
 
-Vi presento quindi il mio nuovo sito! È molto semplice, niente effetti wow!
+It will become my digital garden, where I can sometimes stop and calmly write about what I want, what I like, without necessarily having to talk about programming.
 
-Per lavoro passo intere giornate a sviluppare effetti e animazioni, ma per questo sito ho voluto pensare al mondo analogico! È un foglio di carta con del testo sopra, nien'altro.
+So, I present to you my new site! It's very simple, no wow effects!
 
-Se vuoi seguire i miei articoli puoi iscriverti alla [Newsletter][1]! L'ho aperta qualche tempo fa ed è stata apprezzata dagli utenti.
+For work, I spend entire days developing effects and animations, but for this site, I wanted to think about the analog world! It's a sheet of paper with text on it, nothing else.
 
-Buona lettura!
+If you want to follow my articles, you can subscribe to the [Newsletter][1]! I opened it some time ago, and it has been appreciated by users.
 
- [1]: /iscriviti-alla-newsletter/
+Happy reading!
+
+ [1]: /subscribe-to-newsletter/"

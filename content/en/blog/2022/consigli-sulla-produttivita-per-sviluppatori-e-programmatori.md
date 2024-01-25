@@ -1,6 +1,6 @@
 ---
-title: 8 consigli sulla produttività per sviluppatori e programmatori
-description: "Vediamo oggi 8 consigli su come essere più produttivi nel mondo dello sviluppo web e della programmazione"
+title: "8 Productivity Tips for Developers and Programmers"
+description: "Today, let's explore 8 tips on how to be more productive in the world of web development and programming."
 author: Alberto Reineri
 
 date: 2022-07-22T07:42:48+00:00
@@ -8,84 +8,86 @@ categories:
   - Web Dev
 
 ---
-Non è facile mantenere la produttività da sviluppatori. È un lavoro mentalmente stressante che può esaurire rapidamente la mente e richiede molta attenzione. Capire come puoi concentrarti sul tuo lavoro, prendere scorciatoie usando l'automazione e gestire le distrazioni può aiutarti molto a ottenere il massimo dal tuo orario di lavoro. In questa raccolta, puoi trovare i migliori suggerimenti sulla produttività per sviluppatori e programmatori, dalla ricerca dei migliori strumenti per sviluppatori alle pause regolari fino all'eliminazione delle distrazioni durante il lavoro.
 
-### 1. TROVA IL MIGLIOR EDITOR DI CODICE
+It's not easy to sustain productivity as developers. It's a mentally demanding job that can quickly drain your mind and requires a lot of focus. Understanding how to focus on your work, take shortcuts using automation, and manage distractions can greatly help you make the most of your working hours. In this collection, you'll find the best productivity tips for developers, from finding the best development tools to taking regular breaks and eliminating distractions during work.
 
-La produttività degli sviluppatori inizia con un buon editor di codice. Sebbene ci siano molte ottime opzioni sul mercato, è difficile dire quale sia la migliore: tutto dipende dai tuoi obiettivi e dalle tue esigenze. Vale la pena provare [diversi editor di testo][1] per vedere quale si adatta meglio al tuo flusso di lavoro. Ecco alcune cose importanti da tenere in considerazione:
+## 1. Find the Best Code Editor
 
-  * Quale/i linguaggio/i di programmazione stai utilizzando. Hai bisogno di un editor di codice che offra l'evidenziazione della sintassi per i linguaggi di cui hai bisogno (almeno come plug-in). Alcuni editor di codice sono inoltre dotati di evidenziatori di sintassi per tecnologie popolari come React, non solo per linguaggi di programmazione.
-  * Se l'editor di codice scelto ha un tema adeguato e un ecosistema di plug-in che fornisce le funzionalità di cui hai bisogno (ad esempio, un tema ad alto contrasto se hai problemi di vista).
-  * Se affidi il tuo lavoro a una piattaforma di condivisione del codice, come GitHub o Bitbucket, potresti trovare utile la funzionalità [Git integrata](/blog/come-usare-git/). Ad esempio, Visual Studio Code ti consente di eseguire il commit direttamente del tuo lavoro su GitHub senza uscire dall'editor.
-  * Se desideri utilizzare i tuoi frammenti di codice e/o le scorciatoie da tastiera, è anche una buona idea scegliere un editor di codice che ti consenta di aggiungerli o importarli.
+Developer productivity starts with a good code editor. Although there are many excellent options on the market, it's hard to say which one is the best—it depends on your goals and needs. It's worth trying [different text editors][1] to see which fits your workflow best. Here are some key considerations:
 
-### 2. INIZIA OGNI GIORNO CON IL COMPITO PIÙ DIFFICILE
+- What programming language(s) are you using? You need a code editor that provides syntax highlighting for the languages you need (at least through plugins). Some code editors also come with syntax highlighters for popular technologies like React, not just programming languages.
+- If the chosen code editor has a suitable theme and a plugin ecosystem that provides the features you need (e.g., a high-contrast theme if you have vision issues).
+- If you entrust your work to a code-sharing platform like GitHub or Bitbucket, you might find the [integrated Git feature](/blog/how-to-use-git/) useful. For example, Visual Studio Code allows you to commit your work directly to GitHub without leaving the editor.
+- If you want to use your code snippets and/or keyboard shortcuts, it's also a good idea to choose a code editor that allows you to add or import them.
 
-È facile perdersi nelle attività quotidiane e anche la procrastinazione è un'abitudine comune degli sviluppatori, soprattutto se [lavori come libero professionista][3]e devi gestire le tue scadenze. Pertanto, capita spesso di lavorare tutto il giorno e alla fine della giornata ti rendi conto di aver fatto a malapena qualcosa. Puoi evitarlo se, invece del multitasking, crei una gerarchia di attività quotidiane e inizi con l'attività più difficile ogni giorno.
+## 2. Start Each Day with the Hardest Task
 
-Sebbene il multitasking sia stato visto come una cosa positiva per molti anni, si è scoperto che non è adatto alla maggior parte delle persone. [La ricerca ha dimostrato][4] che solo il 2% della popolazione è bravo nel multitasking, mentre il resto può subire una perdita di produttività fino al 40%. Quindi, se sei nel 2% continua con il multitasking, altrimenti dai la priorità alle tue attività e concentrati solo su una cosa alla volta.
+It's easy to get lost in daily tasks, and procrastination is a common habit among developers, especially if you [work as a freelancer][3] and have to manage your deadlines. Therefore, it often happens that you work all day and at the end of the day realize you've barely accomplished anything. You can avoid this by creating a hierarchy of daily tasks and starting each day with the most difficult task.
 
-### 3. FAI DELLE PAUSE REGOLARMENTE
+While multitasking has been seen as positive for many years, it has been found that it is not suitable for most people. [Research has shown][4] that only 2% of the population is good at multitasking, while the rest can experience a productivity loss of up to 40%. So, if you're in the 2%, go ahead with multitasking; otherwise, prioritize your tasks and focus on one thing at a time.
 
-Gli esseri umani non possono concentrarsi sulla stessa cosa per un tempo illimitato e questo è particolarmente vero per il duro lavoro mentale della programmazione. Puoi trovare diversi studi sul limite di tempo in cui le persone possono concentrarsi su un'attività senza che la loro mente si allontani da qualcos'altro. Ad esempio, [questo studio][5] afferma che l'attenzione prolungata è possibile per circa 45 minuti, mentre [un altro][6] menziona 52 minuti consecutivi seguiti da una pausa di 17 minuti.
+## 3. Take Regular Breaks
 
-Poi, abbiamo la famosa [Tecnica del Pomodoro][7] che utilizza un timer da cucina a forma di pomodoro per misurare il tempo. Funziona con intervalli di tempo di 25 minuti con pause brevi di 5 minuti e pause lunghe di 10 minuti. La tecnica Pomodoro è diventata così popolare tra la comunità degli sviluppatori che ci sono persino [app Pomodoro][8] che puoi usare mentre lavori.
+Humans cannot focus on the same thing for an unlimited time, and this is especially true for the mental work of programming. There are various studies on the time limit during which people can focus on an activity without their minds drifting elsewhere. For example, [this study][5] states that sustained attention is possible for about 45 minutes, while [another study][6] mentions 52 consecutive minutes followed by a 17-minute break.
 
-Tutto sommato, non esiste una regola d'oro qui e ognuno ha un limite di tempo diverso, quindi dovrai sperimentare un po' per scoprire cosa funziona meglio per te. Inoltre, non vale la pena seguire una regola molto rigida: se sei già nel flusso, non interrompere il tuo lavoro solo perché è arrivato il momento della pausa.
+Then we have the famous [Pomodoro Technique][7], which uses a kitchen timer shaped like a tomato to measure time. It works with 25-minute time intervals with short 5-minute breaks and long 10-minute breaks. The Pomodoro technique has become so popular among the developer community that there are even [Pomodoro apps][8] you can use while working.
 
-Tuttavia, c'è una cosa importante da ricordare. La pausa deve essere una vera pausa quando ti alzi dalla scrivania. Controllare e-mail, notifiche Slack, social media, blog o semplicemente fissare qualsiasi tipo di schermo non conta come una pausa per il tuo cervello: ogni singola ricerca sull'argomento lo afferma come un dato di fatto.
+All in all, there's no golden rule here, and everyone has a different time limit, so you'll need to experiment a bit to find out what works best for you. Also, it's not worth sticking to a very rigid rule: if you're already in the flow, don't interrupt your work just because it's break time.
 
-### 4. PIANIFICA LE TUE ATTIVITÀ IN ANTICIPO
+However, there's one important thing to remember. The break must be a real break when you get up from your desk. Checking emails, Slack notifications, social media, blogs, or just staring at any kind of screen does not count as a break for your brain; every single research on the subject states it as a fact.
 
-La pianificazione delle attività in anticipo può anche aumentare notevolmente la produttività. Puoi creare elenchi di attività e controllare le attività completate utilizzando [To Do app][9] come [Wunderlist][10] e [Todoist][11] o impostare flussi di lavoro con un'app come [Trello][12] . Al giorno d'oggi, ci sono anche molte fantastiche opzioni che ti consentono di integrare diversi strumenti di produttività, come [Zapier][13] e [IFTTT][14] (If This Then That).
+## 4. Plan Your Activities in Advance
 
-Con la pianificazione delle attività, dovrai anche condurre alcuni esperimenti e pensare al tipo di strumenti di cui avrai veramente bisogno. Puoi sicuramente utilizzare più di un'app per gestire le attività, tuttavia può diventare dispersivo utilizzare troppi strumenti contemporaneamente. In alcuni casi, un'eccessiva complessità può persino portare a una perdita di produttività.
+Planning activities in advance can also significantly increase productivity. You can create task lists and track completed tasks using [To-Do apps][9] like [Wunderlist][10] and [Todoist][11] or set up workflows with an app like [Trello][12]. Nowadays, there are also many great options that allow you to integrate different productivity tools, such as [Zapier][13] and [IFTTT][14] (If This Then That).
 
-### 5. TIENI TRACCIA DELLE TUE ORE DI LAVORO
+With activity planning, you'll also need to conduct some experiments and think about the type of tools you'll really need. You can certainly use more than one app to manage tasks; however, using too many tools simultaneously can be distracting. In some cases, excessive complexity can even lead to a loss of productivity.
 
-Sebbene non a tutti piaccia tenere traccia delle proprie ore di lavoro, utilizzare un'app di monitoraggio del tempo può aiutare molto in caso di problemi con la gestione del tempo. Il monitoraggio del tempo può aumentare la tua produttività principalmente perché puoi vedere come hai trascorso le ore durante il giorno in modo da poter escludere possibili distrazioni. I cronometri possono anche essere una manna dal cielo se sei un libero professionista, poiché ti aiutano a fatturare i tuoi clienti su base oraria.
+## 5. Track Your Working Hours
 
-### 6. AUTOMATIZZA LE ATTIVITÀ RIPETITIVE
+While not everyone likes to track their working hours, using a [time tracking app][15] can be very helpful in case of time management issues. Time tracking can increase your productivity mainly because you can see how you spent your hours throughout the day so you can eliminate possible distractions. Timers can also be a lifesaver if you're a freelancer since they help you bill your clients on an hourly basis.
 
-L'automazione delle attività ripetitive è un must in questi giorni come sviluppatore. Non è una coincidenza che DevOps (l'intersezione di sviluppo e operazioni) sia di gran moda di recente. Non avrai bisogno di molta automazione nella fase di sviluppo, tuttavia, rendere il tuo codice di sviluppo pronto per la produzione comporta molte attività ripetitive.
+## 6. Automate Repetitive Tasks
 
-Ad esempio, come sviluppatore frontend, puoi utilizzare un task runner per eseguire automaticamente attività di routine sul tuo codice, come minimizzazione, ottimizzazione delle immagini e altro. Abbiamo un articolo recente sui [migliori strumenti di compilazione per sviluppatori frontend][15] , ma ci sono anche molte ottime opzioni per la programmazione backend che vale la pena dare un'occhiata.
+Automating repetitive tasks is a must these days as a developer. It's no coincidence that DevOps (the intersection of development and operations) has been all the rage recently. You won't need much automation in the development phase; however, making your development code production-ready involves many repetitive tasks.
 
-### 7. UTILIZZARE LA RIGA DI COMANDO
+For example, as a frontend developer, you can use a task runner to automatically perform routine tasks on your code, such as minification, image optimization, and more. We have a recent article on the [best build tools for frontend developers][15], but there are also many excellent options for backend programming that are worth checking out.
 
-Oltre ad automatizzare le attività, è anche una buona idea prendere l'abitudine di utilizzare la riga di comando nel flusso di lavoro quotidiano. Innanzitutto, puoi velocizzare notevolmente il tuo flusso di lavoro se utilizzi una CLI (Command Line Interface) invece di una GUI (Graphical User Interface). Ad esempio, ecco un tutorial su come [configurare la CLI di WordPress][16] per accelerare lo sviluppo e la manutenzione di WordPress. In secondo luogo, l'uso sicuro dei comandi CLI è un'abilità di programmazione importante che puoi utilizzare in molte altre aree del tuo lavoro.
+## 7. Use the Command Line
 
-### 8. ELIMINA LE DISTRAZIONI
+In addition to automating tasks, it's also a good idea to get into the habit of using the command line in your daily workflow. First of all, you can significantly speed up your workflow if you use a CLI (Command Line Interface) instead of a GUI (Graphical User Interface). For example, here's a tutorial on [setting up the WordPress CLI][16] to speed up WordPress development and maintenance. Secondly, the secure use of CLI commands is an important programming skill that you can use in many other areas of your work.
 
-Le distrazioni sono il più grande nemico della produttività, quindi è necessario trovare un modo per eliminarle il più possibile. Sfortunatamente, hanno una natura subdola, quindi non è affatto facile catturarli. Ciò è dovuto principalmente al fatto che molte volte non sembrano prima una distrazione.
+## 8. Eliminate Distractions
 
-Ad esempio, controllare la posta elettronica ogni ora, guardare un nuovo tutorial video su YouTube o chattare con i colleghi su Slack possono essere visti come attività legate al lavoro, ma se ci dedichi troppo tempo, potresti scoprire che non hai ottenuto così tanto entro la fine della giornata.
+Distractions are the biggest enemy of productivity, so you need to find a way to eliminate them as much as possible. Unfortunately, they have a sneaky nature, so capturing them is not easy at all. This is mainly because many times they don't seem like distractions before they are.
 
-Quindi, devi stare molto attento alle distrazioni e prendere precauzioni ovunque puoi. Ad esempio, puoi decidere di controllare le tue e-mail solo due volte al giorno, disattivare le notifiche Slack mentre lavori o bloccare i siti Web che distraggono frequentemente durante il lavoro.
+For example, checking email every hour, watching a new tutorial video on YouTube, or chatting with colleagues on Slack can be seen as work-related activities, but if you spend too much time on them, you may find that you haven't accomplished much by the end of the day.
 
-### CONCLUSIONE
+So, you need to be very careful with distractions and take precautions wherever you can. For example, you can decide to check your emails only twice a day, turn off Slack notifications
 
-Se segui questsi suggerimenti sulla produttività o almeno alcuni di essi, puoi utilizzare il tuo orario di lavoro in modo più efficiente e allo stesso tempo migliorare il tuo flusso di lavoro e di sviluppo. Sebbene prendere una nuova abitudine all'inizio possa essere difficile, diventa rapidamente una seconda natura.
+ while working, or block frequently distracting websites during work.
 
-Ricorda che la sperimentazione è l'elemento chiave della produttività. Se provi una tecnica o uno strumento che non funziona per te, abbandonalo e passa a quello successivo, finché non trovi quello che si adatta meglio al tuo flusso di lavoro e alla tua personalità.
+## Conclusion
 
-E, se hai bisogno di altri suggerimenti unici per sviluppatori e programmatori, non perdere il nostro articolo su [come scegliere quale linguaggio di programmazione imparare][17] .
+If you follow these productivity tips or at least some of them, you can use your working hours more efficiently while improving your workflow and development. Although adopting a new habit may be difficult at first, it quickly becomes second nature.
 
- [1]: /blog/5-migliori-editor-di-testo-per-sviluppatori
- [2]: /blog/come-usare-git/
- [3]: /10-consigli-per-freelance-e-liberi-professionisti/
- [4]: https://www.forbes.com/sites/lisaquast/2017/02/06/want-to-be-more-productive-stop-multi-tasking
- [5]: http://naturalhealthcare.ca/glossaries.phtml?term=sustained+attention#.XgqCCPx7nIU
- [6]: https://www.theatlantic.com/business/archive/2014/09/science-tells-you-how-many-minutes-should-you-take-a-break-for-work-17/380369/
- [7]: https://en.wikipedia.org/wiki/Pomodoro_Technique
- [8]: https://tomato-timer.com/
- [9]: https://www.developerdrive.com/creating-a-simple-to-do-application-part-1/
- [10]: https://www.wunderlist.com/
- [11]: https://todoist.com/
- [12]: https://trello.com/
- [13]: https://zapier.com/
- [14]: https://ifttt.com/
- [15]: /blog/6-migliori-tool-per-sviluppo-frontend
- [16]: /blog/usare-la-riga-di-comando-con-wordpress-grazie-a-wp-cli
- [17]: /blog/come-scegliere-quale-linguaggio-di-programmazione-imparare
- {{- /* This comment removes trailing newlines. */ -}}
+Remember that experimentation is the key element of productivity. If you try a technique or tool that doesn't work for you, abandon it and move on to the next one until you find what fits your workflow and personality best.
+
+And, if you need more unique tips for developers and programmers, don't miss our article on [how to choose which programming language to learn][17].
+
+[1]: /blog/5-best-text-editors-for-developers
+[2]: /blog/how-to-use-git/
+[3]: /10-tips-for-freelancers-and-freelance-professionals/
+[4]: https://www.forbes.com/sites/lisaquast/2017/02/06/want-to-be-more-productive-stop-multi-tasking
+[5]: http://naturalhealthcare.ca/glossaries.phtml?term=sustained+attention#.XgqCCPx7nIU
+[6]: https://www.theatlantic.com/business/archive/2014/09/science-tells-you-how-many-minutes-should-you-take-a-break-for-work-17/380369/
+[7]: https://en.wikipedia.org/wiki/Pomodoro_Technique
+[8]: https://tomato-timer.com/
+[9]: https://www.developerdrive.com/creating-a-simple-to-do-application-part-1/
+[10]: https://www.wunderlist.com/
+[11]: https://todoist.com/
+[12]: https://trello.com/
+[13]: https://zapier.com/
+[14]: https://ifttt.com/
+[15]: /blog/6-best-tools-for-frontend-development
+[16]: /blog/using-command-line-with-wordpress-thanks-to-wp-cli
+[17]: /blog/how-to-choose-which-programming-language-to-learn

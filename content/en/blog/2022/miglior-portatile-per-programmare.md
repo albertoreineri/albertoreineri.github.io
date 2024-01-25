@@ -1,88 +1,89 @@
 ---
-title: Miglior portatile per programmare
-desription: "Qual'è il miglior portatile per sviluppatori? Non c'è una risposta unica, ma è un argomento assai complesso."
+title: The Best Laptop for Programming. A Guide for Developers
+desription: "Which is the best laptop for developers? There is no single answer, but it's a complicated topic..."
 author: Alberto Reineri
-
 date: 2022-07-11T19:50:00+00:00
 categories:
-
   - Personal
 
 ---
-Una delle domande che mi fate più spesso è proprio questa: Ma qual è il miglior portatile per programmare?
 
-Ebbene la capisco perché non è una scelta facile! Il mercato ci offre un mare di possibilità differenti fra loro, inoltre spesso si tratta di una spesa corposa quindi vogliamo scegliere un prodotto che possa durarci un bel po' di anni.
 
-In questo articolo provo ad esporvi il mio punto di vista e darvi una risposta alla fatidica domanda:
+
+One of the questions I'm frequently asked is: "What is the best laptop for programming?"
+
+Well, I understand why because it's not an easy choice! The market offers a plethora of different possibilities, and often it's a significant investment, so we want to choose a product that will last for years.
+
+In this article, I'll share my perspective and attempt to answer the age-old question:
 
 <p class="has-text-align-center has-medium-font-size">
-  <em><strong>Qual è il miglior notebook per sviluppatori???</strong></em>
+  <em><strong>What is the best notebook for developers???</strong></em>
 </p>
 
 ## Budget
 
-La primissima cosa da valutare nella scelta è il budget disponibile. Qua possiamo iniziare a fare due macro distinzioni: sopra i **1.000** euro oppure sotto.
+The very first thing to consider in your choice is the available budget. Here, we can start by making two broad distinctions: above **1,000** euros or below.
 
-Se stai pensando di spendere meno di mille euro allora la scelta obbligata è andare su un pc Windows.
+If you are thinking of spending less than a thousand euros, then the obvious choice is to go for a Windows PC.
 
-Il mio consiglio è di scegliere almeno un pc con processore core i5 e 8 Gb di RAM (non ho esperienza diretta sugli AMD Ryzen ma ne parlano molto bene).
+My recommendation is to choose at least a PC with a Core i5 processor and 8 GB of RAM (I don't have direct experience with AMD Ryzen, but they are highly praised).
 
-Puoi trovare qualcosa di decente che può fare bene il suo lavoro senza grosse pretese. Per fare Sviluppo Web base, semplici siti in WordPress o Core PHP, facendoli girare su XAMPP o LocalWP, queste specifiche dovrebbero andare abbastanza bene.
+You can find something decent that can handle its job well without big demands. For basic web development, simple WordPress sites, or Core PHP running on XAMPP or LocalWP, these specifications should be good enough.
 
-Se però puoi avvicinarti alla soglia dei 1.000 euro allora sappi che puoi anche accaparrarti il nuovo Macbook Air con M1 a circa 900 euro, se trovi l'offerta giusta!
+However, if you can approach the 1,000 euro threshold, know that you can also get the new MacBook Air with M1 for about 900 euros if you find the right deal!
 
-E qua si apre l'altro grande discorso:
+And here opens up another big discussion:
 
-## Windows oppure Mac???
+## Windows or Mac???
 
-[L'eterna faida][1] senza fine dei due sistemi operativi! Quale sarà migliore??? La risposta è che **DIPENDE**&#8230;
+[The eternal endless feud][1] between the two operating systems! Which one is better??? The answer is that **IT DEPENDS**&#8230;
 
-Certo questo complica le cose, ma la vita non è mai solo bianca o nera, le cose sono sempre più complicate di così&#8230;
+Certainly, this complicates things, but life is never just black or white; things are always more complicated than that&#8230;
 
 ## Windows
 
-Con Windows si hanno, a parer mio, un sacco di vantaggi e pochi svantaggi (Spoiler alert!!! Io uso Mac).
+With Windows, you have, in my opinion, a lot of advantages and few disadvantages (Spoiler alert!!! I use a Mac).
 
-Personalmente ho lavorato per moltissimi anni su Windows, e mi sono sempre trovato bene. I dispositivi hanno prezzi accettabili, si possono installare migliaia e migliaia di programmi e ci si può anche giocare!
+Personally, I worked on Windows for many years, and I always felt comfortable. The devices have acceptable prices, you can install thousands and thousands of programs, and you can even play games!
 
-Se dovessi scegliere di avere una sola macchina, allora credo prorpio che andrei su un laptop da gaming di alta gamma. È vero che la batteria non è granché su quei dispositivi, però hanno tutto ciò che conta realmente: processore, ram, SSD e scheda video belli grossi e performanti. Farei un dual boot con Ubuntu e voilà, avrei tutto. Lavoro, giochi, cazzeggio&#8230;. Potrei fare praticamente tutto ciò che mi serve.
+If I had to choose to have only one machine, then I believe I would go for a high-end gaming laptop. It's true that the battery is not great on those devices, but they have everything that really matters: a powerful processor, ample RAM, SSD, and a large and performant graphics card. I would set up a dual boot with Ubuntu, and voilà, I would have everything. Work, games, leisure&#8230; I could do practically everything I need.
 
-L'unica cosa infattibile è realizzare app per iOS, ma personalmente non me ne occupo.
+The only impractical thing is developing iOS apps, but personally, I don't deal with that.
 
-Insomma, Windows è il giusto compromesso fra tutto. Per programmare fa un po' schifo ma posso installarci su una distro linux e così si risolve tutto!
+In short, Windows is the right compromise for everything. It's not the best for programming, but I can install a Linux distro on it, and that solves everything!
 
-Ah, se programmi con linguaggi e framwork semplici, allora non preoccuparti, puoi fare tutto su Windows. Se però inizi ad affacciarti a framework più complessi (Symfony per esempio) o vuoi imparare un po' di web server, allora ti consiglio di buttarti sul mondo linux e entrare anche tu nel mondo del pinguino, ma attento, una volta entrati diventa quasi una droga dalla quale è difficile uscire ???.
+Oh, if you program with simple languages and frameworks, then don't worry, you can do everything on Windows. However, if you start getting into more complex frameworks (like Symfony, for example) or want to learn about web servers, then I recommend diving into the Linux world and joining the penguin's club. But beware, once you enter, it becomes almost like a drug that is hard to quit ???.
 
 ## Mac
 
-Come già detto precedentemente, io ho scelto di usare Mac. Ma perché visto che Windows tutto sommato non è così male?
+As mentioned earlier, I chose to use a Mac. But why, since Windows is not that bad after all?
 
-Bè, perché credo che Mac sia meglio! Soprattutto dal punto di vista della produttività.
+Well, because I believe Mac is better! Especially from a productivity standpoint.
 
-Se mi occupassi solamente di programmazione e scrivessi codice fulltime, allora andrei sicuramente su Linux (Pop!_OS mi sta piacendo molto di recente), ma sto tirando su la mia attività e devo fare un po' di tutto, dalla gestione dei clienti, alla contabilità, a qualche lavoretto di design. Inoltre ho una grande passione per la musica e la scrittura, e molti software che utilizzo non ci sono per Linux e alcuni nemmeno per Windows (Logic Pro)&#8230;
+If I only dealt with programming and wrote code full-time, then I would definitely go for Linux (Pop!_OS has been catching my attention lately), but I'm building up my business, and I have to do a bit of everything, from managing clients to accounting to some design work. Also, I have a great passion for music and writing, and many software tools I use are not available for Linux, and some are not even available for Windows (Logic Pro)&#8230;
 
-Inoltre se i pc windows puntano tutto sulla potenza dei componenti, Mac ha un approccio diverso, mira all'esperienza generale nell'uso del laptop. Il mio Macbook Pro è bello! Basta prenderlo in mano per essere felici di iniziare a lavorare, il che non è poco.
+Furthermore, while Windows PCs focus on the power of components, Mac has a different approach, aiming for the overall user experience with the laptop. My MacBook Pro is beautiful! Just picking it up makes me happy to start working, which is no small feat.
 
 <p class="has-text-align-center">
-  <strong><em>Ma non finisce qui!</em></strong>
+  <strong><em>But it doesn't end here!</em></strong>
 </p>
 
-È silenzioso, il trackpad è una figata (non ha proprio paragoni con i concorrenti), lo schermo è meraviglioso, la tastiera va alla grande ed è veramente fluido e scattante. Ah, quasi dimenticavo, non si riavvia quando vuole lui per installarmi aggiornamenti di cui non sapevo niente, anche su questo Mac è tutta un'altra cosa.
+It's silent, the trackpad is amazing (it has no rivals among competitors), the screen is marvelous, the keyboard works great, and it's really smooth and snappy. Oh, I almost forgot, it doesn't restart whenever it wants to install updates I knew nothing about; even on this point, Mac is a whole different experience.
 
-Alcuni potrebbero ribattere che esistono Notebook Windows con schermi altrettanto belli, batterie capienti, tastiere fantastiche e grandi velocità, il che è vero! Ma il trackpad secondo me è assolutamente imbattibile e mi rende veramente molto produttivo, inoltre questi concorrenti Windows arrivano ad avere gli stessi prezzi del Mac, quindi alla fine io prenderei sempre un Mac. Una Toyota top di gamma può arrivare a costare come una Porche, ma fra le due sceglierei sempre la Porche! Siamo umani e il cuore vuole la sua parte!
+Some might argue that there are Windows laptops with equally beautiful screens, capacious batteries, fantastic keyboards, and high speeds, which is true! But, in my opinion, the trackpad is absolutely unbeatable and makes me very productive. Also, these competing Windows devices end up having the same prices as the Mac, so in the end, I would always go for a Mac. A top-of-the-line Toyota can cost as much as a Porsche, but between the two, I would always choose the Porsche! We are humans, and the heart wants its share!
 
-## Conclusione
+## Conclusion
 
-Quindi??? Facciamola breve:
+So??? Let's make it brief:
 
-  * Budget 600-900 euro: Laptop Windows
-  * Budget 900-1.200: Macbook M1
-  * Budget Superiore ai 1.500: Macbook Pro o Laptop Windows Top di gamma
+  * Budget 600-900 euros: Windows Laptop
+  * Budget 900-1,200: MacBook M1
+  * Budget Over 1,500: MacBook Pro or Top-of-the-line Windows Laptop
 
-Voilà, più sintetico di così si muore!
+Voilà, any more concise than this and you'd die!
 
-Un'altra piccola cosa, su Windows è difficile scegliere a causa dell'enorme quantità di marchi. Come qualità costruttiva mi sentirei di consigliare Lenovo o Dell, sicuramente i migliori. Sento parlare bene anche di alcuni modelli HP ultimamente ma non ci ho mai messo le mani&#8230; Se invece cercate qualcosa del tipo &#8220;_poca spesa tanta resa_&#8221; allora potete andare su ASUS, ma non dovrete fare troppo caso alla qualità costruttiva.
+One more small thing, on Windows, it's difficult to choose due to the enormous number of brands. In terms of build quality, I would recommend Lenovo or Dell, they are definitely the best. I've also heard good things about some HP models lately, but I haven't laid hands on them yet... If, on the other hand, you're looking for something like "low cost, high performance," then you can go for ASUS, but you shouldn't pay too much attention to build quality.
 
-Bene, spero che questo articolo possa esserti di aiuto! Se vuoi qualche consiglio in più scrivimi pure nei commenti, cercherò di risponderti il più presto possibile.
+Well, I hope this article can help you! If you want some additional advice, feel free to write in the comments; I'll try to respond as soon as possible.
 
- [1]: /blog/windows-vs-mac-per-sviluppo-web-la-mia-esperienza/
+ [1]: /blog/windows-vs-mac-for-web-development-my-experience/

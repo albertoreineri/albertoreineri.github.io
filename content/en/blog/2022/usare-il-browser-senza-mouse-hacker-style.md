@@ -1,6 +1,6 @@
 ---
-title: Usare il browser senza mouse – Hacker Style
-description: Tutorial su Vimium, un'estensione che permette di utilizzare il browser univocamente da tastiera, senza utilizzare il mouse.
+title: "Using the Browser Without a Mouse – Hacker Style"
+description: "Vimium Tutorial, an extension that allows you to uniquely control the browser using the keyboard, without using the mouse."
 author: Alberto Reineri
 
 date: 2022-06-06T09:34:22+00:00
@@ -9,59 +9,61 @@ categories:
   - Web Dev
 
 ---
-Passiamo molto, moltissimo tempo sul browser ormai, e usare il mouse per la navigazione può essere frustranete per noi sviluppatori&#8230; Ma è possibile farne a meno e muoversi solamente utilizzando la tastiera, come un vero hacker! Vediamo come si fa.
+
+
+Spending a lot, a whole lot of time on the browser now, and using the mouse for navigation can be frustrating for us developers... But it's possible to do without it and move around using only the keyboard, like a true hacker! Let's see how it's done.
 
 ## Vimium Extension
 
-Per prima cosa devi scaricare l'estensione <a href="https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb" target="_blank" rel="noreferrer noopener">Vimium</a>. Io uso Google Chrome, ma è presente anche per <a href="https://addons.mozilla.org/it/firefox/addon/vimium-ff/" target="_blank" rel="noreferrer noopener">Firefox</a> e <a href="https://apps.apple.com/us/app/vimari/id1480933944?mt=12" target="_blank" rel="noreferrer noopener">Safari</a> (se usi Brave o Edge non preoccuparti, puoi installare l'estensione per Google Chrome, funzionerà perfettamente perché questi browser condividono la stessa base).
+First, you need to download the <a href="https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb" target="_blank" rel="noreferrer noopener">Vimium extension</a>. I use Google Chrome, but it's also available for <a href="https://addons.mozilla.org/it/firefox/addon/vimium-ff/" target="_blank" rel="noreferrer noopener">Firefox</a> and <a href="https://apps.apple.com/us/app/vimari/id1480933944?mt=12" target="_blank" rel="noreferrer noopener">Safari</a> (if you use Brave or Edge, don't worry, you can install the extension for Google Chrome, it will work perfectly because these browsers share the same base).
 
-Dopo averla installata potrete iniziare ad utilizzare il vostro browser direttamente dalla tasitera.
+After installing it, you can start using your browser directly from the keyboard.
 
-La base dei comandi è quella del software Vim, quindi se siete su Linux probabilmente vi troverete già a vostro agio, altrimenti non preoccupatevi, basterà qualche minuti di pratica per abbandonare il mouse per sempre!
+The basic commands are those of the Vim software, so if you're on Linux, you'll probably already feel comfortable, otherwise, don't worry, just a few minutes of practice to abandon the mouse forever!
 
-Ecco i comandi principali per utilizzarlo:
+Here are the main commands to use it:
 
-## Navigare nella pagina corrente:
+## Navigate on the current page:
 
-<pre class="wp-block-code"><code>?       mostra l'elenco dei comandi disponibili (molto utile all'inizio)
-h       scroll verso sinistra
-j       scroll verso il basso
-k       scroll verso l'alto
-l       scroll verso destra
-gg      scroll in cima alla pagina
-G       scroll in fondo alla pagina
-d       scroll in basso di metà pagina
-u       scroll in alto di metà pagina
-f       apri un link nella tab corrente
-F       apri link in nuova tab
-r       ricarica
-gs      visualizza codice sorgente</code></pre>
+<pre class="wp-block-code"><code>?       show the list of available commands (very useful at the beginning)
+h       scroll left
+j       scroll down
+k       scroll up
+l       scroll right
+gg      scroll to the top of the page
+G       scroll to the bottom of the page
+d       scroll down half a page
+u       scroll up half a page
+f       open a link in the current tab
+F       open a link in a new tab
+r       reload
+gs      view page source</code></pre>
 
-## Navigare in altre pagina:
+## Navigate to other pages:
 
-<pre class="wp-block-code"><code>o       Apri URL
-O       Apri URL in nuova tab
-b       Apri preferiti
-B       Apri preferiti in nuova tab</code></pre>
+<pre class="wp-block-code"><code>o       Open URL
+O       Open URL in a new tab
+b       Open bookmarks
+B       Open bookmarks in a new tab</code></pre>
 
-## Cronologia:
+## History:
 
-<pre class="wp-block-code"><code>H       Vai a pagina precedente
-L       Vai a pagina successiva</code></pre>
+<pre class="wp-block-code"><code>H       Go to the previous page
+L       Go to the next page</code></pre>
 
-## Manipolazione tabs:
+## Manipulate tabs:
 
-<pre class="wp-block-code"><code>J, gT      Vai un tab verso sinistra
-K, gt      Vai un tab verso destra
-g0         Vai alla prima tab
-g$         Vai all'ultima tab
-t          Crea tab
-x          Chiudi tab corrente
-X          Riapri tab chiusa
-T          Cerca fra le tab</code></pre>
+<pre class="wp-block-code"><code>J, gT      Go one tab to the left
+K, gt      Go one tab to the right
+g0         Go to the first tab
+g$         Go to the last tab
+t          Create a tab
+x          Close the current tab
+X          Reopen a closed tab
+T          Search among tabs</code></pre>
 
-Ecco qua, questi sono solamente i comandi principali, ne esistono altri che puoi leggere qua: <a href="https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb" target="_blank" rel="noreferrer noopener">https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb</a>
+There you go, these are just the main commands, there are others that you can read here: <a href="https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb" target="_blank" rel="noreferrer noopener">https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb</a>
 
-E questo è tutto! Non ti resta che provare ad utilizzarli e vedrai che in breve tempo potrai usare il browser totalmente in hacker style ?‍?
+And that's it! All you have to do now is try using them, and you'll see that in no time you'll be able to use the browser totally in hacker style ?‍?
 
-Come sempre _buon codice!_
+As always, happy coding!

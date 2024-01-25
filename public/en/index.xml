@@ -58,11 +58,11 @@
       <description>Questo sito ne ha passate di tutti i colori! È sempre stato il mio banco di prova per testare nuove funzionalità, imparare a gestire un server web da riga di comando e infine pubblicizzare i mie servizi.&#xA;Ora è il momento di cambiare ancora!&#xA;Professionalmente non ho più bisogno di pubblicizzarmi granché. Lavoro come freelance e ho stabilito una serie di collaborazioni sufficienti per riempirmi le giornate (talvolta anche troppo 😅😅).</description>
     </item>
     <item>
-      <title>8 consigli sulla produttività per sviluppatori e programmatori</title>
-      <link>https://albertoreineri.it/en/blog/8-consigli-sulla-produttivit%C3%A0-per-sviluppatori-e-programmatori/</link>
+      <title>8 Productivity Tips for Developers and Programmers</title>
+      <link>https://albertoreineri.it/en/blog/8-productivity-tips-for-developers-and-programmers/</link>
       <pubDate>Fri, 22 Jul 2022 07:42:48 +0000</pubDate>
-      <guid>https://albertoreineri.it/en/blog/8-consigli-sulla-produttivit%C3%A0-per-sviluppatori-e-programmatori/</guid>
-      <description>Non è facile mantenere la produttività da sviluppatori. È un lavoro mentalmente stressante che può esaurire rapidamente la mente e richiede molta attenzione. Capire come puoi concentrarti sul tuo lavoro, prendere scorciatoie usando l&amp;rsquo;automazione e gestire le distrazioni può aiutarti molto a ottenere il massimo dal tuo orario di lavoro. In questa raccolta, puoi trovare i migliori suggerimenti sulla produttività per sviluppatori e programmatori, dalla ricerca dei migliori strumenti per sviluppatori alle pause regolari fino all&amp;rsquo;eliminazione delle distrazioni durante il lavoro.</description>
+      <guid>https://albertoreineri.it/en/blog/8-productivity-tips-for-developers-and-programmers/</guid>
+      <description>It&amp;rsquo;s not easy to sustain productivity as developers. It&amp;rsquo;s a mentally demanding job that can quickly drain your mind and requires a lot of focus. Understanding how to focus on your work, take shortcuts using automation, and manage distractions can greatly help you make the most of your working hours. In this collection, you&amp;rsquo;ll find the best productivity tips for developers, from finding the best development tools to taking regular breaks and eliminating distractions during work.</description>
     </item>
     <item>
       <title>The 5 Best Cross-Platform Code Editors for Web Developers</title>
@@ -86,11 +86,11 @@
       <description>Lavorare in un ambiente piacevole è fondamentale per la produttività. Visual Studio code ultimamente sta guadagnando sempre più popolarità, e se mi segui saprai già che è il mio editor preferito! Vediamo oggi quali sono i miei temi preferiti per Visual Studio Code, sia chiari che scuri!&#xA;Nel 2019 Visual Studio Code (VSCode) è stato l&amp;rsquo;editor di testo più utilizzato dagli sviluppatori secondo, con il 50% degli 87.317 intervistati che lo utilizzano.</description>
     </item>
     <item>
-      <title>The 6 Best Tools for Frontend Development</title>
-      <link>https://albertoreineri.it/en/blog/the-6-best-tools-for-frontend-development/</link>
+      <title>Frontend Development Tools: 6 Must-Have Options</title>
+      <link>https://albertoreineri.it/en/blog/frontend-development-tools-6-must-have-options/</link>
       <pubDate>Tue, 28 Jun 2022 12:03:00 +0000</pubDate>
-      <guid>https://albertoreineri.it/en/blog/the-6-best-tools-for-frontend-development/</guid>
-      <description>Il codice utilizzato nella produzione è diverso dal codice di sviluppo. In produzione, è necessario creare pacchetti che funzionino velocemente, gestire le dipendenze, automatizzare le attività, caricare moduli esterni e altro ancora. Gli strumenti che consentono di trasformare il codice di sviluppo in codice di produzione sono chiamati tool di compilazione. Gli sviluppatori frontend lavorano principalmente con i seguenti tipi di strumenti di compilazione:&#xA;package managers, task runners, module loaders, module bundlers, etc… In questo articolo potrai trovare raccolto i migliori strumenti di build che puoi utilizzare nello sviluppo frontend.</description>
+      <guid>https://albertoreineri.it/en/blog/frontend-development-tools-6-must-have-options/</guid>
+      <description>The code used in production differs from development code. In production, it&amp;rsquo;s essential to create packages that work efficiently, manage dependencies, automate tasks, load external modules, and more. The tools that enable the transformation of development code into production code are called build tools. Frontend developers primarily work with the following types of build tools:&#xA;Package managers, Task runners, Module loaders, Module bundlers, And more&amp;hellip; In this article, we&amp;rsquo;ll explore the top frontend build tools you can use in your development.</description>
     </item>
     <item>
       <title>Nano Editor, Guida per principianti</title>
@@ -107,11 +107,11 @@
       <description>Se sei uno sviluppatore WordPress, probabilmente hai installato il CMS, l&amp;rsquo;hai aggiornato e hai attivato temi e plugin centinaia di volte. E sebbene queste attività di routine di sviluppo e manutenzione siano abbastanza facili da eseguire con l&amp;rsquo;interfaccia utente grafica di WordPress, eseguirle più e più volte non è molto efficiente.&#xA;La buona notizia è che puoi velocizzare facilmente ed efficacemente lo sviluppo e la manutenzione di WordPress con l&amp;rsquo;interfaccia a riga di comando di WordPress (WP-CLI) .</description>
     </item>
     <item>
-      <title>Come installare una LAMP stack (Linux, Apache, MySQL, PHP) su Ubuntu</title>
-      <link>https://albertoreineri.it/en/blog/come-installare-una-lamp-stack-linux-apache-mysql-php-su-ubuntu/</link>
+      <title>How to Install a LAMP Stack (Linux, Apache, MySQL, PHP) on Ubuntu</title>
+      <link>https://albertoreineri.it/en/blog/how-to-install-a-lamp-stack-linux-apache-mysql-php-on-ubuntu/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://albertoreineri.it/en/blog/come-installare-una-lamp-stack-linux-apache-mysql-php-su-ubuntu/</guid>
-      <description>Introduzione Uno stack &amp;ldquo;LAMP&amp;rdquo; è un gruppo di software open source che viene generalmente installato insieme per consentire a un server di ospitare siti Web dinamici e app Web. Questo termine è in realtà un acronimo che rappresenta il sistema operativo Linux, con il web server Apache**.** I dati del sito vengono archiviati in un database MySQL e il contenuto dinamico viene elaborato da PHP.&#xA;In questa guida, installeremo uno stack LAMP su un server Ubuntu.</description>
+      <guid>https://albertoreineri.it/en/blog/how-to-install-a-lamp-stack-linux-apache-mysql-php-on-ubuntu/</guid>
+      <description>Introduction A &amp;ldquo;LAMP&amp;rdquo; stack is a group of open-source software typically installed together to enable a server to host dynamic websites and web applications. This term is actually an acronym representing the Linux operating system, with the Apache web server. The website data is stored in a MySQL database, and dynamic content is processed by PHP.&#xA;In this guide, we will install a LAMP stack on an Ubuntu server.&#xA;Prerequisites This tutorial is created on Ubuntu but works on all Debian-based distros, such as Pop!</description>
     </item>
     <item>
       <title>Usare il browser senza mouse – Hacker Style</title>
@@ -121,18 +121,18 @@
       <description>Passiamo molto, moltissimo tempo sul browser ormai, e usare il mouse per la navigazione può essere frustranete per noi sviluppatori… Ma è possibile farne a meno e muoversi solamente utilizzando la tastiera, come un vero hacker! Vediamo come si fa.&#xA;Vimium Extension Per prima cosa devi scaricare l&amp;rsquo;estensione Vimium. Io uso Google Chrome, ma è presente anche per Firefox e Safari (se usi Brave o Edge non preoccuparti, puoi installare l&amp;rsquo;estensione per Google Chrome, funzionerà perfettamente perché questi browser condividono la stessa base).</description>
     </item>
     <item>
-      <title>Amo Linux, ma sono ancora su Mac…</title>
-      <link>https://albertoreineri.it/en/blog/amo-linux-ma-sono-ancora-su-mac/</link>
+      <title>I love Linux, but I&#39;m still on Mac...</title>
+      <link>https://albertoreineri.it/en/blog/i-love-linux-but-im-still-on-mac.../</link>
       <pubDate>Mon, 21 Mar 2022 22:19:04 +0000</pubDate>
-      <guid>https://albertoreineri.it/en/blog/amo-linux-ma-sono-ancora-su-mac/</guid>
-      <description>Se mi segui da un po&amp;rsquo; di tempo saprai sicuramente quanto ami il mondo Linux! È un ambiente che talvolta mi fa venire il mal di testa, mi fa arrabbiare, mi costringe a bloccarmi sulle cose per capire come funzionano, ma ha anche la bellezza di sentirsi maggiormente padroni dei nostri pc, capire come funzionano sotto la scocca e poterli gestire meglio a nostro piacimento!&#xA;Ah, prima che qualcuno inizi ad insultarmi, in questo articolo parlo di Linux Desktop!</description>
+      <guid>https://albertoreineri.it/en/blog/i-love-linux-but-im-still-on-mac.../</guid>
+      <description>If you&amp;rsquo;ve been following me for a while, you probably know how much I love the Linux world! It&amp;rsquo;s an environment that sometimes gives me a headache, makes me angry, forces me to dig into things to understand how they work, but it also has the beauty of making us feel more in control of our PCs, understand how they work under the hood, and manage them better to our liking!</description>
     </item>
     <item>
-      <title>Come creare un effetto Overlay in CSS</title>
-      <link>https://albertoreineri.it/en/blog/come-creare-un-effetto-overlay-in-css/</link>
+      <title>How to Create an Overlay Effect in CSS</title>
+      <link>https://albertoreineri.it/en/blog/how-to-create-an-overlay-effect-in-css/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://albertoreineri.it/en/blog/come-creare-un-effetto-overlay-in-css/</guid>
-      <description>Personalmente utilizzo moltissimo gli overlay per migliorare la leggibilità del testo sopra un&amp;rsquo;immagine, ma che cos&amp;rsquo;è questo overlay?&#xA;In poche parole non è nient&amp;rsquo;altro che un livello intermedio fra l&amp;rsquo;immagine e il testo, un livello che va &amp;lsquo;opacizzare&amp;rsquo; l&amp;rsquo;immagine per rendere più leggibile il testo.&#xA;Logicamente con l&amp;rsquo;overlay il testo risulta molto più leggibile, e secondo me l&amp;rsquo;immagnie è anche meno impattante, meno fastidiosa.&#xA;Farlo non è affatto difficile.&#xA;Come si fa Basterà recarci all&amp;rsquo;interno del contenitore dell&amp;rsquo;immagine, in questo caso nel div con classe sidebar e aggiungere un elemento chiamato &amp;ldquo;overlay&amp;rdquo;</description>
+      <guid>https://albertoreineri.it/en/blog/how-to-create-an-overlay-effect-in-css/</guid>
+      <description>Personally, I use overlays extensively to enhance text readability over an image, but what is this overlay?&#xA;In simple terms, it is nothing more than a layer between the image and the text, a layer that &amp;lsquo;dims&amp;rsquo; the image to make the text more legible.&#xA;Naturally, with the overlay, the text becomes much more readable, and in my opinion, the image is also less impactful, less intrusive.&#xA;Doing it is not difficult at all.</description>
     </item>
     <item>
       <title>Hide the extension at the end of the URL</title>
