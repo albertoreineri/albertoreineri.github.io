@@ -50,7 +50,7 @@ copyright = "Alberto Reineri"
 enableEmoji = true
 
 # googleAnalytics = "G-9MQ20QPDEM"
-# disqusShortname = "CHANGE ME"
+disqusShortname = "albertoreineri-it"
 
 [params.author]
 name = "Alberto Reineri"
