@@ -172,8 +172,8 @@ if (header !== null) {
   typeof exports === "object" && typeof module !== "undefined"
     ? (module.exports = factory())
     : typeof define === "function" && define.amd
-    ? define(factory)
-    : ((global = global || self), (global.GLightbox = factory()));
+      ? define(factory)
+      : ((global = global || self), (global.GLightbox = factory()));
 })(this, function () {
   "use strict";
 
@@ -321,7 +321,7 @@ if (header !== null) {
   }
   function addEvent(eventName) {
     var _ref =
-        arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : {},
+      arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : {},
       onElement = _ref.onElement,
       withCallback = _ref.withCallback,
       _ref$avoidDuplicate = _ref.avoidDuplicate,
@@ -979,7 +979,7 @@ if (header !== null) {
       this.zoom = 1;
       this.isDoubleTap = false;
 
-      var noop = function noop() {};
+      var noop = function noop() { };
 
       this.rotate = wrapFunc(this.element, option.rotate || noop);
       this.touchStart = wrapFunc(this.element, option.touchStart || noop);
@@ -1258,8 +1258,8 @@ if (header !== null) {
               ? "Left"
               : "Right"
             : y1 - y2 > 0
-            ? "Up"
-            : "Down";
+              ? "Up"
+              : "Down";
         },
       },
       {
@@ -1347,7 +1347,7 @@ if (header !== null) {
             this.touchEnd =
             this.touchCancel =
             this.twoFingerPressMove =
-              null;
+            null;
           window.removeEventListener("scroll", this._cancelAllHandler);
           return null;
         },
@@ -2294,11 +2294,11 @@ if (header !== null) {
       var placeholder = customPlaceholder
         ? customPlaceholder
         : createHTML(
-            '<div id="'
-              .concat(videoID, '" data-plyr-provider="')
-              .concat(videoSource, '" data-plyr-embed-id="')
-              .concat(embedID, '"></div>')
-          );
+          '<div id="'
+            .concat(videoID, '" data-plyr-provider="')
+            .concat(videoSource, '" data-plyr-embed-id="')
+            .concat(embedID, '"></div>')
+        );
       addClass(videoWrapper, "".concat(videoSource, "-video gvideo"));
       videoWrapper.appendChild(placeholder);
       videoWrapper.setAttribute("data-id", videoID);
@@ -4501,3 +4501,53 @@ if (header !== null) {
   }
 })();
 
+
+function readArticle() {
+  // text = document.getElementById('article-content').innerHTML;
+  // var utterance = new SpeechSynthesisUtterance(text);
+  // window.speechSynthesis.speak(utterance);
+
+  // console.log("window.speechSynthesis.speaking = " + window.speechSynthesis.speaking);
+  // console.log("window.speechSynthesis.paused = " + window.speechSynthesis.paused);
+
+  if (window.speechSynthesis.speaking) {
+    if (window.speechSynthesis.paused) {
+      // console.log('via');
+      window.speechSynthesis.resume();
+      document.getElementById('tts-pause').style.display = 'block';
+      document.getElementById('tts-play').style.display = 'none';
+    } else {
+      // console.log('pausa');
+      window.speechSynthesis.pause();
+      document.getElementById('tts-play').style.display = 'block';
+      document.getElementById('tts-pause').style.display = 'none';
+    }
+  } else {
+    // console.log('avvio');
+    text = document.getElementById('article-content').innerText;
+    var msg = new SpeechSynthesisUtterance();
+
+    // var msg = new SpeechSynthesisUtterance();
+    msg.text = text;
+
+    var url = window.location.href;
+    if (url.includes('/en/')) {
+      console.log('en');
+      msg.lang = 'en-US';
+      var voices = window.speechSynthesis.getVoices();
+      msg.voice = voices[15];
+      msg.voiceURI = 'native';
+      msg.volume = 1; // 0 to 1
+      msg.rate = 1; // 0.1 to 10
+      msg.pitch = 0; //0 to 2
+    } else {
+      msg.lang = 'it-IT';
+    }
+
+    window.speechSynthesis.speak(msg);
+
+
+    document.getElementById('tts-pause').style.display = 'block';
+    document.getElementById('tts-play').style.display = 'none';
+  }
+}
