@@ -4526,7 +4526,6 @@ function readArticle() {
     // console.log('avvio');
     text = document.getElementById('article-content').innerText;
     var msg = new SpeechSynthesisUtterance();
-
     // var msg = new SpeechSynthesisUtterance();
     msg.text = text;
 
@@ -4543,7 +4542,7 @@ function readArticle() {
     } else {
       msg.lang = 'it-IT';
     }
-
+    window.speechSynthesis.cancel();
     window.speechSynthesis.speak(msg);
 
 
