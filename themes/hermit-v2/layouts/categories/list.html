@@ -6,7 +6,9 @@
 <main class="site-main section-inner thin animated fadeIn faster">
 	<h1>Categoria: {{.Title}}</h1>
 	<div class="content argomenti">
-		<h3>Categorie:</h3>
+		<h3>
+			{{ i18n "categorie" }} :
+		</h3>
 		<ul class="text-center">
 			{{/* categories */}}
 			{{ range site.Taxonomies.categories.ByCount }}
