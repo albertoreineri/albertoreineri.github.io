@@ -7,17 +7,17 @@
 		<language>it</language>
 		<lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://albertoreineri.it/categories/linux/index.xml" rel="self" type="application/rss+xml" />
-		
+
 		<item>
 			<title>Nano Editor, Guida per principianti</title>
 			<link>https://albertoreineri.it/blog/nano-editor-guida-per-principianti/</link>
 			<pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/nano-editor-guida-per-principianti/</guid>
 			<description>Gli utenti Linux hanno molte opzioni tra cui scegliere quando si tratta di editor di testo. Da base ad avanzato, esistono un sacco di editor di testo, ma alcuni come Vim ed Emacs possono risultare molto complicati per gli utenti meno avanzati.
 In questo casi ci viene in aiuto Nano, forse il miglior editor di testo per principianti.
 Nano: Nano è un editor di testo semplice e leggero sviluppato appositamente per sistemi UNIX e ambienti desktop che utilizzano un&amp;rsquo;interfaccia a riga di comando.</description>
-			<content type="html"><![CDATA[<p>Gli utenti <a href="/argomento/linux/">Linux</a> hanno molte opzioni tra cui scegliere quando si tratta di editor di testo. Da base ad avanzato, esistono un sacco di editor di testo, ma alcuni come Vim ed Emacs possono risultare molto complicati per gli utenti meno avanzati.</p>
+			<content type="html"><![CDATA[<p>Gli utenti <a href="/categories/linux/">Linux</a> hanno molte opzioni tra cui scegliere quando si tratta di editor di testo. Da base ad avanzato, esistono un sacco di editor di testo, ma alcuni come Vim ed Emacs possono risultare molto complicati per gli utenti meno avanzati.</p>
 <p>In questo casi ci viene in aiuto Nano, forse il miglior editor di testo per principianti.</p>
 <h2 id="nano">Nano:</h2>
 <p>Nano è un editor di testo semplice e leggero sviluppato appositamente per sistemi UNIX e ambienti desktop che utilizzano un&rsquo;interfaccia a riga di comando. Nano è concesso in licenza sotto la GNU General Public License ed emula l&rsquo;editor di testo Pico.</p>
@@ -119,12 +119,12 @@ Nano: Nano è un editor di testo semplice e leggero sviluppato appositamente per
 </table>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Come installare una LAMP stack (Linux, Apache, MySQL, PHP) su Ubuntu</title>
 			<link>https://albertoreineri.it/blog/come-installare-una-lamp-stack-linux-apache-mysql-php-su-ubuntu/</link>
 			<pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/come-installare-una-lamp-stack-linux-apache-mysql-php-su-ubuntu/</guid>
 			<description>Introduzione Uno stack &amp;ldquo;LAMP&amp;rdquo; è un gruppo di software open source che viene generalmente installato insieme per consentire a un server di ospitare siti Web dinamici e app Web. Questo termine è in realtà un acronimo che rappresenta il sistema operativo Linux, con il web server Apache**.** I dati del sito vengono archiviati in un database MySQL e il contenuto dinamico viene elaborato da PHP.
 In questa guida, installeremo uno stack LAMP su un server Ubuntu.</description>
@@ -322,12 +322,12 @@ phpinfo();
 <p>Buon codice!</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Perché dovremmo tutti passare a Linux, e perché non lo facciamo</title>
 			<link>https://albertoreineri.it/blog/perch%C3%A9-dovremmo-tutti-passare-a-linux-e-perch%C3%A9-non-lo-facciamo/</link>
 			<pubDate>Wed, 28 Jul 2021 20:30:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/perch%C3%A9-dovremmo-tutti-passare-a-linux-e-perch%C3%A9-non-lo-facciamo/</guid>
 			<description>Linux non è solamente uno strumento, un qualcosa che ci permette di fare qualcosa. Dietro al mondo del pinguino c’è tutta una filosofia, una storia di libertà e democrazia assoluta, la voglia di comunione e condivisione, di essere indipendenti e capire cosa c’è dietro ciò che facciamo.
 Il mondo dei computer è relativamente giovane. Negli ultimi decenni si è sviluppato in maniera esponenziale, diventando un fenomeno di massa senza avere il tempo di essere regolato correttamente dalla società.</description>
@@ -389,12 +389,12 @@ Il mondo dei computer è relativamente giovane. Negli ultimi decenni si è svilu
 <p>Io lavoro con Linux da un anno ormai e sono veramente poche le volte che ho rimpianto questa scelta.</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Sviluppo web su Linux</title>
 			<link>https://albertoreineri.it/blog/sviluppo-web-su-linux/</link>
 			<pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/sviluppo-web-su-linux/</guid>
 			<description>Sviluppo software e siti web da più di dieci anni ormai (con una pausa di riflessione in mezzo), ed ho avuto modo di utilizzare sia Windows che Mac che Linux.
 Come sistema primario ho quasi sempre utilizzato Windows e MAC, ma durante l’ultimo periodo nel quale ho lavorato a stretto contatto con sistemisti e fatto molto più sviluppo backend che frontend, ho sentito la necessità di passare a qualcosa di più performante per queste attività.</description>
@@ -449,6 +449,6 @@ Come sistema primario ho quasi sempre utilizzato Windows e MAC, ma durante l�
 <p>Certo c’è il problema dell’<strong>autonomia della batteria</strong>, che su linux non è così ben ottimizzata… Ma alla fine uso <strong>Linux per lavoro</strong>, collegato alla corrente, quando voglio chillare sul divano posso utilizzare Windows e godermi qualche ora in più lontano dai cavi.</p>
 ]]></content>
 		</item>
-		
+
 	</channel>
 </rss>

@@ -7,7 +7,7 @@ categories:
   - WordPress DEV
 ---
 
-Negli [ultimi tutorial](/argomento/wordpress-dev/) abbiamo iniziato a **creare un tema WordPress da zero**, e siamo arrivati già a un buon punto!
+Negli [ultimi tutorial](/categories/wordpress-dev/) abbiamo iniziato a **creare un tema WordPress da zero**, e siamo arrivati già a un buon punto!
 
 Ci mancano però ancora un paio di cosette per rendere accettabile il nostro lavoro. **Vediamo di andare avanti!**
 

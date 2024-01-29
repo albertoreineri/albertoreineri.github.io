@@ -7,12 +7,12 @@
 		<language>it</language>
 		<lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://albertoreineri.it/categories/wordpress-base/index.xml" rel="self" type="application/rss+xml" />
-		
+
 		<item>
 			<title>1. Configurare il PC per Sviluppare in WordPress</title>
 			<link>https://albertoreineri.it/blog/configurare-il-pc-per-sviluppare-in-wordpress/</link>
 			<pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/configurare-il-pc-per-sviluppare-in-wordpress/</guid>
 			<description>Ti stai appassionando al mondo della programmazione e vuoi iniziare a sviluppare qualche sito web in WordPress? Complimenti! Benvenuto nel fantastico mondo del Web Development!
 Per cominciare dovrai installare i programmi necessari per scrivere i tuoi primi codici e riuscire a “far girare” ciò che hai scritto. In questo articolo vedremo rapidamente di quali software avremo bisogno.
@@ -55,12 +55,12 @@ Lasciamo da parte l’eterna discussione su quale sistema operativo sia miglio
 <p><em>Buon codice!</em></p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>2. Perché installare WordPress in locale?</title>
 			<link>https://albertoreineri.it/blog/perche-installare-wordpress-in-locale/</link>
 			<pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/perche-installare-wordpress-in-locale/</guid>
 			<description>Molte guide o tutorial mostrano come installare WordPress direttamente online, spesso utilizzando i servizi che le aziende di hosting mettono a disposizione per installare il CMS automaticamente.
 Sebbene questa pratica sia molto semplice e veloce, non è la più raccomandabile, soprattutto se siete o volete diventare sviluppatori e quindi andare a personalizzare il codice del vostro sito.
@@ -72,12 +72,12 @@ Quando ci si approccia ad un nuovo progetto per prima cosa si configura un serv
 <p>Questo è molto importante non solo all’inizio, durante la creazione del sito, ma anche successivamente nell’<strong>integrazione di funzionalità o correzioni</strong>. Effettuare una modifica direttamente <strong>online</strong> è molto molto <strong>rischioso</strong> e assai poco raccomandabile!</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>3. Come funziona XAMPP</title>
 			<link>https://albertoreineri.it/blog/come-funziona-xampp/</link>
 			<pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/come-funziona-xampp/</guid>
 			<description>Hai letto l’articolo sulla configurazione del PC per lo sviluppo web, hai installato tutti i programmi e sei pronto ad iniziare a sviluppare!
 MA COME FUNZIONA XAMPP? Sebbene non sia un software particolarmente complicato, il primo approccio potrebbe spaventare un pochino.
@@ -150,12 +150,12 @@ Sulla sinistra puoi vedere che XAMPP fornisce una serie di servizi.</descriptio
 <p>Molto bene, <strong>ora sei pronto a fare sul serio!</strong></p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>4. Installare WordPress in locale￼</title>
 			<link>https://albertoreineri.it/blog/installare-wordpress-in-locale/</link>
 			<pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/installare-wordpress-in-locale/</guid>
 			<description>Se vuoi diventare uno sviluppatore WordPress allora dovrai installare il fantastico CMS in locale. Non preoccuparti se non sai bene cosa vuol dire, questo articolo è rivolto ai principianti, perciò andrò ad affrontare l’argomento passo passo spiegandoti tutto nei dettagli.
 Perciò mettiti seduto e concentrato e iniziamo ad imparare!
@@ -279,12 +279,12 @@ PERCHÉ IN LOCALE? Molte guide o tutorial mostrano come installare WordPress di
 <p>Hai fatto il primo passo per iniziare a diventare uno sviluppatore WP. Continua a leggere i nostri articoli per migliorare sempre di più e diventare un vero PRO!</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>5. Come funziona WordPress</title>
 			<link>https://albertoreineri.it/blog/come-funziona-wordpress/</link>
 			<pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/come-funziona-wordpress/</guid>
 			<description>Hai seguito la guide per configurare il tuo PC per lo sviluppo web, hai capito come funziona un server locale e installato una copia di WordPress sul tuo computer, e ora?
 Ora iniziamo a capire come funziona WordPress!
@@ -364,12 +364,12 @@ Ma oggi vedremo le cose principali, butteremo le fondamenta per creare le nostr
 <p><strong>La pratica è il miglior modo per imparare!</strong></p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>6. Come installare e personalizzare un tema WordPress</title>
 			<link>https://albertoreineri.it/blog/come-installare-e-personalizzare-un-tema-wordpress/</link>
 			<pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/come-installare-e-personalizzare-un-tema-wordpress/</guid>
 			<description>Se hai letto tutti gli articoli precedenti avrai già imparato come installare un sito in WordPress sul tuo PC.
 Se ancora non l’hai fatto invece ti invito a dare un’occhiata a questa pagina nella quale potrai trovare una serie di articoli utili per un primo approccio al fantastico mondo di WordPress!
@@ -471,12 +471,12 @@ CHE COS’È UN TEMA WORDPRESS? Un tema WordPress è un insieme di layout e stil
 <p><strong>Continua così</strong>, presto avrai creato <strong>il tuo primo sito web in WordPress!!!</strong></p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>7. Creiamo le pagine del nostro primo sito web!</title>
 			<link>https://albertoreineri.it/blog/creiamo-le-pagine-del-nostro-primo-sito-web/</link>
 			<pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/creiamo-le-pagine-del-nostro-primo-sito-web/</guid>
 			<description>Ora che abbiamo installato un tema sul nostro progetto in WordPress possiamo iniziare a creare le varie pagine per il nostro sito.
 Per prima cosa entriamo nel backend andando al seguente indirizzo e inserendo le credenziali:
@@ -572,12 +572,12 @@ Creeremo sia pagine che articoli, in questo modo capirai meglio quando è il
 <p><strong>Siamo a buon punto</strong> no? Mancano solo un paio di cose, <strong>prosegui</strong> nelle prossime lezioni per terminare il sito!</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>8. Installare i plugin fondamentali per un sito web!</title>
 			<link>https://albertoreineri.it/blog/installare-i-plugin-fondamentali-per-un-sito-web/</link>
 			<pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/installare-i-plugin-fondamentali-per-un-sito-web/</guid>
 			<description>Il nostro sito comincia a prendere forma, ma mancano ancora alcune funzionalità fondamentali!
 Oggi vedremo come aggiungere queste funzionalità al nostro sito WordPress utilizzando i plugin!
@@ -595,7 +595,7 @@ Per esempio WordPress non prevede la possibilità di creare un form contatti, p
 <h2 id="i-plugin-fondamentali">I PLUGIN FONDAMENTALI</h2>
 <h3 id="wp-forms">WP FORMS</h3>
 <p>Questo plugin ci permetterà di creare un <strong>modulo di contatto</strong> in maniera semplice e veloce!</p>
-<p>Per prima cosa <strong>accediamo al backend</strong> del nostro sito in WordPress (se non sai come si fa leggi le <a href="/argomento/inizia-qui/">guide precedenti</a>) e clicchiamo su “<strong>Plugin – Aggiungi nuovo</strong>“</p>
+<p>Per prima cosa <strong>accediamo al backend</strong> del nostro sito in WordPress (se non sai come si fa leggi le <a href="/categories/inizia-qui/">guide precedenti</a>) e clicchiamo su “<strong>Plugin – Aggiungi nuovo</strong>“</p>
 <p><img src="images/Annotazione-2020-03-31-164744.png" alt=""></p>
 <p>Ci troveremo di fronte ad una schermata come questa:</p>
 <p><img src="images/image-1024x528-1.png" alt=""></p>
@@ -649,12 +649,12 @@ Per esempio WordPress non prevede la possibilità di creare un form contatti, p
 <p>Il nostro primo <strong>sito web in WordPress ora è pronto per essere pubblicato!</strong> Nella prossima guida andremo a pubblicare online il nostro sito utilizzando risorse completamente <strong>grauite</strong>. Potrai così finalmente rendere pubblico il tuo lavoro, farlo vedere ad amici e parenti e <strong>vantarti un po’!</strong></p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>9. Esportare online un sito WordPress</title>
 			<link>https://albertoreineri.it/blog/esportare-online-un-sito-wordpress/</link>
 			<pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/esportare-online-un-sito-wordpress/</guid>
 			<description>Finora abbiamo creato il nostro sito web in locale, ma adesso è arrivato il momento di pubblicarlo finalmente online!
 Finalmente potrai mostrare al mondo intero il risultato del tuo lavoro e vantarti con amici e conoscenti della tua nuova creazione.
@@ -834,12 +834,12 @@ define( &#39;DB_HOST&#39;, &#39;localhost&#39; );
 <p><strong>Hai terminato la serie per principianti! Ora puoi iniziare a dedicarti a qualcosa di più complesso!</strong></p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Cos’è un plugin WordPress? E come si usa?</title>
 			<link>https://albertoreineri.it/blog/cos-e-un-plugin-wordpress-e-come-si-usa/</link>
 			<pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/cos-e-un-plugin-wordpress-e-come-si-usa/</guid>
 			<description>Se stai iniziando ad entrare nel mondo di WordPress avrai sicuramente sentito spesso parlare di plugin. Ma cosa sono? E come si utilizzano?
 Vediamolo insieme!
@@ -891,6 +891,6 @@ Per esempio WordPress non prevede la possibilità di creare un form contatti, p
 <p><em><strong>Bello vero? Hai appena installato ed utilizzato il tuo primo plugin!</strong></em></p>
 ]]></content>
 		</item>
-		
+
 	</channel>
 </rss>

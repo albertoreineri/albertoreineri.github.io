@@ -7,7 +7,7 @@ categories:
   - PHP
 ---
 
-Collegare un database MySQL ad un progetto [PHP](/argomento/php/) è quasi sempre fondamentale, vediamo come farlo utilizzando PDO.
+Collegare un database MySQL ad un progetto [PHP](/categories/php/) è quasi sempre fondamentale, vediamo come farlo utilizzando PDO.
 
 È possibile continuare ad utilizzare MySQLi, ma [PDO](https://www.html.it/pag/63991/pdo-vs-mysqli/) garantisce livelli di sicurezza maggiori.
 

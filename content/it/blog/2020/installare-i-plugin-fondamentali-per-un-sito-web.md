@@ -29,7 +29,7 @@ Molti plugin sono **gratuiti**, ma esistono anche alcuni plugin a pagamento, ch
 
 Questo plugin ci permetterà di creare un **modulo di contatto** in maniera semplice e veloce!
 
-Per prima cosa **accediamo al backend** del nostro sito in WordPress (se non sai come si fa leggi le [guide precedenti](/argomento/inizia-qui/)) e clicchiamo su “**Plugin – Aggiungi nuovo**“
+Per prima cosa **accediamo al backend** del nostro sito in WordPress (se non sai come si fa leggi le [guide precedenti](/categories/inizia-qui/)) e clicchiamo su “**Plugin – Aggiungi nuovo**“
 
 ![](images/Annotazione-2020-03-31-164744.png)
 

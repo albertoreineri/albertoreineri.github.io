@@ -7,12 +7,12 @@
 		<language>it</language>
 		<lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://albertoreineri.it/categories/wordpress-dev/index.xml" rel="self" type="application/rss+xml" />
-		
+
 		<item>
 			<title>Usare la riga di comando con WordPress grazie a WP-CLI</title>
 			<link>https://albertoreineri.it/blog/usare-la-riga-di-comando-con-wordpress-grazie-a-wp-cli/</link>
 			<pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/usare-la-riga-di-comando-con-wordpress-grazie-a-wp-cli/</guid>
 			<description>Se sei uno sviluppatore WordPress, probabilmente hai installato il CMS, l&amp;rsquo;hai aggiornato e hai attivato temi e plugin centinaia di volte. E sebbene queste attività di routine di sviluppo e manutenzione siano abbastanza facili da eseguire con l&amp;rsquo;interfaccia utente grafica di WordPress, eseguirle più e più volte non è molto efficiente.
 La buona notizia è che puoi velocizzare facilmente ed efficacemente lo sviluppo e la manutenzione di WordPress con l&amp;rsquo;interfaccia a riga di comando di WordPress (WP-CLI) .</description>
@@ -130,12 +130,12 @@ done
 <p>Buon codice!</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Come creare un widget WordPress personalizzato</title>
 			<link>https://albertoreineri.it/blog/come-creare-un-widget-wordpress-personalizzato/</link>
 			<pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/come-creare-un-widget-wordpress-personalizzato/</guid>
 			<description>Vuoi creare i tuoi widget personalizzati in WordPress? I widget ti consentono di aggiungere elementi non contenuti in una sidebar o in qualsiasi area predisposta per i widget del tuo sito web.
 Puoi utilizzare i widget per aggiungere banner, pubblicità, moduli di iscrizione alla newsletter e altri elementi sul tuo sito web.
@@ -290,12 +290,12 @@ add_action(&#39;widgets_init&#39;, &#39;swp_load_widget&#39;);
 <p>Buono sviluppo!</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Functions.php – Cos’è e come modificarlo</title>
 			<link>https://albertoreineri.it/blog/functions.php-cos%C3%A8-e-come-modificarlo/</link>
 			<pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/functions.php-cos%C3%A8-e-come-modificarlo/</guid>
 			<description>In WordPress, Functions.php è uno dei file più importanti presenti all’interno di un tema.
 Racchiude tutte le funzioni necessarie al funzionamento del tema. Funziona come un plugin per il tuo sito WordPress che viene attivato automaticamente con il tuo tema attuale. Il file functions.php utilizza il codice PHP per aggiungere funzionalità o modificare funzionalità predefinite su un sito WordPress.
@@ -326,12 +326,12 @@ Ad esempio, un tema WordPress potrebbe aggiungere un po’ di codice al file fun
 <p>Speriamo che questo articolo ti abbia aiutato a conoscere tutto sul file Functions.php in WordPress e su come aggiungere frammenti di codice al tuo sito!</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Come abilitare gli aggiornamenti automatici in WordPress per le Major Release</title>
 			<link>https://albertoreineri.it/blog/come-abilitare-gli-aggiornamenti-automatici-in-wordpress-per-le-major-release/</link>
 			<pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/come-abilitare-gli-aggiornamenti-automatici-in-wordpress-per-le-major-release/</guid>
 			<description>Sapevi che WordPress include aggiornamenti automatici abilitati per le versioni minori? Ciò significa che il team di WordPress.org può installare automaticamente gli aggiornamenti di sicurezza senza richiedere nulla dell’utente.
 Tuttavia, non aggiorna automaticamente il tuo sito Web quando è disponibile una nuova versione del sistema. A meno che tu non faccia parte di un servizio di hosting WordPress gestito , dovrai avviare manualmente l’aggiornamento da solo.
@@ -381,12 +381,12 @@ In questo articolo, ti mostreremo come abilitare facilmente gli aggiornamenti au
 <p>Speriamo che questo articolo ti abbia aiutato a imparare come <strong>abilitare gli aggiornamenti automatici in WordPress</strong> per le</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>1. Creare un tema WordPress da zero – Parte 1</title>
 			<link>https://albertoreineri.it/blog/creare-un-tema-wordpress-da-zero-parte-1/</link>
 			<pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/creare-un-tema-wordpress-da-zero-parte-1/</guid>
 			<description>WordPress è una piattaforma fantastica! Permette di creare siti web di ogni tipo in maniera semplice e veloce, grazie all’infinita quantità di temi e plugin disponibili, moltissimi dei quali in maniera gratuita.
 Però quando si vuole fare il salto di livello ed avere un sito web veramente performante, allora conviene utilizzare un tema sviluppato da zero, in grado di implementare tutte le funzioni necessarie nella maniera più performante!
@@ -875,12 +875,12 @@ endif;
 <p><a href="/blog/creare-un-tema-wordpress-da-zero-parte-2/">Parte 2 &raquo;</a></p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>2. Creare un tema WordPress da zero – Parte 2</title>
 			<link>https://albertoreineri.it/blog/creare-un-tema-wordpress-da-zero-parte-2/</link>
 			<pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/creare-un-tema-wordpress-da-zero-parte-2/</guid>
 			<description>Nella parte 1 di questa guida per creare un tema WordPress da zero abbiamo iniziato a creare in nostro primo tema WordPress, creando header, footer e sidebar e imparando come funziona il loop di WordPress.
 Ora andiamo a rendere dinamico il contenuto delle varie sezioni!
@@ -1266,18 +1266,18 @@ endif;
 <p><em><a href="/blog/creare-un-tema-wordpress-da-zero-parte-3/">Parte 3 &raquo;</a></em></p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>3. Creare un tema WordPress da zero – Parte 3</title>
 			<link>https://albertoreineri.it/blog/creare-un-tema-wordpress-da-zero-parte-3/</link>
 			<pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/creare-un-tema-wordpress-da-zero-parte-3/</guid>
 			<description>Negli ultimi tutorial abbiamo iniziato a creare un tema WordPress da zero, e siamo arrivati già a un buon punto!
 Ci mancano però ancora un paio di cosette per rendere accettabile il nostro lavoro. Vediamo di andare avanti!
 Ti ricordo che sul fondo di questo articolo potrai trovare un link al tema completo. Potrai scaricarlo per cercare eventuali errori ed utilizzarlo come vorrai! Consideralo un regalo!
 Ma riprendiamo il tutorial!</description>
-			<content type="html"><![CDATA[<p>Negli <a href="/argomento/wordpress-dev/">ultimi tutorial</a> abbiamo iniziato a <strong>creare un tema WordPress da zero</strong>, e siamo arrivati già a un buon punto!</p>
+			<content type="html"><![CDATA[<p>Negli <a href="/categories/wordpress-dev/">ultimi tutorial</a> abbiamo iniziato a <strong>creare un tema WordPress da zero</strong>, e siamo arrivati già a un buon punto!</p>
 <p>Ci mancano però ancora un paio di cosette per rendere accettabile il nostro lavoro. <strong>Vediamo di andare avanti!</strong></p>
 <p><em>Ti ricordo che sul fondo di questo articolo potrai trovare un link al tema completo. Potrai scaricarlo per cercare eventuali errori ed utilizzarlo come vorrai! Consideralo un regalo!</em></p>
 <p>Ma riprendiamo il <strong>tutorial</strong>!</p>
@@ -1445,12 +1445,12 @@ footer{
 <p><em><a href="/blog/creare-un-plugin-wordpress/">Creare Plugin &raquo;</a></em></p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>4. Creare un plugin WordPress</title>
 			<link>https://albertoreineri.it/blog/4.-creare-un-plugin-wordpress/</link>
 			<pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/4.-creare-un-plugin-wordpress/</guid>
 			<description>Hai imparato a creare un tema WordPress da zero e vuoi impratichirti anche con i plugin?
 Sei nel posto giusto!
@@ -1605,12 +1605,12 @@ function back_on_top()
 </code></pre><p><em><a href="/blog/creare-un-tema-wordpress-da-zero-parte-3/">&laquo; Parte 3</a></em><a href=".local/assistenza/"></a></p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Come aggiungere uno shortcode in WordPress?</title>
 			<link>https://albertoreineri.it/blog/come-aggiungere-uno-shortcode-in-wordpress/</link>
 			<pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/come-aggiungere-uno-shortcode-in-wordpress/</guid>
 			<description>Gli shortcode sono un modo semplice per aggiungere contenuti dinamici nei post, nelle pagine e nelle barre laterali di WordPress.
 Molti plugin e temi WordPress utilizzano shortcode per aggiungere contenuti particolari come moduli di contatto, gallerie di immagini, cursori e altro.
@@ -1671,12 +1671,12 @@ add_shortcode(&#39;saluto&#39;, &#39;my_shortcode&#39;); // Lo shortcode sarà [
 <p>Speriamo che questo articolo ti abbia aiutato a imparare come aggiungere uno shortcode in WordPress.</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Rimuovere Virus da WordPress</title>
 			<link>https://albertoreineri.it/blog/rimuovere-virus-da-wordpress/</link>
 			<pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/rimuovere-virus-da-wordpress/</guid>
 			<description>WordPress è una delle piattaforme più utilizzate la mondo per la creazione di siti web ma a volte può essere facile imbattersi in un virus, ma come si possono rimuovere?
 WordPRess permette a chiunque di tirar su un sito internet funzionante in pochissimo tempo e con costi molto bassi.
@@ -1745,6 +1745,6 @@ Questo però significa anche avere moltissimi siti web creati da estranei ai la
 <p>Se <strong>hai un sito web hackerato e vuoi una consulenza o un intervento professionale</strong> volto alla rimozione e alla messa in sicurezza del suo sito contattami tramite la pagina <a href="/contatti">contatti</a></p>
 ]]></content>
 		</item>
-		
+
 	</channel>
 </rss>

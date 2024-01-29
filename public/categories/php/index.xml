@@ -7,12 +7,12 @@
 		<language>it</language>
 		<lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://albertoreineri.it/categories/php/index.xml" rel="self" type="application/rss+xml" />
-		
+
 		<item>
 			<title>Chiamata AJAX e PHP</title>
 			<link>https://albertoreineri.it/blog/chiamata-ajax-e-php/</link>
 			<pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/chiamata-ajax-e-php/</guid>
 			<description>Vorresti eseguire del codice php senza fare refresh della pagina? Con AJAX puoi farlo!
 Una chiamata AJAX è una richiesta asincrona che viene inviata da un browser web a un server web, utilizzando il linguaggio JavaScript. Il server web può rispondere alla chiamata AJAX con dei dati in formato JSON, XML o HTML, che possono essere poi elaborati dal browser web per aggiornare dinamicamente una parte della pagina web, senza dover ricaricare tutta la pagina.</description>
@@ -27,12 +27,12 @@ Una chiamata AJAX è una richiesta asincrona che viene inviata da un browser web
 <p>Codice Sorgente: <a href="https://github.com/albertoreineri/Send-Mail-With-AJAX-in-PHP">https://github.com/albertoreineri/Send-Mail-With-AJAX-in-PHP</a></p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Inviare Mail in PHP</title>
 			<link>https://albertoreineri.it/blog/inviare-mail-in-php/</link>
 			<pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/inviare-mail-in-php/</guid>
 			<description>In un&amp;rsquo;epoca di framework spesso ci scordiamo che si può anche utilizzare il linguaggio base, puro e semplice.
 Oggi vediamo come inviare una mail utilizzando semplicemente il core PHP.
@@ -51,12 +51,12 @@ Buon Codice!!!</description>
 <p>Buon Codice!!!</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Laravel in locale su Local by Flywheel</title>
 			<link>https://albertoreineri.it/blog/laravel-in-locale-su-local-by-flywheel/</link>
 			<pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/laravel-in-locale-su-local-by-flywheel/</guid>
 			<description>Sebbene Local by Flywheel sia stato pensato principalmente per utilizzare WordPress in locale può funzionare molto bene anche con Laravel o progetti in Core PHP e MySQL.
 Local è molto semplice da utilizzare, veloce e ben organizzato, perciò è la mia scelta di default fra i server locali.
@@ -117,12 +117,12 @@ DB_PASSWORD=root
 <p>Buon codice!</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Collegare PHP e MySQL con PDO</title>
 			<link>https://albertoreineri.it/blog/collegare-php-e-mysql-con-pdo/</link>
 			<pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/collegare-php-e-mysql-con-pdo/</guid>
 			<description>Collegare un database MySQL ad un progetto PHP è quasi sempre fondamentale, vediamo come farlo utilizzando PDO.
 È possibile continuare ad utilizzare MySQLi, ma PDO garantisce livelli di sicurezza maggiori.
@@ -130,7 +130,7 @@ La procedura è molto semplice, vediamo come fare:
 Per prima cosa definiamo le variabili di connessione al nostro database:
 $servername = &amp;#34;localhost&amp;#34;; $username=&amp;#34;root&amp;#34;; $passworddb=&amp;#34;root&amp;#34;; $dbname=&amp;#34;dbname&amp;#34;; Ora non ci resta che effettuare la connessione vera e propria, in questo modo:
 try{ $db = new PDO(&amp;#34;mysql:=$servername;dbname=$dbname&amp;#34;, $username, $passworddb); $db-&amp;gt;setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION); } catch (PDOException $e){ print &amp;#34;Errore!</description>
-			<content type="html"><![CDATA[<p>Collegare un database MySQL ad un progetto <a href="/argomento/php/">PHP</a> è quasi sempre fondamentale, vediamo come farlo utilizzando PDO.</p>
+			<content type="html"><![CDATA[<p>Collegare un database MySQL ad un progetto <a href="/categories/php/">PHP</a> è quasi sempre fondamentale, vediamo come farlo utilizzando PDO.</p>
 <p>È possibile continuare ad utilizzare MySQLi, ma <a href="https://www.html.it/pag/63991/pdo-vs-mysqli/">PDO</a> garantisce livelli di sicurezza maggiori.</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -166,12 +166,12 @@ while($row = $query-&gt;fetch()){
 <p><em>Buon codice!</em></p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Semplice sistema di routing in PHP</title>
 			<link>https://albertoreineri.it/blog/semplice-sistema-di-routing-in-php/</link>
 			<pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/semplice-sistema-di-routing-in-php/</guid>
 			<description>Usare un sistema di routing in php può portare grandi vantaggi a un progetto.
 Gli URL delle pagine web di un sito sono molto importanti, sia per i motori di ricerca, sia per gli utenti, che sempre di più li usano per navigare velocemente all’interno di un sito.
@@ -245,12 +245,12 @@ switch ($request) {
 <p>Se l’articolo ti è stato <strong>utile</strong> lasciami un commento oppure condividilo sui social, lo <strong>apprezzerei</strong> molto!</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Semplice Backend Login in Core PHP</title>
 			<link>https://albertoreineri.it/blog/semplice-backend-login-in-core-php/</link>
 			<pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/blog/semplice-backend-login-in-core-php/</guid>
 			<description>Ho effettuato un nuovo commit a questo progetto, aggiornandolo a PDO, inserendo i bindparam per aumentare la sicurezza e variando leggermente l’architettura software. Il codice aggiornato è nella repository github indicata nell’articolo.
 È vero, oggi esistono una miriade di CMS e framework in giro già belli che pronti, basta installarli e voilà! Il gioco è fatto!
@@ -372,6 +372,6 @@ $conn-&gt;close();
 <p><em>Buon codice!</em></p>
 ]]></content>
 		</item>
-		
+
 	</channel>
 </rss>

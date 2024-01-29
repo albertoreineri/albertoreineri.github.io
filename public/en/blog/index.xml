@@ -7,12 +7,12 @@
 		<language>en</language>
 		<lastBuildDate>Sat, 20 Jan 2024 05:00:00 +0000</lastBuildDate>
 		<atom:link href="https://albertoreineri.it/en/blog/index.xml" rel="self" type="application/rss+xml" />
-		
+
 		<item>
 			<title>New Website</title>
 			<link>https://albertoreineri.it/en/blog/new-website/</link>
 			<pubDate>Sat, 20 Jan 2024 05:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/new-website/</guid>
 			<description>Here&amp;rsquo;s my New Website!
 I know, it might seem unconventional. There&amp;rsquo;s no WOW effect as one would expect, at least not in the form of flashy or extravagant animations. It&amp;rsquo;s a simple website, primarily text-based. It might seem like it doesn&amp;rsquo;t fully comply with Google&amp;rsquo;s rules, but in reality, there&amp;rsquo;s more than meets the eye.
@@ -52,12 +52,12 @@ Also, the structure presents only text without a sidebar or anything else. Somet
 <p><em>Alberto</em></p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>The Basics of GIT: Learn Versioning!</title>
 			<link>https://albertoreineri.it/en/blog/the-basics-of-git-learn-versioning/</link>
 			<pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/the-basics-of-git-learn-versioning/</guid>
 			<description>In the vast landscape of software development, effective code management plays a crucial role in determining the success of a project. In this context, Git stands out as an indispensable tool, providing a powerful and efficient version control system. Its adoption not only simplifies collaboration among developers but also offers a robust method for tracking changes over time, managing distinct branches, and resolving conflicts in an orderly manner.
 This practical guide aims to walk you through the fundamentals of code management with Git, offering a clear and detailed overview of essential procedures.</description>
@@ -228,12 +228,12 @@ Then, use the <code>git merge &lt;branch name&gt;</code> command to merge the ch
 <p>May your Git repositories always be well-organized, and your commits be descriptive and meaningful. Happy coding!</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>I am officially a WordPress Developer.</title>
 			<link>https://albertoreineri.it/en/blog/i-am-officially-a-wordpress-developer./</link>
 			<pubDate>Wed, 10 Jan 2024 05:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/i-am-officially-a-wordpress-developer./</guid>
 			<description>Today my plugin was approved, and it has been published in the official WordPress repository! Now, I am officially part of the community as a WordPress Developer. What an exciting moment! 😊 😊 😊
 The plugin is actually very simple, but it was my first step into the WP community, and I wanted to start from the ground up to quietly join the team.
@@ -251,12 +251,12 @@ What an exciting moment! 😊 😊 😊</p>
 <p><em>Alberto</em></p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>The 9 Best Visual Studio Code Extensions</title>
 			<link>https://albertoreineri.it/en/blog/the-9-best-visual-studio-code-extensions/</link>
 			<pubDate>Sun, 29 Oct 2023 09:12:22 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/the-9-best-visual-studio-code-extensions/</guid>
 			<description>Visual Studio Code (VS Code) has become one of the most popular code editors among developers due to its flexibility and a wide range of available extensions. VS Code extensions offer additional features that can significantly enhance a developer&amp;rsquo;s workflow. In this article, we will explore the top 10 Visual Studio Code extensions that will empower your development environment, making your programming experience even more efficient and productive.
 ESLint ESLint is an essential ally for any developer aiming to write clean and error-free JavaScript code.</description>
@@ -287,12 +287,12 @@ ESLint ESLint is an essential ally for any developer aiming to write clean and e
 <p>If you want a fresh and modern view of your workspace in Visual Studio Code, install &ldquo;Material Icon Theme&rdquo; today and discover how this extension can make your development environment</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>AJAX and PHP</title>
 			<link>https://albertoreineri.it/en/blog/ajax-and-php/</link>
 			<pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/ajax-and-php/</guid>
 			<description>Would you like to execute PHP code without refreshing the page? With AJAX, you can do it!
 An AJAX call is an asynchronous request sent from a web browser to a web server, using the JavaScript language. The web server can respond to the AJAX call with data in JSON, XML, or HTML format, which can then be processed by the web browser to dynamically update a part of the web page without having to reload the entire page.</description>
@@ -307,12 +307,12 @@ An AJAX call is an asynchronous request sent from a web browser to a web server,
 <p>Source Code: <a href="https://github.com/albertoreineri/Send-Mail-With-AJAX-in-PHP">https://github.com/albertoreineri/Send-Mail-With-AJAX-in-PHP</a></p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Send EMail in PHP</title>
 			<link>https://albertoreineri.it/en/blog/send-email-in-php/</link>
 			<pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/send-email-in-php/</guid>
 			<description>In the era of frameworks, we often forget that we can also use the basic, pure, and simple language.
 Today, let&amp;rsquo;s see how to send an email using just core PHP.
@@ -331,12 +331,12 @@ Happy coding!!!</description>
 <p>Happy coding!!!</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Qualche cambiamento</title>
 			<link>https://albertoreineri.it/en/blog/qualche-cambiamento/</link>
 			<pubDate>Sun, 11 Sep 2022 19:43:13 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/qualche-cambiamento/</guid>
 			<description>Questo sito ne ha passate di tutti i colori! È sempre stato il mio banco di prova per testare nuove funzionalità, imparare a gestire un server web da riga di comando e infine pubblicizzare i mie servizi.
 Ora è il momento di cambiare ancora!
@@ -360,12 +360,12 @@ Professionalmente non ho più bisogno di pubblicizzarmi granché. Lavoro come fr
 <p>Buona lettura!</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>8 Productivity Tips for Developers and Programmers</title>
 			<link>https://albertoreineri.it/en/blog/8-productivity-tips-for-developers-and-programmers/</link>
 			<pubDate>Fri, 22 Jul 2022 07:42:48 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/8-productivity-tips-for-developers-and-programmers/</guid>
 			<description>It&amp;rsquo;s not easy to sustain productivity as developers. It&amp;rsquo;s a mentally demanding job that can quickly drain your mind and requires a lot of focus. Understanding how to focus on your work, take shortcuts using automation, and manage distractions can greatly help you make the most of your working hours. In this collection, you&amp;rsquo;ll find the best productivity tips for developers, from finding the best development tools to taking regular breaks and eliminating distractions during work.</description>
 			<content type="html"><![CDATA[<p>It&rsquo;s not easy to sustain productivity as developers. It&rsquo;s a mentally demanding job that can quickly drain your mind and requires a lot of focus. Understanding how to focus on your work, take shortcuts using automation, and manage distractions can greatly help you make the most of your working hours. In this collection, you&rsquo;ll find the best productivity tips for developers, from finding the best development tools to taking regular breaks and eliminating distractions during work.</p>
@@ -406,12 +406,12 @@ Professionalmente non ho più bisogno di pubblicizzarmi granché. Lavoro come fr
 <p>And, if you need more unique tips for developers and programmers, don&rsquo;t miss our article on <a href="/blog/how-to-choose-which-programming-language-to-learn">how to choose which programming language to learn</a>.</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>The 5 Best Cross-Platform Code Editors for Web Developers</title>
 			<link>https://albertoreineri.it/en/blog/the-5-best-cross-platform-code-editors-for-web-developers/</link>
 			<pubDate>Mon, 18 Jul 2022 12:37:13 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/the-5-best-cross-platform-code-editors-for-web-developers/</guid>
 			<description>Text editors are arguably the most crucial tools for web developers. Finding one that fits your workflow, aligns with your goals, and provides all the features you need can save you a lot of time and significantly enhance the quality of your code.
 In this article, I&amp;rsquo;ll showcase the five best cross-platform code editors for web developers. All of them work on the three major operating systems—Windows, Linux, and macOS. The features you need will largely depend on your working style, coding expertise, and the type of work you need to accomplish.</description>
@@ -511,12 +511,12 @@ In this article, I&amp;rsquo;ll showcase the five best cross-platform code edito
 <p>In addition to choosing the code editor that best suits your needs, you might also want to explore other web development tools. In that case, check out our article on <a href="http://www.developerdrive.com/2018/01/9-best-free-cloud-ides/">the best cloud IDEs</a> or take a look at our <a href="http://www.developerdrive.com/2015/02/essential-tools-for-modern-web-development/">collection of essential tools</a> recommended for modern web development.</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Miglior portatile per programmare</title>
 			<link>https://albertoreineri.it/en/blog/miglior-portatile-per-programmare/</link>
 			<pubDate>Mon, 11 Jul 2022 19:50:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/miglior-portatile-per-programmare/</guid>
 			<description>Una delle domande che mi fate più spesso è proprio questa: Ma qual è il miglior portatile per programmare?
 Ebbene la capisco perché non è una scelta facile! Il mercato ci offre un mare di possibilità differenti fra loro, inoltre spesso si tratta di una spesa corposa quindi vogliamo scegliere un prodotto che possa durarci un bel po&amp;rsquo; di anni.
@@ -566,12 +566,12 @@ In questo articolo provo ad esporvi il mio punto di vista e darvi una risposta a
 <p>Bene, spero che questo articolo possa esserti di aiuto! Se vuoi qualche consiglio in più scrivimi pure nei commenti, cercherò di risponderti il più presto possibile.</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>I migliori temi per Visual Studio Code</title>
 			<link>https://albertoreineri.it/en/blog/i-migliori-temi-per-visual-studio-code/</link>
 			<pubDate>Mon, 04 Jul 2022 21:26:57 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/i-migliori-temi-per-visual-studio-code/</guid>
 			<description>Lavorare in un ambiente piacevole è fondamentale per la produttività. Visual Studio code ultimamente sta guadagnando sempre più popolarità, e se mi segui saprai già che è il mio editor preferito! Vediamo oggi quali sono i miei temi preferiti per Visual Studio Code, sia chiari che scuri!
 Nel 2019 Visual Studio Code (VSCode) è stato l&amp;rsquo;editor di testo più utilizzato dagli sviluppatori secondo, con il 50% degli 87.317 intervistati che lo utilizzano.</description>
@@ -661,12 +661,12 @@ Nel 2019 Visual Studio Code (VSCode) è stato l&amp;rsquo;editor di testo più 
 <p>Buon codice!</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Frontend Development Tools: 6 Must-Have Options</title>
 			<link>https://albertoreineri.it/en/blog/frontend-development-tools-6-must-have-options/</link>
 			<pubDate>Tue, 28 Jun 2022 12:03:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/frontend-development-tools-6-must-have-options/</guid>
 			<description>The code used in production differs from development code. In production, it&amp;rsquo;s essential to create packages that work efficiently, manage dependencies, automate tasks, load external modules, and more. The tools that enable the transformation of development code into production code are called build tools. Frontend developers primarily work with the following types of build tools:
 Package managers, Task runners, Module loaders, Module bundlers, And more&amp;hellip; In this article, we&amp;rsquo;ll explore the top frontend build tools you can use in your development.</description>
@@ -761,17 +761,17 @@ Package managers, Task runners, Module loaders, Module bundlers, And more&amp;he
 <p>As always, Happy Coding!</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Nano Editor, Guida per principianti</title>
 			<link>https://albertoreineri.it/en/blog/nano-editor-guida-per-principianti/</link>
 			<pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/nano-editor-guida-per-principianti/</guid>
 			<description>Gli utenti Linux hanno molte opzioni tra cui scegliere quando si tratta di editor di testo. Da base ad avanzato, esistono un sacco di editor di testo, ma alcuni come Vim ed Emacs possono risultare molto complicati per gli utenti meno avanzati.
 In questo casi ci viene in aiuto Nano, forse il miglior editor di testo per principianti.
 Nano: Nano è un editor di testo semplice e leggero sviluppato appositamente per sistemi UNIX e ambienti desktop che utilizzano un&amp;rsquo;interfaccia a riga di comando.</description>
-			<content type="html"><![CDATA[<p>Gli utenti <a href="/argomento/linux/">Linux</a> hanno molte opzioni tra cui scegliere quando si tratta di editor di testo. Da base ad avanzato, esistono un sacco di editor di testo, ma alcuni come Vim ed Emacs possono risultare molto complicati per gli utenti meno avanzati.</p>
+			<content type="html"><![CDATA[<p>Gli utenti <a href="/categories/linux/">Linux</a> hanno molte opzioni tra cui scegliere quando si tratta di editor di testo. Da base ad avanzato, esistono un sacco di editor di testo, ma alcuni come Vim ed Emacs possono risultare molto complicati per gli utenti meno avanzati.</p>
 <p>In questo casi ci viene in aiuto Nano, forse il miglior editor di testo per principianti.</p>
 <h2 id="nano">Nano:</h2>
 <p>Nano è un editor di testo semplice e leggero sviluppato appositamente per sistemi UNIX e ambienti desktop che utilizzano un&rsquo;interfaccia a riga di comando. Nano è concesso in licenza sotto la GNU General Public License ed emula l&rsquo;editor di testo Pico.</p>
@@ -873,12 +873,12 @@ Nano: Nano è un editor di testo semplice e leggero sviluppato appositamente per
 </table>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Usare la riga di comando con WordPress grazie a WP-CLI</title>
 			<link>https://albertoreineri.it/en/blog/usare-la-riga-di-comando-con-wordpress-grazie-a-wp-cli/</link>
 			<pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/usare-la-riga-di-comando-con-wordpress-grazie-a-wp-cli/</guid>
 			<description>Se sei uno sviluppatore WordPress, probabilmente hai installato il CMS, l&amp;rsquo;hai aggiornato e hai attivato temi e plugin centinaia di volte. E sebbene queste attività di routine di sviluppo e manutenzione siano abbastanza facili da eseguire con l&amp;rsquo;interfaccia utente grafica di WordPress, eseguirle più e più volte non è molto efficiente.
 La buona notizia è che puoi velocizzare facilmente ed efficacemente lo sviluppo e la manutenzione di WordPress con l&amp;rsquo;interfaccia a riga di comando di WordPress (WP-CLI) .</description>
@@ -996,12 +996,12 @@ done
 <p>Buon codice!</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>How to Install a LAMP Stack (Linux, Apache, MySQL, PHP) on Ubuntu</title>
 			<link>https://albertoreineri.it/en/blog/how-to-install-a-lamp-stack-linux-apache-mysql-php-on-ubuntu/</link>
 			<pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/how-to-install-a-lamp-stack-linux-apache-mysql-php-on-ubuntu/</guid>
 			<description>Introduction A &amp;ldquo;LAMP&amp;rdquo; stack is a group of open-source software typically installed together to enable a server to host dynamic websites and web applications. This term is actually an acronym representing the Linux operating system, with the Apache web server. The website data is stored in a MySQL database, and dynamic content is processed by PHP.
 In this guide, we will install a LAMP stack on an Ubuntu server.
@@ -1210,12 +1210,12 @@ Prerequisites This tutorial is created on Ubuntu but works on all Debian-based d
 <p>Happy coding!</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Usare il browser senza mouse – Hacker Style</title>
 			<link>https://albertoreineri.it/en/blog/usare-il-browser-senza-mouse-hacker-style/</link>
 			<pubDate>Mon, 06 Jun 2022 09:34:22 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/usare-il-browser-senza-mouse-hacker-style/</guid>
 			<description>Passiamo molto, moltissimo tempo sul browser ormai, e usare il mouse per la navigazione può essere frustranete per noi sviluppatori… Ma è possibile farne a meno e muoversi solamente utilizzando la tastiera, come un vero hacker! Vediamo come si fa.
 Vimium Extension Per prima cosa devi scaricare l&amp;rsquo;estensione Vimium. Io uso Google Chrome, ma è presente anche per Firefox e Safari (se usi Brave o Edge non preoccuparti, puoi installare l&amp;rsquo;estensione per Google Chrome, funzionerà perfettamente perché questi browser condividono la stessa base).</description>
@@ -1261,12 +1261,12 @@ T          Cerca fra le tab</code></pre>
 <p>Come sempre <em>buon codice!</em></p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>I love Linux, but I&#39;m still on Mac...</title>
 			<link>https://albertoreineri.it/en/blog/i-love-linux-but-im-still-on-mac.../</link>
 			<pubDate>Mon, 21 Mar 2022 22:19:04 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/i-love-linux-but-im-still-on-mac.../</guid>
 			<description>If you&amp;rsquo;ve been following me for a while, you probably know how much I love the Linux world! It&amp;rsquo;s an environment that sometimes gives me a headache, makes me angry, forces me to dig into things to understand how they work, but it also has the beauty of making us feel more in control of our PCs, understand how they work under the hood, and manage them better to our liking!</description>
 			<content type="html"><![CDATA[<p>If you&rsquo;ve been following me for a while, you probably know how much I love the <a href="/blog/perche-dovremmo-tutti-passare-a-linux-e-perche-non-lo-facciamo/">Linux</a> world! It&rsquo;s an environment that sometimes gives me a headache, makes me angry, forces me to dig into things to understand how they work, but it also has the beauty of making us feel more in control of our PCs, understand how they work under the hood, and manage them better to our liking!</p>
@@ -1303,12 +1303,12 @@ T          Cerca fra le tab</code></pre>
 <p>Keep Coding ?</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>How to Create an Overlay Effect in CSS</title>
 			<link>https://albertoreineri.it/en/blog/how-to-create-an-overlay-effect-in-css/</link>
 			<pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/how-to-create-an-overlay-effect-in-css/</guid>
 			<description>Personally, I use overlays extensively to enhance text readability over an image, but what is this overlay?
 In simple terms, it is nothing more than a layer between the image and the text, a layer that &amp;lsquo;dims&amp;rsquo; the image to make the text more legible.
@@ -1351,12 +1351,12 @@ Doing it is not difficult at all.</description>
 <p><em>Happy coding!</em></p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Hide the extension at the end of the URL</title>
 			<link>https://albertoreineri.it/en/blog/hide-the-extension-at-the-end-of-the-url/</link>
 			<pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/hide-the-extension-at-the-end-of-the-url/</guid>
 			<description>Today, having the extension at the end of the URL is not ideal, both for SEO and for the overall impression the site makes on the end user. It would be better to hide it.
 The ability to choose our URLs is crucial for creating a good website. By using PHP pages correctly, you can easily achieve this result by simply hiding the extension from the URL.
@@ -1386,12 +1386,12 @@ In this guide, we will see how to &amp;ldquo;remove&amp;rdquo; the .</descriptio
 <p>If you want to learn how to use a simple routing system to organize the website in the best way and manage your URLs effectively, read this <a href="/en/blog/simple-routing-system-in-php/">article</a>. It&rsquo;s very basic and simple but can be used for small projects without big demands. Of course, it has nothing to do with the routing of <a href="https://laravel.com/">Laravel</a>, for example, but it can be a good starting point to improve your skills.</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>WordPress Starter Theme</title>
 			<link>https://albertoreineri.it/en/blog/wordpress-starter-theme/</link>
 			<pubDate>Wed, 18 Dec 2019 21:44:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/wordpress-starter-theme/</guid>
 			<description>After using WordPress for various projects, I decided to create and share my starter theme.
 With this project, you can start from a pre-made base and speed up the development time for a new theme from scratch.
@@ -1418,12 +1418,12 @@ bootstrap font awesome back on top Developing themes from scratch allows for hig
 <p>Any possible bugs can be reported to me via <a href="https://github.com/albertoreineri/orange-starter-theme">GitHub</a> or directly through the contact form on this site; I will take care of the problem and solve it as quickly as possible.</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>How to use GIT</title>
 			<link>https://albertoreineri.it/en/blog/how-to-use-git/</link>
 			<pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/how-to-use-git/</guid>
 			<description>Not long ago, I wrote an article praising Git, a version control software I can&amp;rsquo;t live without. So, I decided to create a guide to explain how to use GIT!
 BUT HOW DO YOU ACTUALLY USE GIT? IS IT HARD TO USE? Let&amp;rsquo;s start with the fact that &amp;ldquo;Git&amp;rdquo; can be translated as &amp;ldquo;idiot,&amp;rdquo; almost suggesting that it&amp;rsquo;s foolproof&amp;hellip;
@@ -1541,12 +1541,12 @@ Jokes aside, it&amp;rsquo;s very simple to use, and it can also be a good starti
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git pull https://github.com/GitHubUser/GitHubRepo.git
 </span></span></code></pre></div>]]></content>
 		</item>
-		
+
 		<item>
 			<title>Windows VS Mac for Web Development: My Experience</title>
 			<link>https://albertoreineri.it/en/blog/windows-vs-mac-for-web-development-my-experience/</link>
 			<pubDate>Sun, 08 Dec 2019 21:40:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/windows-vs-mac-for-web-development-my-experience/</guid>
 			<description>Today, I want to share my experience using these two operating systems, the eternal battle between Windows and Mac. I&amp;rsquo;ll discuss it from both a developer&amp;rsquo;s and an average user&amp;rsquo;s perspective since I use the computer for work and leisure, for programming, answering emails, writing documents, scheduling appointments, and more.
 During my ten years of programming, I&amp;rsquo;ve had the opportunity to use both Windows and Mac, each for several years. I&amp;rsquo;ve reached my conclusion, which is somewhat contrary to the usual discussions on various forums and social media in the industry.</description>
@@ -1578,12 +1578,12 @@ During my ten years of programming, I&amp;rsquo;ve had the opportunity to use bo
 <p>Now I can <strong>program</strong>, <strong>record</strong> music, <strong>play games</strong>, <strong>write</strong>, <strong>edit</strong> videos, use <strong>virtual machines</strong>, etc., without any slowdowns. Spending less than on a Macbook, I got a Core i7 with 16GB of RAM, 128GB SSD, 1TB HDD, and a 4GB graphics card! Basically, a powerhouse, for less than €100</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Never stop learning...</title>
 			<link>https://albertoreineri.it/en/blog/never-stop-learning.../</link>
 			<pubDate>Sun, 01 Dec 2019 21:35:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/never-stop-learning.../</guid>
 			<description>I began writing code almost ten years ago, using different languages, libraries, and frameworks, but the desire to always learn something new has not yet left me, fortunately.
 For the past couple of years, a little word has been wandering in my mind that I can&amp;rsquo;t seem to shake off: Python.
@@ -1607,12 +1607,12 @@ If you do a quick search online about programming languages, you&amp;rsquo;ll in
 <p><em>Happy coding!</em></p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Redirect http to https</title>
 			<link>https://albertoreineri.it/en/blog/redirect-http-to-https/</link>
 			<pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/redirect-http-to-https/</guid>
 			<description>Let&amp;rsquo;s see how to install an SSL certificate on our website and switch from HTTP to HTTPS.
 Do you want to remove the &amp;ldquo;not secure&amp;rdquo; label that appears next to your site&amp;rsquo;s URL? Then this article is for you!
@@ -1643,12 +1643,12 @@ The procedure is very simple; you just need to follow these two steps:</descript
 </span></span></code></pre></div><p>With these simple steps, you can install an SSL certificate and redirect traffic from HTTP to HTTPS, making your website more secure.</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>SSL Certificate: How to Redirect HTTP to HTTPS</title>
 			<link>https://albertoreineri.it/en/blog/ssl-certificate-how-to-redirect-http-to-https/</link>
 			<pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/ssl-certificate-how-to-redirect-http-to-https/</guid>
 			<description>Let&amp;rsquo;s see how to install an SSL certificate on our website and switch from HTTP to HTTPS.
 Do you want to remove the &amp;ldquo;not secure&amp;rdquo; label that appears next to the URL of your site? Then, this article is for you!
@@ -1680,12 +1680,12 @@ The process is straightforward; just follow these two steps:
 </span></span></code></pre></div><p>With these simple steps, you can install an SSL certificate and redirect traffic from HTTP to HTTPS, making your website more secure.</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>SASS Tutorial - What is it and why you won&#39;t be able to do without it</title>
 			<link>https://albertoreineri.it/en/blog/sass-tutorial-what-is-it-and-why-you-wont-be-able-to-do-without-it/</link>
 			<pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/sass-tutorial-what-is-it-and-why-you-wont-be-able-to-do-without-it/</guid>
 			<description>&amp;ldquo;If you live in the world of web development, then you have probably heard of SASS, the most famous CSS preprocessor! This is a fantastic tool that allows you to significantly extend the capabilities of CSS and create and manage stylesheets in a fast and organized manner.
 SASS is a CSS preprocessor that adds special features such as variables, nesting, mixins, and much more to regular CSS. The goal is to make the process of creating CSS simple and effective, both to write and to read in the future.</description>
@@ -1822,12 +1822,12 @@ SASS is a CSS preprocessor that adds special features such as variables, nesting
 <p>Happy coding!&rdquo;</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>I have developed my own CMS</title>
 			<link>https://albertoreineri.it/en/blog/i-have-developed-my-own-cms/</link>
 			<pubDate>Sat, 02 Nov 2019 21:29:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/i-have-developed-my-own-cms/</guid>
 			<description>WordPress is a fantastic platform, a great CMS that allows managing website content relatively easily and quickly. It offers a vast range of plugins and enables the rapid and effective development of projects.
 However, there are a few things in WordPress that I&amp;rsquo;ve never liked&amp;hellip; Two, in particular:
@@ -1883,12 +1883,12 @@ However, there are a few things in WordPress that I&amp;rsquo;ve never liked&amp
 <p>Happy coding!</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Slow WordPress Site? Here&#39;s How to Increase Performance!</title>
 			<link>https://albertoreineri.it/en/blog/slow-wordpress-site-heres-how-to-increase-performance/</link>
 			<pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/slow-wordpress-site-heres-how-to-increase-performance/</guid>
 			<description>&amp;ldquo;Do you have a slow WordPress site? Does it frequently freeze, leaving you frustrated just by looking at it? Let&amp;rsquo;s see how to improve it!
 WordPress is the world&amp;rsquo;s most widely used platform for creating websites, but it often happens that it is used in a non-optimal way.
@@ -1946,12 +1946,12 @@ WordPress, while fantastic, comes with a somewhat heavy core of its own, and if 
 <p>The best solution for having a high-performance WordPress site is, therefore, to <strong>rely on a WordPress expert</strong> who can understand the site&rsquo;s needs and <strong>create the best solution</strong>. This ensures <strong>high performance</strong> and also a higher level of <strong>security</strong>.&rdquo;</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>How to choose the right technology for your website?</title>
 			<link>https://albertoreineri.it/en/blog/how-to-choose-the-right-technology-for-your-website/</link>
 			<pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/how-to-choose-the-right-technology-for-your-website/</guid>
 			<description>Choosing the right technology for your website is a crucial step.
 Being online is essential today!
@@ -2002,12 +2002,12 @@ There are various types of websites (showcase, blog, e-commerce, etc.</descripti
 <p>I hope this article has helped you <strong>understand how to approach the creation of your new website.</strong> Remember that the choice of technology is crucial, and <strong>you will carry it with you for a long time</strong>, so it must be done with method and professionalism.</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Web development on Linux</title>
 			<link>https://albertoreineri.it/en/blog/web-development-on-linux/</link>
 			<pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/web-development-on-linux/</guid>
 			<description>Development on Linux I have been developing software and websites for more than ten years now (with a break in between), and I have had the opportunity to use both Windows and Mac as well as Linux.
 While I have primarily used Windows and Mac, during the last period where I worked closely with system administrators and did much more backend development than frontend, I felt the need to switch to something more performance-oriented for these activities.</description>
@@ -2064,12 +2064,12 @@ While I have primarily used Windows and Mac, during the last period where I work
 <p>Of course, there&rsquo;s the problem of <strong>battery life</strong>, which is not as well optimized on Linux&hellip; But in the end, I use <strong>Linux for work</strong>, connected to the power, and when I want to chill on the couch, I can use Windows and enjoy a few more hours away from the cables.</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>CMS, Framework or Core Language?</title>
 			<link>https://albertoreineri.it/en/blog/cms-framework-or-core-language/</link>
 			<pubDate>Wed, 09 Oct 2019 21:26:11 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/cms-framework-or-core-language/</guid>
 			<description>CMS, Framework, Core Language… Nowadays, when approaching a new project, we have the opportunity to use highly advanced tools that allow us to speed up and facilitate the work.
 CMS systems are increasingly successful; it is said that half of the world&amp;rsquo;s websites are created with WordPress (although this data changes frequently&amp;hellip;). Frameworks are also thriving today, becoming more advanced and sophisticated.
@@ -2110,12 +2110,12 @@ And what about good old handwritten code? Does it still exist?</description>
 <p>Happy coding to everyone!</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Gulp.js in WordPress Theme</title>
 			<link>https://albertoreineri.it/en/blog/gulp.js-in-wordpress-theme/</link>
 			<pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/gulp.js-in-wordpress-theme/</guid>
 			<description>For some time, I&amp;rsquo;ve been working on fairly large projects, and it&amp;rsquo;s not always easy to manage everything without getting lost in the thousands of files and folders within the project.
 Code organization is a fundamental part of software development, be it web, desktop, or mobile.
@@ -2152,12 +2152,12 @@ What is Gulp.</description>
 <p>Let me know what you think in the <strong>comments</strong>, and <strong>happy coding!</strong></p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>How to choose a Framework</title>
 			<link>https://albertoreineri.it/en/blog/how-to-choose-a-framework/</link>
 			<pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/how-to-choose-a-framework/</guid>
 			<description>Today, &amp;ldquo;from scratch&amp;rdquo; development is becoming less common. Lower budgets and tighter timelines have forced most developers to start from an existing foundation when creating their projects.
 I still personally love developing &amp;ldquo;from scratch,&amp;rdquo; but living in today&amp;rsquo;s world and unable to spend nights writing code, I had to adapt to the current environment and start using some frameworks myself.
@@ -2222,12 +2222,12 @@ For some, these may be simple tips, but many times when faced with the choice be
 <p><em>It&rsquo;s not about finding the best framework; it&rsquo;s about finding the</em> <strong>right</strong> <em>framework.</em></p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Configuring the PC for Web Development with Free Software</title>
 			<link>https://albertoreineri.it/en/blog/configuring-the-pc-for-web-development-with-free-software/</link>
 			<pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/configuring-the-pc-for-web-development-with-free-software/</guid>
 			<description>Let&amp;rsquo;s see which free software we can use for web development.
 Are you getting into the programming world and want to start developing some websites or a small web app? Congratulations! Welcome to the fantastic world of Web Development!
@@ -2269,12 +2269,12 @@ To start, you&amp;rsquo;ll need to install the necessary programs to write your 
 <p><em>Happy coding!</em></p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>Remove Virus from WordPress</title>
 			<link>https://albertoreineri.it/en/blog/remove-virus-from-wordpress/</link>
 			<pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/remove-virus-from-wordpress/</guid>
 			<description>WordPress is one of the most widely used platforms in the world for creating websites, but sometimes it can be easy to encounter a virus. But how can they be removed?
 WordPress allows anyone to set up a functioning website in very little time and with very low costs.
@@ -2340,12 +2340,12 @@ However, this also means having many websites created by non-professionals who i
 <p>In this article, I have tried to give you <strong>some basic advice</strong> to try to remove a virus from WordPress. I hope this could be helpful to you!</p>
 ]]></content>
 		</item>
-		
+
 		<item>
 			<title>GIT! What is it???</title>
 			<link>https://albertoreineri.it/en/blog/git-what-is-it/</link>
 			<pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
-			
+
 			<guid>https://albertoreineri.it/en/blog/git-what-is-it/</guid>
 			<description>Git is fantastic version control software created by a pretty good programmer: Linus Torvalds.
 WHO IS LINUS TORVALDS? For the few who don&amp;rsquo;t know who this person is (I hope they are really very few&amp;hellip;), he is the creator of Linux. If we consider that more than half of the web and the majority of smartphones operate thanks to code written by him, we all owe him gratitude for his genius and generosity.</description>
@@ -2377,6 +2377,6 @@ WHO IS LINUS TORVALDS? For the few who don&amp;rsquo;t know who this person is (
 <p><em>Happy coding! Bye!!!</em></p>
 ]]></content>
 		</item>
-		
+
 	</channel>
 </rss>

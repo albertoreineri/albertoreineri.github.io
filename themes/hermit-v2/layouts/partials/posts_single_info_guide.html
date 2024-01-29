@@ -12,7 +12,7 @@
 {{- end }}
 {{- with .Params.categories }}
 <p>{{- partial "svg.html" (dict "context" . "name" "posts_single_categories") -}}{{- range . -}}<span
-        class="category"><a href="{{ " categories/" | absLangURL }}{{ . | urlize }}">{{.}}</a></span>{{- end }}</p>
+        class="category"><a href="{{ "categories/" | absLangURL }}{{ . | urlize }}">{{.}}</a></span>{{- end }}</p>
 {{- end }}
 <p>{{- partial "svg.html" (dict "context" . "name" "posts_single_wordcount") }}{{ i18n "wordCount" . -}} {{- partial
     "readTime.html" . -}}</p>
