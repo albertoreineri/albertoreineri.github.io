@@ -16,7 +16,7 @@ For information and contacts, you can fill out the form below, and I will get ba
     formId: "67845955-bf4e-4993-813f-0f3e6683f7e3"
   });
 </script>
-  <div style="background: #494F5C;
+  <div style="background: #181818;
     height: 80px;
     position: absolute;
     bottom: 0;

@@ -15,7 +15,7 @@ Per informazioni e contatti puoi compilare il modulo qua sotto, ti risponderò i
     formId: "f036f03c-510c-49ef-9af1-f993af61fc92"
   });
 </script>
-  <div style="background: #494F5C;
+  <div style="background: #181818;
     height: 80px;
     position: absolute;
     bottom: 0;
