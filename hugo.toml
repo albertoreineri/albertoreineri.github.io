@@ -104,13 +104,13 @@ shareSocial = true
 # tagSymbol = "#"
 # categorySymbol = "⊲"
 
-[[params.socialLinks]]
-name = "youtube"
-url = "https://www.youtube.com/@albydev2149"
+# [[params.socialLinks]]
+# name = "youtube"
+# url = "https://www.youtube.com/@albydev2149"
 
-[[params.socialLinks]]
-name = "spotify"
-url = "https://open.spotify.com/show/546eUw3PsRI1HUGbBUeghC"
+# [[params.socialLinks]]
+# name = "spotify"
+# url = "https://open.spotify.com/show/546eUw3PsRI1HUGbBUeghC"
 
 [[params.socialLinks]]
 name = "github"
