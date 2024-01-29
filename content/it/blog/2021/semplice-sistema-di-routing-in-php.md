@@ -110,7 +110,7 @@ Potete creare semplicemente i seguenti file con il seguente codice in ognuno di 
 
 E voilà! Avrete un sistema di routing in PHP semplice da gestire ma funzionale.
 
-Questo sistema è alla base di [Orange CMS](https://orange.albydev.net/), il mio CMS realizzato in php. Ampliandolo a dovere è possibile raggiungere risultati molto soddisfacenti.
+Questo sistema è alla base di [Orange CMS](/orange), il mio CMS realizzato in php. Ampliandolo a dovere è possibile raggiungere risultati molto soddisfacenti.
 
 Spero possa esservi di aiuto.
 

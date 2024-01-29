@@ -10,7 +10,7 @@ categories:
 ---
 Ho pubblicato su <a href="https://github.com/albertoreineri/Simple-login-and-registration-in-php" target="_blank" rel="noreferrer noopener">github </a>un piccolo **progettino open source** che probabilmente amplierò in futuro.
 
-Avrei voluto pubblicare tutto **<a href="https://orange.reineristudio.comt/" target="_blank" rel="noreferrer noopener">Orange CMS</a>**, ma visto che crearlo è stato un lavoro molto grande e che per poterlo caricare su github dovrei ancora lavorarci su per renderlo scaricabile, installabile e capibile da tutti, per il momento **ho iniziato a pubblicare solamente una piccola base** per poter creare una propria area riservata in php.
+Avrei voluto pubblicare tutto **<a href="/orange" target="_blank" rel="noreferrer noopener">Orange CMS</a>**, ma visto che crearlo è stato un lavoro molto grande e che per poterlo caricare su github dovrei ancora lavorarci su per renderlo scaricabile, installabile e capibile da tutti, per il momento **ho iniziato a pubblicare solamente una piccola base** per poter creare una propria area riservata in php.
 
 E’ un modulo di login **molto semplice** da utilizzare, **vuole essere un’idea per iniziare a sviluppare un backend**, un punto dal quale partire.
 
