@@ -2,7 +2,7 @@
 	&copy; {{ now.Format "2006" }} <a href="{{ .Site.BaseURL }}">{{ .Site.Params.author.name }}</a>
 	{{/*{{- with (not (in (.Site.Language.Get "disableKinds") "RSS")) }}*/}}
 	&#183; <a href="{{ " index.xml" | absLangURL }}" target="_blank" title="rss">{{ partial "svg.html" (dict "context" .
-		"name" "rss") }}</a>
+		"name" "rss") }}&nbsp;</a>
 	{{/*{{ end }}*/}}
 	{{/* &#183; <a href="/privacy-policy" target="_blank" title="Privacy">Privacy Policy</a>
 	&#183; <a href="/extra" target="_blank" title="Privacy"><i>Extra</i></a> */}}
