@@ -1,8 +1,10 @@
 <p>
 	&copy; {{ now.Format "2006" }} <a href="{{ .Site.BaseURL }}">{{ .Site.Params.author.name }}</a>
 
-	&#183; <a href="{{ "/index.xml" | absLangURL }}" target="_blank" title="rss">{{ partial "svg.html" (dict "context" .
-		"name" "rss") }}</a>&nbsp;
+	&#183; <a href="{{ "index.xml" | absLangURL }}" target="_blank" title="rss">{{ partial "svg.html" (dict "context" .
+		"name" "rss") }}</a>&nbsp;&#183; <a href="mailto:info@albertoreineri.it" title="Alberto Reineri Email">
+			info@albertoreineri.it
+		</a>
 
 	{{- range .Site.Menus.footer -}}
 		&#183; <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
