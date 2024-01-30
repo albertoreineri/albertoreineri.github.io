@@ -7,9 +7,7 @@
 	<h1>Blog</h1>
 
 	<div class="content argomenti">
-		<h3>
-			{{ i18n "categorie" }}:
-		</h3>
+		<h3>{{ i18n "categorie" }}:</h3>
 		<ul class="text-center">
 			{{/* categories */}}
 			{{ range site.Taxonomies.categories.ByCount }}

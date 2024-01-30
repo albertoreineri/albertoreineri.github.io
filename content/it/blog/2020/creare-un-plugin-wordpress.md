@@ -1,6 +1,7 @@
 ---
 title: "4. Creare un plugin WordPress"
 description: "Tutorial su come sviluppare un plugin per WordPress da zero. Vediamo come si crea un plugin per le tue esigenze."
+url: "/blog/creare-un-plugin-wordpress"
 date: "2020-04-30"
 categories:
   - WordPress DEV
