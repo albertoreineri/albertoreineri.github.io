@@ -17,7 +17,7 @@ Developer productivity starts with a good code editor. Although there are many e
 
 - What programming language(s) are you using? You need a code editor that provides syntax highlighting for the languages you need (at least through plugins). Some code editors also come with syntax highlighters for popular technologies like React, not just programming languages.
 - If the chosen code editor has a suitable theme and a plugin ecosystem that provides the features you need (e.g., a high-contrast theme if you have vision issues).
-- If you entrust your work to a code-sharing platform like GitHub or Bitbucket, you might find the [integrated Git feature](/blog/how-to-use-git/) useful. For example, Visual Studio Code allows you to commit your work directly to GitHub without leaving the editor.
+- If you entrust your work to a code-sharing platform like GitHub or Bitbucket, you might find the [integrated Git feature](/en/blog/how-to-use-git/) useful. For example, Visual Studio Code allows you to commit your work directly to GitHub without leaving the editor.
 - If you want to use your code snippets and/or keyboard shortcuts, it's also a good idea to choose a code editor that allows you to add or import them.
 
 ## 2. Start Each Day with the Hardest Task

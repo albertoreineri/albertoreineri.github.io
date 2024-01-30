@@ -20,7 +20,7 @@ This tutorial is created on Ubuntu but works on all Debian-based distros, such a
 
 ## Step 1: Installing Apache
 
-The Apache web server is a popular open-source web server that can be used in conjunction with [PHP](/blog/le-basi-di-php/) to host dynamic websites. Ensure your `apt` cache is up-to-date with:
+The Apache web server is a popular open-source web server that can be used in conjunction with [PHP](/en/blog/le-basi-di-php/) to host dynamic websites. Ensure your `apt` cache is up-to-date with:
 
 ```bash
 sudo apt update

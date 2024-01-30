@@ -41,14 +41,14 @@ pre code {
 }
 
 .content {
-    a {
-        transition: .3s !important;
-        box-shadow: inset 0 -2px $theme;
-    }
+  a {
+    transition: .3s !important;
+    box-shadow: inset 0 -2px $theme;
+  }
 
-    a:hover {
-        color: $light-grey !important
-    }
+  a:hover {
+    color: $light-grey !important
+  }
 }
 
 #home-subtitle {
@@ -112,7 +112,12 @@ hr {
     text-decoration: none !important;
     box-shadow: none !important;
     color: #b5b5b5 !important;
+
+    &:hover {
+      color: $theme !important;
+    }
   }
+
 }
 
 .contatti {
@@ -1203,17 +1208,18 @@ input::placeholder {
   // border-radius: 4px;
   // font: inherit;
   background: none;
-  color:$theme;
+  color: $theme;
   opacity: 1;
-  border:none;
-  padding:0;
+  border: none;
+  padding: 0;
   cursor: pointer;
   display: flex;
   opacity: 1;
 
   svg {
     height: 15px;
-    width:15px;
+    width: 15px;
+
     path {
       stroke: $theme
     }
@@ -1228,4 +1234,3 @@ input::placeholder {
     height: 18px
   }
 }
-

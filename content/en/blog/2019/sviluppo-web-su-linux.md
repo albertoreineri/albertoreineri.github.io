@@ -9,7 +9,7 @@ categories:
 
 # Development on Linux
 
-I have been developing software and websites for more than ten years now (with a break in between), and I have had the opportunity to use both [**Windows**](/blog/miglior-pc-per-sviluppatori-la-mia-esperienza/) and **Mac** as well as **Linux**.
+I have been developing software and websites for more than ten years now (with a break in between), and I have had the opportunity to use both [**Windows**](/en/blog/miglior-pc-per-sviluppatori-la-mia-esperienza/) and **Mac** as well as **Linux**.
 
 While I have primarily used **Windows** and **Mac**, during the last period where I worked closely with **system administrators** and did much more **backend development** than frontend, I felt the need to switch to something more **performance-oriented** for these activities.
 

@@ -18,7 +18,7 @@ One thing I never liked about the first websites I built was seeing ".php" at th
 
 But is it possible to create custom and SEO-friendly URLs without using a CMS or framework? The answer is absolutely YES!!!
 
-If you're interested in a simple solution to "hide" the ".php" at the end of the URL, read this [article](/blog/nascondere-lestensione-alla-fine-dellurl/).
+If you're interested in a simple solution to "hide" the ".php" at the end of the URL, read this [article](/en/blog/nascondere-lestensione-alla-fine-dellurl/).
 
 If you want to learn how to use a simple routing system in PHP, here's how you can do it.
 

@@ -7,12 +7,15 @@
 		*/}}
 		{{/* &#183; <a href="/privacy-policy" target="_blank" rel="noopener">Privacy Policy</a> */}}
 		{{/*{{- with (not (in (.Site.Language.Get "disableKinds") "RSS")) }}*/}}
+
 		&#183; <a href="{{ "index.xml" | absLangURL }}" target="_blank" title="rss">{{ partial "svg.html" (dict
-			"context" . "name" "rss") }}</a>
+			"context" . "name" "rss") }}</a>&nbsp;
+
 		&#183; {{ i18n "partita_iva" . }} 03888370040
 					{{/*{{ end }}*/}}
 		{{/*  &#183; <a href="/privacy-policy" target="_blank" title="Privacy">Privacy Policy</a>
 		&#183; <a href="/extra" target="_blank" title="Privacy"><i>Extra</i></a>  */}}
+
 		{{- range .Site.Menus.footer -}}
 		&#183; <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>&nbsp;
 		{{- end -}}

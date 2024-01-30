@@ -53,7 +53,7 @@ There is also a Desktop version of the software, but the classic one works so we
 
 If you work on **Windows** (like me!!!), you can also download **Git Bash**, a very nice command line created to facilitate Git operations.
 
-Soon, I will [write a brief guide on basic Git commands](/blog/come-usare-git/), so you can start using it.
+Soon, I will [write a brief guide on basic Git commands](/en/blog/come-usare-git/), so you can start using it.
 
 I'm sure you won't be able to do without it anymore!
 

@@ -1,14 +1,13 @@
 <p>
 	&copy; {{ now.Format "2006" }} <a href="{{ .Site.BaseURL }}">{{ .Site.Params.author.name }}</a>
-	{{/*{{- with (not (in (.Site.Language.Get "disableKinds") "RSS")) }}*/}}
-	&#183; <a href="{{ " index.xml" | absLangURL }}" target="_blank" title="rss">{{ partial "svg.html" (dict "context" .
-		"name" "rss") }}</a>
-	{{/*{{ end }}*/}}
-	{{/* &#183; <a href="/privacy-policy" target="_blank" title="Privacy">Privacy Policy</a>
-	&#183; <a href="/extra" target="_blank" title="Privacy"><i>Extra</i></a> */}}
+
+	&#183; <a href="{{ "/index.xml" | absLangURL }}" target="_blank" title="rss">{{ partial "svg.html" (dict "context" .
+		"name" "rss") }}</a>&nbsp;
+
 	{{- range .Site.Menus.footer -}}
-	&#183; <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>&nbsp;
+		&#183; <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
 	{{- end -}}
+
 	{{ range $.Translations }}
 	&#183;
 	<a class="home-page-flag" title="{{ .Language.LanguageName }}" href="{{ .Permalink }}">
