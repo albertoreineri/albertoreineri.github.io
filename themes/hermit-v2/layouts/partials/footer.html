@@ -3,15 +3,11 @@
 		&copy; {{ now.Format "2006" }} <a href="{{ .Site.BaseURL }}">{{ .Site.Params.author.name }}</a>
 
 		&#183; <a href="{{ "index.xml" | absLangURL }}" target="_blank" title="rss">{{ partial "svg.html" (dict
-			"context" . "name" "rss") }}</a>
-
-
+			"context" . "name" "rss") }}</a>&nbsp;
 		&#183; {{ i18n "partita_iva" . }} 03888370040&nbsp;
 
 		{{- range .Site.Menus.footer -}}
 		&#183; <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>&nbsp;
 		{{- end -}}
 	</p>
-
-
 </footer>
