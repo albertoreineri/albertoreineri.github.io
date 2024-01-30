@@ -18,8 +18,6 @@ Now, let's explore the five best cross-platform code editors for web developers.
 
 ## 1. [ATOM][1]
 
-![Atom](https://example.com/path/to/atom.jpeg)
-
 Atom is a free and open-source code editor created by GitHub. Originally GitHub's in-house text editor, Atom was released to the public in 2014. With many advanced features, it quickly became one of the most popular code editors.
 
 Its exceptionally well-designed user interface allows you to split the interface into different panes for easy comparison of different files. Atom includes essential features that can significantly enhance your development workflow, such as a built-in package manager, intelligent autocomplete, file system navigation, an easy-to-use find-and-replace function, and more.
@@ -39,8 +37,6 @@ Atom also boasts thousands of [packages][2] and [themes][3], many of which are c
 
 ## 2. [VISUAL STUDIO CODE][5]
 
-![Visual Studio Code](https://example.com/path/to/visual-studio-code.jpeg)
-
 Visual Studio Code is Microsoft's cross-platform source code editor that works on all major operating systems. Interestingly, Visual Studio Code was built on the open-source components of Atom, but Microsoft removed some features and added new ones. It's also faster than Atom, both at startup and during execution. Visual Studio Code is fully customizable, and you can find many different themes and plugins in the [official marketplace][6]. You can easily install them from the editor and start using them right away.
 
 Visual Studio Code has many fantastic features that can significantly improve your development workflow. Probably the most notable is the _IntelliSense_ autocomplete feature, providing a list of intelligent suggestions as you code. Visual Studio Code also has an excellent built-in debugger that allows you to debug directly from the editor. Additionally, it supports Git by default, with a separate Git view where you can execute various Git commands.
@@ -57,8 +53,6 @@ Visual Studio Code has many fantastic features that can significantly improve yo
 - Confusing branding (unrelated to Visual Studio)
 
 ## 3. [BRACKETS][7]
-
-![Brackets](https://example.com/path/to/brackets.jpeg)
 
 Brackets was specifically created for web designers and front-end developers by Adobe Systems. It can be the ideal source code editor for you if you primarily work on front-end tasks (HTML, CSS, JavaScript). One of its most outstanding features is that it allows you to establish a real-time connection with Google Chrome. This means you can immediately see the changes you're making in the browser.
 
@@ -78,8 +72,6 @@ While you can split the editor into vertical or horizontal panes for side-by-sid
 
 ## 4. [SUBLIME TEXT][8]
 
-![Sublime Text](https://example.com/path/to/sublime-text.jpeg)
-
 Sublime Text is currently in its third major version (Sublime Text 3) and is a rather popular text editor within the web developer community. It's not free, but it comes with a free trial. For continued use, you need to purchase a license for $80. However, Sublime Text doesn't restrict you if you don't, it just occasionally displays a pop-up prompt asking you to buy the license.
 
 One of Sublime Text's most interesting features is the __Goto Anything__ command, which you can activate by pressing the keyboard shortcut <kbd>Ctrl</kbd>+<kbd>P</kbd>. You can quickly open files or jump to specific words, lines, or symbols. Sublime Text also provides you with a sophisticated command palette through which you can easily access various features like checking key bindings or switching to another color scheme.
@@ -98,8 +90,6 @@ Moreover, it allows multiple selections and split edits and has an extensive [pa
 - Not easy to integrate with Git
 
 ## 5. [LIGHT TABLE][10]
-
-![Light Table](https://example.com/path/to/light-table.jpeg)
 
 Light Table started as a [Kickstarter campaign][11] in 2012 and managed to raise over $300,000. It works on all major operating
 
