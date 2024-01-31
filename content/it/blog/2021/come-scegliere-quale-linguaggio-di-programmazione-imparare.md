@@ -48,7 +48,6 @@ Per evitare di sprecare il tuo tempo prezioso nell'apprendimento di un nuovo lin
 
 Il [TIOBE Programming Community Index][1] è spesso utilizzato come standard del settore per determinare la popolarità dei linguaggi di programmazione. Viene pubblicato ogni mese e mostra come diversi linguaggi di programmazione hanno guadagnato o perso trazione rispetto al mese precedente. Pubblicano anche una breve analisi del settore ogni mese che riassume i cambiamenti più importanti che devi conoscere.<figure class="wp-block-image size-full">
 
-<img loading="lazy" decoding="async" width="850" height="425" src="/wp-content/uploads/2022/06/tiobe-community-index.jpeg" alt="" class="wp-image-508" srcset="/wp-content/uploads/2022/06/tiobe-community-index.jpeg 850w, /wp-content/uploads/2022/06/tiobe-community-index-768x384.jpeg 768w" sizes="(max-width: 850px) 100vw, 850px" /> </figure>
 
 ### 2. GITHUB OCTOVERSE
 
@@ -70,7 +69,6 @@ Puoi trovare molte informazioni utili su quale linguaggio di programmazione sceg
 
 Ad esempio, nel 2019, quasi 90.000 sviluppatori hanno partecipato al sondaggio di 20 minuti che copre diversi argomenti, dalle loro tecnologie preferite alle preferenze lavorative. Oltre al sondaggio annuale, puoi trovare analisi approfondite, report in primo piano e set di dati archiviati anche su Stack Overflow Insights.<figure class="wp-block-image size-full">
 
-<img loading="lazy" decoding="async" width="850" height="381" src="/wp-content/uploads/2022/06/stack-overflow-insights.jpeg" alt="" class="wp-image-509" srcset="/wp-content/uploads/2022/06/stack-overflow-insights.jpeg 850w, /wp-content/uploads/2022/06/stack-overflow-insights-768x344.jpeg 768w" sizes="(max-width: 850px) 100vw, 850px" /> </figure>
 
 ### 4. GOOGLE TREND
 
@@ -82,7 +80,6 @@ Ad esempio, nel 2019, quasi 90.000 sviluppatori hanno partecipato al sondaggio d
 
 In effetti, Google Trends è un potente strumento di ricerca che ti consente di eseguire query e confronti completamente unici, quanti ne desideri, e tutto gratuitamente.<figure class="wp-block-image size-full">
 
-<img loading="lazy" decoding="async" width="850" height="414" src="/wp-content/uploads/2022/06/google-trends-programming-languages.jpeg" alt="" class="wp-image-510" srcset="/wp-content/uploads/2022/06/google-trends-programming-languages.jpeg 850w, /wp-content/uploads/2022/06/google-trends-programming-languages-768x374.jpeg 768w" sizes="(max-width: 850px) 100vw, 850px" /> </figure>
 
 ### 5. PIATTAFORME DI RICERCA LAVORO
 
