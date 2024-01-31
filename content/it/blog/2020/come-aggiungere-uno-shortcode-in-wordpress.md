@@ -108,4 +108,4 @@ Fondamentalmente se trovi utili gli shortcode, adorerai i blocchi dell’editor 
 
 Invece di richiedere agli utenti di aggiungere uno shortcode per visualizzare contenuti dinamici, i blocchi consentono agli utenti di aggiungere contenuti dinamici all’interno di post / pagine con **un’interfaccia utente più intuitiva**. Molti plugin WordPress popolari stanno passando all’uso dei blocchi **Gutenberg** anziché degli shortcode perché sono **più adatti ai principianti.**
 
-Speriamo che questo articolo ti abbia aiutato a imparare come aggiungere uno shortcode in WordPress.
+Spero che questo articolo ti abbia aiutato a imparare come aggiungere uno shortcode in WordPress.

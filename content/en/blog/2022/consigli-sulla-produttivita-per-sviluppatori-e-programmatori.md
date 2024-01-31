@@ -74,8 +74,8 @@ Remember that experimentation is the key element of productivity. If you try a t
 
 And, if you need more unique tips for developers and programmers, don't miss our article on [how to choose which programming language to learn][17].
 
-[1]: /blog/5-best-text-editors-for-developers
-[2]: /blog/how-to-use-git/
+[1]: /en/blog/the-5-best-cross-platform-code-editors-for-web-developers/
+[2]: /en/blog/how-to-use-git/
 [3]: /10-tips-for-freelancers-and-freelance-professionals/
 [4]: https://www.forbes.com/sites/lisaquast/2017/02/06/want-to-be-more-productive-stop-multi-tasking
 [5]: http://naturalhealthcare.ca/glossaries.phtml?term=sustained+attention#.XgqCCPx7nIU
@@ -88,6 +88,6 @@ And, if you need more unique tips for developers and programmers, don't miss our
 [12]: https://trello.com/
 [13]: https://zapier.com/
 [14]: https://ifttt.com/
-[15]: /blog/6-best-tools-for-frontend-development
-[16]: /blog/using-command-line-with-wordpress-thanks-to-wp-cli
-[17]: /blog/how-to-choose-which-programming-language-to-learn
+[15]: /en/blog/frontend-development-tools-6-must-have-options/
+[16]: /en/blog/using-the-command-line-with-wordpress-with-to-wp-cli/
+[17]: /en/blog/how-to-choose-which-programming-language-to-learn/

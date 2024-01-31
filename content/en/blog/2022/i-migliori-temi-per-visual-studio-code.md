@@ -144,7 +144,7 @@ Trying one of the Visual Studio Code themes I suggested above can greatly help y
 
 Happy coding!
 
-[1]: /blog/software-per-sviluppo-web/
+[1]: /en/blog/web-development-software/
 [2]: https://code.visualstudio.com/
 [3]: https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme
 [4]: https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula

@@ -63,4 +63,4 @@ Fammi sapere nei commenti cosa ne pensi o se vuoi saperne di più.
 Spero che questo articolo sia stato interessante.
 
  [1]: /blog/cms-framework-o-core-language/
- [2]: https://typewrite.reineristudio.com/
+ [2]: https://typewrite.albertoreineri.it/

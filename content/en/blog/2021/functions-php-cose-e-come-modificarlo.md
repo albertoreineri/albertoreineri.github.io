@@ -40,7 +40,7 @@ Why Site-Specific Plugins Are Better (Alternative to Functions.php)
 
 So, if you don't want to modify Functions.php, where should you add the new functions for your site?
 
-The answer is to create your own [WordPress plugin](/en/blog/creare-un-plugin-wordpress/).
+The answer is to create your own [WordPress plugin](/en/blog/create-a-wordpress-plugin/).
 
 This will be a **site-specific plugin** because it is specific to your site and will never be shared in the WordPress plugin directory.
 

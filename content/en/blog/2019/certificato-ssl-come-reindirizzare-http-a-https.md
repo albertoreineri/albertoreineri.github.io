@@ -25,7 +25,7 @@ After a few hours, try to connect to your site by typing https://www.yourwebsite
 
 If you see any **errors**, it's probably because you have HTTP links for stylesheets, images, and JS files. Try to **replace HTTP with HTTPS** in all references to images, CSS, and JS; it should fix everything.
 
-If you use **[WordPress](/en/blog/how-to-install-and-customize-a-wordpress-theme-2/)**, you can use **plugins** that handle the issue, such as [Really Simple SSL](https://wordpress.org/plugins/really-simple-ssl/) or [WP Force SSL](https://wordpress.org/plugins/wp-force-ssl/). By using these plugins, you can skip step 2; the plugins take care of everything.
+If you use **[WordPress](/en/blog/how-to-install-and-customize-a-wordpress-theme)**, you can use **plugins** that handle the issue, such as [Really Simple SSL](https://wordpress.org/plugins/really-simple-ssl/) or [WP Force SSL](https://wordpress.org/plugins/wp-force-ssl/). By using these plugins, you can skip step 2; the plugins take care of everything.
 
 ## 2. REDIRECT TRAFFIC TO HTTPS
 

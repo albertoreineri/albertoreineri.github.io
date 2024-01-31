@@ -75,5 +75,5 @@ That's all for now; as soon as I get my hands on a ThinkPad, I'll let you know m
 Keep Coding ?
 
 
- [1]: /blog/perche-dovremmo-tutti-passare-a-linux-e-perche-non-lo-facciamo/
- [2]: /blog/nuovo-macbook-pro-2020-per-sviluppo-web/
+ [1]: /en/blog/why-we-should-all-switch-to-linux-and-why-we-dont/
+ [2]: /en/blog/new-macbook-pro-2020-for-web-development/

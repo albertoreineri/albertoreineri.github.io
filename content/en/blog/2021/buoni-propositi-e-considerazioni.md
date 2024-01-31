@@ -88,9 +88,9 @@ These are my resolutions for 2021. I hope this somewhat more **personal read** c
 
 _Happy coding_
 
- [1]: /blog/nuovo-macbook-pro-2020-per-sviluppo-web/
- [2]: /blog
- [3]: /articoli
- [4]: /guide
- [5]: /articli/
+ [1]: /en/blog/new-macbook-pro-2020-for-web-development/
+ [2]: en/blog
+ [3]: en/blog
+ [4]: en/blog
+ [5]: /en/blog
  [6]: https://open.spotify.com/show/546eUw3PsRI1HUGbBUeghC

@@ -72,7 +72,7 @@ Software
 
 -   Hosting: Hetzner: <https://www.hetzner.com/> | OVH: <https://www.ovhcloud.com/it/vps/> | Linode: <https://www.linode.com/>
 -   Coding: Visual Studio Code: <https://code.visualstudio.com/>
--   Local Environment: Valet: <https://laravel.com/docs/10.x/valet> | LocalWP: <https://localwp.com/> | Classic LAMP Stack: /blog/come-installare-una-lamp-stack/
+-   Local Environment: [Valet](https://laravel.com/docs/10.x/valet) | [LocalWP](https://localwp.com/) | [Classic LAMP Stack](/en/blog/how-to-install-a-lamp-stack-linux-apache-mysql-php-on-ubuntu/)
 -   Task Management: ClickUp: <https://www.clickup.com/>
 -   Email: Spark: <https://sparkmailapp.com/it>
 -   Notes: SimpleNote: <https://simplenote.com/>

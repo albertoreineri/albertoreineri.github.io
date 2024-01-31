@@ -41,4 +41,4 @@ See you soon
 
 _Happy coding!_
 
- [1]: /en/blog/organizing-work-with-python/
+ [1]: /en/blog/managing-work-with-python/

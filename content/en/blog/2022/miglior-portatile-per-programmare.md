@@ -86,4 +86,4 @@ One more small thing, on Windows, it's difficult to choose due to the enormous n
 
 Well, I hope this article can help you! If you want some additional advice, feel free to write in the comments; I'll try to respond as soon as possible.
 
- [1]: /blog/windows-vs-mac-for-web-development-my-experience/
+ [1]: /en/blog/windows-vs-mac-for-web-development-my-experience/

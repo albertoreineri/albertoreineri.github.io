@@ -76,4 +76,4 @@ Thanks for reading this article.
 Happy coding!
 
  [1]: https://www.digitale.co/
- [2]: /en/blog/simple-routing-system-in-php
+ [2]: /en/blog/simple-php-routing/
