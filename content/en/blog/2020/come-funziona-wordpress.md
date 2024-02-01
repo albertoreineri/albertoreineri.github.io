@@ -14,7 +14,7 @@ Now, **let's understand how WordPress works!**
 
 Explaining everything about WordPress in a single article is unthinkable... The possibilities that the CMS offers are too many...
 
-[![](images/free-download-desk.jpg)](.local/free-resources//)
+[![](/images/free-download-desk.jpg)](/free-resources/)
 
 But today, we will see **the main things**, lay the **foundations** to build our skills with WordPress!
 
@@ -39,13 +39,13 @@ Now to enter the backend, go to the **URL bar** and **add** "wp-admin".
 
 At this point, we find ourselves on the WordPress **login** screen.
 
-![](images/image-13.png)
+![](/images/image-13.png)
 
 **Enter** your credentials and log in.
 
 Here is the **WordPress backend**. From here, you can **manage** all the content on your website.
 
-![](images/image-14-1024x481-1.png)
+![](/images/image-14-1024x481-1.png)
 
 ## GENERAL INFORMATION ON THE BACKEND
 
@@ -55,7 +55,7 @@ It's very **simple**. On the left, you will find all the sections to configure y
 
 Take some time to **scroll through all the items in the sidebar menu** of the backend to get a general idea of how it works.
 
-![](images/image-22-1.png)
+![](/images/image-22-1.png)
 
 ## 1. CONTENT MANAGEMENT
 
@@ -68,7 +68,7 @@ When we create a new page for our site, we can choose between **two possibilitie
 
 ### ARTICLES
 
-![](images/image-23.png)
+![](/images/image-23.png)
 
 **Articles** are content listed in reverse chronological order (from newest to oldest). They are used for **blogs**, newspapers, and all sites that are constantly updated.
 
@@ -80,7 +80,7 @@ An **example** of an Article is what you are reading now!
 
 ### PAGES
 
-![](images/image-24-1.png)
+![](/images/image-24-1.png)
 
 WordPress **Pages** are standalone pieces of content, one-time, without particular relationships with other site content. An example of a **Page** is the site's contact page or the "about us" page. This type of content usually does not have a comments section.
 
@@ -88,7 +88,7 @@ Both of these types can contain **text**, images, **links**, and anything else y
 
 ### MEDIA
 
-![](images/image-25.png)
+![](/images/image-25.png)
 
 If you took a look at the WordPress backend sidebar, right between **Articles** and **Pages**, you will find the **Media** section.
 
@@ -98,7 +98,7 @@ This section gathers **all the resources** you will upload to your site, such as
 
 The graphic part of your site is managed through the **"Appearance"** section.
 
-![](images/image-26-1.png)
+![](/images/image-26-1.png)
 
 Within this section, you can find:
 
@@ -115,7 +115,7 @@ Within this section, you can find:
 
 All the features you want to implement on your site can be found in the **"Plugins"** section.
 
-![](images/image-27.png)
+![](/images/image-27.png)
 
 Plugins are **small software** that allow the site to perform a **specific function**.
 

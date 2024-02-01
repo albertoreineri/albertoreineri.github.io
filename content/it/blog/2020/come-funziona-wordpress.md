@@ -7,13 +7,13 @@ categories:
   - WordPress Base
 ---
 
-Hai seguito la guide per [configurare il tuo PC per lo sviluppo web](/blog/configurare-il-pc-per-sviluppare-in-wordpress%ef%bf%bc/), hai capito [come funziona un server locale](/blog/perche-installare-wordpress-in-locale/) e [installato una copia di WordPress](/blog/installare-wordpress-in-locale%ef%bf%bc/) sul tuo computer, **e ora?**
+Hai seguito la guide per [configurare il tuo PC per lo sviluppo web](/blog/configurare-il-pc-per-sviluppare-in-wordpress/), hai capito [come funziona un server locale](/blog/perche-installare-wordpress-in-locale/) e [installato una copia di WordPress](/blog/installare-wordpress-in-locale/) sul tuo computer, **e ora?**
 
 Ora **iniziamo a capire come funziona WordPress!**
 
 Spiegare tutto il funzionamento di WordPress in un singolo articolo è impensabile… Sono troppe le possibilità che il CMS offre…
 
-[![](images/scarica-gratis-desk.jpg)](.local/risorse-gratuite//)
+[![](/images/scarica-gratis-desk.jpg)](/risorse-free)
 
 Ma oggi vedremo **le cose principali**, butteremo le **fondamenta** per creare le nostre skills con WordPress!
 
@@ -24,7 +24,7 @@ In questo articolo ti insegnerò **nello specifico:**
 
 ## ACCEDERE AL BACKEND
 
-Ora che hai [installato il tuo sito in WordPress in locale](/blog/installare-wordpress-in-locale%ef%bf%bc/), iniziamo a capire come è possibile entrare nel **backend**.
+Ora che hai [installato il tuo sito in WordPress in locale](/blog/installare-wordpress-in-locale/), iniziamo a capire come è possibile entrare nel **backend**.
 
 Dopo aver [avviato **Apache** e **MySQL** da **XAMPP**](/blog/come-funziona-xampp/), apriamo il **browser** e digitiamo “localhost/” + il nome del nostro sito.
 
@@ -38,13 +38,13 @@ Ora per entrare nel backend andiamo nella barra dell’**URL** e **aggiungiamo
 
 A questo punto ci troviamo la schermata di **login** di WordPress.
 
-![](images/image-13.png)
+![](/images/image-13.png)
 
 **Inseriamo** i nostri dati ed entriamo.
 
 Ecco il **backend di WordPress**. Da qui potrai **gestire** tutti i contenuti presenti sul tuo sito web.
 
-![](images/image-14-1024x481-1.png)
+![](/images/image-14-1024x481-1.png)
 
 ## INDICAZIONI GENERALI SUL BACKEND
 
@@ -54,7 +54,7 @@ Ma **come funziona** questo backend?
 
 Prenditi un po’ di tempo per **scorrere tutti i punti nel menù laterale** del backend, in modo da farti un’idea generale del suo funzionamento.
 
-![](images/image-22-1.png)
+![](/images/image-22-1.png)
 
 ## 1\. GESTIONE DEI CONTENUTI
 
@@ -67,7 +67,7 @@ Quando andiamo a creare una nuova pagina per il nostro sito possiamo scegliere f
 
 ### ARTICOLI
 
-![](images/image-23.png)
+![](/images/image-23.png)
 
 Gli **Articoli** sono dei contenuti elencati in ordine cronologico inverso (dal più recente al più vecchio). Sono utilizzati per i **blog**, i giornali e tutti i siti che si aggiornano continuamente.
 
@@ -79,7 +79,7 @@ Un **esempio** di Articolo è quello che stai leggendo ora!
 
 ### PAGINE
 
-![](images/image-24-1.png)
+![](/images/image-24-1.png)
 
 Le **Pagine** di WordPress sono contenuti **a sè stanti**, una tantum, senza particolari relazioni con altri contenuti del sito. Un esempio di una **Pagina** è la pagina di contatto del sito oppure la pagina “**chi siamo**“. Questa tipologia di contenuto non ha la sezione commenti solitamente.
 
@@ -87,7 +87,7 @@ Entrambe queste tipologie possono contenere **testi**, immagini, **link** e tu
 
 ### MEDIA
 
-![](images/image-25.png)
+![](/images/image-25.png)
 
 Se hai dato un’occhiata alla barra laterale del backend di WordPress avrai notato che, proprio fra **Articoli** e **Pagine**, c’è la sezione **Media**.
 
@@ -97,7 +97,7 @@ Questa sezione raccoglie **tutte le risorse** che caricherai sul tuo sito, com
 
 La parte grafica del tuo sito è gestita tramite la sezione “**Aspetto**“.
 
-![](images/image-26-1.png)
+![](/images/image-26-1.png)
 
 All’interno di questa sezione **puoi trovare:**
 
@@ -112,7 +112,7 @@ All’interno di questa sezione **puoi trovare:**
 
 Tutte le funzionalità che vuoi implementare nel tuo sito le puoi trovare nella sezione “**Plugin**“.
 
-![](images/image-27.png)
+![](/images/image-27.png)
 
 I plugin sono dei **piccoli software** che consentono al sito di fare una **determinata funzione.**
 

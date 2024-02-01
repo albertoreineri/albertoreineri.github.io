@@ -17,7 +17,6 @@ Ora, vediamo i cinque migliori editor di codice multipiattaforma per sviluppator
 
 ### 1. [ATOM][1] <figure class="wp-block-image size-full">
 
-<img loading="lazy" decoding="async" width="800" height="420" src="/wp-content/uploads/2022/06/atom.jpeg" alt="" class="wp-image-524" srcset="/wp-content/uploads/2022/06/atom.jpeg 800w, /wp-content/uploads/2022/06/atom-768x403.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /> </figure>
 
 Atom è un editor di codice gratuito e open source creato da GitHub. All'inizio era l'editor di testo interno di GitHub, ma pochi anni dopo (nel 2014) hanno deciso di rilasciarlo al pubblico. Poiché Atom offre agli sviluppatori molte funzionalità avanzate, è diventato rapidamente uno degli editor di codice più popolari.
 
@@ -40,7 +39,6 @@ Atom include anche migliaia di [pacchetti][2] e [temi][3] open source , molti de
 
 ### 2. [CODICE DI VISUAL STUDIO][5] <figure class="wp-block-image size-full">
 
-<img loading="lazy" decoding="async" width="800" height="395" src="/wp-content/uploads/2022/06/visual-studio-code.jpeg" alt="" class="wp-image-525" srcset="/wp-content/uploads/2022/06/visual-studio-code.jpeg 800w, /wp-content/uploads/2022/06/visual-studio-code-768x379.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /> </figure>
 
 Visual Studio Code è l'editor di codice sorgente multipiattaforma di Microsoft che funziona su tutti i principali sistemi operativi. È interessante notare che Visual Studio Code è stato creato sulla base dei componenti open source di Atom, tuttavia Microsoft ha rimosso alcune funzionalità e ne ha aggiunte alcune di nuove. È anche più veloce di Atom, sia all'avvio che durante l'esecuzione. Visual Studio Code è completamente personalizzabile; puoi trovare molti temi e plugin diversi nel [market ufficiale][6]. Puoi installarli facilmente dall'editor e iniziare a usarli immediatamente.
 
@@ -61,7 +59,6 @@ Visual Studio Code ha molte fantastiche funzionalità che possono migliorare not
 
 ### 3. [BRACKETS][7] <figure class="wp-block-image size-full">
 
-<img loading="lazy" decoding="async" width="800" height="468" src="/wp-content/uploads/2022/06/brackets.jpeg" alt="" class="wp-image-526" srcset="/wp-content/uploads/2022/06/brackets.jpeg 800w, /wp-content/uploads/2022/06/brackets-768x449.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /> </figure>
 
 Brackets è stato creato appositamente per i web designer e gli sviluppatori front-end da Adobe Systems. Può essere l'editor di codice sorgente ideale per te se svolgi principalmente lavori di front-end (HTML, CSS, JavaScript). Una delle sue caratteristiche più straordinarie è che ti consente di stabilire una connessione in tempo reale con Google Chrome. Ciò significa che puoi vedere immediatamente le modifiche che stai apportando nel browser.
 
@@ -83,7 +80,6 @@ Sebbene sia possibile dividere l'editor in riquadri verticali o orizzontali per 
 
 ### 4.[SUBLIME TEXT][8] <figure class="wp-block-image size-full">
 
-<img loading="lazy" decoding="async" width="800" height="455" src="/wp-content/uploads/2022/06/sublime-text.jpeg" alt="" class="wp-image-527" srcset="/wp-content/uploads/2022/06/sublime-text.jpeg 800w, /wp-content/uploads/2022/06/sublime-text-768x437.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /> </figure>
 
 Sublime Text è già alla sua terza versione principale (Sublime Text 3) ed è un editor di testo piuttosto popolare all'interno della comunità degli sviluppatori web. Devo aggiungere che non è gratuito, tuttavia viene fornito con una prova gratuita. Per un uso continuato, è necessario acquistare una licenza per $ 80. Tuttavia, Sublime Text non ti blocca se non lo fai, solo occasionalmente mostra un avviso pop-up che ti chiede di acquistare la licenza.
 
@@ -106,7 +102,6 @@ Inoltre, consente selezioni multiple e modifiche suddivise, e ha anche un enorme
 
 ### 5. [LIGHT TABLE][10]  <figure class="wp-block-image size-full">
 
-<img loading="lazy" decoding="async" width="800" height="447" src="/wp-content/uploads/2022/06/light-table.jpeg" alt="" class="wp-image-528" srcset="/wp-content/uploads/2022/06/light-table.jpeg 800w, /wp-content/uploads/2022/06/light-table-768x429.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /> </figure>
 
 Light Table è iniziata come [campagna Kickstarter][11]  nel 2012 ed è riuscita a raccogliere più di $ 300.000. Funziona su tutti i principali sistemi operativi, inclusi Windows, Linux e Mac OS X, tuttavia il processo di installazione attualmente richiede [alcuni passaggi aggiuntivi][12] per gli utenti di OS X. Light Table ha un'interfaccia utente elegante e snella che elimina tutto il disordine, ma fornisce comunque una tavolozza dei comandi e un cercatore sfocato. È scritto in ClojureScript e attualmente supporta HTML, CSS, JavaScript, Python, Clojure e ClojureScript.
 

@@ -32,7 +32,7 @@ Firstly, I created a folder called "**login**," inside which there are the files
 
 If I haven't logged in yet, I will see the **login form.**
 
-![Login Form](images/image.png)
+![Login Form](/images/image.png)
 
 In the **index.php** in the login folder, I inserted the **form** to perform access to the restricted area, with the form redirecting to the **access.php** file containing the functions to check access data.
 
@@ -61,7 +61,7 @@ However, if I entered incorrect data, it redirects me to the login form with an 
 
 If I am **creating a new user, it follows the registration process,** sending a confirmation email with a link to confirm the account.
 
-![User Registration](images/image-1.png)
+![User Registration](/images/image-1.png)
 
 **access.php**
 

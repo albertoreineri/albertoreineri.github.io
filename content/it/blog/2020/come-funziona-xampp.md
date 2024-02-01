@@ -7,7 +7,7 @@ categories:
   - WordPress Base
 ---
 
-Hai letto l’articolo sulla [configurazione del PC per lo sviluppo web](/blog/configurare-il-pc-per-sviluppare-in-wordpress%ef%bf%bc/), hai installato tutti i programmi e sei pronto ad iniziare a sviluppare!
+Hai letto l’articolo sulla [configurazione del PC per lo sviluppo web](/blog/configurare-il-pc-per-sviluppare-in-wordpress/), hai installato tutti i programmi e sei pronto ad iniziare a sviluppare!
 
 ## MA COME FUNZIONA XAMPP?
 
@@ -19,7 +19,7 @@ Oggi vedremo **come avviarlo e farlo funzionare correttamente**!
 
 Ti troverai una schermata come questa:
 
-![](images/image-2-1.png)
+![](/images/image-2-1.png)
 
 Sulla sinistra puoi vedere che **XAMPP fornisce una serie di servizi.**
 
@@ -32,7 +32,7 @@ Senza perderci in chiacchiere **inizia con l’avviare questi due servizi**, cl
 
 Se tutto è andato per il verso giusto le scritte “**Apache**” e “**MySQL**” dovrebbero avere sfondo verde, così:
 
-![](images/image-3-1-1.png)
+![](/images/image-3-1-1.png)
 
 A questo punto il nostro server locale è avviato e funzionante!
 
@@ -74,7 +74,7 @@ Se premete invio dovreste vedere la pagina di default di XAMPP, ma a noi interes
 - Andate nella cartella htdocs
 - Create una cartella chiamata “test”
 - Entrate nella cartella
-- Fate click con il tasto destro del mouse e premete “Open with Code” (per farlo avrete bisogno di Visual Studio Code, se non l’hai installato [clicca qui](/blog/configurare-il-pc-per-sviluppare-in-wordpress%ef%bf%bc/))
+- Fate click con il tasto destro del mouse e premete “Open with Code” (per farlo avrete bisogno di Visual Studio Code, se non l’hai installato [clicca qui](/blog/configurare-il-pc-per-sviluppare-in-wordpress/))
 - Premete “File – New File”
 - Salvatelo come “index.html”
 - All’interno del file scrivete “Ciao Mondo”

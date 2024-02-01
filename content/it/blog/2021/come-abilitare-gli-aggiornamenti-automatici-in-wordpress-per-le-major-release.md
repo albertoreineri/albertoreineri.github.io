@@ -47,7 +47,7 @@ Innanzitutto, è necessario installare e attivare il plug-in [Easy Updates Man
 
 Al momento dell’attivazione, è necessario visitare **Dashboard »** **Update Options** per configurare il plug-in.
 
-![](images/image-27-1-1024x200.png)
+![](/images/image-27-1-1024x200.png)
 
 Nella sezione “**WordPress core updates**“, fai clic sull’opzione “**Auto update all releases**“.
 

@@ -59,7 +59,7 @@ http://your_server_ip
 
 Dovresti ora vedere nel browser la pagina Web predefinita di Apache, che è disponibile a scopo informativo e di test. Dovrebbe assomigliare a qualcosa di simile a questo:
 
-![](images/small_apache_default_1804-728x1024.png)
+![](/images/small_apache_default_1804-728x1024.png)
 
 Se vedi questa pagina, allora il tuo server web è ora installato correttamente e accessibile attraverso il tuo firewall.
 
@@ -383,7 +383,7 @@ http://il_mio_dominio/info.php
 
 La pagina a cui vieni dovrebbe assomigliare a questa:
 
-![](images/small_php_info_1804-796x1024.png)
+![](/images/small_php_info_1804-796x1024.png)
 
 Questa pagina fornisce alcune informazioni di base sul tuo server dal punto di vista di PHP. È utile per il debug e per garantire che le impostazioni vengano applicate correttamente.
 

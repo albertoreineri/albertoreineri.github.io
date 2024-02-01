@@ -57,7 +57,7 @@ You can replace the author with your name, as well as the theme name and descrip
 
 If you now save the CSS file and go to the WordPress backend under "Appearance – Themes," you will see our theme!
 
-![Theme in WordPress](images/image-12-2.png)
+![Theme in WordPress](/images/image-12-2.png)
 
 You can **activate the theme**, and voilà! The theme is done!
 

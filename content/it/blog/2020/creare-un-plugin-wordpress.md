@@ -45,7 +45,7 @@ Questo codice **indicherà a WordPress l’esistenza del plugin.**
 
 Se salviamo e andiamo nel backend in “**Plugins**” vedremo apparire “**Back on top**” nell’elenco. Possiamo quindi **attivarlo**.
 
-![](images/image-41-1024x48-1.png)
+![](/images/image-41-1024x48-1.png)
 
 Il plugin al momento **non fa assolutamente nulla**, ma l’abbiamo creato.
 
@@ -130,7 +130,7 @@ Per rendere le cose minimali inseriamo del **vanilla Javascript** dopo il div 
 
 **Il plugin è bello che pronto.** Puoi salvare e se tutto è andato a buon fine dovresti vedere una freccia verso l’alto nell’angolo in basso a destra del sito. Cliccando sulla freccia dovresti tornare al top della pagina.
 
-![](images/image-39-1.png)
+![](/images/image-39-1.png)
 
 **_Complimenti! Hai appena creato il tuo primo plugin!!!_**
 

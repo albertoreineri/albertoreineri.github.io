@@ -31,37 +31,37 @@ Questo plugin ci permetterà di creare un **modulo di contatto** in maniera se
 
 Per prima cosa **accediamo al backend** del nostro sito in WordPress (se non sai come si fa leggi le [guide precedenti](/categories/inizia-qui/)) e clicchiamo su “**Plugin – Aggiungi nuovo**“
 
-![](images/Annotazione-2020-03-31-164744.png)
+![](/images/Annotazione-2020-03-31-164744.png)
 
 Ci troveremo di fronte ad una schermata come questa:
 
-![](images/image-1024x528-1.png)
+![](/images/image-1024x528-1.png)
 
 Qua dobbiamo andare in alto a destra, nella casella “**Ricerca plugin in corso…**” e qui dentro scrivere WP Forms.
 
 La ricerca partirà in automatico e dopo pochi istanti dovremmo vedere questo plugin nell’elenco:
 
-![](images/image-1-2.png)
+![](/images/image-1-2.png)
 
 Ora non ci resta che cliccare su “**Installa ora**“.
 
 Dopo che il plugin sarà installato possiamo attivarlo, cliccando su “**Attiva**“
 
-![](images/image-2.png)
+![](/images/image-2.png)
 
 Ora ci troveremo a questo punto:
 
-![](images/image-3-1.png)
+![](/images/image-3-1.png)
 
 Questo plugin rende la creazione dei form un’azione veramente **semplicissima**! Possiamo quindi **seguire la guida** che il plugin stesso ci fornisce e in meno di cinque minuti avremo il nostro form bello e funzionante!
 
 Procediamo quindi con il cliccare sul pulsante arancione “**Crea il tuo primo modulo**“.
 
-![](images/image-4-1024x458-1.png)
+![](/images/image-4-1024x458-1.png)
 
 A questo punto possiamo premere su “**Semplice modulo di contatto**“. Il plugin procederà con la creazione di un form base. Quando avrà finito dovresti vedere una schermata come la seguente:
 
-![](images/image-5-1024x495-1.png)
+![](/images/image-5-1024x495-1.png)
 
 Sulla destra c’è l’anteprima del modulo, mentre sulla sinistra si possono aggiungere e modificare i campi che compongono il modulo.
 
@@ -71,7 +71,7 @@ A questo punto clicchiamo su “**Salva**” in alto a destra e poi su “Embed�
 
 Dopo aver cliccato “**Embed**” si aprirà una finestra come questa:
 
-![](images/image-6.png)
+![](/images/image-6.png)
 
 Quello scritto nel riquadro grigio scuro è uno **shortcode**: un codice che consente di far apparire qualcosa all’interno di un articolo o di una pagina.
 
@@ -79,13 +79,13 @@ A questo punto non dobbiamo far altro che **copiare questo shortcode** ed andar
 
 Dopo aver copiato lo shortcode chiudiamo WP Forms (con la X in alto a destra) e clicchiamo su “**Pagine**” nel menù laterale.
 
-![](images/Annotazione-2020-03-31-170213-1024x294-1.png)
+![](/images/Annotazione-2020-03-31-170213-1024x294-1.png)
 
 Qui clicchiamo su “**Contatti**” per modificare la pagina che abbiamo [creato in precedenza](/blog/creiamo-le-pagine-del-nostro-primo-sito-web/).
 
 Ora non ci resta che **incollare lo shortcode** nel contenuto della pagina e fare click su “**Aggiorna**” in alto a destra.
 
-![](images/image-7-1024x458-1.png)
+![](/images/image-7-1024x458-1.png)
 
 Se **andiamo a visualizzare** la nostra pagina contatti ora vedremo al suo interno **sarà apparso il modulo creato con WP Forms!**
 
@@ -101,7 +101,7 @@ Essere fra i primi di google è importantissimo e permette di raggiungere numeri
 
 Per scaricarlo vai in “**Plugin – Aggiungi nuovo**” e nella barra di ricerca scrivi “**Yoast SEO**“
 
-![](images/image-8-1.png)
+![](/images/image-8-1.png)
 
 Una volta trovato procedi ad **installarlo** ed **attivarlo**.
 
@@ -109,7 +109,7 @@ Nel menù laterale potrai vedere la voce “**SEO**“. Prova a darci un’occhi
 
 Potrai vedere un blocco di Yoast anche a fine **articolo**, dove poter inserire dei **parametri apposta per google relativi al post o alla pagina.**
 
-![](images/image-9.png)
+![](/images/image-9.png)
 
 ### W3 TOTAL CACHE
 
@@ -119,13 +119,13 @@ Uno fra i migliori è **W3 Total Cache!**
 
 Per installarlo cerca “**W3 Total Cache**” fra i plugin e una volta trovato installalo e attivalo!
 
-![](images/image-10-1.png)
+![](/images/image-10-1.png)
 
 Una volta attivato vedrai la voce “**Performance**” nella barra laterale.
 
 Vai su “**Performance – General settings**” ed attiva la cache in questo riquadro.
 
-![](images/image-11-1024x188-1.png)
+![](/images/image-11-1024x188-1.png)
 
 Questo plugin permette di spingersi ancora oltre, ma **per il momento può bastare così!**
 

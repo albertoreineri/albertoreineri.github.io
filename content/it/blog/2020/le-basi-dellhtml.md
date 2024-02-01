@@ -59,7 +59,7 @@ Ora che hai scaricato un browser e un editor di testo, possiamo crerare il nostr
 
 Creiamo una **cartella** sul desktop chiamata “**HTML**“. Ora apriamo questa cartella con **VS Code**, facendo click con il tasto destro del mouse all’interno della cartella e cliccando “**Apri con Code**“
 
-![](images/Group-5-1.jpeg)
+![](/images/Group-5-1.jpeg)
 
 Ora possiamo creare il nostro file con VS Code.
 
@@ -185,7 +185,7 @@ Chiamiamo questa pagina “**La mia prima pagina web**“
 
 Ora salviamo il file e apriamolo, semplicemente aprendo la cartella “**HTML**” e facendoci **doppio click** sopra.
 
-![](images/image-1536x529-1-1024x353.png)
+![](/images/image-1536x529-1-1024x353.png)
 
 Ci troveremo di fonte una **pagina completamente bianca**, perché non abbiamo ancora inserito nessun codice nel contenuto.
 
@@ -210,7 +210,7 @@ Andiamo **fra i tag <body></body>** e inseriamo questo:
 
 Ora **salva la pagina e aggiornala nel browser**, vedrai comparire del contenuto!
 
-![](images/image-1.png)
+![](/images/image-1.png)
 
 Non è difficile da capire, ogni tag spiega se stesso.
 
@@ -246,7 +246,7 @@ Adesso **richiamiamo l’immagine nel nostro file _index.html_,** in questo mo
 
 Ora **salviamo** il file e **aggiorniamo** il browser.
 
-![](images/image-2-768x370-1.png)
+![](/images/image-2-768x370-1.png)
 
 Vediamo che l’immagine viene visualizzata nella nostra pagina html.
 
@@ -260,7 +260,7 @@ Per visualizzare l’immagine in modo più carino possiamo aggiungere un altro a
 
 In questo modo sto **impostando la larghezza dell’immagine a 200px.** Ed ecco che si vede tutto decisamente meglio.
 
-![](images/image-3.png)
+![](/images/image-3.png)
 
 In questo modo posso **ridimensionare** l’immagine.
 
@@ -295,7 +295,7 @@ Aggiungi questo codice a _**index.html**_
 
 ed ecco il **risultato**
 
-![](images/image-4-1536x666-1-1024x444.png)
+![](/images/image-4-1536x666-1-1024x444.png)
 
 Per inserire i colori ho utilizzato l’attributo “style”, che permette di inserire del codice CSS all’interno dell’HTML, ma lo vedremo meglio nella [guida](/blog/le-basi-del-css/) [al CSS.](/corso-intensivo-di-css/)
 

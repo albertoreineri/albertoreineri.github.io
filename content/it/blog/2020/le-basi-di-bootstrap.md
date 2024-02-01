@@ -147,11 +147,11 @@ Il codice si spiega da solo!
 
 Ecco che abbiamo un layout con 2 colonne su **desktop**:
 
-![](images/image-15-1024x76.png)
+![](/images/image-15-1024x76.png)
 
 E di 1 colonna da **tablet** in giù:
 
-![](images/image-17.png)
+![](/images/image-17.png)
 
 Vedrai che la larghezza è minore dell’intero schermo del desktop.
 
@@ -163,11 +163,11 @@ Per avere un’idea di come il sito sarà sui vari **dispositivi** puoi utilizz
 
 Su google chrome premi **f12** e poi questa **icona** sulla sinistra:
 
-![](images/image-18.png)
+![](/images/image-18.png)
 
 Dopodiché in alto potrai scegliere un dispositivo mobile oppure selezionare le **dimensioni** che preferisci attraverso l’opzione “**Responsive**“
 
-![](images/image-20.png)
+![](/images/image-20.png)
 
 ## Breakpoints
 
@@ -321,11 +321,11 @@ Prova a visualizzare in modalità smartphone, vedrai che il menù scompare e app
 
 **Desktop:**
 
-![](images/image-21-1536x495-1-1024x330.png)
+![](/images/image-21-1536x495-1-1024x330.png)
 
 **Mobile:**
 
-![](images/image-22.png)
+![](/images/image-22.png)
 
 ### Bottoni
 
@@ -344,7 +344,7 @@ Un altro componente utilissimo sono i **bottoni**! Bootstrap fornisce un insiem
 <button type="button" class="btn btn-link">Link</button>
 ```
 
-![](images/image-24.png)
+![](/images/image-24.png)
 
 La classe “**btn**” indica il bottone, mentre “**btn-primary**” indica la tipologia del bottone.
 
@@ -410,7 +410,7 @@ Ecco un **esempio**:
 </form>
 ```
 
-![](images/image-26-1024x254.png)
+![](/images/image-26-1024x254.png)
 
 Questi sono solo **alcuni** dei **componenti** disponibili! Naviga un po’ fra la lista dei componenti e **prova ad inserirli per vedere come funzionano!**
 
@@ -625,7 +625,7 @@ Infine inseriamo il footer:
 
 Ed ecco un **layout classico semplice realizzato interamente con Bootstrap!**
 
-![](images/image-29-1024x834.png)
+![](/images/image-29-1024x834.png)
 
 Come vedi **Bootstrap è uno strumento fantastico** per creare layout web in pochissimo tempo!
 

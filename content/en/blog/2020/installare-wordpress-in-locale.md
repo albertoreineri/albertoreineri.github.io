@@ -37,7 +37,7 @@ Firstly, you need to **download WordPress**.
 
 It's very easy; just go to this **link**: [http://en.wordpress.org/](http://en.wordpress.org/) and click the "Download WordPress" button at the top right.
 
-![](images/image-4-1024x250-1.png)
+![](/images/image-4-1024x250-1.png)
 
 Now, wait for the download to finish. It's usually quick, but times may vary depending on your internet speed.
 
@@ -55,7 +55,7 @@ To make our WordPress site work locally, we need to start **XAMPP**.
 
 To **start XAMPP**, click on its icon, and once the software is open, click on "Start" next to **Apache** and **MySQL**.
 
-![](images/image-2-2.png)
+![](/images/image-2-2.png)
 
 This will start the local server and database! Now you're ready to load WordPress onto the server.
 
@@ -69,7 +69,7 @@ Opening this folder, you should find inside **3 folders:**
 
 **plus a series of files.**
 
-![](images/image-6-1.png)
+![](/images/image-6-1.png)
 
 **This is WordPress!!!**
 
@@ -93,13 +93,13 @@ Let's **create it** using **phpMyAdmin**.
 
 You'll find yourself on a screen like this:
 
-![](images/phpmyadmin-1024x486-1.jpeg)
+![](/images/phpmyadmin-1024x486-1.jpeg)
 
 This is the program through which we'll **manage our databases**. It's not the prettiest visually, but it's very **powerful** and functional.
 
 For now, you need to **click on "New"** in the left sidebar.
 
-![](images/image-5-1024x98-1.png)
+![](/images/image-5-1024x98-1.png)
 
 On the right, you'll see a screen like the one above; just **enter the database name**, in this case, "wp-test," and click "Create."
 
@@ -117,13 +117,13 @@ Over the years, the CMS installation procedure has become more refined, and toda
 
 ### STEP 1:
 
-![](images/image-7-1024x496-1.png)
+![](/images/image-7-1024x496-1.png)
 
 Click on the "Let's go!" button.
 
 ### STEP 2:
 
-![](images/image-8-1024x497-1.png)
+![](/images/image-8-1024x497-1.png)
 
 Now, we're asked for **configuration parameters**. Don't worry; I'll explain what they mean:
 
@@ -145,7 +145,7 @@ Now, we're asked for **configuration parameters**. Don't worry; I'll explain wha
 
 ### STEP 3:
 
-![](images/image-9-1024x499-1.png)
+![](/images/image-9-1024x499-1.png)
 
 Great! The hard part is done! **From now on, it's all downhill.**
 
@@ -153,7 +153,7 @@ WordPress congratulates us for correctly entering the data from the previous ste
 
 ### STEP 4:
 
-![](images/image-11.png)
+![](/images/image-11.png)
 
 Now, WordPress is installed! All that's left is to **configure** a couple of things:
 
@@ -167,7 +167,7 @@ Once you've filled in the fields, you can click "Install WordPress."
 
 ### STEP 5:
 
-![](images/image-12-1024x591-1.png)
+![](/images/image-12-1024x591-1.png)
 
 **AND VOILÀ!!!**
 
@@ -175,23 +175,23 @@ You've just successfully installed WordPress locally on your computer!
 
 Now, click "Login."
 
-![](images/image-13-2.png)
+![](/images/image-13-2.png)
 
 Enter your login details and **enter your WordPress installation.**
 
 This is the **backend** of WordPress:
 
-![](images/image-14-1024x481-1-1.png)
+![](/images/image-14-1024x481-1-1.png)
 
 From here, you can **configure** and **customize** your website.
 
 Clicking on the house icon in the top right, you can see the front-end of your site.
 
-![](images/image-15-2.png)
+![](/images/image-15-2.png)
 
 During installation, WordPress adds its default theme. So, for now, you'll see a **front-end** like this:
 
-![](images/image-16-1024x460-1.png)
+![](/images/image-16-1024x460-1.png)
 
 **CONGRATULATIONS!!!**
 

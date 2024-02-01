@@ -120,7 +120,7 @@ CSS is a language with a **specific syntax**. If you make a **mistake** in writi
 
 Here's a **diagram** summarizing the elements of the CSS language:
 
-![CSS Schema](images/css-schema.jpeg)
+![CSS Schema](/images/css-schema.jpeg)
 
 ### Selector
 
@@ -238,13 +238,13 @@ Here, you can search for the font you like the most. In this guide, we'll use "*
 
 So, enter "**Source Sans Pro**" in the Google Fonts search bar:
 
-![Google Fonts](images/google-fonts-search.png)
+![Google Fonts](/images/google-fonts-search.png)
 
 and select it.
 
 Now you'll see a screen like this:
 
-![Google Fonts Variants](images/google-fonts-variants.png)
+![Google Fonts Variants](/images/google-fonts-variants.png)
 
 On the right, you can click on "**\+ Select this style**" next to the style you want. You can select all of them to have all possible variations of the font, but to optimize page loading time, it's better to select only the essential ones.
 
@@ -252,7 +252,7 @@ In this guide, we'll only select "**regular 400**" and "**bold 700**".
 
 Now a window will appear on the right like this:
 
-![Google Fonts Embed](images/google-fonts-embed.png)
+![Google Fonts Embed](/images/google-fonts-embed.png)
 
 Here, click on "**Embed**" and then on "**@import**".
 
@@ -339,7 +339,7 @@ To manage spaces between elements, you can use "**margin**" and "**padding**".
 
 Here's a **diagram** to explain the difference between the two:
 
-![Margin and Padding](images/margin-and-padding.jpeg)
+![Margin and Padding](/images/margin-and-padding.jpeg)
 
 **Margin** indicates the space **outside** the content, while **padding** indicates the space **inside**.
 

@@ -20,7 +20,7 @@ Today, we'll see **how to start and run it correctly!**
 
 You'll find a screen like this:
 
-![](images/image-2-1.png)
+![](/images/image-2-1.png)
 
 On the left, you can see that **XAMPP provides a series of services.**
 
@@ -33,7 +33,7 @@ Without further ado, **start these two services** by clicking the "Start" button
 
 If everything has gone well, the "Apache" and "MySQL" should have a green background, like this:
 
-![](images/image-3-1-1.png)
+![](/images/image-3-1-1.png)
 
 At this point, our local server is started and running!
 

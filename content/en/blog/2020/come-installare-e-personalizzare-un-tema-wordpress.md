@@ -21,19 +21,19 @@ There are **tons** of themes developed for WordPress (and if you continue to fol
 
 As you may have understood [in the previous article](/en/blog/how-wordpress-works/), to modify the graphic look of a site, you need to go to the backend and enter the "Appearance-Themes" section.
 
-![Themes](images/image-26-2.png)
+![Themes](/images/image-26-2.png)
 
 At this point, we find ourselves in the screen that shows **currently installed themes** on our site.
 
-![Installed Themes](images/image-28-1024x463-1.png)
+![Installed Themes](/images/image-28-1024x463-1.png)
 
 But we want to install a **new** theme, so click on the "Add new theme" button on the left side.
 
-![Add New Theme](images/image-29-1.png)
+![Add New Theme](/images/image-29-1.png)
 
 Now we can search among the **thousands of free themes** offered directly by WordPress.
 
-![Search Themes](images/image-30-1024x508-1.png)
+![Search Themes](/images/image-30-1024x508-1.png)
 
 There are also other platforms that allow you to download themes and plugins; the most popular ones are [ThemeForest](http://themeforest.net/free/wordpress-themes) and [TemplateMonster](http://www.templatemonster.com/it/type/temi-wordpress/). But for now, we will use a theme from those proposed by WordPress.
 
@@ -45,13 +45,13 @@ For now, let's install a simple and nice theme to start building our website!
 
 Go to the search bar and type "**_Nisarg_**."
 
-![Nisarg Theme](images/image-31-1024x441-1.png)
+![Nisarg Theme](/images/image-31-1024x441-1.png)
 
 After finding the theme, click on "Install" and then on "Activate."
 
 Now, if we go to the **frontend** (by clicking on the house icon in the top left), we can see that **our site has changed!**
 
-![Changed Site](images/image-32-1024x461-1.png)
+![Changed Site](/images/image-32-1024x461-1.png)
 
 As we see it now, it's not much, but we will turn it into a beautiful site, **promised!**
 
@@ -65,7 +65,7 @@ In WordPress, you can customize themes through the "Appearance-Customize" sectio
 
 By clicking on "Appearance-Customize," we will face a screen like this:
 
-![Customize](images/image-33-1024x481-1.png)
+![Customize](/images/image-33-1024x481-1.png)
 
 Through this section, we can **customize our site** and see a preview of the changes we are going to make.
 
@@ -77,19 +77,19 @@ Let's get started for real!!!
 
 This option is present in **every WordPress theme** and allows you to modify **the title of your site and the motto**, the subtitle. This theme does not include the subtitle inside the theme.
 
-![Site Name](images/image-34.png)
+![Site Name](/images/image-34.png)
 
 To personalize our site, we can enter "Test WP" as the title. Delete the motto, and then let's add an icon to our site by clicking on "Select Site Icon."
 
 WordPress will open the **media file manager** that will allow us to upload images to the site.
 
-![Site Icon](images/image-35-1024x457-1.png)
+![Site Icon](/images/image-35-1024x457-1.png)
 
 Click on the "Upload file" tab, select an image from your computer, and finally, click the blue button "Select" to add the chosen image as an icon for our site.
 
 **The icon** will appear in the browser tab:
 
-![Site Icon Preview](images/image-37.png)
+![Site Icon Preview](/images/image-37.png)
 
 Now, **go back** and discover other customizations.
 
@@ -97,7 +97,7 @@ Now, **go back** and discover other customizations.
 
 This option allows us to **change the colors** of our site.
 
-![Colors](images/image-38.png)
+![Colors](/images/image-38.png)
 
 You can enter the colors you prefer. Don't spend too much time choosing background colors because shortly, we will add **an image** below the title.
 
@@ -107,7 +107,7 @@ Now we can add an **
 
 image** as the background for the title of our website.
 
-![Header Image](images/image-39.png)
+![Header Image](/images/image-39.png)
 
 The theme already suggests some images, but we can add the one we want by clicking on "Add new image."
 
@@ -117,7 +117,7 @@ I am a big fan of the mountains, so I will select the first image from the propo
 
 This theme also allows us to have an image as a background.
 
-![Background Image](images/image-40.png)
+![Background Image](/images/image-40.png)
 
 Personally, I **discourage** adding it because it makes the content less clear and could **distract the user**, but you can try uploading something and see the effect!
 
@@ -127,7 +127,7 @@ I will leave this field blank.
 
 Through this section, it is possible to create and modify the **menus** of our site, such as the **navbar** and side menus.
 
-![Menu](images/image-41.png)
+![Menu](/images/image-41.png)
 
 For now, we will skip this step; we will create our menus **later** through another interface.
 
@@ -135,7 +135,7 @@ For now, we will skip this step; we will create our menus **later** through anot
 
 Widgets are **small blocks** that perform a particular **function**.
 
-![Widgets](images/image-42.png)
+![Widgets](/images/image-42.png)
 
 This theme allows us to place them in the **sidebar**, but this point will be addressed **later** and thoroughly. For now, we can leave everything as it is!
 
@@ -143,7 +143,7 @@ This theme allows us to place them in the **sidebar**, but this point will be ad
 
 This option is present **in every WordPress theme** and allows us to set **the content of our Homepage**.
 
-![Homepage Settings](images/image-43.png)
+![Homepage Settings](/images/image-43.png)
 
 We can choose whether to include **the latest articles** we publish on the home page (useful especially for blog-style sites) or whether to insert a **static page** created specifically.
 
@@ -153,7 +153,7 @@ Since we haven't created pages yet, we can leave "Latest articles" selected.
 
 This point allows us to enter some **CSS code** to add to the theme style, to customize some details of the site in more detail.
 
-![Additional CSS](images/image-44.png)
+![Additional CSS](/images/image-44.png)
 
 To use this option, you **need to know the CSS language**. For now, we can overlook it, but if you continue to read our guides, you will also **learn** to use this part, **promised!**
 
@@ -161,7 +161,7 @@ To use this option, you **need to know the CSS language**. For now, we can overl
 
 Here we can select the **color** for the **highlight** of our site.
 
-![Accent Color](images/image-45.png)
+![Accent Color](/images/image-45.png)
 
 The theme proposes some colors, but if you click on "Select color," you can choose your favorite!
 
@@ -171,7 +171,7 @@ I will insert **orange**, you can choose the color you prefer!
 
 Finally, this theme asks us how we want to **display our posts** on the page that lists them all (also called the "archive" page).
 
-![Post Options](images/image-46.png)
+![Post Options](/images/image-46.png)
 
 **The excerpt** is a small part of the article, the first characters, while "Full post" means the entire content.
 

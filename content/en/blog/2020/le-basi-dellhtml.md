@@ -55,7 +55,7 @@ Now that you have downloaded a browser and a text editor, we can create our firs
 
 Create a **folder** on your desktop named "**HTML**". Now, open this folder with **VS Code** by right-clicking inside the folder and selecting "Open with Code".
 
-![](images/Group-5-1.jpeg)
+![](/images/Group-5-1.jpeg)
 
 Now we can create our file with VS Code.
 
@@ -183,7 +183,7 @@ Let's call this page "**My First Web Page**"
 
 Now save the file and open it by simply opening the "HTML" folder and double-clicking on it.
 
-![](images/image-1536x529-1-1024x353.png)
+![](/images/image-1536x529-1-1024x353.png)
 
 You'll be presented with a **completely blank page** because we haven't inserted any code into the content yet.
 
@@ -208,7 +208,7 @@ Go **between the `<body></body>` tags** and insert this:
 
 Now **save the page and refresh it in the browser**, and you'll see some content!
 
-![](images/image-1.png)
+![](/images/image-1.png)
 
 It's not difficult to understand; each tag explains itself.
 
@@ -244,7 +244,7 @@ Now, **reference the image in our _index.html_** file like this:
 
 Now **save the file and update** the browser.
 
-![](images/image-2-768x370-1.png)
+![](/images/image-2-768x370-1.png)
 
 You'll see the image displayed on our HTML page.
 
@@ -258,7 +258,7 @@ To display the image more nicely, we can add another attribute to our <img> tag:
 
 This way, I'm **setting the width of the image to 200px**. And now it looks much better.
 
-![](images/image-3.png)
+![](/images/image-3.png)
 
 This way, I can **resize** the image.
 
@@ -293,7 +293,7 @@ Add this code to **_index.html_**
 
 and here's the **result**
 
-![](images/image-4-1536x666-1-1024x444.png)
+![](/images/image-4-1536x666-1-1024x444.png)
 
 To add colors, I used the "style" attribute, which allows you to insert CSS code inside HTML, but we'll cover this more in the [CSS guide](/en/blog/the-basics-of-css/).
 

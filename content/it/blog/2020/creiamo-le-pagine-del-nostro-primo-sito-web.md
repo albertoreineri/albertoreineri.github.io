@@ -23,13 +23,13 @@ Iniziamo con il creare la pagina “**Chi sono**“.
 
 Tramite il **menù laterale** ci rechiamo in “**Pagine**” e poi su “**Aggiungi pagina**“
 
-![](images/image-53.png)
+![](/images/image-53.png)
 
 Ora ci troveremo di fronte a **Gutenberg**: il **page builder** di WordPress.
 
 Attraverso questa interfaccia possiamo **creare la nostra pagina web** senza scrivere una sola riga di codice.
 
-![](images/image-54-1024x507-1.png)
+![](/images/image-54-1024x507-1.png)
 
 Nel campo “**Aggiungi titolo**” scriviamo “_Chi sono_“, sotto al titolo invece possiamo scrivere il **contenuto della nostra pagina**
 
@@ -43,7 +43,7 @@ Tutti i contenuti sono **suddivisi in blocchi**. Per esempio un **paragrafo** 
 
 Per inserire un blocco basta cliccare sul “**+**” sulla sinistra e scegliere il blocco desiderato.
 
-![](images/image-55.png)
+![](/images/image-55.png)
 
 In questa pagina possiamo inserire un blocco “**Paragrafo**“, dentro il quale scrivere:
 
@@ -53,11 +53,11 @@ e sotto questo paragrafo possiamo inserire un blocco “**Immagine**” e andare
 
 Dopo aver scelto il blocco immagine è sufficiente cliccare su “**Carica**“, scegliere una foto presente sul computer e questa verrà inserita nella posizione corretta.
 
-![](images/image-56.png)
+![](/images/image-56.png)
 
 Infine per rendere visibili le modifiche dobbiamo **pubblicare la pagina.**
 
-![](images/image-58.png)
+![](/images/image-58.png)
 
 In alto a destra troverai due bottoni: **Anteprima** e **Pubblica**.
 
@@ -79,11 +79,11 @@ Ora creiamo la sezione “**Blog**” del sito. Come ormai saprai WordPress è n
 
 Per farlo andremo in “**Articoli – Categorie**“
 
-![](images/image-63.png)
+![](/images/image-63.png)
 
 Qua possiamo **creare le categorie del nostro sito**, per suddividere gli articoli e rendere la gestione e la navigazione ordinata.
 
-![](images/image-64-1024x515-1.png)
+![](/images/image-64-1024x515-1.png)
 
 Come vedi di default è già presente una categoria “**Senza categoria**“, che fra poco andremo ad eliminare.
 
@@ -97,17 +97,17 @@ Questo perché è impostata come **categoria di default,** cioè ogni articolo
 
 Andiamo su “**Impostazioni – Scrittura**“
 
-![](images/image-65.png)
+![](/images/image-65.png)
 
 Ed ecco qua che vediamo le impostazione per la **categoria predefinita:**
 
-![](images/image-66.png)
+![](/images/image-66.png)
 
 Basterà selezionare “**Blog**” al posto di “**Senza categoria**” e salvare premendo il tasto “**Salva le modifiche**” sul fondo.
 
 Ora torniamo in “**Articoli – Categorie**” e cancelliamo “**Senza categoria**“.
 
-![](images/image-67.png)
+![](/images/image-67.png)
 
 Adesso ogni articolo che scriverai rientrerà in automatico nella categoria “**Blog**“.
 
@@ -117,7 +117,7 @@ Ora creeremo un paio di articoli di prova!
 
 Andiamo in “**Articoli – Aggiungi articolo**“.
 
-![](images/image-68.png)
+![](/images/image-68.png)
 
 Come puoi vedere **l’interfaccia è la stessa per la creazione di pagine.**
 
@@ -137,11 +137,11 @@ Ora che abbiamo creato le nostre pagine e impostato il blog possiamo andare a cr
 
 Andiamo quindi su “**Aspetto – Menu**“.
 
-![](images/image-59-1.png)
+![](/images/image-59-1.png)
 
 Tramite questa sezione possiamo **creare i menù del nostro sito WordPress!**
 
-![](images/image-60-1024x514-1.png)
+![](/images/image-60-1024x514-1.png)
 
 Di default WordPress ci propone di creare un menù con inserite le ultime pagine che abbiamo creato.
 
@@ -149,13 +149,13 @@ Andiamo nel campo “**Nome menu**” e al posto di “Menu 1” inseriamo “_M
 
 Dopodiché clicchiamo sulla freccia verso il basso sulla destra di “**Pagina di esempio**“. Si apriranno delle opzioni:
 
-![](images/image-61.png)
+![](/images/image-61.png)
 
 Qua clicchiamo “**Rimuovi**“.
 
 Per inserire la sezione “**Blog**” nel nostro menù di navigazione ci basterà cliccare su “**Categorie**“, selezionare “**Blog**” e premere “**Aggiungi al menu**“
 
-![](images/image-69.png)
+![](/images/image-69.png)
 
 È possibile **spostare in alto o in basso le voci** del menù semplicemente premendo su di esse e trascinandole nella posizione desiderata! **Semplice** no?
 
@@ -163,7 +163,7 @@ Ora possiamo premere su “**Crea menu**“.
 
 Ora che il menù è creato vedremo delle **nuove impostazioni:**
 
-![](images/image-62.png)
+![](/images/image-62.png)
 
 Qua clicchiamo su “**Top Primary menu**” per poter impostare il menù appena creato come menu top, cioè in alto, la classica **barra di navigazione.**
 
@@ -175,7 +175,7 @@ ATTENZIONE! Ogni menù creato necessita di essere inserito da qualche parte nel 
 
 Molto bene, **hai appena creato il menù di navigazione del tuo sito web.**
 
-![](images/image-70.png)
+![](/images/image-70.png)
 
 Prova ad andare nel **front-end** e lo vedrai comparire in alto sulla destra!
 

@@ -1,5 +1,5 @@
 ---
-title: "4. Installare WordPress in locale￼"
+title: "4. Installare WordPress in locale"
 description: "Tutorial su come installare WordPress in locale sul tuo computer e iniziare a creare il tuo nuovo sito web."
 date: "2020-03-20"
 url: "/blog/installare-wordpress-in-locale"
@@ -25,7 +25,7 @@ Perciò faremo la strada più lunga (non poi tanto in realtà) ed impareremo ver
 
 Per capire meglio ciò che andremo a fare ora ti **consiglio** di leggere questi articoli:
 
-- [Configurare il PC per Sviluppare in WordPress](/blog/configurare-il-pc-per-sviluppare-in-wordpress%ef%bf%bc/)
+- [Configurare il PC per Sviluppare in WordPress](/blog/configurare-il-pc-per-sviluppare-in-wordpress/)
 - [Perché intallare WordPress in locale?](/blog/perche-installare-wordpress-in-locale/)
 - [Come funziona XAMPP](/blog/come-funziona-xampp/)
 
@@ -37,7 +37,7 @@ Per prima cosa è necessario **scaricare WordPress.**
 
 Farlo è molto semplice, è sufficiente andare a questo **link**: [http://it.wordpress.org/](http://it.wordpress.org/) e premere il bottone “**Scarica WordPress**” in alto a destra.
 
-![](images/image-4-1024x250-1.png)
+![](/images/image-4.png)
 
 Ora non resta che aspettare il termine del **download**, di solito è abbastanza rapido ma i tempi potrebbero cambiare a seconda della velocità della tua connessione.
 
@@ -55,7 +55,8 @@ Per poter far funzionare il nostro sito in WordPress in locale dobbiamo far part
 
 Per **avviare XAMPP** ti basterà cliccare sulla sua icona e una volta aperto il software cliccare su “**Start**” in corrispondenza di **Apache** e **MySQL**.
 
-![](images/image-2-2.png)
+![](/images/image-2.png)
+
 
 In questo modo avvierai il server locale ed il database!
 
@@ -71,7 +72,7 @@ Aprendo questa cartella dovresti trovare al suo interno **3 cartelle:**
 
 **più una serie di file.**
 
-![](images/image-6-1.png)
+![](/images/image-6.png)
 
 **Questo è WordPress!!!**
 
@@ -95,13 +96,13 @@ Andremo quindi ora a **crearlo** utilizzando **phpmyadmin**.
 
 Ti ritroverai in una schermata come questa:
 
-![](images/phpmyadmin-1024x486-1.jpeg)
+![](/images/phpmyadmin-1024x486.jpeg)
 
 Questo è il programma attraverso il quale **gestiremo i nostri database.** Graficamente non è carinissimo ma è molto **potente** e funzionale.
 
 Per il momento devi solamente **cliccare su “Nuovo”** nella barra laterale sinistra.
 
-![](images/image-5-1024x98-1.png)
+![](/images/image-5-1024x98.png)
 
 Sulla destra vedrai una schermata come questa qua sopra, ti basterà **scrivere il nome del database**, in questo caso “wp-test” e cliccare “**Crea**“
 
@@ -119,13 +120,13 @@ Nel corso degli anni la procedura di installazione del CMS si è perfezionata se
 
 ### PASSAGGIO 1:
 
-![](images/image-7-1024x496-1.png)
+![](/images/image-7-1024x496.png)
 
 Clicchiamo sul pulsante “**Iniziamo!**“
 
 ### PASSAGGIO 2:
 
-![](images/image-8-1024x497-1.png)
+![](/images/image-8-1024x497-1.png)
 
 A questo punto ci vengono chiesti dei **parametri di configurazione**. Non preoccuparti, ora ti spiegherò cosa significano:
 
@@ -145,7 +146,7 @@ A questo punto ci vengono chiesti dei **parametri di configurazione**. Non preo
 
 ### PASSAGGIO 3:
 
-![](images/image-9-1024x499-1.png)
+![](/images/image-9-1024x499-1.png)
 
 Molto bene! Il difficile è fatto! **Da ora è tutto in discesa.**
 
@@ -153,7 +154,7 @@ WordPress si congratula con noi per aver inserito correttamente i dati del passa
 
 ### PASSAGGIO 4:
 
-![](images/image-11.png)
+![](/images/image-11.png)
 
 Ora WordPress è stato installato! Non ci resta che **configurare** un paio di cosette:
 
@@ -167,7 +168,7 @@ Compilati i campi puoi cliccare su “**Installa WordPress**“
 
 ### PASSAGGIO 5:
 
-![](images/image-12-1024x591-1.png)
+![](/images/image-12-1024x591-1.png)
 
 **E VOILÀ!!!**
 
@@ -175,23 +176,23 @@ Hai appena terminato di installare correttamente WordPress in locale sul tuo com
 
 Ora puoi cliccare su “**Login**“
 
-![](images/image-13-2.png)
+![](/images/image-13-2.png)
 
 Inserire i tuoi dati di accesso ed **entrare nella tua installazione di WordPress.**
 
 Questo è il **backend** di WordPress:
 
-![](images/image-14-1024x481-1-1.png)
+![](/images/image-14-1024x481-1-1.png)
 
 Da qui potrai **configurare** e **compilare** il tuo sito web.
 
 Cliccando sull’icona della casetta in alto a destra invece potrai vedere il front-end del tuo sito
 
-![](images/image-15-2.png)
+![](/images/image-15-2.png)
 
 Durante l’installazione WordPress inserisce il suo tema standard. Quindi per il momento vedrai un **front-end** come questo:
 
-![](images/image-16-1024x460-1.png)
+![](/images/image-16-1024x460-1.png)
 
 **CONGRATULAZIONI!!!**
 

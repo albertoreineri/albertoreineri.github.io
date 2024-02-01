@@ -13,7 +13,7 @@ To get started, you'll need to install the necessary programs to write your firs
 
 Let's set aside the eternal debate about which operating system is better for a particular task, trends that lead to choosing one computer over another, and similar matters. All the software mentioned in this article is available for Windows, Mac, and Linux.
 
-![Download Free Desk](.local/risorse-gratuite//)
+![Download Free Desk](/free-resources)
 
 In this guide, I'll point out the best tools and programs that will allow you to install WordPress, develop themes and plugins, test functionalities, and upload changes online.
 
@@ -21,7 +21,7 @@ So, let's see what we need to develop websites in WordPress.
 
 ## 1. BROWSER
 
-![Browser](images/image-17-1024x550-1.png)
+![Browser](/images/image-17-1024x550-1.png)
 
 If you plan to do some web development, the fundamental software you must have is a browser. All operating systems come with a pre-installed browser, but my recommendation is to use [**Google Chrome**](http://www.google.com/intl/it/chrome/). This browser is very fast and offers a set of developer tools that are very useful.
 
@@ -31,7 +31,7 @@ Recently, **Microsoft** released the new version of [**Edge**](http://www.micros
 
 ## 2. TEXT EDITOR
 
-![Text Editor](images/image-18-1024x548-1.png)
+![Text Editor](/images/image-18-1024x548-1.png)
 
 To do web development, you need to **write code**, and to write code, you need a **text editor**. It's possible to write code with Notepad, but it's certainly not an optimal solution.
 
@@ -43,7 +43,7 @@ This is undoubtedly the **essential program** for any programmer.
 
 ## 3. LOCAL SERVER
 
-![Local Server](images/image-1-1.png)
+![Local Server](/images/image-1-1.png)
 
 To "make" our projects run on our PC, it is necessary to install a local server to make them work.
 
@@ -53,7 +53,7 @@ Essential for creating websites in **WordPress**, projects in PHP frameworks lik
 
 ## 4. FTP CLIENT
 
-![FTP Client](images/image-19-1024x548-1.png)
+![FTP Client](/images/image-19-1024x548-1.png)
 
 Once our site is finished, we need to **upload it online!**
 

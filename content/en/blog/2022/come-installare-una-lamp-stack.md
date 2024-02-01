@@ -20,7 +20,7 @@ This tutorial is created on Ubuntu but works on all Debian-based distros, such a
 
 ## Step 1: Installing Apache
 
-The Apache web server is a popular open-source web server that can be used in conjunction with [PHP](/en/blog/le-basi-di-php/) to host dynamic websites. Ensure your `apt` cache is up-to-date with:
+The Apache web server is a popular open-source web server that can be used in conjunction with [PHP](/en/blog/the-basics-of-php/) to host dynamic websites. Ensure your `apt` cache is up-to-date with:
 
 ```bash
 sudo apt update
@@ -54,7 +54,7 @@ http://your_server_ip
 
 You should now see Apache's default web page in your browser, which is available for informational and testing purposes. It should look something like this:
 
-![Apache Default Page](images/small_apache_default_1804-728x1024.png)
+![Apache Default Page](/images/small_apache_default_1804-728x1024.png)
 
 If you see this page, your web server is now correctly installed and accessible through your firewall.
 
@@ -418,7 +418,7 @@ http://my_domain/info.php
 
 The page you should see should resemble this:
 
-![PHP Info Page](images/small_php_info_1804-796x1024.png)
+![PHP Info Page](/images/small_php_info_1804-796x1024.png)
 
 This page provides some basic information about your server from a PHP perspective. It's useful for debugging and ensuring that settings are applied correctly.
 

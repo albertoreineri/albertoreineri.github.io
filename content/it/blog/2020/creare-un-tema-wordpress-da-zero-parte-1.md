@@ -57,7 +57,7 @@ Puoi **sostituire** l’autore con il tuo nome, così come il nome del tema e l
 
 Se ora salvi il file CSS e vai nel backend di WordPress in “**Aspetto – Temi**” vedrai comparire il nostro tema!
 
-![](images/image-12-2.png)
+![](/images/image-12-2.png)
 
 Puoi **attivare il tema** e _voilà_! Il tema è fatto!
 
@@ -462,7 +462,7 @@ Vediamo ora come **recuperare** alcune delle **informazioni principali** del 
 
 Nel **backend** puoi impostare un nome e una descrizione al tuo sito, nella sezione “**Impostazioni – Generali**“.
 
-![](images/image-14-1.png)
+![](/images/image-14-1.png)
 
 **Inserisci** il **titolo** del sito e un **motto**. Ora vediamo come recuperare questi dati nel **frontend**!
 

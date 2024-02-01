@@ -23,13 +23,13 @@ Let's begin by creating the "About Me" page.
 
 Using the **sidebar menu**, go to "Pages" and then "Add New Page."
 
-![Add New Page](images/image-53.png)
+![Add New Page](/images/image-53.png)
 
 Now, we are faced with **Gutenberg**: the **WordPress page builder**.
 
 Through this interface, we can **create our web page** without writing a single line of code.
 
-![Gutenberg](images/image-54-1024x507-1.png)
+![Gutenberg](/images/image-54-1024x507-1.png)
 
 In the "Add Title" field, type "_About Me_," and below the title, you can write the **content of our page**.
 
@@ -43,7 +43,7 @@ All content is **divided into blocks**. For example, a **paragraph** is a block,
 
 To insert a block, just click on the "+" on the left and choose the desired block.
 
-![Insert Block](images/image-55.png)
+![Insert Block](/images/image-55.png)
 
 On this page, we can insert a "Paragraph" block, where we write:
 
@@ -53,11 +53,11 @@ Below this paragraph, we can insert an "Image" block and choose a **photo of our
 
 After selecting the image block, just click on "Upload," choose a photo from your computer, and it will be inserted in the correct position.
 
-![Insert Image](images/image-56.png)
+![Insert Image](/images/image-56.png)
 
 Finally, to make the changes visible, we need to **publish the page**.
 
-![Publish Page](images/image-58.png)
+![Publish Page](/images/image-58.png)
 
 At the top right, you will find two buttons: **Preview** and **Publish**.
 
@@ -79,11 +79,11 @@ Now, let's create the "Blog" section of the site. As you may know, WordPress was
 
 To do this, go to "Posts – Categories."
 
-![Categories](images/image-63.png)
+![Categories](/images/image-63.png)
 
 Here we can **create categories for our site** to categorize articles and make management and navigation orderly.
 
-![Create Category](images/image-64-1024x515-1.png)
+![Create Category](/images/image-64-1024x515-1.png)
 
 As you can see, there is already a "Uncategorized" category by default, which we will soon delete.
 
@@ -97,17 +97,17 @@ This is because it is set as the **default category,** meaning that every articl
 
 Go to "Settings – Writing."
 
-![Writing Settings](images/image-65.png)
+![Writing Settings](/images/image-65.png)
 
 Here, you will see the setting for the **default category:**
 
-![Default Category](images/image-66.png)
+![Default Category](/images/image-66.png)
 
 Simply select **"Blog"** instead of **"Uncategorized"** and save by pressing the **"Save Changes"** button at the bottom.
 
 Now, go back to "Posts – Categories" and delete "Uncategorized."
 
-![Delete Uncategorized](images/image-67.png)
+![Delete Uncategorized](/images/image-67.png)
 
 Now, every article you write will automatically fall into the **"Blog" category**.
 
@@ -117,7 +117,7 @@ Now, let's create a couple of test articles!
 
 Go to "Posts – Add New Post."
 
-![Add New Post](images/image-68.png)
+![Add New Post](/images/image-68.png)
 
 As you can see, **the interface is the same for creating pages.**
 
@@ -137,23 +137,23 @@ Now that we have created our pages and set up the blog, we can create the **navi
 
 Go to "Appearance – Menu."
 
-![Menu Appearance](images/image-59-1.png)
+![Menu Appearance](/images/image-59-1.png)
 
 Through this section, we can **create menus for our WordPress site!**
 
-![Create Menu](images/image-60-1024x514-1.png)
+![Create Menu](/images/image-60-1024x514-1.png)
 
 By default, WordPress suggests creating a menu with the latest pages we created.
 
 Enter "_Navigation Menu_" in the "Menu Name" field, and then click the down arrow to the right of "**Sample Page**." Options will open:
 
-![Menu Options](images/image-61.png)
+![Menu Options](/images/image-61.png)
 
 Here, click on "**Remove**."
 
 To include the **"Blog" section** in our navigation menu, click on "**Categories**," select "**Blog**," and press "**Add to Menu.**"
 
-![Add Blog to Menu](images/image-69.png)
+![Add Blog to Menu](/images/image-69.png)
 
 You can **move menu items up or down** by clicking on them and dragging them to the desired position! **Simple,** isn't it?
 
@@ -161,7 +161,7 @@ Now, press "**Create Menu.**"
 
 Now that the menu is created, we will see some **new settings:**
 
-![Menu Settings](images/image-62.png)
+![Menu Settings](/images/image-62.png)
 
 Here, click on "**Top Primary menu**" to set the newly created menu as the top menu, i.e., the classic **
 
@@ -175,7 +175,7 @@ navigation bar**.
 
 Great, **you have just created the navigation menu for your website.**
 
-![Navigation Menu](images/image-70.png)
+![Navigation Menu](/images/image-70.png)
 
 Try going to the **front-end,** and you will see it appear at the top right!
 

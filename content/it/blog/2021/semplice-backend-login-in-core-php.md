@@ -32,7 +32,7 @@ Innanzitutto ho creato una cartella “**login**“, dentro la quale ci saranno 
 
 Se non ho ancora effettuato l’accesso allora vedrò il **form di login.**
 
-![](images/image.png)
+![](/images/image.png)
 
 Nella **index.php** nella cartella login ho quindi inserito il **form** per effettuale l’accesso all’area riservata, con il form che rimanda al file **access.php,** contenente le funzioni di controllo dei dati di accesso.
 
@@ -61,7 +61,7 @@ Invece se ho inserito i dati sbagliati mi rimanda al form di login con messaggio
 
 Se sto **creando un nuovo utente segue la prassi della registrazione**, inviando un’email di conferma con un link cliccando sul quale si confermerà il proprio account.
 
-![](images/image-1.png)
+![](/images/image-1.png)
 
 **access.php**
 

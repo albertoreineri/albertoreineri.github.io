@@ -120,7 +120,7 @@ Il CSS è un linguaggio con una **sintassi specifica**. Se si commette un **er
 
 Ecco uno **schema** che raccoglie gli **elementi** del linguaggio CSS:
 
-![](images/schema-CSS.jpeg)
+![](/images/schema-CSS.jpeg)
 
 ### Selettore
 
@@ -236,13 +236,13 @@ Qua possiamo cercare il font che più ci piace. In questa guida utilizzeremo il 
 
 Inseriamo quindi “**Source Sans Pro**” nella barra di ricerca di Google Fonts
 
-![](images/image-5.png)
+![](/images/image-5.png)
 
 e lo **selezioniamo**.
 
 Ora ci troveremo di fronte ad una schermata come questa:
 
-![](images/image-6-1536x725-1-1024x483.png)
+![](/images/image-6-1536x725-1-1024x483.png)
 
 Sulla destra possiamo cliccare su “**\+ Select this style**” in corrispondenza del carattere che vogliamo. Possiamo selezionarli tutti per avere tutte le variabili possibili del font, ma per ottimizzare i tempo di caricamento della pagina è meglio selezionare solo l’essenziale.
 
@@ -250,11 +250,11 @@ In questa guida selezioniamo solo il “**regular 400**” e il “**bold 700**�
 
 Ora si aprirà sulla destra una finestra come questa:
 
-![](images/image-7.png)
+![](/images/image-7.png)
 
 Qua clicchiamo su “**Embed**” e successivamente su “**@import**“
 
-![](images/image-8.png)
+![](/images/image-8.png)
 
 Adesso possiamo copiare il contenuto fra _<style>_ e _</style>_ e incollarlo nel nostro **“style.css**“, cancellando tutto il resto.
 
@@ -339,7 +339,7 @@ Per gestire gli spazi fra gli elementi si possono utilizzare “**margin**” e 
 
 Ecco uno **schema** per spiegarti che differenza c’è fra i due:
 
-![](images/margin-e-padding-1.jpeg)
+![](/images/margin-e-padding-1.jpeg)
 
 Il **margin** indica lo spazio **all’esterno** del contenuto, il **padding** lo spazio **all’interno**.
 

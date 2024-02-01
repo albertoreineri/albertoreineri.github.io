@@ -1234,3 +1234,13 @@ input::placeholder {
     height: 18px
   }
 }
+
+.btn-caffe{
+  margin-top: 30px;
+  padding: 10px;
+  color:$dark-grey;
+  background-color: $theme;
+  border:1px solid $theme;
+  border-radius: 4px;
+  display:inline-block
+}

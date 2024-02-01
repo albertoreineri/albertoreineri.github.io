@@ -42,13 +42,13 @@ If you go to the **backend** now, you will see that the "Appearance - Menu" sect
 
 Now, let's proceed to **create a new menu**:
 
-![Create Menu](images/image-31-1024x324-1.png)
+![Create Menu](/images/image-31-1024x324-1.png)
 
 For now, let's just add the home page and the default WordPress sample page to have some content in it, and click "**Create Menu**".
 
 Then, we can set the menu in the **"Navbar Menu"** position:
 
-![Set Menu](images/image-32-1024x142-1.png)
+![Set Menu](/images/image-32-1024x142-1.png)
 
 Now, all that's left is to **insert this menu into our navigation bar**, in the theme's header.
 
@@ -163,7 +163,7 @@ Now we've **added the ability to insert widgets in
 
 If we go to the backend in "Appearance - Widgets," we'll see an area reserved for the sidebar:
 
-![Widgets in Sidebar](images/image-33.png)
+![Widgets in Sidebar](/images/image-33.png)
 
 Let's try inserting some widgets into it. Currently, they won't be displayed in the frontend.
 
@@ -183,11 +183,11 @@ So, open your _sidebar.php_ file, delete everything, and replace the code with t
 
 Now, in the backend, try inserting the **"Recent Articles" Widget** into the sidebar, entering "Recent Articles" as the title and saving.
 
-![Insert Widget](images/image-34-1.png)
+![Insert Widget](/images/image-34-1.png)
 
 If everything went smoothly, you should see the latest articles appearing in the sidebar!
 
-![Widget in Sidebar](images/image-35.png)
+![Widget in Sidebar](/images/image-35.png)
 
 **Fantastic! You've just created a widget!**
 
@@ -201,7 +201,7 @@ Create 4 widgets to be placed in the footer of the site. Remember, you need to r
 
 Here's the result in the frontend:
 
-![Widgets in Footer](images/image-36-1024x138-1.png)
+![Widgets in Footer](/images/image-36-1024x138-1.png)
 
 Take some time and try doing it. Below, I'll leave you **the code:**
 

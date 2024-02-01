@@ -44,7 +44,7 @@ This code **indicates to WordPress the existence of the plugin**.
 
 If we save it and go to the backend in "Plugins," we should see "Back on top" in the list. We can then **activate it**.
 
-![Back on top plugin](images/image-41-1024x48-1.png)
+![Back on top plugin](/images/image-41-1024x48-1.png)
 
 At the moment, the plugin **does absolutely nothing**, but we've created it.
 
@@ -129,7 +129,7 @@ To keep things minimal, let's include some **vanilla Javascript** after the "bac
 
 **The plugin is ready.** Save it, and if everything went well, you should see an arrow pointing upwards in the bottom-right corner of the site. Clicking on the arrow should take you back to the top of the page.
 
-![Upward arrow](images/image-39-1.png)
+![Upward arrow](/images/image-39-1.png)
 
 **_Congratulations! You've just created your first plugin!_**
 

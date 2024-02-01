@@ -61,7 +61,7 @@ Questo creerà un nuovo progetto Laravel all’interno della directory “app�
 
 A questo punto, dovresti essere in grado di fare clic su “Visualizza sito” nell’app locale e dovrebbe mostrarti la pagina di benvenuto di Laravel, su htts: //laravel.local, per esempio. Se ricevi un errore 502, 404 o qualche altro errore, potrebbe essere necessario riavviare il server:
 
-![](images/Laravel-on-Local_lbxrd9.jpeg)
+![](/images/Laravel-on-Local_lbxrd9.jpeg)
 
 ## Collegamento del database
 

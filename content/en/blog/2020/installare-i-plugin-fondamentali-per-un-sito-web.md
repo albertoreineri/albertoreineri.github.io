@@ -32,37 +32,37 @@ This plugin allows us to create a contact form quickly and easily!
 
 First, access the backend of our WordPress site (if you don't know how, read the [previous guides](/categories/inizia-qui/)) and click on "Plugin – Add New."
 
-![](images/Annotazione-2020-03-31-164744.png)
+![](/images/Annotazione-2020-03-31-164744.png)
 
 You will see a screen like this:
 
-![](images/image-1024x528-1.png)
+![](/images/image-1024x528-1.png)
 
 Here, go to the top right, in the box "Search plugins..." and type WP Forms.
 
 The search will start automatically, and after a few moments, you should see this plugin in the list:
 
-![](images/image-1-2.png)
+![](/images/image-1-2.png)
 
 Now, click on "Install Now."
 
 After the plugin is installed, you can activate it by clicking "Activate."
 
-![](images/image-2.png)
+![](/images/image-2.png)
 
 Now you will find yourself at this point:
 
-![](images/image-3-1.png)
+![](/images/image-3-1.png)
 
 This plugin makes creating forms a truly simple action! You can follow the guide provided by the plugin itself, and in less than five minutes, you will have your beautiful and functional form!
 
 Next, click on the orange button "Create your first form."
 
-![](images/image-4-1024x458-1.png)
+![](/images/image-4-1024x458-1.png)
 
 Now you can click on "Simple Contact Form." The plugin will proceed to create a basic form. When it's done, you should see a screen like the following:
 
-![](images/image-5-1024x495-1.png)
+![](/images/image-5-1024x495-1.png)
 
 On the right is the preview of the form, while on the left, you can add and modify the fields that make up the form.
 
@@ -72,7 +72,7 @@ Now click on "Save" at the top right and then on "Embed."
 
 After clicking "Embed," a window like this will open:
 
-![](images/image-6.png)
+![](/images/image-6.png)
 
 What's written in the dark gray box is a shortcode: a code that allows something to appear within an article or page.
 
@@ -80,13 +80,13 @@ Now, all you have to do is copy this shortcode and paste it into the page where 
 
 After copying the shortcode, close WP Forms (with the X in the top right) and click on "Pages" in the sidebar.
 
-![](images/Annotazione-2020-03-31-170213-1024x294-1.png)
+![](/images/Annotazione-2020-03-31-170213-1024x294-1.png)
 
 Here, click on "Contact" to edit the page we [created earlier](/en/blog/lets-create-the-pages-of-our-first-website/).
 
 Now all you have to do is paste the shortcode into the content of the page and click "Update" at the top right.
 
-![](images/image-7-1024x458-1.png)
+![](/images/image-7-1024x458-1.png)
 
 If we go to view our contact page now, we will see that the form created with WP Forms has appeared inside it!
 
@@ -102,7 +102,7 @@ Being among the top results on Google is very important and allows you to reach 
 
 To download it, go to "Plugin – Add New" and in the search bar, type "Yoast SEO."
 
-![](images/image-8-1.png)
+![](/images/image-8-1.png)
 
 Once found, proceed to **install and activate** it.
 
@@ -110,7 +110,7 @@ In the sidebar, you will see the "SEO" section. Take a look and adjust the field
 
 You will also see a Yoast block at the end of each **article**, where you can insert **parameters specifically for Google related to the post or page**.
 
-![](images/image-9.png)
+![](/images/image-9.png)
 
 ### W3 TOTAL CACHE
 
@@ -120,13 +120,13 @@ One of the best is **W3 Total Cache**!
 
 To install it, search for "W3 Total Cache" among the plugins and once found, install and activate it!
 
-![](images/image-10-1.png)
+![](/images/image-10-1.png)
 
 Once activated, you will see the "Performance" option in the sidebar.
 
 Go to "Performance – General settings" and activate the cache in this box.
 
-![](images/image-11-1024x188-1.png)
+![](/images/image-11-1024x188-1.png)
 
 This plugin allows you to go even further, but for now, this should be enough!
 

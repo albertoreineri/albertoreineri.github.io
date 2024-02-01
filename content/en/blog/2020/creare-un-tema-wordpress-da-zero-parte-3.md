@@ -162,7 +162,7 @@ Fortunately, WordPress provides a function that makes **pagination** very easy.
 
 You can decide how many articles to display on archive pages through the "**Settings - Reading**" section.
 
-![Reading Settings](images/image-38-1.png)
+![Reading Settings](/images/image-38-1.png)
 
 To insert pagination in the frontend, go to your _**archive.php**_ and insert this function **after the** **loop**:
 
