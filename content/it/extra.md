@@ -2,8 +2,8 @@
 title: "Extra"
 meta_title: "Extra"
 description: "Extra di Alberto Reineri."
-image: "/images/io.webp"
-draft: false
+# image: "/images/io.webp"
+draft: false 
 ---
 
 Questa è la pagina dedidcata ai miei hobby! Fare il programmatore occupa la maggior parte della mia giornata, ma durante la sera o nei weekend amo dedicarmi ad attività rilassanti e artistiche. Trascorro la maggior parte della giornata davanti ad uno schermo e nel tempo libero cerco di star lontano dalla TV e dedicarmi ad attività analogiche totalmente offline.
