@@ -20,6 +20,7 @@ draft: false
         </li>
         <li><a title="Simple Header And Footer" target="_blank" href="https://wordpress.org/plugins/simple-header-and-footer/">🔌 Simple Header &amp; Footer</a>:
             WordPress Plugin</li>
+        <li><a title="Encrypt Tool" target="_blank" href="/crypt">🔏 Encrypt Tool</a>: Crypt and Decrypt Text</li>
         <li><a title="Let's Fart" target="_blank" href="/letsfart">💨 Let&#39;s Fart 😅</a>: Web App</li>
     </ul>
     <h2 id="portfolio-clienti">Clients Portfolio</h2>
