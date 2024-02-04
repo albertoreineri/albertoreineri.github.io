@@ -10,6 +10,8 @@ github.com/hugomods/search v0.8.3 h1:IIeU8Xw5t+SRYwpX08NjROt+YtDtWjjW0Xa00nEaYVs
 github.com/hugomods/search v0.8.3/go.mod h1:FURp5HBUm8JiuJajLk9sZ1Z1QUSJATboYEp1sFi46a4=
 github.com/hugomods/search v0.8.4 h1:LWnTZ3Zs6Tv9Qv61XvrJzKEJ2UvYa+gKwv/yvhtMb5U=
 github.com/hugomods/search v0.8.4/go.mod h1:FURp5HBUm8JiuJajLk9sZ1Z1QUSJATboYEp1sFi46a4=
+github.com/hugomods/search v0.8.5 h1:tP3ixxpUgpdj7dmBmnMdoDQtn+dwQNOTgA0Uw1mlxA8=
+github.com/hugomods/search v0.8.5/go.mod h1:FURp5HBUm8JiuJajLk9sZ1Z1QUSJATboYEp1sFi46a4=
 github.com/krisk/Fuse v7.0.0+incompatible h1:jVyg6No+Joc51Rn97QQYJZIpCxzd4ywACn/4+FKWjvo=
 github.com/krisk/Fuse v7.0.0+incompatible/go.mod h1:3moWv8rDjwoKic9nwiPLgZjldkbdTAbtzJHCu/Vsj4A=
 github.com/twbs/icons v1.11.3 h1:XhvrQ1XDom9ggBbQx3wQCFGEr8qAQwQP/dAcw8OXMtA=

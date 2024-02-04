@@ -13,7 +13,7 @@ Finally, you can **show the entire world** the result of your work and proudly s
 
 Let's not waste any more time and **get to work** on the final part of this course.
 
-[![](/images/download-free-desk.jpg)](risorse-free/)
+[![](/images/download-free-desk.jpg)](/)
 
 * * *
 

@@ -4,6 +4,8 @@ meta_title: "About"
 description: "Pagina personale di Alberto Reineri"
 ---
 
+<!-- <img src="/images/io4Seria.jpg" style="width:200px"> -->
+
 Ciao! Benvenuto sul mio sito.
 
 Di mestiere sono un Web Developer e Designer Freelance e nel tempo libero amo stare nella natura.
@@ -14,6 +16,7 @@ Questo è un sito molto semplice. Poche immagini e niente fronzoli! Per lavoro m
 
 Su di me
 --------
+
 
 Sono nato nel 1991 in un piccolo paesino in provincia di Cuneo, fra campi coltivati e fattorie.
 
