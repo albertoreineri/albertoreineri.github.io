@@ -62,7 +62,7 @@ Creato da Zeno Rocha, Dracula Official è un tema scuro per VSCode e altre oltre
 
 ### **Darcula**<figure class="wp-block-image">
 
-<img decoding="async" src="https://www.tabnine.com/blog/wp-content/uploads/2021/11/5-darcula-screenshot-1024x760.png" alt="" class="wp-image-1594" /> </figure>
+<img decoding="async" src="https://www.tabnine.com/blog/wp-content/uploads/2021/11/5-darcula-screenshot0.png" alt="" class="wp-image-1594" /> </figure>
 
 Se hai utilizzato gli IDE Jetbrains e Android Studio, ti sei sicuramente imbattuto nel tema Darcula. Sebbene sia facile confondere Dracula Official con il Darcula, quest'ultimo offre una combinazione di colori accuratamente scuri per oltre 195+ app, editor di codice ed emulatori di terminale, incluso VSCode. 
 

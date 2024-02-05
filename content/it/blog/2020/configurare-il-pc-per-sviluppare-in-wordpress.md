@@ -21,7 +21,7 @@ Vediamo allora **cosa ci serve** per poter sviluppare siti web in **WordPress
 
 ## 1\. BROWSER
 
-![](/images/image-17-1024x550-1.png)
+![](/images/image-17.png)
 
 Se abbiamo intenzione di fare un po’ di sviluppo web, il **software fondamentale** che dobbiamo avere è un browser. Tutti i sistemi operativi posseggono un browser pre-installato, ma il mio consiglio è quello di utilizzare [**Google Chrome**](http://www.google.com/intl/it/chrome/). Questo browser è molto rapido ed offre una serie di **strumenti per sviluppatori** molto utile.
 
@@ -31,7 +31,7 @@ Recentemente **Microsoft** ha rilasciato la nuova versione di [**Edge**](http:
 
 ## 2\. EDITOR DI TESTO
 
-![](/images/image-18-1024x548-1.png)
+![](/images/image-18.png)
 
 Per poter fare sviluppo web è necessario **scrivere del codice**, e per scrivere il codice occorre avere un **editor di testo**. E’ possibile scrivere codice anche con il blocco note, ma non è certo una soluzione ottimale.
 
@@ -53,7 +53,7 @@ Fondamentale per la creazione di siti in **WordPress**, per progetti in framewo
 
 ## 4\. CLIENT FTP
 
-![](/images/image-19-1024x548-1.png)
+![](/images/image-19.png)
 
 Una volta terminato il nostro sito dobbiamo **caricarlo online**! 
 

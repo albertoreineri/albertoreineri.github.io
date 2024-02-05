@@ -71,7 +71,7 @@ Per prima cosa vai su [altervista.org](http://it.altervista.org/).
 
 Aperto il sito troverai una schermata come questa:
 
-![](/images/image-1024x481-1.png)
+![](/images/image.png)
 
 Sebbene il tasto centrate “CREA SITO” sia molto invitante, clicca su “**HOSTING**” in alto a sinistra.
 
@@ -83,15 +83,15 @@ Puoi installare anche WordPress cliccando su “CREA SITO” in maniera ancora p
 
 Dopo aver cliccato su “Hosting” ti troverai in questa schermata:
 
-![](/images/image-47-1024x485-1.png)
+![](/images/image-47.png)
 
 Ora clicca su “**Inizia subito**“.
 
-![](/images/image-48-1024x479-1.png)
+![](/images/image-48.png)
 
 Adesso lasciamo selezionato “**Attiva un Hosting**” e premiamo “**Prosegui**“
 
-![](/images/image-49-1024x483-1.png)
+![](/images/image-49.png)
 
 Ora devi inserire **il nome del tuo sito**. Io in questo caso ho inserito “_albydev_“.
 
@@ -99,11 +99,11 @@ Ricordati che con altervista non potrai avere un sito con il “.it” o “.com
 
 Dopo che avrai compilato i tuoi dati pesonali clicca su “**Prosegui**” in fondo alla pagina.
 
-![](/images/image-50-1024x482-1.png)
+![](/images/image-50.png)
 
 **_E Voilà!_**
 
-![](/images/image-51-1024x486-1.png)
+![](/images/image-51.png)
 
 Abbiamo il nostro spazio di hosting gratuito!
 
@@ -113,7 +113,7 @@ Se non la vedi nella posta in arrivo controlla anche nella spam.
 
 Una volta creato lo spazio web possiamo **entrare nella sezione di configurazione.**
 
-![](/images/image-52-1024x697-1.png)
+![](/images/image-52.png)
 
 ## CREARE IL DATABASE
 
@@ -125,7 +125,7 @@ Quindi per prima cosa **attiviamo il database su altervista.**
 
 Dopo aver attivato il database dovresti vedere questi campi nella pagina di altervista:
 
-![](/images/image-52-1024x697-2.png)
+![](/images/image-52.png)
 
 **Ora inizia la parte più complicata di tutte!**
 
@@ -157,7 +157,7 @@ Ora **lanciamo FileZilla** e clicchiamo sulla prima icona sotto al menù (apri i
 
 Si aprirà una schermata come questa:
 
-![](/images/Untitled-1024x576-1.jpeg)
+![](/images/Untitled.jpeg)
 
 Qui clicchiamo su “**Nuovo sito**“.
 
@@ -193,7 +193,7 @@ Tutti i nostri siti in locale sono nella cartella “C:\\XAMPP\\htdocs”, percu
 
 Filezilla ci fa vedere **sulla sinistra il nostro computer in locale** e **sulla destra il nostro server altervista**.
 
-![](/images/image-17-1024x554-1.png)
+![](/images/image-17.png)
 
 Nel riquadro a destra andiamo quindi in “_C:\\XAMPP\\htdoc\\wp-test_“. Dovresti vedere una schermata come questa:
 
@@ -201,7 +201,7 @@ Nel riquadro a destra andiamo quindi in “_C:\\XAMPP\\htdoc\\wp-test_“. Dovre
 
 Ora non ti resta che **selezionare tutti i file** (CTRL+A) **e trascinarli su altervista** (sulla parte destra), con un Drag&Drop!
 
-![](/images/image-19-1024x553-1.png)
+![](/images/image-19.png)
 
 Questa operazione può **durare un po’ di tempo**…
 
@@ -221,11 +221,11 @@ Per prima cosa dobbiamo andare a **scaricarci il nostro database locale**. Per 
 
 Si aprirà **PhpMyAdmin**, un software per gestire facilmente i database MySQL.
 
-![](/images/Untitled-1-1024x470-1.jpeg)
+![](/images/Untitled-1.jpeg)
 
 Qua andiamo nella **barra sulla sinistra** e selezioniamo il database del nostro sito:**wp-test** e poi clicchiamo su “**Esporta**“.
 
-![](/images/image-22-1024x338-1.png)
+![](/images/image-22.png)
 
 Possiamo lasciare “Rapido” e cliccare direttamente su “**Esegui**“
 
@@ -233,7 +233,7 @@ Scaricheremo quindi il nostro database, potete salvarlo dove volete.
 
 Una volta salvato lo dobbiamo **aprire**. Non serve un programma specifico, basta il classico “**Blocco note**” o “**Text editor**“.
 
-![](/images/image-23-1024x695-1.png)
+![](/images/image-23.png)
 
 Il file aperto è simile a questo, un insieme di stringhe. **Questo è il nostro database.**
 
@@ -259,7 +259,7 @@ Si aprirà il **phpmyadmin** del nostro server **altervista**.
 
 Clicchiamo sul nostro database sulla sinistra, chiamato **my\_nomesito** e poi su “**Importa**“
 
-![](/images/image-25-1024x416-1.png)
+![](/images/image-25.png)
 
 Ora clicchiamo su “**Scegli file**“, andiamo a selezionare il database locale che abbiamo appena modificato e infine premiamo “**Esegui**“.
 
@@ -279,11 +279,11 @@ Quando FileZilla avrà terminato l’upload occorrerà fare ancora **un’ultim
 
 Andiamo ad aprire il file “**wp-config.php**” su altervista facendo click con il tasto destro sul file e cliccando su “**Visualizza / Modifica**“
 
-![](/images/image-26-1024x552-1.png)
+![](/images/image-26.png)
 
 Si aprirà il blocco note con il file wp-config.php al suo interno.
 
-![](/images/image-27-1024x555-1.png)
+![](/images/image-27.png)
 
 Qua dobbiamo solamente andare a modificare i dati relativi al database, che non è più quello di XAMPP ma quello di altervista.
 
@@ -316,7 +316,7 @@ Un’ultima operazione che è bene fare è quella di **risalvare i permalink** 
 
 Per fare ciò basterà loggarsi nel backend ed andare in “**Impostazioni – Permalink**” e semplicemente cliccare su “**Salva** **le modifiche**“, senza modificare nulla!
 
-![](/images/image-29-1024x481-1.png)
+![](/images/image-29.png)
 
 **_CONGRATULAZIONI_**!!!
 

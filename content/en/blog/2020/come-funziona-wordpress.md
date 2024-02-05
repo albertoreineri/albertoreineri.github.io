@@ -45,7 +45,7 @@ At this point, we find ourselves on the WordPress **login** screen.
 
 Here is the **WordPress backend**. From here, you can **manage** all the content on your website.
 
-![](/images/image-14-1024x481-1.png)
+![](/images/image-14.png)
 
 ## GENERAL INFORMATION ON THE BACKEND
 

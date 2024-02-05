@@ -96,7 +96,7 @@ console.log("HELLO!");
 
 If you insert this in "_**scripts.js**_", save and refresh, you won't see anything happen. This is because the **"HELLO!"** we wrote **is inserted into the Javascript console**, not the body of the page. To view the Javascript console, press the **"F12"** key or right-click and select **"Inspect"** (On Google Chrome, but it's very similar on all browsers).
 
-![Console](/images/image-11-1536x353-1-1024x235.png)
+![Console](/images/image-11.png)
 
 ### Comments
 

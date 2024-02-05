@@ -21,7 +21,7 @@ So, let's see what we need to develop websites in WordPress.
 
 ## 1. BROWSER
 
-![Browser](/images/image-17-1024x550-1.png)
+![Browser](/images/image-17.png)
 
 If you plan to do some web development, the fundamental software you must have is a browser. All operating systems come with a pre-installed browser, but my recommendation is to use [**Google Chrome**](http://www.google.com/intl/it/chrome/). This browser is very fast and offers a set of developer tools that are very useful.
 
@@ -31,7 +31,7 @@ Recently, **Microsoft** released the new version of [**Edge**](http://www.micros
 
 ## 2. TEXT EDITOR
 
-![Text Editor](/images/image-18-1024x548-1.png)
+![Text Editor](/images/image-18.png)
 
 To do web development, you need to **write code**, and to write code, you need a **text editor**. It's possible to write code with Notepad, but it's certainly not an optimal solution.
 
@@ -53,7 +53,7 @@ Essential for creating websites in **WordPress**, projects in PHP frameworks lik
 
 ## 4. FTP CLIENT
 
-![FTP Client](/images/image-19-1024x548-1.png)
+![FTP Client](/images/image-19.png)
 
 Once our site is finished, we need to **upload it online!**
 

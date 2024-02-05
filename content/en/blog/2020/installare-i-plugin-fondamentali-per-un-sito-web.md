@@ -36,7 +36,7 @@ First, access the backend of our WordPress site (if you don't know how, read the
 
 You will see a screen like this:
 
-![](/images/image-1024x528-1.png)
+![](/images/image-1.png)
 
 Here, go to the top right, in the box "Search plugins..." and type WP Forms.
 
@@ -58,11 +58,11 @@ This plugin makes creating forms a truly simple action! You can follow the guide
 
 Next, click on the orange button "Create your first form."
 
-![](/images/image-4-1024x458-1.png)
+![](/images/image-4-1.png)
 
 Now you can click on "Simple Contact Form." The plugin will proceed to create a basic form. When it's done, you should see a screen like the following:
 
-![](/images/image-5-1024x495-1.png)
+![](/images/image-5-1.png)
 
 On the right is the preview of the form, while on the left, you can add and modify the fields that make up the form.
 
@@ -80,13 +80,13 @@ Now, all you have to do is copy this shortcode and paste it into the page where 
 
 After copying the shortcode, close WP Forms (with the X in the top right) and click on "Pages" in the sidebar.
 
-![](/images/Annotazione-2020-03-31-170213-1024x294-1.png)
+![](/images/Annotazione-2020-03-31-170213--1.png)
 
 Here, click on "Contact" to edit the page we [created earlier](/en/blog/lets-create-the-pages-of-our-first-website/).
 
 Now all you have to do is paste the shortcode into the content of the page and click "Update" at the top right.
 
-![](/images/image-7-1024x458-1.png)
+![](/images/image-7-1.png)
 
 If we go to view our contact page now, we will see that the form created with WP Forms has appeared inside it!
 
@@ -126,7 +126,7 @@ Once activated, you will see the "Performance" option in the sidebar.
 
 Go to "Performance – General settings" and activate the cache in this box.
 
-![](/images/image-11-1024x188-1.png)
+![](/images/image-11-.png)
 
 This plugin allows you to go even further, but for now, this should be enough!
 

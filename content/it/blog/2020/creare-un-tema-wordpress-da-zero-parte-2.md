@@ -48,13 +48,13 @@ Se ora andiamo nel **backend** vedremo che la sezione “Aspetto – Menu” è
 
 Procediamo quindi a **creare un nuovo menù:**
 
-![](/images/image-31-1024x324-1.png)
+![](/images/image-31.png)
 
 Per il momento inseriamo solamente la home page e la pagina di esempio di default di WordPress, giusto per avere del contenuto al suo interno e clicchiamo su “**Crea menu**“.
 
 Poi possiamo impostare il menù nella **posizione** “Menù navbar”:
 
-![](/images/image-32-1024x142-1.png)
+![](/images/image-32.png)
 
 Ora non ci resta che **inserire questo menù nella nostra barra di navigazione**, nell’header del tema.
 
@@ -217,7 +217,7 @@ Crea 4 widget da inserire nel footer del sito. Ricordati, devi registrare 4 zone
 
 Ecco il risultato nel front-end:
 
-![](/images/image-36-1024x138-1.png)
+![](/images/image-36.png)
 
 Prenditi un po’ di tempo e prova a farlo, qua sotto ti lascerò **il codice:**
 

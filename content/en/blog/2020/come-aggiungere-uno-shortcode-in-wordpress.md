@@ -36,7 +36,7 @@ Let's see **how to easily add** shortcodes to WordPress posts and pages.
 
 Firstly, you need to **edit the post or page where you want to add the shortcode**. Next, you need to click the **Add Block button** to insert a **shortcode block**.
 
-![](/images/shortcode-1024x513.gif)
+![](/images/shortcode.gif)
 
 After adding the **shortcode block**, you can simply enter your shortcode in the block settings. The shortcode will be provided by various WordPress plugins that you might be using.
 
@@ -48,7 +48,7 @@ You can also use shortcodes in WordPress **sidebar widgets**. Simply visit the *
 
 Now you can **paste your shortcode** into the widget's text area.
 
-![](/images/image-33-1-1024x438.png)
+![](/images/image-33.png)
 
 Don't forget to click the "Save" button to store the widget settings.
 
@@ -60,7 +60,7 @@ If you are still using the old **classic editor** in WordPress, here's how to ad
 
 Simply edit the post or page where you want to add the shortcode. You can **paste the shortcode** anywhere inside the content editor where you want it to appear. Just make sure the shortcode is on its own line.
 
-![](/images/image-34-3-1024x316.png)
+![](/images/image-34.png)
 
 Don't forget to **save** the changes. You can then preview your post or page to see the shortcode in action.
 

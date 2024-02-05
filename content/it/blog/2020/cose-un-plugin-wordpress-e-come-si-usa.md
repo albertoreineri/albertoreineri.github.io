@@ -37,7 +37,7 @@ Per prima cosa **accediamo al backend** del nostro sito in WordPress (se non sa
 
 Ci troveremo di fronte ad una schermata come questa:
 
-![](/images/image-1024x528.png)
+![](/images/image.png)
 
 Qua dobbiamo andare in alto a destra, nella casella “**Ricerca plugin in corso…**” e qui dentro scrivere WP Forms.
 
@@ -59,11 +59,11 @@ Questo plugin rende la creazione dei form un’azione veramente **semplicissima
 
 Procediamo quindi con il cliccare sul pulsante arancione “**Crea il tuo primo modulo**“.
 
-![](/images/image-4-1024x458.png)
+![](/images/image-4.png)
 
 A questo punto possiamo premere su “**Semplice modulo di contatto**“. Il plugin procederà con la creazione di un form base. Quando avrà finito dovresti vedere una schermata come la seguente:
 
-![](/images/image-5-1-1024x495.png)
+![](/images/image-5-1.png)
 
 Sulla destra c’è l’anteprima del modulo, mentre sulla sinistra si possono aggiungere e modificare i campi che compongono il modulo.
 
@@ -81,13 +81,13 @@ A questo punto non dobbiamo far altro che **copiare questo shortcode** ed andar
 
 Dopo aver copiato lo shortcode chiudiamo WP Forms (con la X in alto a destra) e clicchiamo su “**Pagine**” nel menù laterale.
 
-![](/images/Annotazione-2020-03-31-170213-1024x294.png)
+![](/images/Annotazione-2020-03-31-170213-.png)
 
 Qui clicchiamo su “**Contatti**” per modificare la pagina che abbiamo [creato in precedenza](http://specialistawp.local/creiamo-le-pagine-del-nostro-primo-sito-web/).
 
 Ora non ci resta che **incollare lo shortcode** nel contenuto della pagina e fare click su “**Aggiorna**” in alto a destra.
 
-![](/images/image-7-1-1024x458.png)
+![](/images/image-7-1.png)
 
 Se **andiamo a visualizzare** la nostra pagina contatti ora vedremo al suo interno **sarà apparso il modulo creato con WP Forms!**
 

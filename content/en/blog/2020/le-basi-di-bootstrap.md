@@ -153,7 +153,7 @@ Now we
 
  have a layout with 2 columns on **desktop**:
 
-![](/images/image-15-1024x76.png)
+![](/images/image-15.png)
 
 And 1 column on **tablet** and below:
 
@@ -324,7 +324,7 @@ Try viewing it in smartphone mode, you will see that the menu disappears and the
 
 **Desktop:**
 
-![](/images/image-21-1536x495-1-1024x330.png)
+![](/images/image-21.png)
 
 **Mobile:**
 
@@ -414,7 +414,7 @@ Here's an **example**:
 </form>
 ```
 
-![](/images/image-26-1024x254.png)
+![](/images/image-26.png)
 
 These are just **some** of the **available components**! Browse through the list of components and **try inserting them** to see how they work!
 
@@ -631,7 +631,7 @@ Finally, let's insert the footer:
 
 And there you have it, a **classic simple layout entirely created with Bootstrap**!
 
-![](/images/image-29-1024x834.png)
+![](/images/image-29.png)
 
 As you can see, **Bootstrap is a fantastic tool** for creating web layouts in very little time!
 

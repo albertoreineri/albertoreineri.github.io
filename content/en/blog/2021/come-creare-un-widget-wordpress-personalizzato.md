@@ -20,7 +20,7 @@ Think of them as modules that you can use to add various elements using a simple
 
 By default, **WordPress comes with a standard set of widgets** that you can use with any WordPress theme. Check out our beginner's guide on [how to use widgets in WordPress](http://specialistawp.local/widget-in-wordpress-come-utilizzarli/).
 
-![WordPress Widget](/images/image-1-2-1-1024x484.png)
+![WordPress Widget](/images/image-1-2-1.png)
 
 WordPress also allows developers to **create their own custom widgets.**
 
@@ -167,13 +167,13 @@ add_action('widgets_init', 'swp_load_widget');
 
 After adding the code, you need to go to the **Appearance » Widgets** page. You will notice the new SpecialistWP widget in the list of available widgets. You need to drag this widget to a sidebar.
 
-![Widget Action](/images/image-2-1-1-1024x678.png)
+![Widget Action](/images/image-2-1-1.png)
 
 This widget has only one form field to fill in; you can **add your text and click the Save button** to save the changes.
 
 Now you can **visit your website to see it in action.**
 
-![Widget in Action](/images/image-3-1-2-1024x626.png)
+![Widget in Action](/images/image-3-1-2.png)
 
 Now, **let's review the code again.**
 

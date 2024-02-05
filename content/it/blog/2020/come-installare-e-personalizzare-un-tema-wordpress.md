@@ -27,7 +27,7 @@ Come avrai potuto capire [nell’articolo precedente](/blog/come-funziona-wordp
 
 A questo punto ci troviamo nella schermata che ci mostra **i temi attualmente installati** sul nostro sito.
 
-![](/images/image-28-1024x463-1.png)
+![](/images/image-28.png)
 
 Ma noi vogliamo installarne uno **nuovo**, quindi clicchiamo sul pulsante “**Aggiungi nuovo tema**” in lato a sinistra.
 
@@ -35,7 +35,7 @@ Ma noi vogliamo installarne uno **nuovo**, quindi clicchiamo sul pulsante “**
 
 A questo punto possiamo cercare fra i **migliaia di temi gratis** proposti direttamente da WordPress.
 
-![](/images/image-30-1024x508-1.png)
+![](/images/image-30.png)
 
 Esistono anche altre piattaforme che permettono di scaricare temi e plugin, le più popolari sono [ThemeForest](http://themeforest.net/free/wordpress-themes) e [TemplateMonster](http://www.templatemonster.com/it/type/temi-wordpress/).
 
@@ -53,13 +53,13 @@ Per ora **installeremo un tema semplice e carino**, in modo da iniziare a costr
 
 Andiamo nella barra di ricerca e scriviamo “**_Nisarg_**“
 
-![](/images/image-31-1024x441-1.png)
+![](/images/image-31.png)
 
 Dopo aver trovato il tema clicchiamo su “**Installa**” e successivamente su “**Attiva**“.
 
 Ora se torniamo nel **frontend** (cliccando sulla casetta in alto a sinistra) possiamo vedere che **il nostro sito è cambiato!**
 
-![](/images/image-32-1024x461-1.png)
+![](/images/image-32.png)
 
 Così come lo vediamo ora non è niente di che, ma lo faremo diventare un bel sito, **promesso**!
 
@@ -73,7 +73,7 @@ In WordPress è possibile personalizzare i temi attraverso la sezione “**Aspet
 
 Cliccando quindi su “**Aspetto-Personalizza**” ci troveremo di fronte una schermata come questa:
 
-![](/images/image-33-1024x481-1.png)
+![](/images/image-33.png)
 
 Attraverso questa sezione possiamo **personalizzare il nostro sito** e vedere in anteprima le modifiche che andremo a fare.
 
@@ -93,7 +93,7 @@ Cancelliamo il motto e successivamente andiamo ad inserire un’icona al nostro 
 
 WordPress aprirà il **gestore dei file media** grazie al quale potremo caricare immagini sul sito.
 
-![](/images/image-35-1024x457-1.png)
+![](/images/image-35.png)
 
 Clicchiamo sulla scheda “**Carica file**“, selezioniamo un’immagine dal nostro computer e infine clicchiamo sul pulsante blu “**Seleziona**” per inserire l’immagine scelta come icona per il nostro sito.
 

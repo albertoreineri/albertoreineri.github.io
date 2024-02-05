@@ -242,7 +242,7 @@ e lo **selezioniamo**.
 
 Ora ci troveremo di fronte ad una schermata come questa:
 
-![](/images/image-6-1536x725-1-1024x483.png)
+![](/images/image-6.png)
 
 Sulla destra possiamo cliccare su “**\+ Select this style**” in corrispondenza del carattere che vogliamo. Possiamo selezionarli tutti per avere tutte le variabili possibili del font, ma per ottimizzare i tempo di caricamento della pagina è meglio selezionare solo l’essenziale.
 

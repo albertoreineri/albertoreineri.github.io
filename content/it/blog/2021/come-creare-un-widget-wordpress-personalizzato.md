@@ -20,7 +20,7 @@ Pensali come moduli che puoi usare per aggiungere diversi elementi usando una se
 
 Per impostazione predefinita, **WordPress viene fornito con un set standard di widget** che è possibile utilizzare con qualsiasi tema WordPress. Consulta la nostra guida per principianti su [come utilizzare i widget in WordPress](http://specialistawp.local/widget-in-wordpress-come-utilizzarli/) .
 
-![](/images/image-1-2-1-1024x484.png)
+![](/images/image-1-2-1.png)
 
 WordPress consente inoltre agli sviluppatori di **creare i propri widget personalizzati.**
 
@@ -177,13 +177,13 @@ add_action('widgets_init', 'swp_load_widget');
 
 Dopo aver aggiunto il codice, devi andare alla pagina **Aspetto »Widget** . Noterai il nuovo widget SpecialistaWP nell’elenco dei widget disponibili. Devi trascinare questo widget su una barra laterale.
 
-![](/images/image-2-1-1-1024x678.png)
+![](/images/image-2-1-1.png)
 
 Questo widget ha solo un campo modulo da compilare, puoi **aggiungere il tuo testo e fare clic sul pulsante Salva** per memorizzare le modifiche.
 
 Ora puoi **visitare il tuo sito Web per vederlo in azione.**
 
-![](/images/image-3-1-2-1024x626.png)
+![](/images/image-3-1-2.png)
 
 Ora **studiamo di nuovo il codice.**
 

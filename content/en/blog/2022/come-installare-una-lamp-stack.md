@@ -54,7 +54,7 @@ http://your_server_ip
 
 You should now see Apache's default web page in your browser, which is available for informational and testing purposes. It should look something like this:
 
-![Apache Default Page](/images/small_apache_default_1804-728x1024.png)
+![Apache Default Page](/images/small_apache_default_1804.png)
 
 If you see this page, your web server is now correctly installed and accessible through your firewall.
 
@@ -418,7 +418,7 @@ http://my_domain/info.php
 
 The page you should see should resemble this:
 
-![PHP Info Page](/images/small_php_info_1804-796x1024.png)
+![PHP Info Page](/images/small_php_info_1804.png)
 
 This page provides some basic information about your server from a PHP perspective. It's useful for debugging and ensuring that settings are applied correctly.
 

@@ -44,7 +44,7 @@ A questo punto ci troviamo la schermata di **login** di WordPress.
 
 Ecco il **backend di WordPress**. Da qui potrai **gestire** tutti i contenuti presenti sul tuo sito web.
 
-![](/images/image-14-1024x481-1.png)
+![](/images/image-14.png)
 
 ## INDICAZIONI GENERALI SUL BACKEND
 

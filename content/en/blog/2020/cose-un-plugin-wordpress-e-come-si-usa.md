@@ -33,7 +33,7 @@ First, **access the backend** of your WordPress site (if you're unsure how to do
 
 You'll be presented with a screen like this:
 
-![Add New Plugin](/images/image-1024x528.png)
+![Add New Plugin](/images/image.png)
 
 Here, go to the top right corner, in the box labeled "**Search for plugins…**," and type **WPForms**. The search will start automatically, and after a few moments, you should see this plugin in the list:
 
@@ -53,11 +53,11 @@ This plugin makes form creation a truly **simple** task! So, you can now **follo
 
 Next, click on the orange button "**Create Your First Form**."
 
-![Create Your First Form](/images/image-4-1024x458.png)
+![Create Your First Form](/images/image-4.png)
 
 Now, you can click on "**Simple Contact Form**." The plugin will proceed to create a basic form. When it's done, you should see a screen like this:
 
-![Form Preview](/images/image-5-1-1024x495.png)
+![Form Preview](/images/image-5-1.png)
 
 On the right is the form preview, and on the left, you can add and modify the fields that make up the form.
 
@@ -75,13 +75,13 @@ Now, all you need to do is **copy this shortcode** and paste it on the page wher
 
 After copying the shortcode, close WPForms (with the X in the upper right) and click on "**Pages**" in the side menu.
 
-![Pages](/images/Annotazione-2020-03-31-170213-1024x294.png)
+![Pages](/images/Annotazione-2020-03-31-170213-.png)
 
 Here, click on "**Contact**" to edit the page we [created earlier](http://specialistawp.local/creiamo-le-pagine-del-nostro-primo-sito-web/).
 
 Now, all that's left is to **paste the shortcode** into the content of the page and click on "**Update**" in the upper right.
 
-![Paste Shortcode](/images/image-7-1-1024x458.png)
+![Paste Shortcode](/images/image-7-1.png)
 
 If you **preview** your contact page now, you'll see that the form created with WPForms is now embedded!
 

@@ -96,13 +96,13 @@ Andremo quindi ora a **crearlo** utilizzando **phpmyadmin**.
 
 Ti ritroverai in una schermata come questa:
 
-![](/images/phpmyadmin-1024x486.jpeg)
+![](/images/phpmyadmin-.jpeg)
 
 Questo è il programma attraverso il quale **gestiremo i nostri database.** Graficamente non è carinissimo ma è molto **potente** e funzionale.
 
 Per il momento devi solamente **cliccare su “Nuovo”** nella barra laterale sinistra.
 
-![](/images/image-5-1024x98.png)
+![](/images/image-5.png)
 
 Sulla destra vedrai una schermata come questa qua sopra, ti basterà **scrivere il nome del database**, in questo caso “wp-test” e cliccare “**Crea**“
 
@@ -120,13 +120,13 @@ Nel corso degli anni la procedura di installazione del CMS si è perfezionata se
 
 ### PASSAGGIO 1:
 
-![](/images/image-7-1024x496.png)
+![](/images/image-7.png)
 
 Clicchiamo sul pulsante “**Iniziamo!**“
 
 ### PASSAGGIO 2:
 
-![](/images/image-8-1024x497-1.png)
+![](/images/image-8.png)
 
 A questo punto ci vengono chiesti dei **parametri di configurazione**. Non preoccuparti, ora ti spiegherò cosa significano:
 
@@ -146,7 +146,7 @@ A questo punto ci vengono chiesti dei **parametri di configurazione**. Non preo
 
 ### PASSAGGIO 3:
 
-![](/images/image-9-1024x499-1.png)
+![](/images/image-9.png)
 
 Molto bene! Il difficile è fatto! **Da ora è tutto in discesa.**
 
@@ -168,7 +168,7 @@ Compilati i campi puoi cliccare su “**Installa WordPress**“
 
 ### PASSAGGIO 5:
 
-![](/images/image-12-1024x591-1.png)
+![](/images/image-12.png)
 
 **E VOILÀ!!!**
 
@@ -182,7 +182,7 @@ Inserire i tuoi dati di accesso ed **entrare nella tua installazione di WordPre
 
 Questo è il **backend** di WordPress:
 
-![](/images/image-14-1024x481-1-1.png)
+![](/images/image-14-1.png)
 
 Da qui potrai **configurare** e **compilare** il tuo sito web.
 
@@ -192,7 +192,7 @@ Cliccando sull’icona della casetta in alto a destra invece potrai vedere il fr
 
 Durante l’installazione WordPress inserisce il suo tema standard. Quindi per il momento vedrai un **front-end** come questo:
 
-![](/images/image-16-1024x460-1.png)
+![](/images/image-16.png)
 
 **CONGRATULAZIONI!!!**
 

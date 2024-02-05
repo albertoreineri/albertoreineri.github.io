@@ -29,7 +29,7 @@ Now, we are faced with **Gutenberg**: the **WordPress page builder**.
 
 Through this interface, we can **create our web page** without writing a single line of code.
 
-![Gutenberg](/images/image-54-1024x507-1.png)
+![Gutenberg](/images/image-54.png)
 
 In the "Add Title" field, type "_About Me_," and below the title, you can write the **content of our page**.
 
@@ -83,7 +83,7 @@ To do this, go to "Posts – Categories."
 
 Here we can **create categories for our site** to categorize articles and make management and navigation orderly.
 
-![Create Category](/images/image-64-1024x515-1.png)
+![Create Category](/images/image-64.png)
 
 As you can see, there is already a "Uncategorized" category by default, which we will soon delete.
 
@@ -141,7 +141,7 @@ Go to "Appearance – Menu."
 
 Through this section, we can **create menus for our WordPress site!**
 
-![Create Menu](/images/image-60-1024x514-1.png)
+![Create Menu](/images/image-60.png)
 
 By default, WordPress suggests creating a menu with the latest pages we created.
 

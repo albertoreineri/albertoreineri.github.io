@@ -29,7 +29,7 @@ Ora ci troveremo di fronte a **Gutenberg**: il **page builder** di WordPress.
 
 Attraverso questa interfaccia possiamo **creare la nostra pagina web** senza scrivere una sola riga di codice.
 
-![](/images/image-54-1024x507-1.png)
+![](/images/image-54.png)
 
 Nel campo “**Aggiungi titolo**” scriviamo “_Chi sono_“, sotto al titolo invece possiamo scrivere il **contenuto della nostra pagina**
 
@@ -83,7 +83,7 @@ Per farlo andremo in “**Articoli – Categorie**“
 
 Qua possiamo **creare le categorie del nostro sito**, per suddividere gli articoli e rendere la gestione e la navigazione ordinata.
 
-![](/images/image-64-1024x515-1.png)
+![](/images/image-64.png)
 
 Come vedi di default è già presente una categoria “**Senza categoria**“, che fra poco andremo ad eliminare.
 
@@ -141,7 +141,7 @@ Andiamo quindi su “**Aspetto – Menu**“.
 
 Tramite questa sezione possiamo **creare i menù del nostro sito WordPress!**
 
-![](/images/image-60-1024x514-1.png)
+![](/images/image-60.png)
 
 Di default WordPress ci propone di creare un menù con inserite le ultime pagine che abbiamo creato.
 

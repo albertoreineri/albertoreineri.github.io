@@ -147,7 +147,7 @@ Il codice si spiega da solo!
 
 Ecco che abbiamo un layout con 2 colonne su **desktop**:
 
-![](/images/image-15-1024x76.png)
+![](/images/image-15.png)
 
 E di 1 colonna da **tablet** in giù:
 
@@ -321,7 +321,7 @@ Prova a visualizzare in modalità smartphone, vedrai che il menù scompare e app
 
 **Desktop:**
 
-![](/images/image-21-1536x495-1-1024x330.png)
+![](/images/image-21.png)
 
 **Mobile:**
 
@@ -410,7 +410,7 @@ Ecco un **esempio**:
 </form>
 ```
 
-![](/images/image-26-1024x254.png)
+![](/images/image-26.png)
 
 Questi sono solo **alcuni** dei **componenti** disponibili! Naviga un po’ fra la lista dei componenti e **prova ad inserirli per vedere come funzionano!**
 
@@ -625,7 +625,7 @@ Infine inseriamo il footer:
 
 Ed ecco un **layout classico semplice realizzato interamente con Bootstrap!**
 
-![](/images/image-29-1024x834.png)
+![](/images/image-29.png)
 
 Come vedi **Bootstrap è uno strumento fantastico** per creare layout web in pochissimo tempo!
 

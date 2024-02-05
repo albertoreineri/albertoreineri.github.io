@@ -183,7 +183,7 @@ Let's call this page "**My First Web Page**"
 
 Now save the file and open it by simply opening the "HTML" folder and double-clicking on it.
 
-![](/images/image-1536x529-1-1024x353.png)
+![](/images/image.png)
 
 You'll be presented with a **completely blank page** because we haven't inserted any code into the content yet.
 
@@ -244,7 +244,7 @@ Now, **reference the image in our _index.html_** file like this:
 
 Now **save the file and update** the browser.
 
-![](/images/image-2-768x370-1.png)
+![](/images/image-2.png)
 
 You'll see the image displayed on our HTML page.
 
@@ -293,7 +293,7 @@ Add this code to **_index.html_**
 
 and here's the **result**
 
-![](/images/image-4-1536x666-1-1024x444.png)
+![](/images/image-4.png)
 
 To add colors, I used the "style" attribute, which allows you to insert CSS code inside HTML, but we'll cover this more in the [CSS guide](/en/blog/the-basics-of-css/).
 

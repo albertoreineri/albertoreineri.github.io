@@ -25,7 +25,7 @@ As you may have understood [in the previous article](/en/blog/how-wordpress-work
 
 At this point, we find ourselves in the screen that shows **currently installed themes** on our site.
 
-![Installed Themes](/images/image-28-1024x463-1.png)
+![Installed Themes](/images/image-28.png)
 
 But we want to install a **new** theme, so click on the "Add new theme" button on the left side.
 
@@ -33,7 +33,7 @@ But we want to install a **new** theme, so click on the "Add new theme" button o
 
 Now we can search among the **thousands of free themes** offered directly by WordPress.
 
-![Search Themes](/images/image-30-1024x508-1.png)
+![Search Themes](/images/image-30.png)
 
 There are also other platforms that allow you to download themes and plugins; the most popular ones are [ThemeForest](http://themeforest.net/free/wordpress-themes) and [TemplateMonster](http://www.templatemonster.com/it/type/temi-wordpress/). But for now, we will use a theme from those proposed by WordPress.
 
@@ -45,13 +45,13 @@ For now, let's install a simple and nice theme to start building our website!
 
 Go to the search bar and type "**_Nisarg_**."
 
-![Nisarg Theme](/images/image-31-1024x441-1.png)
+![Nisarg Theme](/images/image-31.png)
 
 After finding the theme, click on "Install" and then on "Activate."
 
 Now, if we go to the **frontend** (by clicking on the house icon in the top left), we can see that **our site has changed!**
 
-![Changed Site](/images/image-32-1024x461-1.png)
+![Changed Site](/images/image-32.png)
 
 As we see it now, it's not much, but we will turn it into a beautiful site, **promised!**
 
@@ -65,7 +65,7 @@ In WordPress, you can customize themes through the "Appearance-Customize" sectio
 
 By clicking on "Appearance-Customize," we will face a screen like this:
 
-![Customize](/images/image-33-1024x481-1.png)
+![Customize](/images/image-33.png)
 
 Through this section, we can **customize our site** and see a preview of the changes we are going to make.
 
@@ -83,7 +83,7 @@ To personalize our site, we can enter "Test WP" as the title. Delete the motto, 
 
 WordPress will open the **media file manager** that will allow us to upload images to the site.
 
-![Site Icon](/images/image-35-1024x457-1.png)
+![Site Icon](/images/image-35.png)
 
 Click on the "Upload file" tab, select an image from your computer, and finally, click the blue button "Select" to add the chosen image as an icon for our site.
 

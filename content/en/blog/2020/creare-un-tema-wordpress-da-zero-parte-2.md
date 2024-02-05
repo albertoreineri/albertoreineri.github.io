@@ -42,13 +42,13 @@ If you go to the **backend** now, you will see that the "Appearance - Menu" sect
 
 Now, let's proceed to **create a new menu**:
 
-![Create Menu](/images/image-31-1024x324-1.png)
+![Create Menu](/images/image-31.png)
 
 For now, let's just add the home page and the default WordPress sample page to have some content in it, and click "**Create Menu**".
 
 Then, we can set the menu in the **"Navbar Menu"** position:
 
-![Set Menu](/images/image-32-1024x142-1.png)
+![Set Menu](/images/image-32.png)
 
 Now, all that's left is to **insert this menu into our navigation bar**, in the theme's header.
 
@@ -201,7 +201,7 @@ Create 4 widgets to be placed in the footer of the site. Remember, you need to r
 
 Here's the result in the frontend:
 
-![Widgets in Footer](/images/image-36-1024x138-1.png)
+![Widgets in Footer](/images/image-36.png)
 
 Take some time and try doing it. Below, I'll leave you **the code:**
 

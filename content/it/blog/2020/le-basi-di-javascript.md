@@ -96,7 +96,7 @@ console.log("CIAO!");
 
 Se inserisci questa in “_**scripts.js**_“, salvi e aggiorni, non vedrai accadere niente. Questo perché il **“CIAO!”** che abbiamo scritto **è inserito nella console di Javascript**, non nel body della pagina. Per vedere la console Javascript premi il tasto “**f12**“, oppure fai click con il tasto destro e clicca su “**ispeziona**” (Su google chrome, ma è molto simile su tutti i browser)
 
-![](/images/image-11-1536x353-1-1024x235.png)
+![](/images/image-11.png)
 
 ### Commenti
 

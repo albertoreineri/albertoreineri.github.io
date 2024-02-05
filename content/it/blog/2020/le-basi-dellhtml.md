@@ -185,7 +185,7 @@ Chiamiamo questa pagina “**La mia prima pagina web**“
 
 Ora salviamo il file e apriamolo, semplicemente aprendo la cartella “**HTML**” e facendoci **doppio click** sopra.
 
-![](/images/image-1536x529-1-1024x353.png)
+![](/images/image.png)
 
 Ci troveremo di fonte una **pagina completamente bianca**, perché non abbiamo ancora inserito nessun codice nel contenuto.
 
@@ -246,7 +246,7 @@ Adesso **richiamiamo l’immagine nel nostro file _index.html_,** in questo mo
 
 Ora **salviamo** il file e **aggiorniamo** il browser.
 
-![](/images/image-2-768x370-1.png)
+![](/images/image-2.png)
 
 Vediamo che l’immagine viene visualizzata nella nostra pagina html.
 
@@ -295,7 +295,7 @@ Aggiungi questo codice a _**index.html**_
 
 ed ecco il **risultato**
 
-![](/images/image-4-1536x666-1-1024x444.png)
+![](/images/image-4.png)
 
 Per inserire i colori ho utilizzato l’attributo “style”, che permette di inserire del codice CSS all’interno dell’HTML, ma lo vedremo meglio nella [guida](/blog/le-basi-del-css/) [al CSS.](/corso-intensivo-di-css/)
 

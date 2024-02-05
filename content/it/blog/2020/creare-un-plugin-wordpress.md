@@ -45,7 +45,7 @@ Questo codice **indicherà a WordPress l’esistenza del plugin.**
 
 Se salviamo e andiamo nel backend in “**Plugins**” vedremo apparire “**Back on top**” nell’elenco. Possiamo quindi **attivarlo**.
 
-![](/images/image-41-1024x48-1.png)
+![](/images/image-41.png)
 
 Il plugin al momento **non fa assolutamente nulla**, ma l’abbiamo creato.
 

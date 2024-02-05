@@ -48,7 +48,7 @@ First, you need to install and activate the [Easy Updates Manager](https://wordp
 
 Upon activation, you need to visit **Dashboard » Update Options** to configure the plugin.
 
-![Update Options](/images/image-27-1-1024x200.png)
+![Update Options](/images/image-27-1.png)
 
 In the "**WordPress core updates**" section, click on the "**Auto update all releases**" option.
 
