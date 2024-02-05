@@ -115,9 +115,7 @@ shareSocial = true
 [[params.socialLinks]]
 name = "github"
 url = "https://github.com/albertoreineri"
-[[params.socialLinks]]
-name = "youtube"
-url = "https://github.com/albertoreineri"
+
 
 [menu]
 [[menu.main]]
