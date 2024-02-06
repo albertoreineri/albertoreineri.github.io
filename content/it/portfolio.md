@@ -70,5 +70,5 @@ draft: false
 </div>
 <hr>
 <h2>Vorresti lavorare con me?</h2>
-<p>Compila il form presente nella pagina <a title="Contatti" href="/contatti">Contatti</a> ti risponderò in breve tempo.</p>
+<p>Compila il form presente nella pagina <a title="Contatti" href="/contatti">Contatti</a>, ti risponderò in breve tempo.</p>
 <p><a title="Contatti" href="/contatti">Contattami »</a></p>
