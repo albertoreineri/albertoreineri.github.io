@@ -25,7 +25,7 @@ draft: false
         <li><a title="Let's Fart" target="_blank" href="/letsfart">💨 Let&#39;s Fart 😅</a>: Web App scherzosa...</li>
     </ul>
     <h2 id="portfolio-clienti">Portfolio Clienti</h2>
-    <p>Clicca sul progetto per visionarlo:</p>
+    <p>Alcuni progetti realizzati per i miei clienti. <br>Clicca sul progetto per visionarlo:</p>
     <ul>
         <li>
             <a title="Bikeitalia" target="_blank" href="https://bikeitalia.it">🚲 Bikeitalia.it</a>: Testata giornalistica nel modo Bici
