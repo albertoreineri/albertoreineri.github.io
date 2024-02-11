@@ -80,3 +80,7 @@ Cosa uso
 -   Notes: [SimpleNote](https://simplenote.com/)
 -   Music: [Spotify](https://www.spotify.com/)
 -   Distro Linux: [Linux Mint](https://linuxmint.com/) (*Not so fancy but very stable*)
+-   
+## Freetime
+
+Nel tempo libero amo deidcarmi ad attività completamente offline, le ho racconte in questa pagina: [Freetime](/freetime)

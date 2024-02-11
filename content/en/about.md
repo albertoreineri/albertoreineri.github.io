@@ -78,3 +78,8 @@ Software
 -   Notes: SimpleNote: <https://simplenote.com/>
 -   Music: Spotify: <https://www.spotify.com/>
 -   Linux Distribution: Linux Mint: <https://linuxmint.com/> (*Not so fancy but very stable*)
+-   
+
+## Freetime
+
+In my free time, I love dedicating myself to completely offline activities, which I have described on this page: [Freetime](/en/freetime)
