@@ -12,7 +12,7 @@
 	&nbsp;
 	&#183; <a href="{{ " index.xml" | absLangURL }}" target="_blank" title="rss">{{ partial "svg.html" (dict "context" .
 		"name" "rss") }}</a>
-
+	&nbsp;
 	{{ range $.Translations }}
 	&#183;
 	<a class="home-page-flag" title="{{ .Language.LanguageName }}" href="{{ .Permalink }}">
