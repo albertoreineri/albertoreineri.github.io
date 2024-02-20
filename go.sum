@@ -6,6 +6,8 @@ github.com/gethugothemes/hugo-modules/search v0.0.0-20240120062719-ef21cc42d8bc 
 github.com/gethugothemes/hugo-modules/search v0.0.0-20240120062719-ef21cc42d8bc/go.mod h1:tmDvLaZCM+QDvS/WLZXNjY1QTdWh7/68D2wIToECbyA=
 github.com/hugomods/icons v0.6.0 h1:G6RU93okhPPRDh/jqcew9gwkcYpSpg0rCBv4S6yUAFw=
 github.com/hugomods/icons v0.6.0/go.mod h1:cIkSvK6W0q6N4U6n9KGz+QfRWQXAW0INd+1P31gPNGg=
+github.com/hugomods/icons v0.6.2 h1:uESGgdnZ0NW/IPNfbGuq1dYG/p5XiqZ9R9CNq0Snr4c=
+github.com/hugomods/icons v0.6.2/go.mod h1:cIkSvK6W0q6N4U6n9KGz+QfRWQXAW0INd+1P31gPNGg=
 github.com/hugomods/search v0.8.3 h1:IIeU8Xw5t+SRYwpX08NjROt+YtDtWjjW0Xa00nEaYVs=
 github.com/hugomods/search v0.8.3/go.mod h1:FURp5HBUm8JiuJajLk9sZ1Z1QUSJATboYEp1sFi46a4=
 github.com/hugomods/search v0.8.4 h1:LWnTZ3Zs6Tv9Qv61XvrJzKEJ2UvYa+gKwv/yvhtMb5U=
@@ -14,6 +16,8 @@ github.com/hugomods/search v0.8.5 h1:tP3ixxpUgpdj7dmBmnMdoDQtn+dwQNOTgA0Uw1mlxA8
 github.com/hugomods/search v0.8.5/go.mod h1:FURp5HBUm8JiuJajLk9sZ1Z1QUSJATboYEp1sFi46a4=
 github.com/hugomods/search v0.8.7 h1:mfBVHY0JHkwjaHSUPD64v1KuW1+J0gthfOk2zfoLMP0=
 github.com/hugomods/search v0.8.7/go.mod h1:FURp5HBUm8JiuJajLk9sZ1Z1QUSJATboYEp1sFi46a4=
+github.com/hugomods/search v0.11.1 h1:cR8an3Gcd9XXRfgeI1RFrRrauTVxAMdSTadLPo1IhIo=
+github.com/hugomods/search v0.11.1/go.mod h1:xPnDGjP/HCdEWJrJBwwdI2mEtdxFxp+wHBwSl/r2m00=
 github.com/krisk/Fuse v7.0.0+incompatible h1:jVyg6No+Joc51Rn97QQYJZIpCxzd4ywACn/4+FKWjvo=
 github.com/krisk/Fuse v7.0.0+incompatible/go.mod h1:3moWv8rDjwoKic9nwiPLgZjldkbdTAbtzJHCu/Vsj4A=
 github.com/twbs/icons v1.11.3 h1:XhvrQ1XDom9ggBbQx3wQCFGEr8qAQwQP/dAcw8OXMtA=

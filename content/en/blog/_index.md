@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-# translationKey: "blog"
+translationKey: "blog"
 meta_title: ""
 description: "Alberto Reineri's Blog on Web development life"
 ---
