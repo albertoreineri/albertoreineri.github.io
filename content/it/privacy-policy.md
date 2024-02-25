@@ -11,7 +11,7 @@ draft: false
 #### Ultimo aggiornamento il 12-mar-2023
 #### Data di entrata in vigore 12-mar-2023
 
-La presente Informativa sulla privacy descrive le politiche di Alberto Reineri, Via Stefano Revelli, 25, CN 12025, Italia, e-mail: info@albertoreineri.it, telefono: 3401220733 sulla raccolta, l'uso e la divulgazione delle informazioni che raccogliamo quando si utilizza il nostro sito web (albertoreineri.it). (il servizio"). Accedendo o utilizzando il Servizio, acconsenti alla raccolta, all'utilizzo e alla divulgazione delle tue informazioni in conformità con la presente Informativa sulla privacy. Se non si acconsente allo stesso, si prega di non accedere o utilizzare il Servizio.
+La presente Informativa sulla privacy descrive le politiche di Alberto Reineri, Via Stefano Revelli, 25, CN 12025, Italia, e-mail: info@albertoreineri.it sulla raccolta, l'uso e la divulgazione delle informazioni che raccogliamo quando si utilizza il nostro sito web (albertoreineri.it). (il servizio"). Accedendo o utilizzando il Servizio, acconsenti alla raccolta, all'utilizzo e alla divulgazione delle tue informazioni in conformità con la presente Informativa sulla privacy. Se non si acconsente allo stesso, si prega di non accedere o utilizzare il Servizio.
 
 Possiamo modificare la presente Informativa sulla privacy in qualsiasi momento senza alcun preavviso e pubblicheremo l'Informativa sulla privacy rivista sul Servizio. L'Informativa rivista entrerà in vigore 180 giorni dopo la pubblicazione dell'Informativa rivista nel Servizio e l'accesso o l'utilizzo continuato del Servizio dopo tale periodo costituirà l'accettazione dell'Informativa sulla privacy rivista. Si consiglia pertanto di rivedere periodicamente questa pagina.
 
