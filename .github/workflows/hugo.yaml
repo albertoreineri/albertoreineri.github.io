@@ -65,7 +65,7 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Index pagefind
-        run: npx pagefind --source "public"
+        run: npm_config_yes=true npx pagefind --source "public" --bundle-dir ../static/_pagefind
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
