@@ -178,8 +178,8 @@ link = "plugins/glightbox/glightbox.js"
 [[params.plugins.js]]
 link = "js/gallery-slider.js"
 
-# [outputs]
-#   home = ['HTML', 'RSS', '']
+[outputs]
+  home = ['HTML', 'RSS', '']
 
 [permalinks]
   blog = '/blog/:title/'
