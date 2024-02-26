@@ -12,7 +12,7 @@ draft: false
 #### Last updated on Mar 12, 2023
 #### Effective date Mar 12, 2023
 
-This Privacy Policy describes the policies of Alberto Reineri, Via Stefano Revelli, 25, CN 12025, Italy, email: info@albertoreineri.it, regarding the collection, use, and disclosure of information when using our website (albertoreineri.it) ("the Service"). By accessing or using the Service, you consent to the collection, use, and disclosure of your information in accordance with this Privacy Policy. If you do not consent, please do not access or use the Service.
+This Privacy Policy describes the policies of Alberto Reineri, Email: info@albertoreineri.it, regarding the collection, use, and disclosure of information when using our website (albertoreineri.it) ("the Service"). By accessing or using the Service, you consent to the collection, use, and disclosure of your information in accordance with this Privacy Policy. If you do not consent, please do not access or use the Service.
 
 We may modify this Privacy Policy at any time without notice, and we will publish the revised Privacy Policy on the Service. The revised policy will take effect 180 days after publishing on the Service, and your continued access or use of the Service after that period will constitute acceptance of the revised Privacy Policy. Therefore, it is recommended to periodically review this page.
 
