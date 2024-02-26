@@ -1244,3 +1244,17 @@ input::placeholder {
   border-radius: 4px;
   display:inline-block
 }
+
+.pagefind-ui__results-area{
+  color:white !important;
+  .pagefind-ui__result-link{
+    color:rgb(202, 202, 202) !important;
+  }
+}
+.pagefind-ui__results.svelte-e9gkc3{
+  margin: 0 !important;
+}
+.search-button{
+  margin-right: -17px;
+  margin-left: 5px;
+}

@@ -1,6 +1,7 @@
 ---
 title: "Contatti"
 meta_title: "Contatti"
+translationKey: "contatti"
 description: "Contatta Alberto Reineri via Email"
 ---
 

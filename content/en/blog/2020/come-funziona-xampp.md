@@ -20,8 +20,6 @@ Today, we'll see **how to start and run it correctly!**
 
 You'll find a screen like this:
 
-![](/images/image-2-1.png)
-
 On the left, you can see that **XAMPP provides a series of services.**
 
 We are mainly interested in the first 2:

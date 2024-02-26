@@ -19,8 +19,6 @@ Oggi vedremo **come avviarlo e farlo funzionare correttamente**!
 
 Ti troverai una schermata come questa:
 
-![](/images/image-2-1.png)
-
 Sulla sinistra puoi vedere che **XAMPP fornisce una serie di servizi.**
 
 A noi interessano principalmente i primi 2:

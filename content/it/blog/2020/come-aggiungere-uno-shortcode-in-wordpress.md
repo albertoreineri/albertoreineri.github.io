@@ -36,7 +36,6 @@ Vediamo **come aggiungere facilmente** shortcode nei post e nelle pagine di Wor
 
 Innanzitutto, è necessario **modificare il post e la pagina in cui si desidera aggiungere lo shortcode**. Successivamente, è necessario fare clic sul pulsante **Aggiungi blocco** per inserire un blocco _shortcode_.
 
-![](/images/shortcode-1024x513.gif)
 
 Dopo aver aggiunto il blocco _shortcode_, puoi semplicemente inserire il tuo shortcode nelle impostazioni del blocco. Lo shortcode sarà fornito da vari plugin di WordPress che potresti utilizzare.
 

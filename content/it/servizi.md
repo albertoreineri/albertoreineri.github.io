@@ -1,6 +1,7 @@
 ---
 title: "Servizi"
 meta_title: "Servizi"
+translationKey: "servizi"
 description: "Servizi di Alberto Reineri"
 ---
 

@@ -63,9 +63,9 @@ about = ""
 
 [taxonomies]
 category = 'categories'
-tag = 'tags'
-argomenti = "argomenti"
-raccolte = "raccolte"
+# tag = 'tags'
+# argomenti = "argomenti"
+# raccolte = "raccolte"
 # Categories are disabled by default.
 # category = "categories"
 
@@ -179,7 +179,7 @@ link = "plugins/glightbox/glightbox.js"
 link = "js/gallery-slider.js"
 
 [outputs]
-  home = ['HTML', 'RSS', 'SearchIndex']
+  home = ['HTML', 'RSS', '']
 
 [permalinks]
   blog = '/blog/:title/'
