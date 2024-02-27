@@ -4551,19 +4551,3 @@ function readArticle() {
   }
 }
 
-window.addEventListener('DOMContentLoaded', (event) => {
-  new PagefindUI({
-    element: "#search",
-    showImages: false
-    });
-});
-document.addEventListener('DOMContentLoaded', () => {
-    var element = document.getElementById('search');
-    var trigger = document.getElementById('search_toggle');
-
-    trigger.addEventListener('click', () => {
-        element.classList.toggle('hidden');
-        element.querySelector("input").value=""
-        element.querySelector("input").focus()
-    });
-});
