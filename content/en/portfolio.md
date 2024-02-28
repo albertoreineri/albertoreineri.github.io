@@ -32,10 +32,10 @@ draft: false
             <a title="Bikeitalia Corsi" target="_blank" href="https://corsi.bikeitalia.it">🚴 Bikeitalia Corsi</a>: di E-Learning Platform
         </li>
         <li>
-            <a title="We4Show" target="_blank" href="https://we4show.com">🎤 We4Show</a>: Entertainment Agency Website
+            <a title="We4Show" target="_blank" href="https://we4show.com">🎤 We4Show</a>: Entertainment Agency Website of Dire Straits Legacy
         </li>
         <li>
-            <a title="Erix Logan " target="_blank" href="https://erixlogan.com">🪄 Erix Logan</a>: Illusionist Website
+            <a title="Erix Logan " target="_blank" href="https://erixlogan.com">🪄 Erix Logan</a>: International Illusionist Website
         </li>
         <li>
             <a title="Studio MAC Design" target="_blank" href="https://studiomacdesign.it">🏛️ Studio MAC Design</a>: Rendering Studio Website

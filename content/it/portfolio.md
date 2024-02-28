@@ -34,10 +34,10 @@ draft: false
             <a title="Bikeitalia Corsi" target="_blank" href="https://corsi.bikeitalia.it">🚴 Bikeitalia Corsi</a>: Piattaforma di E-Learning
         </li>
         <li>
-            <a title="We4Show" target="_blank" href="https://we4show.com">🎤 We4Show</a>: Sito Vetrina per Agenzia di Spettacolo
+            <a title="We4Show" target="_blank" href="https://we4show.com">🎤 We4Show</a>: Agenzia di Spettacolo Dire Straits Legacy
         </li>
         <li>
-            <a title="Erix Logan " target="_blank" href="https://erixlogan.com">🪄 Erix Logan</a>: Sito Vetrina per Illusionista
+            <a title="Erix Logan " target="_blank" href="https://erixlogan.com">🪄 Erix Logan</a>: Sito Vetrina per Illusionista Internazionale
         </li>
         <li>
             <a title="Studio MAC Design" target="_blank" href="https://studiomacdesign.it">🏛️ Studio MAC Design</a>: Sito Vetrina per Studio di Rendering
