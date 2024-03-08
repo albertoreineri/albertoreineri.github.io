@@ -1,0 +1,11 @@
+session_name: 3-pane-split
+windows:
+  - window_name: NeoVim
+    layout: main-horizontal
+    panes:
+      - shell_command:
+        - nvim .
+      - shell_command:
+        - hugo server -D
+      - shell_command:
+        - git status

@@ -104,6 +104,24 @@ Al termine dell'installazione, esegui un semplice script di sicurezza preinstall
 sudo mysql_secure_installation
 ```
 
+---
+**ATTENZIONE**:
+Potrebbe verificarsi un'errore nel lanciare questo comando. Per ovviare al problema è necessario impostare una password per l'utente root di mysql. Puoi sistemarlo in questo modo:
+```
+sudo mysql
+```
+Una volta entrato dentro Mysql lancia questo comando:
+```
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
+```
+E voilà! Ora non ti resta che uscire da Mysql con
+```
+exit
+```
+E sei pronto per continuare
+
+---
+
 Questo ti chiederà se vuoi configurare il `VALIDATE PASSWORD PLUGIN`.
 
 **Nota:** l'abilitazione di questa funzione è una sorta di chiamata di giudizio. Se abilitato, le password che non corrispondono ai criteri specificati verranno rifiutate da MySQL con un errore. Ciò causerà problemi se si utilizza una password debole insieme al software che configura automaticamente le credenziali utente di MySQL, come i pacchetti Ubuntu per phpMyAdmin. È sicuro lasciare la convalida disabilitata, ma dovresti sempre usare password complesse e univoche per le credenziali del database.
